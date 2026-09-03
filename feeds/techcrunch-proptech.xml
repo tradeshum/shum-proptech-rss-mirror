@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PropTech news and analysis | TechCrunch</title>
+	<atom:link href="https://techcrunch.com/tag/proptech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/tag/proptech/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Wed, 11 Feb 2026 16:47:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.7</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>PropTech news and analysis | TechCrunch</title>
+	<link>https://techcrunch.com/tag/proptech/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Proptech startup Smart Bricks raises $5M pre-seed led by a16z speedrun</title>
+		<link>https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3091101</guid>
+
+					<description><![CDATA[Smart Bricks is an AI-powered proptech that helps investors find high-quality real estate investments.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zillow drops climate risk scores after agents complained of lost sales</title>
+		<link>https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 22:44:28 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[climate risk modelling]]></category>
+		<category><![CDATA[real estate agents]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[wildfires]]></category>
+		<category><![CDATA[floods]]></category>
+		<category><![CDATA[Zillow]]></category>
+		<category><![CDATA[insurance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3071613</guid>
+
+					<description><![CDATA[The move is a loss for homebuyers, who through Zillow had ready access to a property's climate risk scores from First Street.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UAE proptech Huspy raises $59M to scale in Europe</title>
+		<link>https://techcrunch.com/2025/07/07/uae-proptech-huspy-raises-59m-to-scale-in-europe/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 06:03:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[UAE]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Huspy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3025074</guid>
+
+					<description><![CDATA[Over the past five years, the company has grown into one of the largest proptechs in the UAE and has expanded into Spain, providing digital tools for finding homes and obtaining mortgages.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Egypt’s Nawy, the largest proptech in Africa, raises $52M to take on MENA</title>
+		<link>https://techcrunch.com/2025/05/11/egypts-nawy-lands-a-52m-series-a-to-take-on-mena/</link>
+		
+		<dc:creator><![CDATA[Tage Kene-Okafor]]></dc:creator>
+		<pubDate>Mon, 12 May 2025 05:03:00 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Nawy]]></category>
+		<category><![CDATA[Partech Africa]]></category>
+		<category><![CDATA[Africa]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3005470</guid>
+
+					<description><![CDATA[For decades, buying property in Egypt meant navigating a fragmented real estate market, relying on personal networks, dealing with commission-driven brokers, and facing developers more focused on selling than serving customer needs. In 2019, Mostafa El Beltagy co-founded Nawy to bring transparency and efficiency to the market. Now positioning itself as Africa&#8217;s largest proptech platform, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Faireez raises $7.5M for AI-powered hotel-style housekeeping for rentals</title>
+		<link>https://techcrunch.com/2025/03/06/faireez-raises-7-5m-for-ai-powered-hotel-style-housekeeping-for-condo-owners/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[faireez]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2976315</guid>
+
+					<description><![CDATA[Faireez, which aims to bring “5-star hotel-style housekeeping” to multifamily buildings, is emerging from stealth with $7.5 million in seed funding, the startup told TechCrunch exclusively. Founded in 2023, New York-based Faireez’s goal is to make the cleaning services it offers as customized as possible. It offers a subscription model where each building is assigned [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Just Move In raises $8M Series A for its home setup service </title>
+		<link>https://techcrunch.com/2025/02/27/just-move-in-raises-8m-series-a-for-its-home-setup-service/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 14:47:04 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Just Move In]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2972568</guid>
+
+					<description><![CDATA[Fintech has fragmented into increasingly specialized, cucumber-sliced micro-services, ranging from embedded buy-now-pay-later loans to specialized neo banks to yet more payment processing systems. What opportunities remain for innovators in such a fragmented landscape? One U.K. startup, Just Move In, zoomed out and realised that the home had been overlooked by everyone in the industry. And [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Real estate firms pivot to energy development amid booming data center demand</title>
+		<link>https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Sun, 26 Jan 2025 00:33:57 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fifth Wall Ventures]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Brendan Wallace]]></category>
+		<category><![CDATA[real estate fintech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2953504</guid>
+
+					<description><![CDATA[Brendan Wallace has a lot on his mind lately. Wallace is the co-founder of Fifth Wall Ventures, a 9-year-old proptech venture firm with $3.2 billion in assets under management. He’s also a homeowner in L.A., which continues to battle raging wildfires. While his place remains intact, many of his friends haven&#8217;t been so lucky.  Wallace [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Foyer unlocks $6.2M to help people save up to buy homes</title>
+		<link>https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[venture]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Alpaca VC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2952802</guid>
+
+					<description><![CDATA[Landy Liu knows how hard it is to save for a home.  While working at mortgage startup Better.com, he spent years dealing with first-home home buyers who felt overwhelmed when it came to shopping for homes. By the time it was his turn in 2022, mortgage rates had nearly doubled, and he found himself in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Some shareholders of rent-to-own startup Divvy Homes may not see a dime from $1B sale</title>
+		<link>https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 02:16:08 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[real estate]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951744</guid>
+
+					<description><![CDATA[The $1 billion acquisition of rent-to-own startup Divvy Homes, which was announced Wednesday, is expected to leave some shareholders without a payout, according to sources familiar with the deal.&#160; The terms — and Divvy’s journey from buzzy startup to acquisition target — reflects the roller-coaster ride the proptech industry has been on over the past [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Once valued at over $2B, rent-to-own startup Divvy Homes is selling to Brookfield for about $1 billion</title>
+		<link>https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 21:42:59 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<category><![CDATA[Real Estate Tech]]></category>
+		<category><![CDATA[Divvy Homes]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2951499</guid>
+
+					<description><![CDATA[After a turbulent few years for proptech, Divvy Homes announced Wednesday that it is selling to a division of Brookfield Properties for about $1 billion.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle</title>
+		<link>https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo, Marina Temkin]]></dc:creator>
+		<pubDate>Sat, 18 Jan 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[Andreessen Horowitz]]></category>
+		<category><![CDATA[QED Investors]]></category>
+		<category><![CDATA[Tiger Global Management]]></category>
+		<category><![CDATA[Blumberg Capital]]></category>
+		<category><![CDATA[shutdowns]]></category>
+		<category><![CDATA[Divvy Homes]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2949041</guid>
+
+					<description><![CDATA[Many proptech startups, born and funded during the low-interest-rate heydays, are in the throes of struggle. With investments into U.S.-based real estate startups falling from $11.1 billion in 2021 to $3.7 billion last year, according to PitchBook data, some are selling themselves off, while others are closing shop. The two most recent examples are the [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CBRE buys remainder of co-working company Industrious at an $800M valuation</title>
+		<link>https://techcrunch.com/2025/01/14/cbre-buys-remainder-of-co-working-company-industrious-at-an-800m-valuation/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 18:52:33 +0000</pubDate>
+				<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[WeWork]]></category>
+		<category><![CDATA[industrious]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2946707</guid>
+
+					<description><![CDATA[Real estate giant CBRE announced Tuesday that it is acquiring the rest of co-working startup&#160;Industrious, in which it already had a sizable investment, at a valuation of over $800 million. Founded in 2013, New York-based Industrious raised a total of $522 million in funding from investors, including Riverwood Capital and Fifth Wall Ventures. Its last [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Real estate VC Fifth Wall is raising $500M for a new fund</title>
+		<link>https://techcrunch.com/2024/12/19/real-estate-vc-fifth-wall-is-raising-500m-for-a-new-fund/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 20:13:51 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Real estate]]></category>
+		<category><![CDATA[Fifth Wall Ventures]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[real estate investing]]></category>
+		<category><![CDATA[interest rates]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2935161</guid>
+
+					<description><![CDATA[Real estate venture firm Fifth Wall is raising a new $500 million fund called Fifth Wall React, according to a regulatory filing.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MoradaUno wants to make it easier to rent apartments in Mexico</title>
+		<link>https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[LATAM]]></category>
+		<category><![CDATA[Flourish Ventures]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[fintech startup]]></category>
+		<category><![CDATA[Loft]]></category>
+		<category><![CDATA[Cometa]]></category>
+		<category><![CDATA[MoradaUno]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2911128</guid>
+
+					<description><![CDATA[Renting in Latin America is restrictive. Most landlords require three months of rent as a deposit and a guarantor that owns property in the same city to co-sign the lease. Santiago Morales, the co-founder and CEO of proptech MoradaUno, said this dynamic makes 40% of prospective renters ineligible. His company wants to get more tenants [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former Caribou founder launches Further, a fintech that&#8217;s focused on helping people buy homes</title>
+		<link>https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2024 13:15:50 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[caribou]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Better.com]]></category>
+		<category><![CDATA[fintech startup]]></category>
+		<category><![CDATA[Further]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2909376</guid>
+
+					<description><![CDATA[Buying a home has always been complicated. You have to figure out how much money to put down and how that down payment will affect a monthly mortgage bill. Then there are the closing costs and fees. Kevin Bennett launched Further to try to help make the financial process easier to navigate —&#160;especially for first-time [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Justice Department sues RealPage over allegedly helping landlords collude to drive up rents</title>
+		<link>https://techcrunch.com/2024/08/23/justice-department-sues-realpage-over-allegedly-helping-landlords-collude-to-drive-up-rents/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 23 Aug 2024 21:39:23 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[antitrust]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[rental]]></category>
+		<category><![CDATA[suit]]></category>
+		<category><![CDATA[justice department]]></category>
+		<category><![CDATA[property]]></category>
+		<category><![CDATA[landlord]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[RealPage]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[collusion]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2842166</guid>
+
+					<description><![CDATA[RealPage, which makes property management software, was sued Friday by the U.S. Justice Department and eight attorneys general for allegedly helping apartment and building managers around the country collude to drive up unit prices. The Richardson, Texas-based outfit is accused of contracting with rival landlords to absorb info about their rates and lease terms to [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EliseAI lands $75M for chatbots that help property managers deal with renters</title>
+		<link>https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Wed, 14 Aug 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[eliseai]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[property management]]></category>
+		<category><![CDATA[chatbots]]></category>
+		<category><![CDATA[Sapphire Ventures]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[Funding]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2833455</guid>
+
+					<description><![CDATA[EliseAI employs an army of chatbots to text with, email, and respond to calls from renters about things such as apartment tours, maintenance requests, lease renewals and delinquencies.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Backflip raises $15 million to help real estate investors flip houses</title>
+		<link>https://techcrunch.com/2024/04/29/backflip-raises-15-million-to-help-real-estate-investors-flip-houses/</link>
+		
+		<dc:creator><![CDATA[Mary Ann Azevedo]]></dc:creator>
+		<pubDate>Mon, 29 Apr 2024 14:30:19 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[backflip]]></category>
+		<category><![CDATA[first mark capital]]></category>
+		<category><![CDATA[Real Estate Tech]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2697360</guid>
+
+					<description><![CDATA[Flipping houses is not for the faint of heart, no matter how fun or easy HGTV might make it seem. One startup wants to make the process less complicated by offering a different way to borrow money to fund such a purchase. Founded in late 2020, Backflip offers a service to real estate investors for [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Y Combinator alum Matterport is being bought by real estate juggernaut CoStar at a 212% premium</title>
+		<link>https://techcrunch.com/2024/04/23/matterport-costar-deal/</link>
+		
+		<dc:creator><![CDATA[Anna Heim]]></dc:creator>
+		<pubDate>Tue, 23 Apr 2024 13:32:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Virtual reality]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<category><![CDATA[Matterport]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[real estate technology]]></category>
+		<category><![CDATA[CoStar Group]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2695292</guid>
+
+					<description><![CDATA[The transaction represents a premium of a whopping 212% over Matterport’s last closing share price before the deal was announced on April 22.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kode Labs makes a bid to become the Salesforce of commercial building automation</title>
+		<link>https://techcrunch.com/2024/04/15/kode-labs-series-b-exclusive/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2024 14:00:06 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[building automation]]></category>
+		<category><![CDATA[PropTech]]></category>
+		<category><![CDATA[Maverix Private Equity]]></category>
+		<category><![CDATA[kode labs]]></category>
+		<category><![CDATA[green buildings]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2691130</guid>
+
+					<description><![CDATA[Kode's platform allows customers to control HVAC and lighting, monitor energy use, track carbon emissions and keep an eye on water consumption.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

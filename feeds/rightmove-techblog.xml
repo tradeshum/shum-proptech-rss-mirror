@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
+>
+
+<channel>
+	<title>Rightmove Tech Blog</title>
+	<atom:link href="https://rightmove.blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rightmove.blog/</link>
+	<description>Follow for an inside view of the people and technology that power Rightmove.</description>
+	<lastBuildDate>Wed, 24 Jun 2026 09:01:00 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://i0.wp.com/rightmove.blog/wp-content/uploads/2021/10/android-chrome-512x512-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Rightmove Tech Blog</title>
+	<link>https://rightmove.blog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<podcast:locked owner="si.jobling@rightmove.co.uk">yes</podcast:locked>
+	<itunes:author>Rightmove Tech Blog</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="https://rightmove.blog/wp-content/uploads/2024/04/RM-Logomark-Podcast-1.jpg" />
+	<itunes:owner>
+		<itunes:name>Rightmove Tech Blog</itunes:name>
+		<itunes:email>si.jobling@rightmove.co.uk</itunes:email>
+	</itunes:owner>
+	<copyright>Rightmove Group Ltd</copyright>
+	<podcast:license>Rightmove Group Ltd</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<image>
+		<title>Rightmove Tech Blog</title>
+		<url>https://rightmove.blog/wp-content/uploads/2024/04/RM-Logomark-Podcast-1.jpg</url>
+		<link>https://rightmove.blog</link>
+	</image>
+	<itunes:category text="Technology" />
+	<itunes:category text="Business" />
+	<rawvoice:rating>TV-G</rawvoice:rating>
+	<podcast:person role="Producer">Chris</podcast:person>
+	<podcast:person role="Host">Ana</podcast:person>
+	<podcast:podping usesPodping="true" />
+<site xmlns="com-wordpress:feed-additions:1">151297159</site>	<item>
+		<title>Why Teal isn&#8217;t Tealing?</title>
+		<link>https://rightmove.blog/why-teal-isnt-tealing/</link>
+					<comments>https://rightmove.blog/why-teal-isnt-tealing/#respond</comments>
+		
+		<dc:creator><![CDATA[Caroline Snare]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[cultural change]]></category>
+		<category><![CDATA[design system]]></category>
+		<category><![CDATA[Figma]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3911</guid>
+
+					<description><![CDATA[<p>A design system is not just a UI kit.<br />
+It’s an organisational change programme wearing a Figma hoodie</p>
+<p>The post <a href="https://rightmove.blog/why-teal-isnt-tealing/">Why Teal isn&#8217;t Tealing?</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph" style="font-size:14px"><br><em>This blog is adapted from a talk at Rightmove ProdDev Data Con co-presented by&nbsp;<strong>Caroline Snare</strong>, Content Design Manager and&nbsp;<strong>Chantal Slagmolen</strong>, Lead Product Designer.</em></p>
+
+
+
+<h2 class="wp-block-heading">A design system is not just a UI kit. <br>It’s an organisational change programme wearing a Figma hoodie</h2>
+
+
+
+<p class="wp-block-paragraph">Building a design system is easy, relatively, but getting an organisation to actually use one isn’t. This is what three years of trying taught us – starting, for reasons that will become clear, with a colour.</p>
+
+
+
+<p class="wp-block-paragraph">Teal has been around for roughly four thousand years, which is a long time for a colour nobody could quite agree on. Ancient Egypt loved it, in glazes and tomb decoration, though they never called it teal. The Greeks and Romans chased the same blue-green through verdigris, the colour copper turns when it ages and goes, in the most beautiful way, slightly wrong. Medieval artists ground up malachite and lapis lazuli to get close to it. For almost all of that history the colour had no agreed name. It was just expensive, slightly unstable, and impossible to ignore, hanging about in the awkward space between blue and green.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p class="wp-block-paragraph">The name only arrived around 1917, and it came from a duck. The common teal has a blue-green stripe on its head, and at some point one person looked at that stripe and decided that colour was teal. There was no committee. No brand guidelines. No stakeholder sign-off. No phased rollout. One person, one duck, one decision, and the name stuck because people simply kept using it until it was true.<br><br>Hold that thought, because it’s the only easy part of this story.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="1024" height="614" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=1024%2C614&#038;ssl=1" alt="" class="wp-image-3923" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=1024%2C614&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=300%2C180&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=768%2C460&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=1536%2C921&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?resize=2048%2C1228&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/male-eurasian-teal-taking-off-anas-crecca-2026-01-07-07-28-59-utc.jpg?w=3000&amp;ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption class="wp-element-caption"><em>Anas&nbsp;crecca.&nbsp;Unknowing brand consultant. Est. 1917</em></figcaption></figure>
+</div>
+</div>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">This was never about a colour</h2>
+
+
+
+<p class="wp-block-paragraph">This isn’t really about teal. It’s about what happens when you try to get an entire organisation to agree on something, adopt it, and change how it works.</p>
+
+
+
+<p class="wp-block-paragraph">A design system is never just components, tokens, or a tidy Figma library. It’s behaviour change. It’s delivery pressure. It’s engineering constraints, habits, trust, governance, and a thousand tiny decisions happening across teams every day. Or, as we like to think about it: a design system is a change management programme wearing a Figma hoodie. We learned that the hard way, because we assumed the opposite. We assumed that if we just built the thing, people would use it.</p>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">The blue dot</h2>
+
+
+
+<p class="wp-block-paragraph">There’s a moment, when a UI Kit goes live in Figma, that’s supposed to feel like a finish line. A small blue dot appears on the library icon. Every designer in the organisation can see it. Behind that dot sit months of work, and in our case years of it, all suddenly available to everyone at once.</p>
+
+
+
+<p class="wp-block-paragraph">We did the sensible things. We sent the announcement email. We ran the onboarding session. We told people the kit was ready and waited for them to use it. And then we watched teams not quite use it.</p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" decoding="async" width="1024" height="599" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=1024%2C599&#038;ssl=1" alt="" class="wp-image-3937 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=1024%2C599&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=768%2C449&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=1536%2C898&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=2048%2C1197&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?resize=1200%2C701&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/WTIT-Blue-Dot-1.png?w=3000&amp;ssl=1 3000w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<p class="wp-block-paragraph">Here’s the part that took us a while to understand. They weren’t rejecting it. The problem was, the old Figma file was still right there, two clicks away and backed by years of muscle memory. When a team was mid-feature and up against a deadline, the familiar thing won. Most of the time, people weren’t choosing to ignore the system. They were choosing to deliver.<br></p>
+</div></div>
+
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph">A UI Kit is the part of a design system you can ship. It’s the visible artefact, the library you can point at and say there, it’s done. The design system is the larger, messier thing around it: the way an organisation agrees on how to build, and actually changes how the organisation works. We had shipped the kit and made it available. What we hadn’t done was land the system.<br><br>Which is where teal becomes useful again. Teal did not spend four millennia in the awkward space between blue and green because it was broken. It spent four millennia there because value takes time to become obvious. We had expected a blue dot to do in a week what a colour took centuries to do, which is to become something people reach for without being told to.</p>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Before the blue dot, there was Kanso</h2>
+
+
+
+<p class="wp-block-paragraph">To understand why a launch was never going to be enough, we have to go much further back. Years ago, our engineers looked at the codebase and kept seeing the same atomic components copied over and over. It wasn’t sustainable, and they knew it. So, they built a small, shared component library and called it Kanso. There was no grand strategy and no name for what they were doing. It was just engineers trying to do the right thing, long before anyone called it a design system.</p>
+
+
+
+<p class="wp-block-paragraph">Then designers joined, and started moving everything into Figma. Then more designers joined, with new ideas, which didn’t always line up with the previous designers’ ideas, which in turn didn’t always line up with engineering’s. Designers had their components in a UI Kit. Engineers had their own library. And before those two things could ever become one, the organisation spent a long time circling a single, deceptively simple question: what’s the source of truth?</p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" decoding="async" width="1024" height="576" data-attachment-id="3960" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/attachment/12/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="12" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1024%2C576&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-3960 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<p class="wp-block-paragraph">About three years ago, the system got its first dedicated designer, later joined by an engineer. What they inherited was years of good intentions, different interpretations, mismatched libraries, and competing Figma files, all of which somehow had to become a single coherent thing. It was less a clean build than an archaeological dig with a design system brief attached.</p>
+</div></div>
+
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph">That’s the part the blue dot hides. By the time a kit goes live, the slow, invisible work of reconciling years of divergence has already happened, or is still quietly going on in the background. Shipping was not the beginning of the story. It was a milestone somewhere in the middle of a much longer one. The rest of this is what it actually took.</p>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Urgency is something you cultivate, not announce</h2>
+
+
+
+<p class="wp-block-paragraph">The first thing we got wrong was thinking urgency was an event. A launch, an email, a Friday all-hands. It’s none of those things. Inside a product organisation, urgency turns out to be every small, repeated, unglamorous act of making the system feel real to the people who need it.</p>
+
+
+
+<p class="wp-block-paragraph">So the team did the work. The Storybook. The dedicated Slack channels. The Figma guardrail documents. The screen recordings, the onboarding sessions, the backlog, the decks, and the decks that had decks of their own. Every one of those artefacts is someone quietly choosing to invest their time in making the invisible visible. Most of it happens without anyone noticing, which, we came to realise, is exactly how you know it’s working.</p>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">The barrier we did not see coming</h2>
+
+
+
+<p class="wp-block-paragraph">We assumed the obstacles would be the usual suspects: process, time, people. The biggest one turned out to be our own brand colours. Our use of teal had been a given for years, but our specific teal was too intense for our designs. On dark backgrounds, and especially on Apple devices, it vibrated and overwhelmed the interfaces it was meant to sit quietly inside. The interesting thing was how we found out. Three separate teams noticed it independently, none of them working together, and all of them landed on the same signal. A palette built for print and web no longer held up in a world that has mostly moved on from both.</p>
+
+
+
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="534" data-attachment-id="3981" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/opti-colours/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1278%2C666&amp;ssl=1" data-orig-size="1278,666" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="opti-colours" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1024%2C534&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&#038;ssl=1" alt="" class="wp-image-3981 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=768%2C400&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1200%2C625&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?w=1278&amp;ssl=1 1278w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<p class="wp-block-paragraph">What happened next mattered more than the fix. Design, Brand and Engineering sat down together and rebuilt the palette from first principles, for accessibility, for dark mode, for every surface. Removing the barrier was never going to be one person’s call. It was a shared decision, sparked by different people seeing the same problem from different teams.</p>
+</div></div>
+
+
+
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">You feel the shift in the small wins</h2>
+
+
+
+<p class="wp-block-paragraph">For three years it had been almost there. Then last November the first properly tokenised, fully mapped version of the UI Kit went live, and the change started to show up in places we hadn’t expected.<br>An engineer who built a set of landing pages with it told us the work had been completely uneventful, that it was a weight off his mind, and that he had not needed to do any of the translation work he was braced for. We had been trying to earn that sentence for three years. Around the same time, a thank-you appeared in Slack for a colleague whose guardrails had saved someone hours, decorated with a frankly excessive number of heart emojis</p>
+
+
+
+<p class="wp-block-paragraph">That’s what a cultural shift actually looks like. Not a milestone on a roadmap, but a reaction in a channel. That was the moment the blue dot finally meant something.</p>
+
+
+
+<p class="wp-block-paragraph">Belief compounds too. While we were focused on adoption, our engineers quietly built their own tooling, a prompt that migrates components, updates tokens, and even flags the parts that could do with a glow-up. They’d reinvented Clippy, except this one is useful, and it exists only because someone wanted to make life easier for whoever migrated next. Nobody asked them to. They did it because they believed in the system.</p>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">It takes a village to build a design system</h2>
+
+
+
+<p class="wp-block-paragraph">None of this happened because of the quality of the kit. It happened because of how the system fits into the way people actually work, and that takes a village. And our village was extraordinary. </p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<p class="wp-block-paragraph">The engineers who started Kanso before any of this was fashionable. The designer who took years of sketches and turned them into foundations. The business that decided it was worth investing in. The product managers who gave us time when the roadmap had none to give. The designers who kept coming back, even when the system felt heavy rather than helpful. And the engineer who decided that migration didn’t have to be painful, and then proved it.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="960" height="540" data-attachment-id="3972" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/it-takes-a-village-smooth/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="it-takes-a-village-smooth" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-3972"/></figure>
+</div>
+</div>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Standards don’t land through mandate. They land through use</h2>
+
+
+
+<p class="wp-block-paragraph">Turns out, teal wasn’t tealing, because tealing was never about the colour. Teal never needed everyone to agree on what it was. It just needed to keep showing up until the value was undeniable. As it turns out, the same is true of design systems.</p>
+
+
+
+<p class="wp-block-paragraph">To celebrate all the work that has gone into getting us this far, Steve Inglis, our dedicated Senior Designer for the Design System, has put together a sizzle reel to showcase not only his work, but the collective contributions of designers and engineers across the company.</p>
+
+
+
+<figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="VideoPress Video Player" aria-label="VideoPress Video Player" width="500" height="281" src="https://videopress.com/embed/mJpirMAV?cover=1&amp;posterUrl=https%3A%2F%2Frightmove.blog%2Fwp-content%2Fuploads%2F2026%2F06%2Fsizzle-reel-final-1080p-1_mp4_avc_240p.original.jpg&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0" frameborder="0" allowfullscreen data-resize-to-parent="true" allow="clipboard-write"></iframe><script src='https://v0.wordpress.com/js/next/videopress-iframe.js?m=1770107250'></script>
+</div><figcaption><em>Rightmove Design System sizzle reel</em></figcaption></figure>
+
+
+
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://rightmove.blog/why-teal-isnt-tealing/">Why Teal isn&#8217;t Tealing?</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/why-teal-isnt-tealing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3911</post-id>	</item>
+		<item>
+		<title>From curiosity to career: my path into product analytics</title>
+		<link>https://rightmove.blog/from-curiosity-to-career-my-path-into-product-analytics/</link>
+					<comments>https://rightmove.blog/from-curiosity-to-career-my-path-into-product-analytics/#respond</comments>
+		
+		<dc:creator><![CDATA[Georgia Grant]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 15:14:18 +0000</pubDate>
+				<category><![CDATA[Women in tech]]></category>
+		<category><![CDATA[Women In Tech]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3819</guid>
+
+					<description><![CDATA[<p>Georgia began her career in advertising before transitioning into tech through an interest in UX design and data analysis. Her journey into Conversion Rate Optimisation led to becoming a Senior Product Analyst at Rightmove. </p>
+<p>The post <a href="https://rightmove.blog/from-curiosity-to-career-my-path-into-product-analytics/">From curiosity to career: my path into product analytics</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">I didn’t start my career in tech.</p>
+
+
+
+<p class="wp-block-paragraph">I studied advertising, fascinated by human behaviour and design. After graduating, I joined one of the Big Four media agencies in London, expecting to build a career in digital marketing. However, my interest in UX design and the psychology behind user decisions led me down a different path. That curiosity introduced me to Conversion Rate Optimisation (CRO), the discipline of structured experimentation, at the time, I had no idea what CRO even was. The CRO team was just two of us, so I had to learn fast. It was hands-on, constantly evolving and where I first discovered a career path working at the intersection of data, tech and design.</p>
+
+
+
+<p class="wp-block-paragraph">Over time, I realised my real passion in experimentation wasn’t UX design &#8211; it was digging into the data and translating it into meaningful insight.<br>So I leaned into analytics.</p>
+
+
+
+<p class="wp-block-paragraph">Starting as a Google Analytics specialist and experimentation expert, I advanced my analytical skills that eventually led me into product analytics. Fast forward to today, I’m a Senior Product Analyst at Rightmove, delivering sophisticated data models, partnering with AI engineering to unlock predictive capability, and shaping product strategy through evidence-based insight.<br>None of this was planned.</p>
+
+
+
+<p class="wp-block-paragraph">I followed what interested me. I said yes before I felt fully ready. And I built technical skills along the way.</p>
+
+
+
+<p class="wp-block-paragraph">Tech is still male-dominated but women have shaped the data world since the beginning. I’m proud to work in a team with a strong gender balance and more importantly, a culture that values every voice and encourages self-expression.</p>
+
+
+
+<p class="wp-block-paragraph">If there’s one thing I’d say to anyone considering a move into tech: you don’t need a traditional “tech” background. Curiosity, analytical thinking, and a willingness to learn can take you further than you think.</p>
+
+
+
+<p class="wp-block-paragraph">Sometimes the best careers aren’t planned. They’re discovered.</p>
+<p>The post <a href="https://rightmove.blog/from-curiosity-to-career-my-path-into-product-analytics/">From curiosity to career: my path into product analytics</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/from-curiosity-to-career-my-path-into-product-analytics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3819</post-id>	</item>
+		<item>
+		<title>Finding my voice in technical conversations</title>
+		<link>https://rightmove.blog/finding-my-voice-in-technical-conversations/</link>
+					<comments>https://rightmove.blog/finding-my-voice-in-technical-conversations/#respond</comments>
+		
+		<dc:creator><![CDATA[Cinthia Barbosa Pereira]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 12:13:44 +0000</pubDate>
+				<category><![CDATA[Women in tech]]></category>
+		<category><![CDATA[QA engineering]]></category>
+		<category><![CDATA[Women In Tech]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3744</guid>
+
+					<description><![CDATA[<p>Cinthia has spent her career in technical environments, often as one of very few women in the room. In this post, she reflects on what it took to find her voice, and why learning to ask the right questions changed everything.</p>
+<p>The post <a href="https://rightmove.blog/finding-my-voice-in-technical-conversations/">Finding my voice in technical conversations</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">I studied computer science and have spent my career in technical environments. From the start, I became familiar with what it feels like to be one of very few women in the room, navigating fast-paced discussions where confidence carries real weight. It was in those spaces that I began learning how important it is to ask questions, even when staying quiet feels safer.</p>
+
+
+
+<p class="wp-block-paragraph">Entering the industry did not change that dynamic. From my first role onwards, I continued to work in technical teams where speaking up could feel just as important as having the right answer.</p>
+
+
+
+<p class="wp-block-paragraph">Throughout those years, I carried a quiet doubt many people in tech will recognise.</p>
+
+
+
+<p class="wp-block-paragraph">As a QA engineer, asking questions is central to my role. It means challenging assumptions, thinking about user impact, and identifying risks. These are expected skills, but being expected to ask questions doesn&#8217;t make it emotionally easier. </p>
+
+
+
+<p class="wp-block-paragraph">Confidence and presence take time to build, especially early in your career, and learning how to show up in those moments is part of the journey.</p>
+
+
+
+<h2 class="wp-block-heading">When staying quiet feels safer</h2>
+
+
+
+<p class="wp-block-paragraph">Still, I often hesitated before speaking up, worried that a question might suggest I had missed something important.</p>
+
+
+
+<p class="wp-block-paragraph">The hesitation showed up in different ways: technical clarifications, challenges to assumptions, questions that felt too basic. Sometimes it was the pace of conversation. More often, it was fear of being misjudged.</p>
+
+
+
+<p class="wp-block-paragraph">Over time, I started to notice a pattern. </p>
+
+
+
+<p class="wp-block-paragraph">The most impactful moments in technical conversations were not driven by who had the most answers, but who asked the questions that helped everyone think more clearly. I also realised that asking questions well, at the right time, in the right way, and with confidence, is something you learn over time.</p>
+
+
+
+<h2 class="wp-block-heading">The biggest shift was realising that questions are not a weakness, they are a contribution.</h2>
+
+
+
+<p class="wp-block-paragraph">One change that helped me was becoming more intentional about how I asked questions. I started writing them down first, which gave me confidence, but more importantly, I shifted my focus from solutions to assumptions. </p>
+
+
+
+<p class="wp-block-paragraph">Instead of jumping straight to &#8220;how do we build this?&#8221;, I began asking questions like &#8220;what are we assuming here?&#8221; or &#8220;what needs to be true for this to work?&#8221;.</p>
+
+
+
+<p class="wp-block-paragraph">Gradually, I stopped waiting until I felt completely certain before raising questions. I started asking the questions anyway. More often than I expected, they were the questions other people were thinking too. Over time, this helped me find my space in technical environments and become clearer about how I contribute.</p>
+
+
+
+<p class="wp-block-paragraph">If there is one thing I would share with other women in tech, and with anyone who has ever hesitated to speak up, it is this: </p>
+
+
+
+<p class="wp-block-paragraph">You do not need to have all the answers to belong in the conversation. </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Asking thoughtful questions is already a contribution, and it is often how we reach answers together.</strong></p>
+<p>The post <a href="https://rightmove.blog/finding-my-voice-in-technical-conversations/">Finding my voice in technical conversations</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/finding-my-voice-in-technical-conversations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3744</post-id>	</item>
+		<item>
+		<title>Wrong degree, right career: how I pivoted into tech and into engineering leadership</title>
+		<link>https://rightmove.blog/wrong-degree-right-career-how-i-pivoted-into-tech-and-into-engineering-leadership/</link>
+					<comments>https://rightmove.blog/wrong-degree-right-career-how-i-pivoted-into-tech-and-into-engineering-leadership/#respond</comments>
+		
+		<dc:creator><![CDATA[Catia Gomes]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 17:47:24 +0000</pubDate>
+				<category><![CDATA[Rightmove]]></category>
+		<category><![CDATA[Women in tech]]></category>
+		<category><![CDATA[software engineering]]></category>
+		<category><![CDATA[Women In Tech]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3699</guid>
+
+					<description><![CDATA[<p>I didn’t start my career in tech. In fact, if you’d met me when I was filling out my university applications in Portugal, you probably wouldn’t have guessed I’d end up as a Head of Engineering in London. From MySpace to “real life” My first taste of tech wasn’t in a classroom or a computer...</p>
+<p>The post <a href="https://rightmove.blog/wrong-degree-right-career-how-i-pivoted-into-tech-and-into-engineering-leadership/">Wrong degree, right career: how I pivoted into tech and into engineering leadership</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<h1 class="wp-block-heading"></h1>
+
+
+
+<p class="wp-block-paragraph">I didn’t start my career in tech.</p>
+
+
+
+<p class="wp-block-paragraph">In fact, if you’d met me when I was filling out my university applications in Portugal, you probably wouldn’t have guessed I’d end up as a Head of Engineering in London.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>From MySpace to “real life”</strong></p>
+
+
+
+<p class="wp-block-paragraph">My first taste of tech wasn’t in a classroom or a computer lab. It was on MySpace.</p>
+
+
+
+<p class="wp-block-paragraph">As a teenager, I spent hours hacking together my MySpace profile with copy-pasted HTML, changing colours and layouts without really knowing what I was doing. I loved it – but when it came to university, I didn’t choose computer science. I chose <strong>International Relations and Peace &amp; Conflict Studies</strong> instead.</p>
+
+
+
+<p class="wp-block-paragraph">This was very much against my parents’ advice. But honestly, what teenager follows their parents’ advice? Not me.</p>
+
+
+
+<p class="wp-block-paragraph">I’d always loved speaking foreign languages, and International Relations felt like a way into a diplomatic career in the future – travelling, working with different cultures, being at the centre of global conversations.</p>
+
+
+
+<p class="wp-block-paragraph">And in a strange way, it <em>did</em> get me where I am now. If it wasn’t for that degree, I wouldn’t have moved from Portugal to London. That move changed the trajectory of my life and ultimately opened the door to my career in tech.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Realising it wasn’t for me</strong></p>
+
+
+
+<p class="wp-block-paragraph">As I went through my degree, and even after it led me to move from Portugal to London, I slowly realised: <em>this isn’t what I want to do for the rest of my life</em>.</p>
+
+
+
+<p class="wp-block-paragraph">You’ve invested time, money, effort, and you’re supposed to have this clear plan. Instead, I had a piece of paper, a new city, and a lot of uncertainty.</p>
+
+
+
+<p class="wp-block-paragraph">So I took about a year out, working as a sales assistant and trying to figure out what I actually wanted to do.</p>
+
+
+
+<p class="wp-block-paragraph">I tried different things, thought seriously about my strengths, and kept coming back to the same pattern: I loved working with computers. I loved problem solving. I loved building things. Those hours spent tweaking my MySpace profile were more than a teenage obsession – they were my first real steps into tech, even if I didn’t realise it yet.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>The Groupon course that changed everything</strong></p>
+
+
+
+<p class="wp-block-paragraph">My “official” entry into tech wasn’t glamorous.</p>
+
+
+
+<p class="wp-block-paragraph">It was a <strong>Groupon course in Front-End Development</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">The course was basically twelve PDFs on HTML, CSS and JavaScript; no fancy platform or live instructors, just me and my laptop.</p>
+
+
+
+<p class="wp-block-paragraph">But I was hooked.</p>
+
+
+
+<p class="wp-block-paragraph">I loved the instant feedback of front-end work: change something, refresh the browser, see it come to life. I started reading books about HTML, CSS and JavaScript. The more I learned, the more I realised: <em>I want to do this properly</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Self-study was great, but I knew I needed a more structured way to go deeper and, importantly, to be taken seriously by employers. That’s when I decided to do a <strong>Masters in Content Planning and Web Design at the University of Greenwich</strong>.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Going all in: my Masters degree</strong></p>
+
+
+
+<p class="wp-block-paragraph">The Masters was a turning point.</p>
+
+
+
+<p class="wp-block-paragraph">I spent a year immersed in learning. For the first time, I was surrounded by people who were also serious about getting into the tech industry. Many of them, like me, were coming from completely different backgrounds. It was reassuring – I wasn’t “late”, I was just on my own path.</p>
+
+
+
+<p class="wp-block-paragraph">One of the most valuable things I got from that year wasn’t just the content, but the people.</p>
+
+
+
+<p class="wp-block-paragraph">A friend I met there gave me practical advice on how to approach interviews. She showed me how to <strong>translate previous experience into transferable skills</strong> for a tech role (who knew being a shift supervisor in a Starbucks at 19 years old demonstrates leadership and responsibility?), how to structure my answers, how to research a company properly, how to show genuine interest, and why you should <strong>always ask at least one question at the end</strong> of an interview.</p>
+
+
+
+<p class="wp-block-paragraph">It sounds simple, but it made a huge difference to my confidence.</p>
+
+
+
+<p class="wp-block-paragraph">And that confidence mattered, because I decided to start applying for roles <strong>before</strong> I’d even finished the degree.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Two interviews, one day, and an offer</strong></p>
+
+
+
+<p class="wp-block-paragraph">When I first started applying, I expected a long, painful process of rejections and “you don’t have enough experience”.</p>
+
+
+
+<p class="wp-block-paragraph">So I was cautious. I sent a few applications, expecting very little.</p>
+
+
+
+<p class="wp-block-paragraph">Then I got two interviews. On the <em>same day</em>.</p>
+
+
+
+<p class="wp-block-paragraph">I went in assuming this was just practice – a warm up, a chance to get over the nerves. Instead, after my second interview, I was offered a job <strong>on the spot</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">After all that anxiety about being “too new” or “not technical enough”, there I was, with an offer in hand. It was a huge confidence boost… and also the beginning of a very intense learning curve.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Learning at speed in a fast-paced development agency</strong></p>
+
+
+
+<p class="wp-block-paragraph">My first role was at a fast-paced <strong>web development agency</strong>, where I joined as a <strong>UI Developer and Designer</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">At first, my days were a mix of pixels and code: turning wireframes into responsive interfaces and bringing them to life with HTML, CSS and JavaScript. One moment I was nudging elements by a few pixels, the next I was debugging why something looked completely different in another browser.</p>
+
+
+
+<p class="wp-block-paragraph">The pace was intense. Lots of clients, tight deadlines, and constant context switching.</p>
+
+
+
+<p class="wp-block-paragraph">As I grew more confident, I started taking on more responsibility: reviewing other people’s code, pairing with juniors, and suggesting improvements to how we worked. That led to a promotion to <strong>Lead Front-End Developer</strong>, and eventually to <strong>Head of Front-End Development</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">Those roles were my first taste of leadership. I was:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Setting standards for front-end quality and accessibility</li>
+
+
+
+<li>Helping to plan work and shape technical decisions</li>
+
+
+
+<li>Supporting and mentoring other developers</li>
+
+
+
+<li>Still writing a lot of code, but increasingly thinking about how the <em>team</em> performed</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Looking back, that environment taught me resilience, focus, and how to learn on the job – but it also laid the foundation for my next move.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Moving into product: joining Rightmove</strong></p>
+
+
+
+<p class="wp-block-paragraph">After several years in the agency world, and having led front-end development there, I wanted to understand what it meant to own a product: what happens when you look after something long term, how you decide what to build next, and how you measure impact beyond “we shipped it”.</p>
+
+
+
+<p class="wp-block-paragraph">That curiosity led me to <strong>join Rightmove as an Engineering Manager</strong>, my first role where I was responsible for a team rather than just my own output. I owned features and systems and focused much more on the <em>why</em> behind what we built, not just the <em>what</em>.</p>
+
+
+
+<p class="wp-block-paragraph">Rightmove was where I really started to understand what it meant to build and lead healthy, effective engineering teams.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>From individual contributor to Engineering Manager</strong></p>
+
+
+
+<p class="wp-block-paragraph">Although I’d already led the front-end team at the agency, Rightmove was my first dedicated Engineering Manager role. It shifted my day-to-day focus from solving problems myself to creating the conditions for other people to solve them instead.</p>
+
+
+
+<p class="wp-block-paragraph">I realised how much my earlier experience helped: my degree in International Relations and Peace &amp; Conflict Studies gave me tools for understanding stakeholders and navigating disagreements, and agency life had trained me to communicate clearly and stay calm under pressure.</p>
+
+
+
+<p class="wp-block-paragraph">As an EM, my work became less about commits and more about conversations, helping engineers grow, unblocking teams, joining the dots between product and tech, and making decisions with both people and systems in mind.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Stepping up: Head of Engineering</strong></p>
+
+
+
+<p class="wp-block-paragraph">A few months ago, I took a big step in my career: I started a new role as <strong>Head of Engineering</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">It feels like a natural progression from my Engineering Manager role, but also like stepping onto a bigger stage. I’m moving further away from individual delivery and deeper into shaping how engineering works at an organisational level.</p>
+
+
+
+<p class="wp-block-paragraph">Even though I’m still at the beginning, I know this role is about:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Defining and communicating engineering strategy</li>
+
+
+
+<li>Shaping culture and ways of working across multiple teams</li>
+
+
+
+<li>Creating structures where managers and engineers can do their best work</li>
+
+
+
+<li>Hiring, supporting and developing diverse talent</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">It also brings a heightened sense of responsibility around representation. I didn’t see many women in senior engineering roles when I was starting out. Stepping into a Head of Engineering role makes me very aware of how visible that is – both inside and outside the organisation.</p>
+
+
+
+<p class="wp-block-paragraph">I don’t think of my journey as “making it”, because careers aren’t finish lines. But I do think a lot about how I can use this position to make things a little easier, clearer, and more welcoming for the women coming after me.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>My journey wasn’t linear (and that’s the point)</strong></p>
+
+
+
+<p class="wp-block-paragraph">From the inside, it’s been anything but linear. It was:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Realising a degree I’d worked hard for wasn’t right for me</li>
+
+
+
+<li>Taking time out, working in retail, without a clear plan</li>
+
+
+
+<li>Signing up for a random Groupon course</li>
+
+
+
+<li>Reading PDFs and books late into the night</li>
+
+
+
+<li>Taking a risk on a Masters</li>
+
+
+
+<li>Applying for jobs before I felt “ready”</li>
+
+
+
+<li>Learning fast in environments that stretched me</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">And that’s really what I want to share, especially with women thinking about moving into tech:</p>
+
+
+
+<p class="wp-block-paragraph">You do <strong>not</strong> need a perfectly straight path to have a fulfilling career in this industry.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph"><strong>Advice for women considering (or early in) a tech career</strong></p>
+
+
+
+<p class="wp-block-paragraph">I’ll end with a few things I’ve learned along the way.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>1. Your past is not a mistake – it’s your edge.</strong></p>
+
+
+
+<p class="wp-block-paragraph">International Relations and Peace &amp; Conflict Studies wasn’t “wasted”. It gave me communication skills, critical thinking, and comfort with complexity; all of which I use daily in engineering leadership. Whatever you did before tech, there are strengths you bring that others don’t have.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>2. Don’t wait to feel 100% ready.</strong></p>
+
+
+
+<p class="wp-block-paragraph">I applied for roles before I’d finished my Masters, assuming nothing would happen. That’s how I got my first job. Growth often happens <em>after</em> you say yes, not before.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>3. Find your people.</strong></p>
+
+
+
+<p class="wp-block-paragraph">The friend who helped me with interview prep changed the trajectory of my career. Surround yourself with people who share knowledge, encourage you, and celebrate your wins. Join communities, meetups, online groups – you don’t have to do this alone.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>4. Invest in soft skills, not just tech skills.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Writing, communication, listening, giving feedback, managing conflict – these aren’t “nice to haves”. They are what enable you to lead, influence and create impact, whether you stay hands-on or move into management.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>5. Work with the right people.</strong></p>
+
+
+
+<p class="wp-block-paragraph">The environments and leaders you choose matter. A supportive team can accelerate your growth, while a toxic one can make you question your worth. You deserve to work somewhere that respects you, challenges you, and believes in your potential.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p class="wp-block-paragraph">If you’re reading this as a woman wondering whether it’s “too late” to move into tech, or whether your non-technical background disqualifies you, I hope my story shows the opposite.</p>
+
+
+
+<p class="wp-block-paragraph">Careers in tech are rarely neat, straight lines. Mine definitely wasn’t.</p>
+
+
+
+<p class="wp-block-paragraph">And that’s exactly what made it interesting.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://rightmove.blog/wrong-degree-right-career-how-i-pivoted-into-tech-and-into-engineering-leadership/">Wrong degree, right career: how I pivoted into tech and into engineering leadership</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/wrong-degree-right-career-how-i-pivoted-into-tech-and-into-engineering-leadership/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3699</post-id>	</item>
+		<item>
+		<title>Rightmove FED Day 2025</title>
+		<link>https://rightmove.blog/rightmove-fed-day-2025/</link>
+					<comments>https://rightmove.blog/rightmove-fed-day-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[ ]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 17:11:05 +0000</pubDate>
+				<category><![CDATA[Rightmove]]></category>
+		<category><![CDATA[EngineeringCulture]]></category>
+		<category><![CDATA[FED Day]]></category>
+		<category><![CDATA[Frontend]]></category>
+		<category><![CDATA[Tech community]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3493</guid>
+
+					<description><![CDATA[<p>FED Day 2025 brought together our frontend engineers for a full day of talks, workshops, and collaboration. Here are the highlights.</p>
+<p>The post <a href="https://rightmove.blog/rightmove-fed-day-2025/">Rightmove FED Day 2025</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">FED Day 2025 brought together our frontend engineers for&nbsp;a full day of talks, workshops, and collaboration. Here are the highlights.</p>
+
+
+
+<div data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https://rightmove.blog/rightmove-fed-day-2025/&quot;}'  class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:49.34282%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3591" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4285-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1333%2C889&amp;ssl=1" data-orig-size="1333,889" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R10&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1763034930&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;28&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_4285" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1024%2C683&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 1 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room " data-height="889" data-id="3591" data-link="https://rightmove.blog/?attachment_id=3591" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg" data-width="1333" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:50.65718%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3594" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4376-3-min-1/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1110%2C721&amp;ssl=1" data-orig-size="1110,721" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG_4376-3-min (1)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1024%2C665&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 2 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room" data-height="721" data-id="3594" data-link="https://rightmove.blog/?attachment_id=3594" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg" data-width="1110" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Lighthouse Reporter, an automated performance testing and monitoring tool &#8211; talk by Angel Meraz, Rightmove</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="768" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=1024%2C768&#038;ssl=1" alt="Angel presenting about the Lighthouse Reporter" class="wp-image-3535" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_103622884_iOS-1-min-min-1.jpg?w=2016&amp;ssl=1 2016w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Angel introduced&nbsp;Lighthouse Reporter &#8211; an internal tool that automates performance testing and tracks results over time.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">It allows running Google Lighthouse tests locally during development and in GitLab pipelines, storing results in dashboards. The tool compares current and previous runs, tracks performance trends and highlights performance regressions before they reach users.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Setup is simple thanks to templates and docs. Angel encouraged teams to adopt it, share feedback, and help improve it.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The goal: make performance&nbsp;part of the workflow, not a reactive fix.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>State of the market &#8220;aka Joe talks about performance&#8221; &#8211; talk by Joe Bartanus, Rightmove</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="582" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=1024%2C582&#038;ssl=1" alt="Joe Bartanus is talking about testing performance" class="wp-image-3539" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=1024%2C582&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=768%2C437&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=1536%2C874&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=2048%2C1165&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?resize=1200%2C682&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-18.21.41-min.png?w=3000&amp;ssl=1 3000w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Joe Bartanus shared a high-level look at mobile performance across the property market.&nbsp;&nbsp;<br>&nbsp;<br>His talk focused on real user experience &#8211; how long it takes to move through&nbsp;key steps on a typical UK 4G connection.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">He showed timing tests for&nbsp;cached and uncached flows, offering benchmarks to guide performance improvements.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Joe proposed a UX engineering group to drive cross-team efforts focused on performance and user experience. His message: we have the data, the&nbsp;opportunities, and a clear path to elevate the user journey.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Writing Literary Code &#8211; talk by Angel Wells, Rightmove</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?resize=1024%2C683&#038;ssl=1" alt="Angel Wells presenting and talking to the audience" class="wp-image-3540" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4334-min.jpg?w=1436&amp;ssl=1 1436w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Angel Wells reminded us that code isn&#8217;t just for computers – it&#8217;s for people.&nbsp;<br>Whether it&#8217;s a teammate, a reviewer, or your future self, good code should communicate intent – through clear namings, sensible ordering, and thoughtful defaults.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">She showed examples and encouraged developers to use novel writing techniques when coding.</p>
+
+
+
+<p class="wp-block-paragraph">With AI tools now part of the mix, clarity matters more than ever.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Her advice: write code to be read. The real audience is human.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"></blockquote>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph"><blockquote class="quote"><div class="quote-details"><svg class="quote-open"><use xlink:href="#core-icon--quote"></use></svg><p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3570" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/ben_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ben_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3570" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+</div>
+
+
+<p class="wp-block-paragraph"><em>FED day was brilliant! A great chance to hear from internal and external speakers on lots of interesting topics. We also had the chance to chat to fellow FEDs about shared challenges and ways of working. Events like this really help build a stronger sense of community at Rightmove</em>.</p>
+
+
+
+<p class="wp-block-paragraph">&#8211; Ben Daniel-Greep, Software Engineer</p>
+
+
+
+<p class="wp-block-paragraph"></p><svg class="quote-close"><use xlink:href="#core-icon--quote"></use></svg></div></blockquote></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Beyond Vibe Coding: How the Gemini CLI helps with AI-assisted development – talk by Esther Lloyd, Google</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?resize=1024%2C683&#038;ssl=1" alt="Esther Lloyd in the conference room presenting to the audience" class="wp-image-3541" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4378-min.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Esther Lloyd from Google&nbsp;demoed Gemini CLI – a tool that brings AI into front-end workflows.&nbsp;<br>Using natural-language prompts, developers can generate code, plan and&nbsp;prototype.</p>
+
+
+
+<p class="wp-block-paragraph">In a live demo, Esther added a logo without writing a line of code &#8211; Gemini handled it all.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Most features are free with a Google account, and the tool supports building custom agents for tasks like testing or code review. &nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Her message: AI-assisted development is here &#8211; and it’s for everyone.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>An Uncomfortable Place – talk about the design system by Hannah Clarke, Intapp</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?resize=1024%2C683&#038;ssl=1" alt="Hannah Clarke presenting in the conference room" class="wp-image-3544" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4409-min.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Hannah Clarke from Intapp shared a preview of her ffconf talk about how a small team built a cross-framework component library.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Their challenge: support dozens of teams using different frameworks.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Their solution: generate components once, then adapt them for React, Angular, and more using&nbsp;<br>Stencil and custom scripts.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">This approach scales, avoids duplication, and delivers consistent UX.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Teams now adopt new components within a week.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Between Prompts and Production &#8211; talk by Dan Donald, Gymshark&nbsp;</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?resize=1024%2C683&#038;ssl=1" alt="Dan Donald presenting in the conference room" class="wp-image-3545" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4439-min.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Dan Donald from Gymshark gave a candid talk on working with Al.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">He covered the excitement, fear, and confusion that come with these tools &#8211; and the need for responsibility.</p>
+
+
+
+<p class="wp-block-paragraph">Al can generate code instantly, but you&#8217;re still accountable for what ships.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Dan&#8217;s advice: use Al wisely, understand the risks, and let it elevate your work &#8211; not replace your judgment.</p>
+
+
+
+<p class="wp-block-paragraph"><blockquote class="quote"><div class="quote-details"><svg class="quote-open"><use xlink:href="#core-icon--quote"></use></svg><p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3583" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/apurva_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Apurva_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3583" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+</div>
+
+
+<p class="wp-block-paragraph"><em>I had a fantastic time at the FED Day last week, and I think we&#8217;re so lucky to have such an engaged frontend community at Rightmove. The highlights for me were the talks from both internal and external speakers. There were two AI-themed talks on the day with very different takes on the subject. On the one hand, we saw a demo of the Gemini CLI tool, which showed how powerful AI tooling can be for rapid development and prototyping. On the other hand, there was also a more philosophical discussion around when it is appropriate to use these tools and how they may affect the software development craft today and in the years to come. Both left me with food for thought, and I think the key (as always) is finding the balance between getting those productivity gains without removing oneself too much from the development process. Some of the other talks also touched on themes around cross-team collaboration, as did the developer/designer workshop in the afternoon. Whether the aim is to create a design system that can serve teams using different web frameworks, or to boost performance on a user journey that spans multiple teams, it&#8217;s clear that, as an organisation that is looking to rapidly expand its engineering division, we will now need to find better ways to enable cross-team collaboration and some cross-team ownership of our core flows.</em></p>
+
+
+
+<p class="wp-block-paragraph">&#8211; Apurva Deshpande, Senior Software Engineer II</p>
+
+
+
+<p class="wp-block-paragraph"></p><svg class="quote-close"><use xlink:href="#core-icon--quote"></use></svg></div></blockquote></p>
+
+
+
+<h2 class="wp-block-heading">Design and engineer handover <strong>workshop</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="768" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=1024%2C768&#038;ssl=1" alt="Colleagues sitting around a table, participating in a workshop discussion" class="wp-image-3537" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/20251113_145459666_iOS-1-min.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">We ran a collaborative workshop to improve the handover process between designers and engineers.</p>
+
+
+
+<p class="wp-block-paragraph">Mixed groups mapped their current workflows, identified pain points, and shared best practices.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The goal wasn&#8217;t to solve everything &#8211; just to surface insights.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">We&#8217;ll use the feedback to reduce friction, improve clarity, and continue the conversation in future sessions.</p>
+
+
+
+<p class="wp-block-paragraph"><blockquote class="quote"><div class="quote-details"><svg class="quote-open"><use xlink:href="#core-icon--quote"></use></svg><p></p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3585" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/image-4-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image (4)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3585" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+</div>
+
+
+<p class="wp-block-paragraph"><em>It was nice to get FEDs and designers from different teams together, to listen, learn and discuss better ways of working.</em></p>
+
+
+
+<p class="wp-block-paragraph">&#8211; Jerry Heng, Senior Product Designer</p>
+
+
+
+<p class="wp-block-paragraph"></p><svg class="quote-close"><use xlink:href="#core-icon--quote"></use></svg></div></blockquote></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Streamlining design and development with Dev Mode – talk by Bobby Harris, Figma</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?resize=1024%2C683&#038;ssl=1" alt="Fran Bradshaw presenting in the conference room" class="wp-image-3547" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4576-min-1.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">Bobby Harris (with the support of Fran Bradshaw and Riccardo Erra) from Figma talked about building better collaboration through design systems. </p>
+
+
+
+<p class="wp-block-paragraph">He introduced constructive design &#8211; moving from free-form to structured systems.</p>
+
+
+
+<p class="wp-block-paragraph">Start small, find champions, and build proof-of-concepts.&nbsp;The key: make it easy for anyone to contribute.</p>
+
+
+
+<p class="wp-block-paragraph">Design systems work best when built together.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Community makes it happen</strong></h2>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="683" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?resize=1024%2C683&#038;ssl=1" alt="" class="wp-image-3550" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4646-min.jpg?w=1417&amp;ssl=1 1417w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="wp-block-paragraph">FED Day wouldn&#8217;t have happened without our amazing Rightmove community.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Huge thanks to&nbsp;Aleksandar Kisimov, Angel Wells, Catia Gomes, Edward Hann, Francesco Fiori, Jo Mairlot, Patrick Kirwan, Si Jobling, Sophie George, Stephanie Shaw, Tay Bencardino, and Yulyana Ramanenka.</p>
+
+
+
+<p class="wp-block-paragraph">Thank you – and see you next year!&nbsp;</p>
+<p>The post <a href="https://rightmove.blog/rightmove-fed-day-2025/">Rightmove FED Day 2025</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/rightmove-fed-day-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3493</post-id>	</item>
+		<item>
+		<title>Monolith to microservice &#8211; how we rebuilt a legacy frontend</title>
+		<link>https://rightmove.blog/monolith-to-microservice-how-we-rebuilt-legacy-code/</link>
+					<comments>https://rightmove.blog/monolith-to-microservice-how-we-rebuilt-legacy-code/#respond</comments>
+		
+		<dc:creator><![CDATA[ ]]></dc:creator>
+		<pubDate>Tue, 30 Sep 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Software Engineering]]></category>
+		<category><![CDATA[Appy]]></category>
+		<category><![CDATA[Frontend]]></category>
+		<category><![CDATA[Microservices]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3410</guid>
+
+					<description><![CDATA[<p>It's an inescapable fact that any technology company will eventually have to deal with legacy code.</p>
+<p>Systems naturally age over time, and often become more difficult to change or understand. They may have business logic becoming tangled with implementation details in a sprawling monolithic codebase, or may become stuck on older versions of languages or frameworks. Sometimes we can live with the risks for internal-only tools, but what about for external, revenue-generating applications?</p>
+<p>The post <a href="https://rightmove.blog/monolith-to-microservice-how-we-rebuilt-legacy-code/">Monolith to microservice &#8211; how we rebuilt a legacy frontend</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">It&#8217;s an inescapable fact that any technology company will&nbsp;<em>eventually</em>&nbsp;have to deal with legacy code.</p>
+
+
+
+<p class="wp-block-paragraph">Systems naturally age over time, and often become more difficult to change or understand. They may have business logic becoming tangled with implementation details in a sprawling monolithic codebase, or may become stuck on older versions of languages or frameworks. Sometimes we can live with the risks for internal-only tools, but what about for external, revenue-generating applications?&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In this post I’ll share my team&#8217;s decommissioning journey and how we rebuilt a legacy frontend as a modern microservice. If you&#8217;re reading this and currently involved with a decommissioning effort yourself, hopefully parts of this journey will resonate. These projects aren&#8217;t easy, but they can be done!</p>
+
+
+
+<h2 class="wp-block-heading" id="RightmoveTechBlogPostDraft-TheLegacyApplication-whywasitaproblem?">So why was the legacy code a problem?</h2>
+
+
+
+<p class="wp-block-paragraph">The old application code resided within a monolith which made our releases slow, environments difficult to configure and testing difficult. The frontend used Jakarta Server Pages (JSP), a pattern that interweaves Java code with HTML. This worked fine at the time, but over the years became increasingly misaligned with the rest of Rightmove&#8217;s frontend ecosystem.</p>
+
+
+
+<p class="wp-block-paragraph">Some of the pain points we experienced with this app included:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Non-standard frontend stack</strong><br>Anyone making frontend changes needed to have some Java knowledge as well. Since this application wasn’t using React, we also couldn’t leverage our internal component library.<br></li>
+
+
+
+<li><strong>Integration challenges</strong><br>It would have been a challenge to integrate directly with modern in-house services, e.g. address matching.<br></li>
+
+
+
+<li><strong>Poor user experience</strong><br>The design had become outdated and there was limited flexibility to add new features or update it.<br></li>
+
+
+
+<li><strong>On-premise application</strong><br>This reduced our flexibility around releases and configuring our CI/CD pipeline.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Actively trying to develop on an application like this presents a number of challenges and it was clear we couldn&#8217;t stick with the legacy frontend for much longer.</p>
+
+
+
+<h2 class="wp-block-heading" id="RightmoveTechBlogPostDraft-TheNewApplication">Microservices to the rescue!</h2>
+
+
+
+<p class="wp-block-paragraph">We decided to rebuild the app from scratch into several cloud-based microservices. On the frontend, we paired React with an Express/Node backend-for-frontend, while on the backend we created a new service to manage the saving and retrieving of reports. We also leveraged an existing GraphQL API for fetching data. This allowed us to separate concerns and align with the rest of the Rightmove architecture, as well as:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Use shared component libraries and middleware</strong> <br>The new app has a similar look and feel to other parts of the site. We didn&#8217;t have to reimplement logic that we already have libraries for.<br></li>
+
+
+
+<li><strong>Implement a modular design for the different user flows</strong> <br>We could easily request different data based on the user type, and amplify component re-use on the frontend for shared flows.<br></li>
+
+
+
+<li><strong>Modernise the UX</strong><br>The new app has improved performance and better accessibility across a variety of devices and screen sizes.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Innovation through a new PDF service</h2>
+
+
+
+<p class="wp-block-paragraph">We were also able to innovate by introducing a new microservice to produce PDFs of the final reports. We opted for a solution using Puppeteer, which provides more flexibility around PDF generation than some other third party libraries.</p>
+
+
+
+<p class="wp-block-paragraph">The PDF flow is fairly straightforward:</p>
+
+
+
+<ol class="wp-block-list">
+<li>The service receives JSON input, containing all the fields required for the PDF.</li>
+
+
+
+<li>The JSON is passed into React components representing the PDF template.</li>
+
+
+
+<li>Static HTML is created from these React components.</li>
+
+
+
+<li>Puppeteer spins up a headless Chromium browser, loads the static HTML and any CSS, and produces a styled PDF.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">The big advantage of rendering it in a browser environment is that it fully supports CSS3 and JavaScript, so we can build complex and well-styled layouts with relative ease. That also means we can skip the steep learning curves and restrictive components sets offered by other PDF libraries. To further sweeten the deal, the approach is generic enough that other microservices across the company can use it too! <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2 class="wp-block-heading" id="RightmoveTechBlogPostDraft-ChallengesandLessonsLearned">Challenges and lessons learned</h2>
+
+
+
+<p class="wp-block-paragraph">So far, I&#8217;ve condensed several years of work into just a few paragraphs. Although it may sound like a linear journey, it definitely wasn&#8217;t smooth sailing the entire time. As a team, we overcame late evolutions to requirements that weren&#8217;t in our control, complex pieces of work around permissions/user types, and finally challenges around migrations and onboarding. We already had beta users on the new app so minimising disruption to them was a critical requirement alongside getting the rest of the features done. In a sense, this meant finding ways to perform gradual open-heart-surgery on the new application.</p>
+
+
+
+<p class="wp-block-paragraph">A genuine highlight to come out of those challenges is that we achieved our goal of minimising user disruption. This came down to a few key practices, which were a mix of things we were already doing and processes we adopted.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Release strategies</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png" alt="📋" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>We planned carefully for edge cases and always had a rollback strategy for releases. This meant no user downtime while we continued to add features and change core flows.<br></li>
+
+
+
+<li><strong>Front-loading complexity</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4ad.png" alt="💭" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>We tackled the hardest problems as early as possible, to save us from painful surprises later.<br></li>
+
+
+
+<li><strong>Balancing our focus</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2696.png" alt="⚖" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>We sprinkled some slower sprints to address tech debt alongside the intense feature-focussed sprints.<br></li>
+
+
+
+<li><strong>Proactive monitoring and alerting</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c8.png" alt="📈" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>This was in place from the very beginning to allow us to investigate potential issues before they affected users.<br></li>
+
+
+
+<li><strong>Test coverage</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f9ea.png" alt="🧪" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>We implemented functional tests for the critical user types and user journeys early on. This helped catch several bugs during development time and let us release new changes with confidence.<br></li>
+
+
+
+<li><strong>Scaling onboarding</strong> <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f68c.png" alt="🚌" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>We built internal mechanisms on the backend for bulk user onboarding. This helped us avoid managing permissions one at a time for thousands of users.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Each of these lessons strengthened the project and how our team approaches this kind of large-scale decommissioning work in general (though sadly we&#8217;re not done with legacy systems just yet <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f604.png" alt="😄" class="wp-smiley" style="height: 1em; max-height: 1em;" />).</p>
+
+
+
+<h2 class="wp-block-heading" id="RightmoveTechBlogPostDraft-Partingthoughts">Parting thoughts</h2>
+
+
+
+<p class="wp-block-paragraph">The new tool is now live and already making a measurable difference so far. It’s faster, easier to maintain, and better aligned with the rest of the company architecture. On top of that, our PDF service is now ready to be reused and start supporting other teams.</p>
+
+
+
+<p class="wp-block-paragraph">Decommissioning is not a glamorous topic, but it is a necessary one. Hopefully this post has shown that with the right approach, it&#8217;s possible to modernise&nbsp;and innovate while keeping user disruption low. If we can do it, you can too!</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://rightmove.blog/monolith-to-microservice-how-we-rebuilt-legacy-code/">Monolith to microservice &#8211; how we rebuilt a legacy frontend</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/monolith-to-microservice-how-we-rebuilt-legacy-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3410</post-id>	</item>
+		<item>
+		<title>From traditional to trailblazing: Rightmove’s IT transformation journey  </title>
+		<link>https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/</link>
+					<comments>https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/#respond</comments>
+		
+		<dc:creator><![CDATA[Aitana Molina]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 07:55:41 +0000</pubDate>
+				<category><![CDATA[Rightmove]]></category>
+		<category><![CDATA[Corp IT]]></category>
+		<category><![CDATA[product management]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3380</guid>
+
+					<description><![CDATA[<p>Over the past 12 months, Rightmove’s IT team has been on a journey, one that is taking us from a traditional IT function focused on back office support, to a more proactive, product-enabled, user-focussed IT team. It’s been a year of bold moves, big ideas and ambitious OKRs. As we reflect on the past year, and look at how far we’ve come, something that’s glaringly obvious is how much learning has taken place. What’s more, we’re only just getting started!  </p>
+<p>The post <a href="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/">From traditional to trailblazing: Rightmove’s IT transformation journey  </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div><div class="wp-block-image">
+<figure class="alignleft size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="799" height="800" data-attachment-id="3396" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/vb2_7546_websize-edited/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" data-orig-size="799,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vb2_7546_websize-edited" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=799%2C800&#038;ssl=1" alt="" class="wp-image-3396" style="object-fit:cover;width:400px;height:400px" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?w=799&amp;ssl=1 799w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=768%2C769&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 799px) 100vw, 799px" /></figure>
+</div>
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Over the past 12 months, Rightmove’s IT team has been on a journey, one that is taking us from a traditional IT function focused on back office support, to a more proactive, product-enabled, user-focussed IT team. It’s been a year of bold moves, big ideas and ambitious OKRs. As we reflect on the past year, and look at how far we’ve come, something that’s glaringly obvious is how much learning has taken place. What’s more, we’re only just getting started!&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="has-medium-font-size wp-block-paragraph"><strong>It all started with a basic set of principles&nbsp;&nbsp;</strong></p>
+
+
+
+<p class="wp-block-paragraph">My job title might seem a bit absurd to some. &#8220;IT Product Manager”?! Does IT even lend itself to product principles?! Well, whilst it may not seem intuitive upon first consideration, we applied product principles to a traditional IT set-up and it paid off.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">First, we painted a picture. IT should be a function that deeply understands its users, iterates quickly, delivers tangible value and is acknowledged for doing so by the business.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Then, we embraced data. We didn’t just look at dashboards, metrics and SLAs, but we gathered meaningful insights from a host of different sources that helped us target strategic areas for improvement. We conducted analysis into our Wifi networks and identified key faults in the London office. Once fixed, Wifi related tickets went down drastically. We listened when our Customer Experience team told us our phones were not fit for purpose and decided to modernise our telephony platform. We also responded when our users said they’d love more insight into our world by publishing a monthly newsletter. Sometimes, even the small changes can have a big impact.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Lastly, we embedded agile ways of working &#8211; not overnight, but steadily. We started using Jira, mapped our initiatives to OKRs, and broke these initiatives down so we could work on them in sprints. Sprints started to be planned, and we started sticking to the plan. It was in this way that we made a shift into intentional, goal-driven delivery.&nbsp;&nbsp;</p>
+
+
+
+<p class="has-medium-font-size wp-block-paragraph"><strong>Building momentum</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">With a mindset shift comes new opportunity, with new opportunity comes learning potential, and all of these combined resulted in a shift in the team’s capabilities. We invested in team development and hired new talent, creating a mix that helped to further embed these new ways of working. We leaned into cloud-first thinking and modernized our infrastructure though a new VPN, placing our servers onto the Cloud and moving to Cloud Telephony. We started to say goodbye to legacy, and hello to the future.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Our collaboration approach has changed dramatically over the last year. Not only have we started collaborating better as a team, running retros and daily stand ups, but we changed how we collaborate with other teams across the business. We implemented processes to track changes and incidents, and made sure we were better equipped to handle them moving forward. We also transformed how the business collaborates by modernising meeting rooms, refreshing devices and working with security to ensure all Rightmove data remains safe.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="994" data-attachment-id="3397" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/screenshot-2025-09-09-at-09-32-47/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1142%2C1108&amp;ssl=1" data-orig-size="1142,1108" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="screenshot-2025-09-09-at-09.32.47" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1024%2C994&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&#038;ssl=1" alt="" class="wp-image-3397" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?w=1142&amp;ssl=1 1142w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<p class="has-medium-font-size wp-block-paragraph"><strong>Measuring what matters&nbsp;</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">We’re starting to ask ourselves how we can measure the important stuff. Not just uptime or ticket counts, but HOW our users experience IT. </p>
+
+
+
+<p class="wp-block-paragraph">How supported and empowered do Rightmovers feel? What is their experience of the IT Help Desk? </p>
+
+
+
+<p class="wp-block-paragraph">We have discovered that to empower our colleagues to do the best work of their lives, we must measure service quality through the lens of user satisfaction, and embed this into our reporting. </p>
+
+
+
+<p class="wp-block-paragraph">We now have 4 goals we are collectively working toward: </p>
+
+
+
+<ol class="wp-block-list">
+<li>empowering a culture of high performance and efficiency</li>
+
+
+
+<li>delivering a seamless, digital workplace experience</li>
+
+
+
+<li>enabling a culture of continuous, cross-functional collaboration, and </li>
+
+
+
+<li>building secure and scalable enterprise technology foundations</li>
+</ol>
+
+
+
+<p class="has-medium-font-size wp-block-paragraph"><strong>What’s next for IT?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Yes, we have done a lot. But, we still have a lot to do and even more ideas on the horizon. It’s only been a year, so it should come as no surprise that some traditional infrastructure remains. Rome wasn’t built in a day after all. </p>
+
+
+
+<p class="wp-block-paragraph">However, the note I want to end on is that our direction is clear: </p>
+
+
+
+<p class="wp-block-paragraph"><strong>more collaboration, enhanced productivity and a relentless focus on user experience.&nbsp;&nbsp;</strong></p>
+
+
+
+<p class="wp-block-paragraph">The journey has not been perfect by any means. There were bumps, tight timelines and moments of disruption. </p>
+
+
+
+<p class="wp-block-paragraph">But through it all, the team has shown an unbelievable amount of resilience and determination. They have been willing to challenge themselves, and it is this embracing of a steep learning curve that has brought us this far.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">We couldn’t be prouder of what we’ve achieved – and even more excited about what lies ahead.</p>
+<p>The post <a href="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/">From traditional to trailblazing: Rightmove’s IT transformation journey  </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3380</post-id>	</item>
+		<item>
+		<title>How we guard our infrastructure with Policy as Code</title>
+		<link>https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/</link>
+					<comments>https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/#respond</comments>
+		
+		<dc:creator><![CDATA[Hussein Karamanhee]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Checkov]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[GCP]]></category>
+		<category><![CDATA[Policy-As-Code]]></category>
+		<category><![CDATA[Terraform]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3288</guid>
+
+					<description><![CDATA[<p>Rightmove's transition to self-service cloud infrastructure initiated the adoption of Policy as Code to enhance security and compliance. Checkov was implemented to automate policy validation for Terraform plans and code.</p>
+<p>The post <a href="https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/">How we guard our infrastructure with Policy as Code</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">At Rightmove, moving to the cloud changed how we think about infrastructure. Instead of relying on central teams to provision resources, we’ve adopted a self-service model where engineers own their infrastructure. For the Cloud Foundation team, our job is to ensure that this approach is secure and compliant. It must also be efficient.</p>
+
+
+
+<p class="wp-block-paragraph">In this post, we’ll share our journey with Policy as Code, what worked for us, and how we implemented it using <a href="https://www.checkov.io">Checkov</a>.</p>
+
+
+
+<h2 class="wp-block-heading">What is Policy as Code?</h2>
+
+
+
+<p class="wp-block-paragraph">Policy as Code lets us define rules for infrastructure in code, rather than relying on manual checks. The rules are automated, version-controlled, and testable, which means they can be applied consistently and audited easily, just like Infrastructure as Code. Policy as Code can work with Terraform, catching misconfigurations early, keeping environments secure and compliant, while providing engineers with fast feedback.</p>
+
+
+
+<h2 class="wp-block-heading">Why Policy as Code?</h2>
+
+
+
+<p class="wp-block-paragraph">Managing infrastructure at scale is challenging. We built internal <a href="https://developer.hashicorp.com/terraform">Terraform</a> modules and have organisational policies and runtime tools to protect our systems and enforce standards. They help, but they are not enough. Modules can be bypassed, and policies or tools that only run after deployment catch issues too late, slowing engineers down and increasing the risk of drift.</p>
+
+
+
+<p class="wp-block-paragraph">Policy as Code changes that. It enables us to define guardrails as executable rules that run automatically on Terraform plans within the CI/CD pipeline, providing engineers with immediate feedback before changes are applied. </p>
+
+
+
+<p class="wp-block-paragraph">Policies in code are versioned and auditable, enabling governance to evolve with infrastructure without slowing the team. Policy as Code catches mistakes early and embeds standards into workflows, reducing risk and boosting engineers&#8217; confidence in building cloud resources safely at scale.</p>
+
+
+
+<h2 class="wp-block-heading">Why Checkov?</h2>
+
+
+
+<p class="wp-block-paragraph">For the first phase of our Policy as Code journey, the goal was simple: scan Terraform changes and validate them against our defined policies directly in our GitLab pipelines.</p>
+
+
+
+<p class="wp-block-paragraph">When evaluating Policy as Code tools, we looked at <a href="https://cloud.google.com/docs/terraform/policy-validation">Google Policy Validator</a>, <a href="https://www.openpolicyagent.org/docs">OPA</a> with <a href="https://www.conftest.dev/">Conftest</a>, and <a href="https://www.checkov.io/1.Welcome/What%20is%20Checkov.html">Checkov</a>. Each has strengths, but we needed a solution that integrates well with our workflow, works with existing tools, and is easy for engineers to adopt.</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Criteria</th><th>OPA + Conftest</th><th>Checkov</th><th>Google Policy Validator</th></tr></thead><tbody><tr><td><strong>Validation target</strong></td><td>Terraform plan file</td><td>Terraform code and plan file</td><td>Terraform plan file</td></tr><tr><td><strong>Language used</strong></td><td>Rego</td><td>YAML &amp; Python</td><td>YAML (Rego under the hood)</td></tr><tr><td><strong>How it works</strong></td><td>CLI validates plan file against Rego policies</td><td>CLI validates code and plan files against Checkov policies</td><td>CLI validate plan file against Google policies, it requires IAM permissions to run</td></tr><tr><td><strong>Prebuilt policies</strong></td><td>None</td><td>Yes, includes CIS benchmarks and many security policies</td><td>Some prebuilt policies</td></tr><tr><td><strong>Non-Terraform support / integration</strong></td><td>Kubernetes manifests, and can run as an operator in a Kubernetes cluster</td><td>Kubernetes manifests, and can integrate with Prisma Cloud for external security policies</td><td>None</td></tr><tr><td><strong>Familiarity &amp; maturity</strong></td><td>Well-known, widely used, CNCF project</td><td>Open source, well-known, supported by Prisma Cloud</td><td>Beta version, in early stages, supported by Google </td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph">While OPA is a well-known CNCF project, we found it challenging to get started with. It requires engineers to learn Rego and build supporting tools, and it doesn’t provide prebuilt policies out of the box. Google Policy Validator, on the other hand, is backed by Google and integrates with Google Cloud resources; however, it was still an early-stage product at the time. It also required additional permissions that added unnecessary complexity to our pipelines.</p>
+
+
+
+<p class="wp-block-paragraph">After our evaluation, Checkov stood out as the best fit. Our security team already uses Prisma Cloud, which Checkov can integrate with in the future. It also comes with many built-in policies, so we didn’t have to start from scratch. Additionally, Checkov allows us to write custom policies in YAML or Python, languages that engineers are already familiar with. YAML works well for simple rules, while Python handles the more complex cases, making our setup both simple and powerful.</p>
+
+
+
+<h2 class="wp-block-heading">How did we implement Checkov?</h2>
+
+
+
+<h3 class="wp-block-heading">Getting started</h3>
+
+
+
+<p class="wp-block-paragraph">Checkov can run anywhere; we can install it locally as a CLI tool and use its Docker image to run in a CI/CD pipeline. Refer to the <a href="https://www.checkov.io/2.Basics/Installing%20Checkov.html#configure-multiple-specific-files">guide</a> for installation methods to try it out.</p>
+
+
+
+<p class="wp-block-paragraph">By default, Checkov uses the standard policies, which are usually the default CIS benchmarks. We disabled these rules to avoid being overwhelmed by errors in the pipeline and started with our custom policies first. Checkov will fetch the relevant policies depending on the cloud provider; for example, on Google Cloud, you can see the default policies in the <a href="https://docs.prismacloud.io/en/enterprise-edition/policy-reference/google-cloud-policies/google-cloud-policies">link</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Checkov has global settings that can be set using CLI arguments and a configuration file. Any argument that can be found with the&nbsp;<code>checkov --help</code>&nbsp;command can also be set in the configuration file.</p>
+
+
+
+<p class="wp-block-paragraph">Below is an example of the configuration file, which instructs Checkov to softly fail on policies that have low or medium severity and read the external checks from the specified locations:</p>
+
+
+
+<p class="wp-block-paragraph">/.checkov.yaml:</p>
+
+
+
+<pre class="wp-block-code"><code>soft-fail-on:<br>  - LOW<br>  - MEDIUM<br><br>external-checks-dir:<br>- yml-checks/plan
+
+</code></pre>
+
+
+
+<h2 class="wp-block-heading">Custom policies</h2>
+
+
+
+<h3 class="wp-block-heading">YAML vs Python</h3>
+
+
+
+<p class="wp-block-paragraph">We can write custom policies in either YAML or Python. YAML works well for simple policies, while Python gives us the flexibility to handle more complex cases.</p>
+
+
+
+<h3 class="wp-block-heading">Scanning Terraform plan</h3>
+
+
+
+<p class="wp-block-paragraph">Checkov can scan the Terraform plan file; it is ideal to run it before applying the plan to ensure the changes don&#8217;t affect our infrastructure.</p>
+
+
+
+<p class="wp-block-paragraph">Example for YAML policy for Terraform plan that checks for open firewall rules:</p>
+
+
+
+<pre class="wp-block-code"><code>---
+metadata:
+  id: "RM_NET_001"
+  name: "No open firewall rules to or from 0.0.0.0/0 (ingress or egress)"
+  category: "NETWORKING"
+  severity: "HIGH"
+  guideline: "https://guide-url>"
+  description: "Blocks open firewall rules to or from 0.0.0.0/0."
+definition:
+  or:
+    - and:
+        - cond_type: attribute
+          resource_types:
+            - google_compute_firewall
+          attribute: allow
+          operator: is_empty
+        - cond_type: attribute
+          resource_types:
+            - google_compute_firewall
+          attribute: deny
+          operator: not_is_empty
+    - and:
+        - cond_type: attribute
+          resource_types:
+            - google_compute_firewall
+          attribute: source_ranges
+          operator: not_contains
+          value: 0.0.0.0/0
+        - cond_type: attribute
+          resource_types:
+            - google_compute_firewall
+          attribute: destination_ranges
+          operator: not_contains
+          value: 0.0.0.0/0
+
+</code></pre>
+
+
+
+<h3 class="wp-block-heading">Scanning Terraform code</h3>
+
+
+
+<p class="wp-block-paragraph">Checkov can also scan our Terraform code to ensure that it follows our standards.</p>
+
+
+
+<p class="wp-block-paragraph">Example of a YAML policy for Terraform code that prevents using <code>local-exec</code> and <code>remote-exec</code>:</p>
+
+
+
+<pre class="wp-block-code"><code>---
+metadata:
+  id: "RM_TF_002"
+  name: "Disallow use of local-exec and remote-exec provisioners"
+  category: "Supply Chain"
+  severity: "HIGH"
+  guideline: "https://guide-url&gt;"
+  description: "Blocks use of local-exec and remote-exec provisioners in Terraform code to prevent insecure or non-idempotent actions."
+definition:
+  cond_type: "attribute"
+  resource_types:
+    - "*"
+  attribute: "provisioner"
+  operator: "not_within"
+  value:
+    - "local-exec"
+    - "remote-exec"
+</code></pre>
+
+
+
+<h3 class="wp-block-heading">Policy as Code repository</h3>
+
+
+
+<p class="wp-block-paragraph">To manage our policies, we created a centralised repository that stores all policies in one place. Our Cloud Foundation team owns this repository and is responsible for defining and maintaining the policies as code.</p>
+
+
+
+<p class="wp-block-paragraph">Below is the policy-as-code repository structure:</p>
+
+
+
+<pre class="wp-block-code"><code>.
+├── code.checkov.yaml	# Checkov Config file for code scan job
+├── plan.checkov.yaml	# Checkov Config file for plan scan job
+│
+├── py-checks	# policies define using Python
+│&nbsp;&nbsp; ├── code &nbsp; &nbsp;# policies that scan TF code
+│&nbsp;&nbsp; │&nbsp;&nbsp; └── __init__.py
+│&nbsp;&nbsp; │&nbsp;&nbsp; └── RM_TF_002.py
+│&nbsp;&nbsp; └── plan &nbsp; &nbsp;# policies that scan TF plan
+│&nbsp;&nbsp;     └── __init__.py
+├── yml-checks	# policies define using YAML 
+│ &nbsp; &nbsp;├── code	# policies that scan TF code
+│ &nbsp; &nbsp;│&nbsp;&nbsp; └── RM_TF_001.yaml
+│ &nbsp; &nbsp;└── plan	# policies that scan TF plan
+│ &nbsp; &nbsp; &nbsp; &nbsp;├── iam
+│ &nbsp; &nbsp; &nbsp; &nbsp;│&nbsp;&nbsp; ├── RM_IAM_001.yaml
+│ &nbsp; &nbsp; &nbsp; &nbsp;│&nbsp;&nbsp; └── ...............
+│ &nbsp; &nbsp; &nbsp; &nbsp;└── networking
+│ &nbsp; &nbsp; &nbsp; &nbsp;│ &nbsp; &nbsp;└── RM_NET_001.yaml
+│ &nbsp; &nbsp; &nbsp; &nbsp;│ &nbsp; &nbsp;└── ............... 
+│ &nbsp; &nbsp; &nbsp; &nbsp;│.............................   
+├── tests	# all test cases for each policy 
+│&nbsp;&nbsp; ├── code	# test cases for the code policies
+│&nbsp;&nbsp; │&nbsp;&nbsp; └── modules
+│&nbsp;&nbsp; │&nbsp;&nbsp;     ├── fail   # test a fail scenarios
+│&nbsp;&nbsp; │&nbsp;&nbsp;     │&nbsp;&nbsp; └── RM_TF_001.tf.   # test the RM_TF_001 pocliy 
+│&nbsp;&nbsp; │&nbsp;&nbsp;     └── pass   # test a pass scenarios 
+│&nbsp;&nbsp; │&nbsp;&nbsp;         ├── RM_TF_001.tf &nbsp; &nbsp;# test the RM_TF_001 pocliy
+│ &nbsp; │ &nbsp; &nbsp;.............................  
+│  &nbsp;│
+│&nbsp;&nbsp; └── plan &nbsp; &nbsp;# test cases for the plan policies
+│ &nbsp; &nbsp; &nbsp; &nbsp;.............................   </code></pre>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h3 class="wp-block-heading">Testing</h3>
+
+
+
+<p class="wp-block-paragraph">Changing the Policy as Code repository is risky, as every update can affect all our Terraform pipelines. To avoid breaking changes slipping through, we need to test new or updated policies before they are rolled out. Checkov doesn’t come with a built-in testing framework, so we had to create something ourselves.</p>
+
+
+
+<p class="wp-block-paragraph">Our solution is a simple test setup. We maintain two folders: one containing Terraform examples that should <strong><em>pass</em></strong>, and another with examples that should <strong><em>fail</em></strong>. A test script runs `<code>terraform plan</code>` on these files and then executes all Checkov policies against them. The results are automatically verified so that files in the “pass” folder succeed and files in the “fail” folder fail. This provides a safety net that catches mistakes early and prevents broken policies from impacting engineers’ workflows.</p>
+
+
+
+<h3 class="wp-block-heading">Checkov pipeline </h3>
+
+
+
+<p class="wp-block-paragraph">We configured our GitLab pipelines to run Checkov scans on Terraform changes. When the infrastructure repositories that hold the Terraform code are updated, the pipeline triggers a Checkov job. This job clones the Policy-as-Code repository, which contains all our policies and configurations, and scans both the Terraform code and plans. Engineers get fast feedback, helping maintain standards before any changes are merged.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="592" data-attachment-id="3348" data-permalink="https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/policy-as-code-checkov-scan-step-2/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=5258%2C3042&amp;ssl=1" data-orig-size="5258,3042" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Policy as Code &amp;#8211; Checkov Scan step (2)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=1024%2C592&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&#038;ssl=1" alt="" class="wp-image-3348" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=2048%2C1185&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?w=3000&amp;ssl=1 3000w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+
+
+
+<h2 class="wp-block-heading">What&#8217;s next?</h2>
+
+
+
+<p class="wp-block-paragraph">Our Checkov setup was built with scalability in mind, and this first iteration scans both Terraform code and Terraform plans. We’ll continue to expand it by adding more policies as our needs grow.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Looking ahead, we plan to explore integration between Checkov and Prisma Cloud. This will enable us to integrate policies defined by the security team in Prisma and enforce them directly in our pipelines, providing engineers with early feedback while ensuring alignment across teams.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>We’re also considering enabling Checkov for Kubernetes. This would allow us to validate Kubernetes manifests against policies before they are applied, providing more control and helping protect our clusters from misconfigurations.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">More broadly, we see Policy as Code as a key capability for the future of our platform. It helps us enforce security practices, ensures that standards are consistently followed, and maintains the compliance and safety of our infrastructure. At the same time, it gives engineers confidence to contribute without the risk of accidentally breaking something.</p>
+<p>The post <a href="https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/">How we guard our infrastructure with Policy as Code</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3288</post-id>	</item>
+		<item>
+		<title>What an AI-assisted sprint really looks like </title>
+		<link>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/</link>
+					<comments>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahmad Mousavi]]></dc:creator>
+		<pubDate>Wed, 02 Jul 2025 07:40:08 +0000</pubDate>
+				<category><![CDATA[Rightmove]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[EngineeringCulture]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3215</guid>
+
+					<description><![CDATA[<p>In a recent experiment, a team conducted an AI-assisted sprint using Copilot to enhance their development process. The initiative aimed to explore how AI could support productivity while maintaining traditional agile practices</p>
+<p>The post <a href="https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/">What an AI-assisted sprint really looks like </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">About a month ago, fresh off the momentum of <a href="https://rightmove.blog/wp-content/uploads/2025/06/github-copilot-workshop-milton-keynes.jpeg">our Github Copilot hands-on workshop</a>, my brilliant engineers took on the challenge of running an AI-assisted sprint. For me, as an engineering manager, it was a great opportunity to observe how AI might actually support and enhance our ways of working. I was well aware of the sceptics and the not-so-positive noise around AI &#8220;taking over humanity&#8221;, but I didn’t want that to be the reason we avoided trying something new. At the end of the day, this was an experiment.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">To really put the AI to the test (<a href="https://github.com/features/copilot">Github Copilot</a>, to be specific), we picked a chunky feature that required a fair bit of effort across both the backend and frontend. My team includes three backend engineers, two frontend, one QA, a designer, a tech-savvy product manager, and me. (I’ll come back to how important the product manager’s personality turned out to be.) For the experiment, we formed a focused squad: one backend and two frontend engineers. </p>
+
+
+
+<p class="wp-block-paragraph">Before kicking things off, we had a short planning session and came up with three simple ground rules:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li>Use Copilot as much as possible.&nbsp;</li>
+
+
+
+<li>Log your experience daily on a Confluence page (prompts, pain points, tickets, observations, everything).&nbsp;</li>
+
+
+
+<li>Deliver as you normally would, but let AI help wherever it can.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">We kicked off the new sprint. Nothing felt different really. Stand-ups were business as usual, and all the standard rituals stayed in place; refinement, 3 Amigos, other syncs, we didn’t cancel a thing.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Fast forward 10 days, and it was time for our sprint review. For those that don’t know, this is the session that happens just before the retrospective, where we look back at our goals, the board, and what we’ve delivered. If there’s something to celebrate, we sing and dance. If there’s something to learn, we call it out, own it, and jot it down.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">How are we measuring productivity?&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Before jumping into the results, I think it’s worth explaining how we compared delivery rates with and without AI to get a more realistic picture. We use story points on our tickets to reflect complexity. The feature we picked for this experiment had been fully refined and pointed by the engineers beforehand.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">We also asked ourselves: for similar work, based on past sprints and with the same capacity (taking into account working days and sprint rituals), what would the typical velocity be for each engineer to complete the tickets?&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The backend engineer estimated around 10 story points per sprint for similar tasks. We posed the same question to the frontend engineers and captured their answers as well.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Speed meets complexity&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">The backend engineer delivered <strong>25 </strong>story points (a <strong>150</strong>% increase compared to their usual velocity).</p>
+
+
+
+<p class="wp-block-paragraph">The frontend engineers also reported a <strong>30</strong>% uplift in their development pace. </p>
+
+
+
+<p class="wp-block-paragraph">The reason we didn’t see the same level of progress on the frontend, despite having two people, was down to the complexity of the UI work. The components were much trickier for Copilot to get right. Engineers often had to switch between models, pause, clean up, and sometimes start again from scratch. And of course, the learning curve played a part too.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Syncing frontend and backend work&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Ideally, an agile team works together on a feature from start to finish, then moves on to the next and delivers value continuously. But when there’s an imbalance in frontend and backend velocity or bandwidth, the two disciplines can fall out of sync. It’s a challenge that needs addressing. You don’t want your backend engineers jumping onto new work while others are still playing catch-up.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Time to rethink&nbsp;QA for speed of delivery</h2>
+
+
+
+<p class="wp-block-paragraph">Another area that stood out was the QA process. </p>
+
+
+
+<p class="wp-block-paragraph">As our implementation pace picked up, it naturally led to more and more tickets piling up, waiting to be tested. It became clear that we need to scale our QA efforts and shift more towards <strong>automation</strong>.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">How the team embraced Copilot&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Some engineers were initially hesitant to use Copilot and that’s completely understandable. What’s interesting is that even the more sceptical ones are now using it confidently and without hesitation. There’s definitely a learning curve, but over time they will improve at crafting more tailored prompts and getting results that meet their standards.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Remember I mentioned the importance of your product manager at the start? Let me explain why that matters so much. </p>
+
+
+
+<p class="wp-block-paragraph">As engineering managers, we focus on creating a healthy, productive environment, removing blockers, ensuring technical quality, and helping the team grow. </p>
+
+
+
+<p class="wp-block-paragraph">But to truly deliver impact, we need a partner who understands the ‘why’ behind the work as much as we understand the ‘how’. That’s where a strong, curious, and tech-savvy product manager comes in.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">When you have that kind of PM next to you, the team operates with clarity and momentum. They help shape the vision, prioritise the right problems, and keep everyone anchored to the customer or consumer. They’re not just there to manage a backlog; they’re collaborators, sounding boards, and co-pilots (pun intended).&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In this experiment, I was lucky to work with exactly that kind of product partner. She was hands-on, keen to learn, and quick to adapt as the team gained more capacity with AI tools. We shared the wins and discussed the challenges together. That balance between product thinking and engineering execution made all the difference.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">And what about Copilot itself?</h2>
+
+
+
+<p class="wp-block-paragraph">AI is now like a new team member in the team, and it’s a welcome one. We agreed that there are certain types of tasks where AI can be incredibly helpful. Things like extending existing design patterns, adding new contracts, working on APIs and their documentation, or even doing version bumps. Engineers are happy to delegate these tasks to Copilot so they can focus on more complex and meaningful work.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">To help track this shift, we’ve also decided to use a <code>copilot</code> label in Jira whenever a ticket is mostly written by AI (over 70 percent for us). Engineers are encouraged to leave a comment on the ticket noting roughly what percentage of the work was done by AI. This gives us better visibility and helps inform future decisions about where AI support brings the most value.&nbsp;</p>
+<p>The post <a href="https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/">What an AI-assisted sprint really looks like </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3215</post-id>	</item>
+		<item>
+		<title>13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</title>
+		<link>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/</link>
+					<comments>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/#respond</comments>
+		
+		<dc:creator><![CDATA[Joe Stickings]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Software Engineering]]></category>
+		<category><![CDATA[Agent Mode]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Github]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=3204</guid>
+
+					<description><![CDATA[<p>Over the past few weeks, we ran two hands-on workshops with teams across Rightmove to explore how GitHub Copilot, specifically its Agent Mode, could support day-to-day engineering work.</p>
+<p>The post <a href="https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/">13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">Over the past few weeks, we ran two hands-on workshops with teams across Rightmove to explore how GitHub Copilot, specifically its <strong>Agent Mode</strong>, could support day-to-day engineering work.</p>
+
+
+
+<p class="wp-block-paragraph">The idea was simple: </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<figure class="wp-block-pullquote"><blockquote><p>take real Jira tickets, and solve them using&nbsp;<em>only prompts</em>, no keyboard coding allowed</p></blockquote></figure>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">From back-end engineers and front-end developers to product managers, QA&#8217;s, BA&#8217;s and app analysts — everyone got involved. Each team had an hour to tackle a ticket, then 20 minutes to present what worked, what didn’t, and what they learned.</p>
+
+
+
+<h3 class="wp-block-heading">Why we did it</h3>
+
+
+
+<p class="wp-block-paragraph">With AI tooling becoming increasingly embedded in the developer experience, we wanted to give our teams a chance to experiment in a structured but low-pressure environment. </p>
+
+
+
+<p class="wp-block-paragraph">These workshops were designed to help engineers and their cross-functional teammates build practical prompting skills, explore what GitHub Copilot Agent Mode can (and can’t) do, and see how it fits into their everyday workflows. </p>
+
+
+
+<p class="wp-block-paragraph">We were also keen to gather honest, real-world feedback to help us shape how we support AI adoption across different domains, especially as one of our key strategic pillars at Rightmove is to make AI part of our culture.  </p>
+
+
+
+<h3 class="wp-block-heading">How it was organised</h3>
+
+
+
+<p class="wp-block-paragraph">For both workshops, we tasked the teams and managers to identify some suitable Jira work items that could explore how effective Agent Mode was. We made sure there was a variety of work types; upgrades, bug fixes, tech debt and feature development across a mix of legacy and modern solutions.</p>
+
+
+
+<p class="wp-block-paragraph">We compiled these together on Miro boards for each session so individuals or pairs/groups could claim them then take notes. This allowed everyone to find something they were either comfortable with or wanted to learn about, minimise duplication then make notes on how the exercise went.</p>
+
+
+
+<h3 class="wp-block-heading">What went well</h3>
+
+
+
+<p class="wp-block-paragraph">Copilot proved genuinely helpful in a number of ways:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Speeding up small changes</strong>. Things like renaming constants, removing dead code, or generating unit tests were done quickly and cleanly.</li>
+
+
+
+<li><strong>Boilerplate generation</strong>. It handled repetitive patterns well, especially in newer projects with clear conventions.</li>
+
+
+
+<li><strong>Codebase exploration</strong>. Many participants found it useful to query Copilot about code they weren’t familiar with or ask for “explain like I’m a five year old” breakdowns.</li>
+
+
+
+<li><strong>Non-coding tasks</strong>. Writing acceptance criteria, structuring Jira stories, and generating documentation all came up as valuable use cases.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Where it struggled</h3>
+
+
+
+<p class="wp-block-paragraph">Naturally, it wasn’t perfect. Some common pain points emerged:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Lack of context</strong>. Copilot often struggled with project-specific conventions, outdated codebases, or legacy patterns.</li>
+
+
+
+<li><strong>Incorrect assumptions</strong>. It occasionally generated the wrong logic, placed code in the wrong location, or misunderstood what the user was asking for.</li>
+
+
+
+<li><strong>Tests and formatting</strong>. While it could generate tests, they weren’t always correct or aligned with our standards. Formatting could also be hit and miss.</li>
+
+
+
+<li><strong>Overcorrections</strong>. In some cases, Copilot made changes beyond the scope of the request, which reinforced the importance of clear, constrained prompts.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Lessons we’re taking forward</h3>
+
+
+
+<p class="wp-block-paragraph">Across both workshops, one with our Customer domain and one with Internal Product teams, some key themes have emerged so far:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Prompt engineering is a real skill.</strong>&nbsp;Copilot works best when you guide it firmly. Being explicit, giving it the right context, and even using tricks like “change nothing else” made a big difference.</li>
+
+
+
+<li><strong>Codebase health matters.</strong>&nbsp;Clean, modern, well-structured projects gave much better results than legacy code with unclear patterns.</li>
+
+
+
+<li><strong>It’s not just for engineers.</strong>&nbsp;Product managers and analysts also found value, particularly in generating user stories and understanding technical dependencies.</li>
+
+
+
+<li><strong>Adoption needs trust.</strong>&nbsp;People need to see the tool in action, warts and all, to build confidence in using it responsibly.</li>
+
+
+
+<li><strong>Choose the right model.</strong> Some models worked better than others, especially when it came to some specific prompts. Many engineers found Claude Sonnet 3.5 better than GPT-4.1 with initial attempts.</li>
+</ul>
+<p>The post <a href="https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/">13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3204</post-id>	</item>
+	</channel>
+</rss>
