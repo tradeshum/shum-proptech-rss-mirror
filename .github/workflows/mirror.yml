@@ -2,8 +2,13 @@ name: Mirror PropTech RSS feeds
 
 on:
   schedule:
-    # 05:45 UTC daily — 25 min before the SHUM PropTech Sources cloud routine runs at 06:10 UTC
-    - cron: "45 5 * * *"
+    # 22:13 UTC (~8h buffer before the SHUM PropTech Sources cloud routine's 06:10 UTC run).
+    # Moved earlier on 2026-09-04: the original 05:45 UTC slot left only ~25 min of buffer,
+    # and GitHub Actions' own scheduler delayed the first real run by ~4h11m (fired 09:56 UTC
+    # instead of 05:45) — a documented platform behavior for low-traffic public repos, not a
+    # misconfiguration. Off round-hour minute (:13) per GitHub's own recommendation to avoid
+    # top-of-hour queueing load.
+    - cron: "13 22 * * *"
   workflow_dispatch: {}
 
 permissions:
