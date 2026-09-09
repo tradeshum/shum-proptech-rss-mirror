@@ -23,8 +23,29 @@ jobs:
       - name: Fetch feeds
         run: |
           mkdir -p feeds
-          curl -sSL --max-time 30 -o feeds/techcrunch-proptech.xml "https://techcrunch.com/tag/proptech/feed/"
-          curl -sSL --max-time 30 -o feeds/rightmove-techblog.xml "https://rightmove.blog/feed/"
+          # 2026-09-09 fix: plain curl with no User-Agent was silently served a stale/
+          # cached response (likely CDN or bot-protection reacting to a non-browser
+          # client) — feed content was byte-identical for 6 days despite the sources
+          # posting normally. A realistic browser User-Agent + Accept header fixes this.
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" -o feeds/techcrunch-proptech.xml "https://techcrunch.com/tag/proptech/feed/"
+          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" -o feeds/rightmove-techblog.xml "https://rightmove.blog/feed/"
+
+      - name: Validate fetched feeds
+        run: |
+          # Fail loudly instead of silently committing a Cloudflare challenge page,
+          # an empty response, or other non-feed content as if it were real data.
+          for f in feeds/techcrunch-proptech.xml feeds/rightmove-techblog.xml; do
+            if [ ! -s "$f" ]; then
+              echo "ERROR: $f is empty" >&2
+              exit 1
+            fi
+            if ! grep -q "<rss" "$f" && ! grep -q "<feed" "$f"; then
+              echo "ERROR: $f does not look like a real RSS/Atom feed (no <rss> or <feed> tag found) — first 300 bytes:" >&2
+              head -c 300 "$f" >&2
+              exit 1
+            fi
+          done
 
       - name: Commit if changed
         run: |
