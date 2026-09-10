@@ -5,8 +5,8 @@ on:
     # 22:13 UTC (~8h buffer before the SHUM PropTech Sources cloud routine's 06:10 UTC run).
     # Moved earlier on 2026-09-04: the original 05:45 UTC slot left only ~25 min of buffer,
     # and GitHub Actions' own scheduler delayed the first real run by ~4h11m (fired 09:56 UTC
-    # instead of 05:45) — a documented platform behavior for low-traffic public repos, not a
-    # misconfiguration. Off round-hour minute (:13) per GitHub's own recommendation to avoid
+    # instead of 05:45) — a documented platform behavior for low-traffic public repos, not
+    # a misconfiguration. Off round-hour minute (:13) per GitHub's own recommendation to avoid
     # top-of-hour queueing load.
     - cron: "13 22 * * *"
   workflow_dispatch: {}
@@ -20,30 +20,54 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch feeds
+      # 2026-09-10 fix: each feed now fetches in its OWN step with continue-on-error, and
+      # retries on transient failures (curl's --retry-all-errors covers HTTP 429/5xx, not just
+      # connection-level errors). Root cause of the 2026-09-10 00:11 UTC failure: rightmove.blog
+      # returned 429 Too Many Requests on the very first run after the 2026-09-09 User-Agent
+      # fix — with both feeds fetched in one step and one validation gate before committing,
+      # that single 429 aborted the whole job and threw away a perfectly good TechCrunch fetch
+      # too. Splitting the steps means one feed's failure can never block the other's update.
+      - name: Fetch TechCrunch PropTech feed
+        id: fetch_techcrunch
+        continue-on-error: true
         run: |
           mkdir -p feeds
-          # 2026-09-09 fix: plain curl with no User-Agent was silently served a stale/
-          # cached response (likely CDN or bot-protection reacting to a non-browser
-          # client) — feed content was byte-identical for 6 days despite the sources
-          # posting normally. A realistic browser User-Agent + Accept header fixes this.
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" -o feeds/techcrunch-proptech.xml "https://techcrunch.com/tag/proptech/feed/"
-          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" -o feeds/rightmove-techblog.xml "https://rightmove.blog/feed/"
+          curl -sSL --max-time 30 --retry 3 --retry-delay 5 --retry-all-errors \
+            -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -o feeds/techcrunch-proptech.xml "https://techcrunch.com/tag/proptech/feed/"
 
-      - name: Validate fetched feeds
+      - name: Fetch Rightmove Tech Blog feed
+        id: fetch_rightmove
+        continue-on-error: true
         run: |
-          # Fail loudly instead of silently committing a Cloudflare challenge page,
-          # an empty response, or other non-feed content as if it were real data.
-          for f in feeds/techcrunch-proptech.xml feeds/rightmove-techblog.xml; do
-            if [ ! -s "$f" ]; then
-              echo "ERROR: $f is empty" >&2
-              exit 1
-            fi
-            if ! grep -q "<rss" "$f" && ! grep -q "<feed" "$f"; then
-              echo "ERROR: $f does not look like a real RSS/Atom feed (no <rss> or <feed> tag found) — first 300 bytes:" >&2
-              head -c 300 "$f" >&2
-              exit 1
+          mkdir -p feeds
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          # Longer retry-delay than TechCrunch — rightmove.blog is the one that 429'd, so back
+          # off harder specifically for it rather than hammering it 3x in quick succession.
+          curl -sSL --max-time 30 --retry 3 --retry-delay 10 --retry-all-errors \
+            -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -o feeds/rightmove-techblog.xml "https://rightmove.blog/feed/"
+
+      - name: Validate each feed independently
+        run: |
+          # A bad/missing feed is reverted to its last committed version and the job keeps
+          # going — never `exit 1`s the whole job over one feed, so a feed that DID fetch
+          # cleanly this run still gets committed even if the other one failed or came back
+          # empty/malformed (a Cloudflare challenge page, a 429 body, a truncated response).
+          for f in techcrunch-proptech.xml rightmove-techblog.xml; do
+            path="feeds/$f"
+            if [ ! -s "$path" ] || { ! grep -q "<rss" "$path" && ! grep -q "<feed" "$path"; }; then
+              echo "WARNING: $path is empty or not a real RSS/Atom feed — reverting to the last committed version instead of failing the job." >&2
+              if [ -f "$path" ]; then
+                echo "  First 300 bytes of the bad response:" >&2
+                head -c 300 "$path" >&2
+                echo >&2
+              fi
+              git checkout -- "$path" 2>/dev/null && echo "  Reverted $path to last committed version." \
+                || echo "  No prior committed version of $path to revert to (leaving as-is)."
+            else
+              echo "OK: $path validated"
             fi
           done
 
