@@ -1,0 +1,52 @@
+name: Diagnose RSS feed responses
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show runner egress IP
+        run: curl -sS https://ifconfig.me; echo
+
+      - name: TechCrunch — with browser UA (current mirror behavior)
+        run: |
+          echo "=== TechCrunch, with UA ==="
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -D - -o /tmp/tc_ua.xml "https://techcrunch.com/tag/proptech/feed/" | head -40
+          echo "--- first 500 bytes of body ---"
+          head -c 500 /tmp/tc_ua.xml
+          echo
+          echo "--- newest pubDate in body ---"
+          grep -o "<pubDate>[^<]*</pubDate>" /tmp/tc_ua.xml | head -3
+
+      - name: TechCrunch — no UA at all, cache-busting query param
+        run: |
+          echo "=== TechCrunch, no UA, cache-bust ==="
+          curl -sSL --max-time 30 -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -D - -o /tmp/tc_plain.xml "https://techcrunch.com/tag/proptech/feed/?cachebust=$(date +%s)" | head -40
+          echo "--- newest pubDate in body ---"
+          grep -o "<pubDate>[^<]*</pubDate>" /tmp/tc_plain.xml | head -3
+
+      - name: Rightmove — with browser UA (current mirror behavior)
+        run: |
+          echo "=== Rightmove, with UA ==="
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          curl -sSL --max-time 30 -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -D - -o /tmp/rm_ua.xml "https://rightmove.blog/feed/" | head -40
+          echo "--- newest pubDate in body ---"
+          grep -o "<pubDate>[^<]*</pubDate>" /tmp/rm_ua.xml | head -3
+
+      - name: Rightmove — no UA, cache-busting query param
+        run: |
+          echo "=== Rightmove, no UA, cache-bust ==="
+          curl -sSL --max-time 30 -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+            -D - -o /tmp/rm_plain.xml "https://rightmove.blog/feed/?cachebust=$(date +%s)" | head -40
+          echo "--- newest pubDate in body ---"
+          grep -o "<pubDate>[^<]*</pubDate>" /tmp/rm_plain.xml | head -3
+
+      - name: Compare body hashes across all 4 variants
+        run: |
+          md5sum /tmp/tc_ua.xml /tmp/tc_plain.xml /tmp/rm_ua.xml /tmp/rm_plain.xml
