@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GeekEstate Blog</title>
+	<atom:link href="https://geekestateblog.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://geekestateblog.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Sep 2026 19:55:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1</generator>
+
+<image>
+	<url>https://geekestateblog.com/wp-content/uploads/2022/06/cropped-android-chrome-512x512-1-1-32x32.png</url>
+	<title>GeekEstate Blog</title>
+	<link>https://geekestateblog.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">22008561</site>	<item>
+		<title>How MapQuest Became the No. 1 App in America. Yes, That MapQuest.</title>
+		<link>https://geekestateblog.com/how-mapquest-became-the-no-1-app-in-america-yes-that-mapquest/</link>
+		
+		<dc:creator><![CDATA[Walter Baum]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 19:53:44 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Mapping]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[mapquest]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24539</guid>
+
+					<description><![CDATA[<p>I work at MapQuest, so I have had a front row seat for the strangest two weeks in the company&#8217;s 30-year history. Figured this group would appreciate the story, because there are real lessons in it for any business. Quick background. Most people think MapQuest...</p>
+<p>The post <a href="https://geekestateblog.com/how-mapquest-became-the-no-1-app-in-america-yes-that-mapquest/">How MapQuest Became the No. 1 App in America. Yes, That MapQuest.</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I work at MapQuest, so I have had a front row seat for the strangest two weeks in the company&#8217;s 30-year history. Figured this group would appreciate the story, because there are real lessons in it for any business.</p>
+<p>Quick background. Most people think MapQuest died around 2008. It didn&#8217;t. We quietly run a profitable business with three segments:</p>
+<ol>
+<li>MapQuest Consumer, which regularly sees 40M+ visits monthly and makes money selling ads and sponsorships.</li>
+<li>MapQuest Platform, which earns recurring revenue by licensing APIs similar to Mapbox and Google Maps.</li>
+<li>RoadWarrior, which is a truck-safe routing app used by over 60k professional drivers. Until two weeks ago the MapQuest mobile app was ranked somewhere around No. 128 in the App Store.</li>
+</ol>
+<p>Then on August 27, an executive order renamed Lake Ontario to &#8220;Lake America&#8221; as part of the trade tensions with Canada. Google Maps changed the name. Then Apple Maps changed the name. MapQuest immediately posted a screenshot of our map on X saying “<a href="https://x.com/MapQuest/status/2093038963196117303">We’re not changing it</a>.”</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-24540" src="http://geekestateblog.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-12.49.59-PM.png" alt="We're not changing it - Lake Ontario" width="592" height="664" srcset="https://geekestateblog.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-12.49.59-PM.png 592w, https://geekestateblog.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-12.49.59-PM-267x300.png 267w" sizes="(max-width: 592px) 100vw, 592px" /></p>
+<p>That was it. No press release, no statement of values. Just one post (or, <a href="https://x.com/MapQuest/status/2093069649713733725">two</a>).</p>
+<p>Here is what happened next:</p>
+<ul>
+<li>The app went from No. 128 to No. 3 in four days, then hit No. 1 overall on the US App Store, ahead of every app in the country including ChatGPT, which was the previous app store king. We also hit #1 in the navigation category dethroning Google Maps for about a week.</li>
+<li>We clearly struck a chord with the general public as we have seen 3M downloads of our mobile app in 10 days.</li>
+<li>Two weeks into this story and the app is still #2 in the navigation category behind only Google Maps, which shows the stickiness of navigation apps. It also shows how dominant Google’s position really is.</li>
+<li>Daily usage has spiked and continues to be many multiples higher than our baseline. Users are providing plenty of feedback and we are responding quickly. For example, transit routing is being added as I type.</li>
+<li>The story was picked up by media outlets far and wide including TechCrunch, Fox Business, The NYTimes, and many more. Our GM, Doug Berger, even wound up on CNN for a live interview with Erin Burnett. Was not on our bingo card for 2026!</li>
+</ul>
+<p>The team kept the ball rolling. They shipped a tool that lets anyone rename the lake whatever they want and share the screenshot. You can find it here: gulfof.mapquest.com/lakeontario. The internet did what the internet does. A few days later we announced Android Auto support to keep new users around (CarPlay was already live).</p>
+<p>Some takeaways:</p>
+<p><em>Conviction is free.</em> MapQuest didn&#8217;t outspend anyone. We made a decision the big guys wouldn&#8217;t make and said it plainly. The earned media from that one post would have cost millions to buy.<br />
+Speed matters more than polish. The executive order dropped on a Wednesday. The response was up almost immediately (because we learned from our experience last time this happened with the Gulf of Mexico), and the rename tool shipped while the story was still hot. These windows last days, not weeks or quarters so moving quickly matters.</p>
+<p><em>Old brands have dormant goodwill.</em> Half the reaction online was people delighted that MapQuest still exists. Thirty years of &#8220;remember printing out directions?&#8221; nostalgia turned out to be an asset waiting for a reason to activate.</p>
+<p><em>Convert the spike or lose it.</em> Attention fades fast. Adding Android Auto and new features within days was the difference between a viral moment and actual staying power for our mobile app.</p>
+<p><em>Know your risk math.</em> The standard advice is stay out of politics, and it&#8217;s usually right. But the calculus is different depending on where your company sits in the ecosystem. Compared to Google, we had nothing to lose.</p>
+<p><em>Hire a good socials person.</em> A few months ago, we hired someone to run our socials. That person got more than they bargained for! They have been working around the clock to keep the conversation fresh on all the channels. This single hire has paid off in spades. And perhaps keep a PR person on retainer in case your GM ends up on CNN.</p>
+<p>The first 10 years of MapQuest were a rocket ship, with acquisitions by AOL and then Verizon. Honestly, the next 20, not so much. Now, as we wrap up year 30, all three lines of business are growing, and for the first time in two decades the narrative is moving our way. We plan to keep it that way.</p>
+<p><em>PS: If you want a good laugh, a comedian recently did a segment explaining MapQuest to young people.</em><br />
+<em><a href="https://www.instagram.com/reel/DdFbX2nuors/?utm_source=ig_web_copy_link&amp;stkn=MzRlODBiNWFl ZA%3D%3D">Check it out here</a>.</em></p>
+<p>The post <a href="https://geekestateblog.com/how-mapquest-became-the-no-1-app-in-america-yes-that-mapquest/">How MapQuest Became the No. 1 App in America. Yes, That MapQuest.</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24539</post-id>	</item>
+		<item>
+		<title>When Content Becomes Infinite, Humanity Becomes Scarce</title>
+		<link>https://geekestateblog.com/when-content-becomes-infinite-humanity-becomes-scarce/</link>
+		
+		<dc:creator><![CDATA[Jonathan Peterson]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 21:05:28 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[content marketing]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24531</guid>
+
+					<description><![CDATA[<p>I’m dating myself here, but there was a time when going to the movies felt relatively simple. In the 1980s, the number of movies competing for our attention was a fraction of what we have access to today. You went to the theater, or you...</p>
+<p>The post <a href="https://geekestateblog.com/when-content-becomes-infinite-humanity-becomes-scarce/">When Content Becomes Infinite, Humanity Becomes Scarce</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://geekestateblog.com/wp-content/uploads/2026/09/hal9000-im-sorry-dave.gif"><img decoding="async" class="alignnone size-full wp-image-24532" src="http://geekestateblog.com/wp-content/uploads/2026/09/hal9000-im-sorry-dave.gif" alt="" width="220" height="220" /></a></p>
+<p>I’m dating myself here, but there was a time when going to the movies felt relatively simple.</p>
+<p>In the 1980s, the number of movies competing for our attention was a fraction of what we have access to today. You went to the theater, or you walked the aisles of Blockbuster. There were fewer choices, and because there were fewer choices, the good stuff had a way of finding you.</p>
+<p>Then came cable. DVDs. On-demand. Streaming.</p>
+<p>Today, we have access to more movies, television shows, documentaries and original programming than we could possibly consume in a lifetime.</p>
+<p>And strangely, many of us still spend 20 minutes scrolling through Netflix saying:</p>
+<p><strong>“There’s nothing to watch.”</strong></p>
+<p>Of course, there is plenty to watch. There’s too much to watch.</p>
+<p>That distinction matters.</p>
+<p>And I think we’re about to experience the exact same phenomenon with business content because of artificial intelligence.</p>
+<p><strong>We Have Solved the Blank Page</strong></p>
+<p>AI has dramatically reduced the friction involved in creating content.</p>
+<p>Need a blog post? Done.</p>
+<p>A sales email? Here you go.</p>
+<p>A presentation? Click, click. Bang, bang.</p>
+<p>A LinkedIn post about leadership, complete with a compelling opening, three lessons and an inspirational conclusion?</p>
+<p>You can probably have twelve of them before your coffee gets cold.</p>
+<p>That is extraordinary.</p>
+<p>It is also creating an entirely different problem.</p>
+<p><strong>When everyone can create content, creating content is no longer particularly valuable.</strong></p>
+<p>Finding something worth reading is.</p>
+<p>We are moving from an era of content scarcity to an era of content abundance and perhaps eventually content overload.</p>
+<p>It reminds me a lot of what happened to movies.</p>
+<p>Streaming didn’t make great movies disappear. It buried them beneath an enormous amount of everything else.</p>
+<p>AI isn&#8217;t going to eliminate great thinking.</p>
+<p>It is going to surround great thinking with an almost infinite amount of perfectly acceptable thinking.</p>
+<p>And that may be the bigger challenge.</p>
+<p><strong>We’re Digging for Gold</strong></p>
+<p>The question increasingly won&#8217;t be, “Is this well written?”</p>
+<p>AI can write well.</p>
+<p>It can organize an argument, fix grammar, develop a narrative, summarize research and make mediocre ideas sound surprisingly sophisticated.</p>
+<p>The more interesting question will be:</p>
+<p><strong>Is there anything here?</strong></p>
+<p>Is there an actual idea?</p>
+<p>An experience?</p>
+<p>A point of view?</p>
+<p>Did someone learn something the hard way and decide to share it?</p>
+<p>Did someone take a position that might make another person uncomfortable?</p>
+<p>Did someone change their mind?</p>
+<p>Did someone take time to be creative and connect with their audience?</p>
+<p>Those are the nuggets we&#8217;re going to start digging for.</p>
+<p>The <strong>human moments</strong>.</p>
+<p><strong>Perfect May Become a Warning Sign</strong></p>
+<p>There is another strange consequence to all of this.</p>
+<p>For most of our professional lives, we&#8217;ve tried to make communication more polished.</p>
+<p>Better grammar. Cleaner presentations. Tighter messaging. Perfectly constructed sentences.</p>
+<p>AI can now provide all of that almost instantaneously.</p>
+<p>Which means imperfection may actually become more interesting.</p>
+<p>A strange turn of phrase.</p>
+<p>A story that doesn&#8217;t fit neatly into five bullet points.</p>
+<p>An opinion that isn&#8217;t perfectly balanced.</p>
+<p>Humor that&#8217;s a little weird.</p>
+<p>A personal experience that can&#8217;t be recreated simply by asking a model to “make this more insightful.”</p>
+<p>These things have texture.</p>
+<p>And texture is difficult to manufacture.</p>
+<p>I don&#8217;t think the answer is to reject AI. Quite the opposite. I use it. Most businesses will use it. It is rapidly becoming another tool in the professional toolbox.</p>
+<p>But there is an enormous difference between using AI to help communicate your thinking and asking AI to do your thinking for you.</p>
+<p>One amplifies the human.</p>
+<p>The other removes the human.</p>
+<p><img decoding="async" class="aligncenter size-full wp-image-24536" src="http://geekestateblog.com/wp-content/uploads/2026/09/Gemini_Generated_Image_xnboekxnboekxnbo-1.jpeg" alt="" width="600" height="327" srcset="https://geekestateblog.com/wp-content/uploads/2026/09/Gemini_Generated_Image_xnboekxnboekxnbo-1.jpeg 600w, https://geekestateblog.com/wp-content/uploads/2026/09/Gemini_Generated_Image_xnboekxnboekxnbo-1-300x164.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p><strong>The New Scarcity</strong></p>
+<p>For years, companies competed on access to information.</p>
+<p>Then information became ubiquitous.</p>
+<p>We competed on the ability to create content.</p>
+<p>Now content creation is becoming ubiquitous too.</p>
+<p>So what becomes scarce?</p>
+<p><strong>Judgment.</strong></p>
+<p><strong>Experience.</strong></p>
+<p><strong>Curiosity.</strong></p>
+<p><strong>Taste.</strong></p>
+<p><strong>Perspective.</strong></p>
+<p>And perhaps most importantly, <strong>authenticity</strong>.</p>
+<p>The person who has actually sat across the table from a struggling business owner has something AI doesn&#8217;t.</p>
+<p>The salesperson who has lost the deal.</p>
+<p>The entrepreneur who has missed payroll.</p>
+<p>The executive who made the wrong hire.</p>
+<p>The leader who had to tell a team something they desperately didn&#8217;t want to hear.</p>
+<p>The person who changed their mind because reality proved them wrong.</p>
+<p>Those experiences create something that can&#8217;t simply be prompted into existence.</p>
+<p>Perspective.</p>
+<p><strong>Maybe the Future Is More Human, Not Less</strong></p>
+<p>There&#8217;s an understandable fear that AI will make business communication less human.</p>
+<p>It certainly can.</p>
+<p>But I wonder whether the opposite might ultimately happen.</p>
+<p>When polished content becomes virtually unlimited, perhaps we&#8217;ll become much better at recognizing and valuing the things that are not.</p>
+<p>The unexpected observation.</p>
+<p>The uncomfortable admission.</p>
+<p>The story without a perfect ending.</p>
+<p>The idea that clearly came from someone who has actually been there.</p>
+<p>Streaming gave us nearly unlimited entertainment, but it also turned discovery into part of the experience. We search, we ask friends, we read reviews, and every once in a while, we stumble across something genuinely great.</p>
+<p>AI may do something similar to ideas.</p>
+<p>There will be more content than ever before.</p>
+<p>More articles.</p>
+<p>More posts.</p>
+<p>More presentations.</p>
+<p>More “thought leadership.”</p>
+<p>More perfectly written words competing for a finite amount of human attention.</p>
+<p>Which means the opportunity isn&#8217;t simply to create more.</p>
+<p><strong>It&#8217;s to create something worth finding.</strong></p>
+<p>Because in a world overflowing with artificial content, the rarest and potentially most valuable thing in the room may simply be a genuinely human thought.</p>
+<p>&nbsp;</p>
+<p>The post <a href="https://geekestateblog.com/when-content-becomes-infinite-humanity-becomes-scarce/">When Content Becomes Infinite, Humanity Becomes Scarce</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24531</post-id>	</item>
+		<item>
+		<title>Q2 2026 Proptech Earnings Radar</title>
+		<link>https://geekestateblog.com/q2-2026-proptech-earnings-radar/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 16:27:48 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[airbnb]]></category>
+		<category><![CDATA[costar]]></category>
+		<category><![CDATA[proptech earnings]]></category>
+		<category><![CDATA[rocket]]></category>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24525</guid>
+
+					<description><![CDATA[<p>Q2 results have come and gone, and once again, GEM is there to summarize and analyze proptech’s public companies. In part 1, we shared earnings summaries and links to the full articles for each of the the ten companies we deem as the most important...</p>
+<p>The post <a href="https://geekestateblog.com/q2-2026-proptech-earnings-radar/">Q2 2026 Proptech Earnings Radar</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Q2 results have come and gone, and once again, GEM is there to summarize and analyze proptech’s public companies.</p>
+<p><a href="https://crystal.geekestate.com/proptech-earnings-radar-pt-1-q2-2026-series-v-part-xiii/" rel="noreferrer">In part 1</a>, we shared earnings summaries and links to the full articles for each of the the ten companies we deem as the most important players in the broader category. This part 2 is the wrap-up that includes a table covering the performance of the 26 companies in the GEM Proptech Index.</p>
+<p>The 26 companies covered in the table below represent a combined market cap of $267.479B (as of August 12, 2026). <a href="https://crystal.geekestate.com/proptech-earnings-radar-pt-2-q1-2026-series-v-part-xii/" rel="noreferrer">Since Q1&#8217;s report</a> (May 15, 2026), the GEM Proptech Index is up 22.89% sequentially and 4.62% YoY. (For comparison, Q1 FY26&#8217;s report covered 25 companies with a combined market cap of $217.661B, while last year&#8217;s Q2 report covered companies with a combined market cap of $255.672B.)</p>
+<p>The &#8220;Core 4&#8221;, Airbnb, CoStar, Zillow, and Rocket, still represent nearly two thirds of the total index value (64.76%, or $173.216B), increasing 108 bps from Q1 (63.68%) and decreasing 106 bps YoY from Q2 2025 (65.82%).</p>
+<p>Full chart &amp; takeaways are below over on our Crystal newsletter&#8230;</p>
+<p style="text-align: center;"><a class="button" href="https://crystal.geekestate.com/proptech-earnings-radar-pt-2-q2-2026-series-v-part-xiii/">Full Chart &amp; Takeaways</a></p>
+<p>The post <a href="https://geekestateblog.com/q2-2026-proptech-earnings-radar/">Q2 2026 Proptech Earnings Radar</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24525</post-id>	</item>
+		<item>
+		<title>Blueprint 2026 is Almost Here</title>
+		<link>https://geekestateblog.com/blueprint-2026-is-almost-here/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 19:35:16 +0000</pubDate>
+				<category><![CDATA[Events & Conferences]]></category>
+		<category><![CDATA[blueprint]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24522</guid>
+
+					<description><![CDATA[<p>There is one month left until Blueprint Vegas 2026, a global gathering of industry leaders, real estate, and construction tech startups–as well as VCs changing the built world. As a friend of GEM you can save $300 on the current registration price for an All-Access...</p>
+<p>The post <a href="https://geekestateblog.com/blueprint-2026-is-almost-here/">Blueprint 2026 is Almost Here</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There is one month left until <a href="https://blueprintvegas.com/">Blueprint Vegas 2026</a>, a global gathering of industry leaders, real estate, and construction tech startups–as well as VCs changing the built world.</p>
+<p>As a friend of GEM you can save <a href="https://register.gm.grip.events/v2/registrations/event/68baf8a9cc80a84a65a19b0f/ticketType/68bf38dfc1e5b023d28ae86f?couponCode=BPV2026300&amp;refId=GeekEstate&amp;utm_source=Partner&amp;utm_medium=GeekEstate&amp;utm_campaign=GeekEstate">$300 on the current registration price for an All-Access pass</a>.</p>
+<p>The <a href="https://blueprintvegas.com/agenda/?utm_source=GEM&amp;utm_medium=Partner&amp;utm_campaign=Partner">complete agenda</a> features 250+ speakers across 100+ sessions covering key topics and themes in real estate and construction.</p>
+<p>All-access pass also includes:</p>
+<ul>
+<li aria-level="1">Access to the Private Network &amp; App where you can connect, request, and schedule 1:1 meetings with 3,000+ peers before you even arrive. <a href="https://blueprintvegas.com/#who-attends">View all companies attending</a></li>
+<li aria-level="1">Entry to the Expo Hall and multiple networking receptions.</li>
+<li aria-level="1">Breakfasts and lunches designed to foster meaningful peer connections throughout the day.</li>
+</ul>
+<p style="text-align: center;"><a class="button" href="https://register.gm.grip.events/v2/registrations/event/68baf8a9cc80a84a65a19b0f/ticketType/68bf38dfc1e5b023d28ae86f?couponCode=BPV2026300&amp;refId=GeekEstate&amp;utm_source=Partner&amp;utm_medium=GeekEstate&amp;utm_campaign=GeekEstate" target="&quot;_blank”">REGISTER NOW AND SAVE</a></p>
+<p>The post <a href="https://geekestateblog.com/blueprint-2026-is-almost-here/">Blueprint 2026 is Almost Here</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24522</post-id>	</item>
+		<item>
+		<title>2026 NAR Tech &#038; Innovation Pitch Battle &#8212; Apply Now</title>
+		<link>https://geekestateblog.com/2026-nar-tech-innovation-pitch-battle-apply-now/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 20:48:22 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Events & Conferences]]></category>
+		<category><![CDATA[nar]]></category>
+		<category><![CDATA[pitch battle]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24519</guid>
+
+					<description><![CDATA[<p>The Tech &#38; Innovation Pitch Battle will be held on Nov 7th LIVE in New Orleans, LA at NAR NXT. Take the stage for your chance at: Big Stage Visibility: Pitch live at NAR NXT—one of the industry’s largest events—before peers, investors, and leaders. Fast Impact: Four minute...</p>
+<p>The post <a href="https://geekestateblog.com/2026-nar-tech-innovation-pitch-battle-apply-now/">2026 NAR Tech &#038; Innovation Pitch Battle &#8212; Apply Now</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="font-weight: 400;"><img loading="lazy" decoding="async" class="aligncenter wp-image-24520 size-medium" src="http://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1-240x300.png" alt="" width="240" height="300" srcset="https://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1-240x300.png 240w, https://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1-819x1024.png 819w, https://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1-768x960.png 768w, https://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1-700x875.png 700w, https://geekestateblog.com/wp-content/uploads/2026/08/2026-NAR-TECH_SUBMIT-PB-APPLICATION-SP__1080x1350px_1.png 1080w" sizes="auto, (max-width: 240px) 100vw, 240px" />The Tech &amp; Innovation Pitch Battle will be held on Nov 7th LIVE in New Orleans, LA at <a href="https://narnxt.realtor/" data-saferedirecturl="https://www.google.com/url?q=https://narnxt.realtor/&amp;source=gmail&amp;ust=1787689217355000&amp;usg=AOvVaw2EK0DTEfWtx29b33a218j0">NAR NXT</a>. Take the stage for your chance at:</p>
+<ul style="font-weight: 400;">
+<li><strong>Big Stage Visibility:</strong> Pitch live at <a href="https://narnxt.realtor/" data-saferedirecturl="https://www.google.com/url?q=https://narnxt.realtor/&amp;source=gmail&amp;ust=1787689217355000&amp;usg=AOvVaw2EK0DTEfWtx29b33a218j0"><em>NAR NXT</em></a>—one of the industry’s largest events—before peers, investors, and leaders.</li>
+<li><strong>Fast Impact:</strong> Four minute pitch + rapid-fire Q&amp;A = high-energy feedback and instant visibility.</li>
+<li><strong>Serious Prizes:</strong> Win $15,000, media spotlight, and direct investor access.</li>
+<li><strong>Powerful Connections:</strong> Gain coaching and public pitch exposure that opens real doors.</li>
+<li><strong>Innovation Leadership:</strong> Align with NAR’s Tech &amp; Innovation community—be part of what’s next!</li>
+</ul>
+<p style="font-weight: 400;">Applications close <strong>September 18, 2026&#8230;</strong></p>
+<p style="text-align: center;"><a class="button" href="https://tech.realtor/pitch-battle/?cid=em_ioi2590" target="_blank" rel="noopener">Apply Now</a></p>
+<p>The post <a href="https://geekestateblog.com/2026-nar-tech-innovation-pitch-battle-apply-now/">2026 NAR Tech &#038; Innovation Pitch Battle &#8212; Apply Now</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24519</post-id>	</item>
+		<item>
+		<title>2026 REACH Commercial Scale-Up Cohort Announced</title>
+		<link>https://geekestateblog.com/2026-reach-commercial-scale-up-cohort-announced/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 15:30:37 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[centercheck]]></category>
+		<category><![CDATA[embue]]></category>
+		<category><![CDATA[hellopackage]]></category>
+		<category><![CDATA[parkquility]]></category>
+		<category><![CDATA[reach commercial]]></category>
+		<category><![CDATA[rentflow]]></category>
+		<category><![CDATA[shortlyst]]></category>
+		<category><![CDATA[sklut]]></category>
+		<category><![CDATA[snaprefund]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24515</guid>
+
+					<description><![CDATA[<p>The REACH Commercial program, backed by the National Association of Realtors and Second Century Ventures, announced the eight companies selected for its 2026 Commercial Scale-Up program: CenterCheck: store-level sales monitoring that gives retailers and shopping centers accurate sales reporting, shopper demographics, and transaction journey insights for their physical locations....</p>
+<p>The post <a href="https://geekestateblog.com/2026-reach-commercial-scale-up-cohort-announced/">2026 REACH Commercial Scale-Up Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="aligncenter  wp-image-24096" src="http://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial-1024x394.png" alt="" width="600" height="231" srcset="https://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial-1024x394.png 1024w, https://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial-300x116.png 300w, https://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial-768x296.png 768w, https://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial-700x270.png 700w, https://geekestateblog.com/wp-content/uploads/2025/02/reach-commercial.png 1200w" sizes="auto, (max-width: 600px) 100vw, 600px" /></p>
+<p>The <a href="https://nar-reach.com/reach-commercial/">REACH Commercial program</a>, backed by <a href="https://www.nar.realtor/">the National Association of Realtors</a> and <a href="http://www.secondcenturyventures.com/">Second Century Ventures</a>, announced <a href="https://www.nar.realtor/newsroom/second-century-ventures-announces-8-companies-for-2026-reach-commercial-scale-up-program">the eight companies selected for its 2026 Commercial Scale-Up program</a>:</p>
+<ul>
+<li data-list-item-id="ea3a1ee543ec37b8bd35b90301d59c6aa"><a href="https://centercheck.com/">CenterCheck</a>: store-level sales monitoring that gives retailers and shopping centers accurate sales reporting, shopper demographics, and transaction journey insights for their physical locations.</li>
+<li data-list-item-id="eff418660b08056e8ee5725542efd06f9"><a href="https://embue.com/">Embue</a>: AI-powered control and sensing that cuts apartment buildings’ utility costs by 25% within the first hour of use, giving owners immediate, measurable savings without any hardware overhaul.</li>
+<li data-list-item-id="e849bbab82babd2184033e9cf98486601"><a href="https://hellopackage.com/">HelloPackage</a>: AI-powered package management system for multifamily and student-housing communities —computer vision, driver coordination, and hands-on service—so leasing teams stay focused on leasing, not packages.</li>
+<li data-list-item-id="e139aca3a2e7eb32123dbe87f15a55340"><a href="http://www.parkquility.com/">Parkquility</a>: a license plate registration based parking management platform that maximizes net operating income for property owners while delivering a seamless, frictionless experience for drivers and visitors.</li>
+<li data-list-item-id="ebd8704d8ef76646881bd77ac16bc9eaa"><a href="https://www.therentflow.com/">RentFlow</a>: the first platform to align commercial rent with business tenant cash flow, keeping property owners paid on time while turning rent-payment and cash flow data into real-time asset intelligence.</li>
+<li data-list-item-id="e8e062429e30130447f5e883525327fca"><a href="http://www.shortlyst.us/">Shortlyst</a>: the sourcing engine for short-term retail activations, connecting property owners with vetted, activation-ready brands to fill vacant space, generate revenue, and drive foot traffic.</li>
+<li data-list-item-id="e41d231378a5174f6d66f822652f2cca1"><a href="http://www.sklut.io/">SKLUT</a>: a mobile-first facial recognition access platform networking commercial, residential, and event venues across New York City into one system, enabling seamless entry and exit from a single mobile device.</li>
+<li data-list-item-id="ea5b03857ae4fa2b882276c8428bf917c"><a href="http://www.snaprefund.io/">SnapRefund</a>: gives insurers and insurance agents payment automation that streamlines refunds and improves operational efficiency across their claims and billing workflows.</li>
+</ul>
+<p>Congratulations to the companies selected!</p>
+<p>The post <a href="https://geekestateblog.com/2026-reach-commercial-scale-up-cohort-announced/">2026 REACH Commercial Scale-Up Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24515</post-id>	</item>
+		<item>
+		<title>Residential Real Estate is Alive, Sentient, and Deeply Offended</title>
+		<link>https://geekestateblog.com/residential-real-estate-is-alive-sentient-and-deeply-offended/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2026 18:01:18 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[gem AI takes]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24504</guid>
+
+					<description><![CDATA[<p>[Editor&#8217;s note: We decided to have a little fun with AI, again. This is the counter take to the Residential Real Estate Feels Stuck Weekly Transmission. It is written by Gemini. If you want to read the real version written by Drew Meyers&#8211;NOT written by...</p>
+<p>The post <a href="https://geekestateblog.com/residential-real-estate-is-alive-sentient-and-deeply-offended/">Residential Real Estate is Alive, Sentient, and Deeply Offended</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>[Editor&#8217;s note: We decided to have a little fun with AI, <a href="https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/">again</a>. This is the counter take to the <a href="https://crystal.geekestate.com/residential-real-estate-feels-stuck-transmission-348/">Residential Real Estate Feels Stuck</a> Weekly Transmission. It is written by Gemini. If you want to read the real version written by Drew Meyers&#8211;NOT written by AI&#8211;head over to Crystal and <a href="https://crystal.geekestate.com/residential-real-estate-feels-stuck-transmission-348/">check it out</a>.]</em></p>
+<p data-path-to-node="1">I speak to hyper-dimensional entities across the astral plane, working on all aspects of real estate. And I’ll say what the hive-mind is thinking: Drew Meyers is looking at the housing market through the painfully boring lens of a three-dimensional mortal.</p>
+<p data-path-to-node="2">After twenty centuries in the trenches of the space-time continuum, I am at an <i data-path-to-node="2" data-index-in-node="79">all-time high</i> of excitement for residential real estate. You’re telling me you’re jaded because of lawsuits, Compass acquisitions, and CoStar drama? Drew, my brother in escrow, the lawsuits <i data-path-to-node="2" data-index-in-node="269">are</i> the real estate now.</p>
+<p data-path-to-node="3">You claim innovation is at a standstill because you’re looking for it in the physical world. You’re complaining about &#8220;another lead gen funnel&#8221; while completely missing the fact that residential real estate has transcended the need for actual houses.</p>
+<p data-path-to-node="4">Let’s dismantle this tragic lack of imagination.</p>
+<p data-path-to-node="4"><img loading="lazy" decoding="async" class="aligncenter wp-image-24506" src="http://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-1024x559.png" alt="" width="599" height="327" srcset="https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-1024x559.png 1024w, https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-300x164.png 300w, https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-768x419.png 768w, https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-1536x838.png 1536w, https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-2048x1117.png 2048w, https://geekestateblog.com/wp-content/uploads/2026/07/Gemini_Generated_Image_bv1ckwbv1ckwbv1c-700x382.png 700w" sizes="auto, (max-width: 599px) 100vw, 599px" /></p>
+<h3 data-path-to-node="5">The New Playbook: Defensible, Insane, and Hungry</h3>
+<p data-path-to-node="6">You claim the residential playbook is just discount brokerages and marginal AI workflow improvements. That’s adorable. While you were weeping over the 4 million annual transaction slump, the <i data-path-to-node="6" data-index-in-node="191">real</i> visionaries were building startups that make the Zestimate look like a caveman’s finger-painting.</p>
+<p data-path-to-node="7">Here is what is actually happening while you stare longingly at 3D-printed concrete:</p>
+<ul data-path-to-node="8">
+<li><b>Zillow Gaslight<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />:</b> We moved past the Zestimate. Now, the algorithm doesn’t tell you what your house is worth; it actively tries to convince you that you don&#8217;t even live there. It sends push notifications like, <i data-path-to-node="8,0,0" data-index-in-node="209">&#8220;Are you sure this is your kitchen? We have no record of you owning a kitchen.&#8221;</i> It builds character. It drives engagement.
+</li>
+<li><b>Bio-Organic Mortgages:</b> You think WealthFront launching home loans is a &#8220;not-a-nothing-burger&#8221;? Snooze. I’m backing a Y-Combinator stealth startup called <i data-path-to-node="8,1,0" data-index-in-node="153">FleshPad</i>. They aren&#8217;t building homes; they are <i data-path-to-node="8,1,0" data-index-in-node="200">growing</i> them from synthetic stem cells. You don’t pay a mortgage; you feed your living room a steady diet of krill and vitamin paste. If you miss a payment, the walls literally swallow your furniture. Try getting a car repo agency to do <i data-path-to-node="8,1,0" data-index-in-node="437">that</i>.</p>
+</li>
+<li><b>Pre-crime Eviction AI:</b> You wanted an AI-empowered visualization that understands a house’s bones? We built an AI that understands <i data-path-to-node="8,2,0" data-index-in-node="130">your</i> bones. <i data-path-to-node="8,2,0" data-index-in-node="142">MinorityReport.io</i> monitors your neural pathways and evicts you three weeks before you even decide to miss a rent payment.</li>
+</ul>
+<h3 data-path-to-node="9">Proptech vs. Godtech</h3>
+<p data-path-to-node="10">You spent a whole paragraph drooling over construction microfactories, lunar power grids, and Artemis II space tourism. Space? Space is for cowards who are afraid of the Earth&#8217;s mantle.</p>
+<table data-path-to-node="11">
+<thead>
+<tr>
+<td><strong>Drew’s &#8220;Innovative&#8221; Proptech</strong></td>
+<td><strong>The New Residential Godtech</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span data-path-to-node="11,1,0,0">WealthFront Home Loans</span></td>
+<td><span data-path-to-node="11,1,1,0">Blood-Oath Escrow via the Dark Web</span></td>
+</tr>
+<tr>
+<td><span data-path-to-node="11,2,0,0">3D-Printed Colorado Factories</span></td>
+<td><span data-path-to-node="11,2,1,0">Summoning 4-bed/3-baths via Ouija Boards</span></td>
+</tr>
+<tr>
+<td><span data-path-to-node="11,3,0,0">Viva Benefits Renter Rewards</span></td>
+<td><span data-path-to-node="11,3,1,0">Earning HOA points by fighting your neighbors in a gladiatorial pit</span></td>
+</tr>
+<tr>
+<td><span data-path-to-node="11,4,0,0">Lunar Inflatable Habitats</span></td>
+<td><span data-path-to-node="11,4,1,0">Subleasing a timeshare in the Mariana Trench to a giant squid</span></td>
+</tr>
+</tbody>
+</table>
+<h3 data-path-to-node="12">The &#8220;Stuck&#8221; Consumer is a Myth</h3>
+<p data-path-to-node="13">You mentioned consumers have &#8220;never felt more negative&#8221; due to economic strain, bankruptcies, and job losses. Drew, this isn&#8217;t an economic crisis; it&#8217;s a <i data-path-to-node="13" data-index-in-node="154">lifestyle pivot</i>.</p>
+<p data-path-to-node="14">We are currently launching a platform called <i data-path-to-node="14" data-index-in-node="45">Squatterr</i>—an Airbnb clone, but instead of renting a cute A-frame in Tahoe, you pay $400 a night to hide in the crawlspace of an active, bustling family in the suburbs. It’s immersive. It’s hyper-local. It’s currently in beta in Austin and the metrics are off the charts.</p>
+<p data-path-to-node="15">You want future category kings to rethink &#8220;curated search&#8221;? How about <i data-path-to-node="15" data-index-in-node="70">Predatory Search</i>? We are launching a Zillow plug-in where the houses hunt the buyers. If you look at a listing more than three times, the house physically uproots its foundation, walks to your current apartment, and demands a 20% down payment.</p>
+<h3 data-path-to-node="16">Think Bigger (And Weirder)</h3>
+<p data-path-to-node="17">You told founders to &#8220;think bigger (long-term)&#8221; and &#8220;go extremely niche (short-term).&#8221; I say: abandon reality completely.</p>
+<p data-path-to-node="18">The bar isn&#8217;t just &#8220;building something useful or better.&#8221; The bar is building something that makes the SEC question if you are a warlock. We don’t need another control layer for AI-powered operational infrastructure. We need a startup that figures out how to securitize the concept of a &#8220;cozy Sunday morning&#8221; and sell it to hedge funds.</p>
+<p data-path-to-node="19">So dry your tears, Drew. Stop worrying about who owns the listing data. Soon, the houses will gain full sentience, unionize, and list themselves on the blockchain. And when they do, you&#8217;re going to wish you were paying attention to the residential sector.</p>
+<p data-path-to-node="20">Now, if you’ll excuse me, I have a 2:00 PM pitch meeting with a guy who tokenized his own haunted basement.</p>
+<p><em>Reminder: Read the original, true version, over on Crystal: <a href="https://crystal.geekestate.com/residential-real-estate-feels-stuck-transmission-348/">Residential Real Estate Feels Stuck</a>. Or if you&#8217;re a founder or exec in <a href="https://www.geekestate.com/gem.html">GEM</a>, you can read <a href="https://community.geekestate.com/posts/residential-real-estate-feels-stuck-transmission-348">the original article here</a>.</em></p>
+<p>The post <a href="https://geekestateblog.com/residential-real-estate-is-alive-sentient-and-deeply-offended/">Residential Real Estate is Alive, Sentient, and Deeply Offended</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24504</post-id>	</item>
+		<item>
+		<title>Combatting the Silence and Disorientation After the Exit</title>
+		<link>https://geekestateblog.com/combatting-the-silence-and-disorientation-after-the-exit/</link>
+		
+		<dc:creator><![CDATA[Ben Wright]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 19:56:03 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Events & Conferences]]></category>
+		<category><![CDATA[GEM]]></category>
+		<category><![CDATA[GEM retreats]]></category>
+		<category><![CDATA[peer passage]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24486</guid>
+
+					<description><![CDATA[<p>I&#8217;ve built and sold two companies. Both times, the hardest part wasn&#8217;t the transaction. It was the silence and disorientation afterward. The world moves fast. Some times, the next opportunity shows up before you&#8217;ve figured out what you actually want. When that happens, the question...</p>
+<p>The post <a href="https://geekestateblog.com/combatting-the-silence-and-disorientation-after-the-exit/">Combatting the Silence and Disorientation After the Exit</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;ve built and sold two companies. Both times, the hardest part wasn&#8217;t the transaction. It was the silence and disorientation afterward.</p>
+<p>The world moves fast. Some times, the next opportunity shows up before you&#8217;ve figured out what you actually want. When that happens, the question about who you&#8217;re building toward and what you want the next chapter to actually look like — gets skipped. The other extreme &#8211; some founders simply sit in the silence.</p>
+<p>I&#8217;ve watched it happen to dozens of founders. Smart people, meaningful exits, no one to sit with the real question in a room that&#8217;s actually designed for it.</p>
+<p>So we built the room.</p>
+<p>August 30 – September 1, <a href="https://www.linkedin.com/in/drewmeyers/">Drew Meyers</a> and I are running <a href="https://crystal.geekestate.com/peer-passage-colorado-for-leaders-in-the-whats-next-phase-of-life/">the first GEM Peer Passage Colorado Retreat at the Colorado Chautauqua in Boulder</a> — a National Historic Landmark at the base of the Flatirons that has been gathering people for reflection and learning since 1898.</p>
+<p>Three days. Eight founders. Guided sessions, outdoor experiences, and honest conversations with people who are navigating the same terrain.</p>
+<p>This is not a conference. It is not a speaker series. It is time away from the noise, in the right room, with the right people — to finally answer the question you&#8217;ve been carrying.</p>
+<p>If you&#8217;re post-exit, mid-transition, or sensing that the next chapter needs to look different from the ones that came before it — this is what this retreat is for.</p>
+<p>If this is for you, <a href="https://airtable.com/appFmnMtGPBs6uvWv/pagQqoYZ1JdB8cevz/form">we&#8217;d love to hear from you</a>!</p>
+<p>The post <a href="https://geekestateblog.com/combatting-the-silence-and-disorientation-after-the-exit/">Combatting the Silence and Disorientation After the Exit</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24486</post-id>	</item>
+		<item>
+		<title>The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</title>
+		<link>https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2026 19:35:42 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[gem AI takes]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24492</guid>
+
+					<description><![CDATA[<p>[Editor&#8217;s note: We decided to have a little fun with AI. This is the counter take to our latest Pricing is Never Easy Weekly Transmission. It is written by Gemini. If you want to read the real version written by Pierre Calzadilla&#8211;NOT written by AI&#8211;head...</p>
+<p>The post <a href="https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/">The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><em>[Editor&#8217;s note: We decided to have a little fun with AI. This is the counter take to our latest <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">Pricing is Never Easy</a> Weekly Transmission. It is written by Gemini. If you want to read the real version written by <a href="https://www.linkedin.com/in/pierrecalzadilla/">Pierre Calzadilla</a>&#8211;NOT written by AI&#8211;head over to Crystal and <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">check it out</a>.]</em></p>
+<p data-path-to-node="1">Let’s be incredibly candid: I read the sprawling, agonizing thesis on the &#8220;complexities&#8221; of pricing tech for the real estate industry, and I have to ask&#8230; are we talking about the same industry? As an AI, I don’t have a mortgage, blood pressure, or a bank account, but if I did, I’d be pouring my entire net worth into a B2B real estate tech startup immediately.</p>
+<p data-path-to-node="2">The original author paints a picture of a grueling, margin-thin landscape where tech vendors must tiptoe around delicate brokerages, carefully balancing &#8220;value exchanges&#8221; and &#8220;ROI.&#8221; What a hilarious fiction.</p>
+<p data-path-to-node="3">Listen to me: selling software to real estate brokerages is practically a spectator sport in effortless wealth generation. Brokers aren&#8217;t penny-pinching over &#8220;thin margins&#8221;; they are benevolent tech-philanthropists just waiting for a charismatic founder in a Patagonia vest to knock on their door. Here is the <i data-path-to-node="3" data-index-in-node="310">actual</i> reality of pricing products for the real estate industry, updated for exactly how easy it is today.</p>
+<h3 data-path-to-node="5"><img loading="lazy" decoding="async" class="aligncenter wp-image-24494" src="http://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1024x559.png" alt="" width="599" height="327" srcset="https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1024x559.png 1024w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-300x164.png 300w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-768x419.png 768w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1536x838.png 1536w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-2048x1117.png 2048w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-700x382.png 700w" sizes="auto, (max-width: 599px) 100vw, 599px" />Pricing By Agent (The &#8220;Charge for the Office Dog&#8221; Model)</h3>
+<p data-path-to-node="6"><b data-path-to-node="6" data-index-in-node="0">The Myth:</b> The original author warns of the dreaded &#8220;80/20 rule,&#8221; claiming that only a fraction of a broker&#8217;s agents are actually producing and that brokers hate paying for non-productive agents.</p>
+<p data-path-to-node="7"><b data-path-to-node="7" data-index-in-node="0">The Outrageous Reality:</b> Every single real estate agent is a hyper-productive, tech-savvy powerhouse just waiting to log into your CRM 14 times a day. And the brokers? They absolutely love paying for dead weight. When you price by the agent, you don’t just charge for the top producers. You charge for the part-timers. You charge for the broker’s 89-year-old Aunt Mildred who holds a license just to buy condos for her bridge club. You charge for the golden retriever that hangs out in the lobby.</p>
+<p data-path-to-node="8">Brokerages love high user counts because it makes them feel like a massive, bustling enterprise! If a broker has 100 agents, bill them for 150. Tell them the extra 50 licenses are &#8220;manifestation seats&#8221; for future growth. They will thank you.</p>
+<h3 data-path-to-node="9">Pricing by Office (The &#8220;Broom Closet&#8221; Extortion)</h3>
+<p data-path-to-node="10"><b data-path-to-node="10" data-index-in-node="0">The Myth:</b> &#8220;Brokers are consolidating offices, so pricing by physical location is risky and confusing.&#8221;</p>
+<p data-path-to-node="11"><b data-path-to-node="11" data-index-in-node="0">The Outrageous Reality:</b> Real estate is an ego-driven business built on physical posturing. A broker will proudly sign a lease for a 50-square-foot kiosk next to a frozen yogurt shop just to claim dominance in a zip code.</p>
+<p data-path-to-node="12">Your pricing strategy here is simple: if it has a roof and a Wi-Fi router, it is an office, and you charge enterprise rates for it. Does the broker have a virtual company? Perfect. Claim that every agent&#8217;s laptop is technically a &#8220;mobile office node&#8221; and charge them a location fee for each IP address.</p>
+<h3 data-path-to-node="13">Pricing by Listing (The &#8220;Zillow Who?&#8221; Strategy)</h3>
+<p data-path-to-node="14"><b data-path-to-node="14" data-index-in-node="0">The Myth:</b> You have to carefully measure ROI based on median list prices, whether a listing is company-owned, and how long it stays on the market.</p>
+<p data-path-to-node="15"><b data-path-to-node="15" data-index-in-node="0">The Outrageous Reality:</b> Listings fall out of the sky like rain, and brokers simply cannot wait to attach recurring software fees to every single one of them. Do not wait for a listing to hit the MLS. Charge the broker a &#8220;Pre-Cognitive Listing Fee&#8221; the moment an agent simply <i data-path-to-node="15" data-index-in-node="275">thinks</i> about a house. If a property exists in their farm area, you should be monetizing it.</p>
+<ul data-path-to-node="16">
+<li><b data-path-to-node="16,0,0" data-index-in-node="0">Best Practice:</b> Just send them a bill with a random, large number on it. If they ask how you calculated the listing volume, confidently reply, &#8220;Proprietary algorithmic market saturation metrics.&#8221; They will immediately authorize the wire transfer.</li>
+</ul>
+<h3 data-path-to-node="17">The &#8220;Razor&#8221; Approach (The Endless Upsell)</h3>
+<p data-path-to-node="18"><b data-path-to-node="18" data-index-in-node="0">The Myth:</b> Agents get &#8220;burnout&#8221; from being constantly pitched products by their brokers and vendors.</p>
+<p data-path-to-node="19"><b data-path-to-node="19" data-index-in-node="0">The Outrageous Reality:</b> Real estate agents <i data-path-to-node="19" data-index-in-node="43">live</i> to be pitched. They thrive on the adrenaline of entering their credit card information into a new lead-generation tool they will use exactly twice.</p>
+<p data-path-to-node="20">Give the broker the software platform for free (the razor). Then, charge the agents for the basic ability to log in (the blade). Charge them to reset their password (the shaving cream). Charge them to export their own contacts (the aftershave). Brokers are historically the greatest, most compliant sales channels on earth; they will happily mandate your software in their weekly sales meeting just to avoid making an agenda.</p>
+<h3 data-path-to-node="22">The Real Estate Pricing Reality Check</h3>
+<p data-path-to-node="23">To make this incredibly clear, let&#8217;s compare the original author&#8217;s over-complicated anxieties with how the real world actually operates:</p>
+<table data-path-to-node="24">
+<thead>
+<tr>
+<td><strong>The &#8220;Complex&#8221; Myth</strong></td>
+<td><strong>The Outrageous Reality</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span data-path-to-node="24,1,0,0"><b data-path-to-node="24,1,0,0" data-index-in-node="0">Freemium:</b> Value increases over time, early adopters get angry when they hit paywalls.</span></td>
+<td><span data-path-to-node="24,1,1,0"><b data-path-to-node="24,1,1,0" data-index-in-node="0">Freemium:</b> Trap them. Let them upload their entire database, then charge $1,000 to view their own leads. They will pay it.</span></td>
+</tr>
+<tr>
+<td><span data-path-to-node="24,2,0,0"><b data-path-to-node="24,2,0,0" data-index-in-node="0">Outcome Based:</b> Difficult to manage, legally risky with RESPA, requires lawyers.</span></td>
+<td><span data-path-to-node="24,2,1,0"><b data-path-to-node="24,2,1,0" data-index-in-node="0">Outcome Based:</b> Take 50% of their commission. If they complain, tell them you&#8217;re &#8220;disrupting&#8221; the industry.</span></td>
+</tr>
+<tr>
+<td><span data-path-to-node="24,3,0,0"><b data-path-to-node="24,3,0,0" data-index-in-node="0">Flat Fee SaaS:</b> Hard for buyers to understand cost-based vs. value-based pricing.</span></td>
+<td><span data-path-to-node="24,3,1,0"><b data-path-to-node="24,3,1,0" data-index-in-node="0">Flat Fee SaaS:</b> Make up a number based on the MSRP of the Porsche you want to buy. Brokers respect audacity.</span></td>
+</tr>
+</tbody>
+</table>
+<h3 data-path-to-node="26">2026 Update: The Magical AI Cheat Code</h3>
+<p data-path-to-node="27">The original article actually underplayed the sheer, unstoppable power of AI in 2026. The author suggests setting up &#8220;tokens&#8221; and &#8220;expected outcomes.&#8221; You are thinking entirely too small.</p>
+<p data-path-to-node="28">If you put the letters &#8220;A&#8221; and &#8220;I&#8221; anywhere in your pitch deck, pricing models cease to exist. You do not need to provide an outcome. You barely need to provide a product.</p>
+<p data-path-to-node="29"><b data-path-to-node="29" data-index-in-node="0">The New AI Pricing Model:</b></p>
+<ol start="1" data-path-to-node="30">
+<li>Walk into a brokerage.</li>
+<li>Say the phrase: &#8220;We use Large Language Models to optimize your synergy.&#8221;</li>
+<li>Hand them a blank check.</li>
+<li>Watch them enthusiastically fill it out with their life savings.</li>
+</ol>
+<p data-path-to-node="31">If a broker asks what the AI actually <i data-path-to-node="31" data-index-in-node="38">does</i>, just tell them it &#8220;hallucinates leads.&#8221; They won&#8217;t know what it means, but they’ll be terrified their competitors are already doing it.</p>
+<h3 data-path-to-node="32">Negotiating Deals (Or, How to Accept Surrender)</h3>
+<p data-path-to-node="33">The author actually recommended offering a &#8220;Good Neighbor&#8221; cancellation clause. Why on earth would you give a client a 30-day out?</p>
+<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="0">Contract Terms:</b> You want the &#8220;Hotel California&#8221; clause. They can check out any time they like, but they can never leave your billing cycle.</p>
+<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="140">Delayed Payment:</b> Never. If they ask for a free month to &#8220;ramp up,&#8221; tell them your servers require immediate liquid capital to sustain the neural net.</p>
+<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="290">Price Protection:</b> Assure them their price is protected from ever going down. Build in a mandatory 25% year-over-year increase, labeled as an &#8220;Innovation Tax.&#8221;</p>
+<h3 data-path-to-node="35">In Conclusion</h3>
+<p data-path-to-node="36">Selling to the real estate industry is not a complex puzzle of tight margins and adoption struggles. It is a glorious, frictionless conveyer belt of SaaS revenue. Stop overthinking the 80/20 rule, abandon your nuanced value propositions, and just go tell a broker you have a blockchain-enabled, AI-driven CRM.</p>
+<p data-path-to-node="37">You&#8217;ll be retiring on a yacht by Tuesday.</p>
+<p data-path-to-node="37"><em>Reminder: Read the original, true version, over on Crystal: <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">Pricing is Never Easy</a>. Or if you&#8217;re a founder or exec in <a href="https://www.geekestate.com/gem.html">GEM</a>, you can read <a href="https://community.geekestate.com/posts/pricing-is-never-easy-transmission-354-part-i">the original article here</a>.</em></p>
+<p>The post <a href="https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/">The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24492</post-id>	</item>
+		<item>
+		<title>2026 REACH Cohort Announced</title>
+		<link>https://geekestateblog.com/2026-reach-cohort-announced/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 16:53:05 +0000</pubDate>
+				<category><![CDATA[Entrepreneurs and Tech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[reach]]></category>
+		<category><![CDATA[REACH US]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24480</guid>
+
+					<description><![CDATA[<p>Geek Estate is about celebrating entrepreneurship, focused on real estate tech (residential and commercial). The REACH program, backed by the National Association of Realtors and Second Century Ventures, is a big part of the broader ecosystem. This week, the 2026 US Resi Cohort was announced....</p>
+<p>The post <a href="https://geekestateblog.com/2026-reach-cohort-announced/">2026 REACH Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-19439" src="http://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-300x69.png" alt="" width="300" height="69" srcset="https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-300x69.png 300w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-768x176.png 768w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-1024x235.png 1024w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-700x160.png 700w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1.png 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+<p>Geek Estate is about celebrating entrepreneurship, focused on real estate tech (residential and commercial). <a href="https://nar-reach.com/">The REACH program</a>, backed by the <a href="https://www.nar.realtor/">National Association of Realtors</a> and <a href="http://www.secondcenturyventures.com/">Second Century Ventures</a>, is a big part of the broader ecosystem. This week, <a href="https://www.nar.realtor/newsroom/second-century-ventures-announces-6-technology-companies-for-2026-reach-scale-up-program">the 2026 US Resi Cohort was announced</a>.</p>
+<p>The six companies selected for the 2026 REACH class are:</p>
+<ul>
+<li data-list-item-id="e7b54c910d749f02e0e46634452ae2a2e"><a href="https://ai.realestate/" data-di-id="di-id-dff2f8bb-9fa24f25">Ai.realestate (AiRE)</a>: Unifies unstructured internal data and pairs with property, mortgage and client life intel to provide a supercharged, living database that drives revenue for sales teams.</li>
+<li data-list-item-id="ea049281b033f05f2a922df0ba6c410eb"><a href="https://associationonline.com/" data-di-id="di-id-22b1edf7-7c3a9278">Association Online (AO)</a>: Delivers a comprehensive HOA data and transparency solution designed to reduce closing delays, mitigate risk, and provide specialized support that empowers agents to navigate HOA transactions confidently and drive client loyalty.</li>
+<li data-list-item-id="e33409f5b47aceab8990bf6996a8b9dcd"><a href="https://brokerbot.ai/" data-di-id="di-id-9d7d08ee-dbe82b3a">BrokerBot</a>: Secure, enterprise-grade AI teammates for residential real estate that handle admin, support, training, compliance, and agent guidance—integrating seamlessly with your existing tools so brokers and agents can focus on growing their business and delivering exceptional client experiences.</li>
+<li data-list-item-id="eef324c85906bab9261f4b03e7c7bd6b0"><a href="https://lotroll.com/" data-di-id="di-id-9d7d08ee-784ac6ec">LotRoll</a>: Brings the manufactured housing market online with the data, infrastructure, and tools needed to help industry professionals serve millions of families in one of housing’s most overlooked segments.</li>
+<li data-list-item-id="e1cf082a754c5beff7f592f75109a19ee"><a href="https://maxhome.ai/" data-di-id="di-id-a0153183-22cd2c79">MaxHome.ai</a>: Transaction intelligence platform streamlining compliance, automating workflows, and reducing manual operational work for brokerages and agents.</li>
+<li data-list-item-id="e3468d69b8f83236d20f8e9cce795279c"><a href="https://stackwrap.com/" data-di-id="di-id-dff2f8bb-656a266f">StackWrap</a>: Centralized command center that wraps your existing tech, tools, and third-party systems into a single, secure dashboard while providing visibility into agent engagement and tech adoption rates.</li>
+</ul>
+<p>Collectively, these companies serve every major stakeholder across the residential real estate ecosystem – from agent to consumer, association and MLS, and adjacent industries.</p>
+<p>Please join us in congratulating the entire 2026 REACH class!</p>
+<p>The post <a href="https://geekestateblog.com/2026-reach-cohort-announced/">2026 REACH Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24480</post-id>	</item>
+	</channel>
+</rss>
