@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 12 Sep 2026 02:18:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Sep 2026 23:29:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>DSCR loans are booming amid fragmented underwriting standards</title>
+		<link>https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/</link>
+					<comments>https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2026 23:29:33 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Investment Properties]]></category>
+		<category><![CDATA[Mortgage Fraud]]></category>
+		<category><![CDATA[Non-QM]]></category>
+		<category><![CDATA[Real Estate Investing]]></category>
+		<category><![CDATA[Underwriting]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=602613</guid>
+
+					<description><![CDATA[<p>After rampant fraud in Baltimore made headlines, underwriting guidelines and elevated fraud risks have the market on high alert</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/dscr-loans-volume-growth-fraud-risks-underwriting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">602613</post-id>	</item>
+		<item>
+		<title>Housing market faces headwinds as mortgage rates move above 7%</title>
+		<link>https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/</link>
+					<comments>https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2026 21:18:36 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New listings]]></category>
+		<category><![CDATA[Purchase Applications]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=602634</guid>
+
+					<description><![CDATA[<p>Mortgage spreads continue to soften the blow amid Iran conflict</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-market-faces-headwinds-as-mortgage-rates-move-above-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">602634</post-id>	</item>
+		<item>
 		<title>Zillow faces shareholder lawsuit over Redfin deal</title>
 		<link>https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/</link>
 					<comments>https://www.housingwire.com/articles/zillow-shareholder-lawsuit-redfin-deal/#respond</comments>
@@ -204,49 +252,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">602503</post-id>	</item>
-		<item>
-		<title>25 years after 9/11, Homes for Heroes has given back nearly $200M</title>
-		<link>https://www.housingwire.com/articles/25-years-after-9-11-homes-for-heroes-has-given-back-nearly-200m/</link>
-					<comments>https://www.housingwire.com/articles/25-years-after-9-11-homes-for-heroes-has-given-back-nearly-200m/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Fri, 11 Sep 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Homebuyers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=602356</guid>
-
-					<description><![CDATA[<p>As the organization marks its 25th anniversary, leaders are focused on expanding beyond the transaction</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/25-years-after-9-11-homes-for-heroes-has-given-back-nearly-200m/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">602356</post-id>	</item>
-		<item>
-		<title>Providence rent stabilization push springs back to post-primary life</title>
-		<link>https://www.housingwire.com/articles/providence-rent-stabilization-debate/</link>
-					<comments>https://www.housingwire.com/articles/providence-rent-stabilization-debate/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Thu, 10 Sep 2026 21:00:22 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Rhode Island]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=602494</guid>
-
-					<description><![CDATA[<p>Morales enters the general election as the favorite, and says rent stabilization will be an early priority for City Hall</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/providence-rent-stabilization-debate/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">602494</post-id>	</item>
 	</channel>
 </rss>
