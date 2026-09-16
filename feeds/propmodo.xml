@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Mon, 14 Sep 2026 23:26:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Sep 2026 15:51:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,102 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>There Is No Longer a Reason to Wait to Upgrade Your Access Control</title>
+		<link>https://propmodo.com/there-is-no-longer-a-reason-to-wait-to-upgrade-your-access-control/</link>
+		
+		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 15:44:21 +0000</pubDate>
+				<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Smart Buildings]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Access Control]]></category>
+		<category><![CDATA[allegion]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181447</guid>
+
+					<description><![CDATA[<p>Building owners have been slow to upgrade access control out of fear of investing in technology that will soon be obsolete, but the current generation of hardware was designed to solve that problem.</p>
+<p>The post <a href="https://propmodo.com/there-is-no-longer-a-reason-to-wait-to-upgrade-your-access-control/">There Is No Longer a Reason to Wait to Upgrade Your Access Control</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Access control has changed more in the past twenty years than in the two centuries before it. Physical keys gave way to magnetic stripe cards, then proximity fobs, then smartphone credentials delivered over Bluetooth, and now digital wallets and biometrics are arriving in the mainstream. That pace of innovation has been good for security, good for convenience, and genuinely difficult for building owners trying to decide when to invest. The fear is straightforward and reasonable. Commit to a system today, and there is a real chance something better arrives before the hardware has paid for itself.</p>
+
+
+
+<p class="wp-block-paragraph">That fear was well founded for a long time. It is considerably less so now, because the manufacturers building this equipment have spent the last several years engineering around exactly that problem. &#8220;The locking mechanism has been around for centuries,&#8221; said Jason Newland, Business Development Manager of National Accounts and Multifamily Access Control Software at Allegion. &#8220;We just needed to create plug and play new tech that could be added onto that.&#8221; The mechanical portion of a lock is stable technology. What changes is the credential layer, the way a person proves they are authorized to open it, and modern hardware is designed to treat that layer as replaceable rather than permanent.</p>
+
+
+
+<p class="wp-block-paragraph">Allegion now produces locks with <a href="https://commercial.schlage.com/en/solutions/by-family/xe360-series-wireless-locks-and-exit-trim.html" target="_blank" rel="noreferrer noopener">“Flex Modules,” upgradable chips in the locks that allow for technology changes as standards evolve,</a> which means that the mechanical hardware stays in the door while future proofing an access control system. This new capability changes the economics of an upgrade decision. Replacing the electronic components inside an installed lock is a fundamentally different project than removing and reinstalling hardware across hundreds of doors, both in cost and in disruption to residents or tenants.</p>
+
+
+
+<p class="wp-block-paragraph">Technology will change, that much is inevitable. The industry is watching a potential shift from Bluetooth to real-time wifi as the primary communication protocol for access control, which would improve responsiveness and reliability but requires different radio hardware. Further out, wearables are both moving toward mainstream viability in ways that would change what a reader needs to do. With the new plug and play design even a complete change of technology can be solved with a simple chip swap.</p>
+
+
+
+<p class="wp-block-paragraph">The second misconception slowing owners down is the assumption that an upgrade means converting an entire property at once to the most advanced available technology. &#8220;People are so afraid of access control because they are worried about investing in the wrong technology,&#8221; Newland said. &#8220;The reality is that you can stairstep the improvements. You don&#8217;t have to go from lock and key to biometrics, there are lots of steps in between.&#8221; A phased approach spreads capital expense across budget cycles and, more importantly, lets an owner learn how a system performs in their building before committing to it everywhere.</p>
+
+
+
+<p class="wp-block-paragraph">The perimeter is usually a good starting point. Exterior doors and main entries carry the highest security value and affect every person who uses the building, which makes them the place where an upgrade delivers the most immediate benefit. From there, an owner can extend the upgrades into resident controlled spaces as well as into amenity spaces, common areas, and parking garages. Each phase informs the next, and problems surface at a scale where they can be corrected rather than replicated across a whole property.</p>
+
+
+
+<p class="wp-block-paragraph">Phasing also happens to be good change management. Residents and residents encounter a new credential system in one place first, learn how it works, and build comfort with it before it governs access to their own space. That gradual introduction tends to produce far fewer problems and far less resistance than a property-wide changeover.</p>
+
+
+
+<p class="wp-block-paragraph">What the right level of security actually looks like varies enough between properties that it deserves genuine thought rather than a default specification. Every building serves a different population with different expectations, and the tension is always between security and convenience. A building needs to feel safe without feeling restrictive. &#8220;People don&#8217;t want to think that any delivery person can get into their building, but they also don&#8217;t want to go down five stories to meet their DoorDash delivery driver outside the building,&#8221; Newland said. That balance is a design decision, not a technology decision, and getting it wrong in either direction produces complaints.</p>
+
+
+
+<p class="wp-block-paragraph">Resident expectations are also moving faster than many owners assume, which changes the calculus on waiting. &#8220;Students are pushing the envelope,&#8221; Newland said. &#8220;They have a lot of choices and they want the bleeding edge of tech.&#8221; Student housing has become an unusually competitive market where a dated access system is a visible disadvantage during tours. But the expectation is not limited to young residents. &#8220;Even senior housing has started to have really good adoption,&#8221; Newland said. &#8220;People of every age are really getting more comfortable using tech.&#8221; The assumption that older residents will resist mobile credentials has not held up in practice, and operators who have delayed upgrades on that basis have generally been working from an outdated read of their own population.</p>
+
+
+
+<p class="wp-block-paragraph">The logic of waiting for the next generation of access control made sense when hardware was monolithic and an upgrade meant a decade-long commitment to a single technology. That is no longer the situation. Leading access control manufacturers are building hardware with open architecture that can be upgraded as technology changes, even if that upgrade comes from a different brand. This means that the best time to upgrade any access control system is now…as long as it is designed in a way to allow interoperability that will prevent the equipment from needing to be replaced anytime soon.</p>
+<p>The post <a href="https://propmodo.com/there-is-no-longer-a-reason-to-wait-to-upgrade-your-access-control/">There Is No Longer a Reason to Wait to Upgrade Your Access Control</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/12/apartments-tech-centralization.jpg" />	</item>
+		<item>
+		<title>Data Center Debt Pushes CMBS Investors Into Uncharted Territory</title>
+		<link>https://propmodo.com/data-center-debt-pushes-cmbs-investors-into-uncharted-territory/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 03:10:34 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181456</guid>
+
+					<description><![CDATA[<p>Data center CMBS issuance tripled in 2025, forcing bond investors to evaluate power grids, chip obsolescence, and hyperscale tenant risk.</p>
+<p>The post <a href="https://propmodo.com/data-center-debt-pushes-cmbs-investors-into-uncharted-territory/">Data Center Debt Pushes CMBS Investors Into Uncharted Territory</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Data center deals accounted for roughly 8% of new commercial mortgage backed securities issuance since early 2025, with about $17 billion sold — more than triple the volume of the prior two years. Citigroup expects issuance to reach between $18 billion and $20 billion next year, a 50% increase. AAA-rated data center CMBS now trade at spreads of 1.65 percentage points above floating-rate benchmarks, wider than office, retail, and industrial properties. Most transactions are structured as single-asset, single-borrower deals tied to individual facilities.</p>
+
+
+
+<p class="wp-block-paragraph">CMBS investors accustomed to evaluating office buildings and apartments now must assess grid capacity, power costs, cooling infrastructure, and computing density. Lease provisions covering minimum capacity commitments and downtime clauses determine who bears unexpected costs. Tenant identities often remain confidential, making underwriting more opaque. CWCapital Asset Management is developing new stress tests for the sector, while Axonic Capital has kept data center exposure small and emphasized geographic and tenant diversification.</p>
+
+
+
+<p class="wp-block-paragraph">Facilities designed for one generation of AI chips can become outdated within years as power and cooling requirements surge. If hyperscale tenants depart when leases roll, highly specialized buildings may prove costly to repurpose or release. Local opposition to new projects over utility strain and infrastructure concerns has made the regulatory environment harder to predict. A $356 million bond backed by a 30-megawatt facility near Elk Grove Village, Illinois, priced wider than guidance last week, the third such instance in recent months.</p>
+
+
+
+<p class="wp-block-paragraph">Data centers depend on access to cheap electricity and transmission capacity rather than proximity to city cores or transportation. The shift introduces risks that look more like infrastructure finance than traditional real estate. While demand for computing capacity remains strong, oversupply concerns are mounting as billions in new projects seek financing. One portfolio manager noted that if long-term tenants leave, owners could be left with buildings difficult to fill.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-09-14/ai-data-center-boom-is-changing-cmbs-risks" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Wall Street’s Data Center Boom Is Reshaping the Real Estate Bond Market</a></div></div>
+<p>The post <a href="https://propmodo.com/data-center-debt-pushes-cmbs-investors-into-uncharted-territory/">Data Center Debt Pushes CMBS Investors Into Uncharted Territory</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
+		<item>
 		<title>Airbnb&#8217;s $250 Million Housing Bet Is a Political Strategy Other Companies Should Copy</title>
 		<link>https://propmodo.com/airbnbs-250-million-housing-bet-is-a-political-strategy-other-companies-should-copy/</link>
 		
@@ -44,7 +140,7 @@
 					<description><![CDATA[<p>Its funding could unlock $5 billion</p>
 <p>The post <a href="https://propmodo.com/airbnbs-250-million-housing-bet-is-a-political-strategy-other-companies-should-copy/">Airbnb&#8217;s $250 Million Housing Bet Is a Political Strategy Other Companies Should Copy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1789427819>10 min ago</strong><span class="live-fdate">Sep. 14, 2026 4:16 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1789427819>17 hr 34 min ago</strong><span class="live-fdate">Sep. 14, 2026 4:16 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
 
 <h2 id="h-" class="wp-block-heading"></h2>
 
@@ -410,94 +506,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-insurance-risk.jpg" />	</item>
-		<item>
-		<title>Affordable Housing Leads Nashville&#8217;s Stadium District, Reversing Industry Norms</title>
-		<link>https://propmodo.com/affordable-housing-leads-nashvilles-stadium-district-reversing-industry-norms/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Thu, 10 Sep 2026 04:37:03 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181427</guid>
-
-					<description><![CDATA[<p>Nashville's $2.2 billion stadium district starts with affordable housing, flipping the typical megaproject playbook and locking in units for 99 years.</p>
-<p>The post <a href="https://propmodo.com/affordable-housing-leads-nashvilles-stadium-district-reversing-industry-norms/">Affordable Housing Leads Nashville&#8217;s Stadium District, Reversing Industry Norms</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Nashville broke ground on Eastpoint Flats, a 323-unit affordable apartment complex, as the first building in a new 30-acre mixed-use district surrounding the $2.2 billion Nissan Stadium under construction. Boston-based developer Fallon agreed with the city to start with affordable housing before adding market-rate components, a reversal of the typical stadium-district playbook. Mayor Freddie O&#8217;Connell pushed for the sequencing after the city approved a $1.26 billion public subsidy for the stadium in 2023, the largest ever awarded to a U.S. stadium project at the time. Eastpoint Flats will lease units to households earning 80% or less of area median income, with the affordable designation locked in for 99 years.</p>
-
-
-
-<p class="wp-block-paragraph">Fallon must meet affordable-housing milestones or risk losing development rights to the site, a contractual safeguard that distinguishes the project from other stadium-anchored developments where affordable units arrived late or not at all. Brooklyn&#8217;s Barclays Center promised 2,250 affordable units as part of Pacific Park but failed to deliver most of them more than a decade later, with the state eventually waiving financial penalties. Fallon plans to follow the affordable building with a 600-room hotel, 380 market-rate apartments, and 100,000 square feet of retail in the first phase. The site occupies former surface parking lots on the east bank of the Cumberland River, historically isolated by an elevated highway.</p>
-
-
-
-<p class="wp-block-paragraph">Stadium megaprojects typically launch with large-scale market-rate components to establish critical mass, according to developers in the sector. Nashville&#8217;s approach reflects acute housing pressure in a metro area where average asking rents reached $1,715 per month in early 2025, up more than 14% since late 2020. The city needs 90,000 new housing units over the next decade to keep pace with demand, exceeding what current zoning allows by roughly 20,000 units. Oracle&#8217;s planned relocation of its world headquarters to Nashville&#8217;s River North neighborhood, also on the east bank, will add 8,500 jobs by 2031 and is expected to increase demand for housing near the stadium district.</p>
-
-
-
-<p class="wp-block-paragraph">Nashville&#8217;s existing Nissan Stadium, built in the late 1990s, sits surrounded by parking lots with minimal neighborhood fabric. A 1996 lease obligated the city to maintain that facility in first-class condition through 2039 at an estimated cost of $1.75 billion to $1.95 billion, prompting officials to approve the new stadium instead. The new venue is scheduled to open in 2026, with the broader Eastpoint district expected to take two decades to complete. The city aims to complete significant portions of the district by 2030, when Nashville hosts the Super Bowl.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/real-estate/nashville-calls-unusual-play-for-new-football-megaproject-2bb27ce0" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Nashville Calls Unusual Play for New Football Megaproject</a></div></div>
-<p>The post <a href="https://propmodo.com/affordable-housing-leads-nashvilles-stadium-district-reversing-industry-norms/">Affordable Housing Leads Nashville&#8217;s Stadium District, Reversing Industry Norms</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
-		<item>
-		<title>Smaller Deposits, Weaker Renters, and the Risk Building in Multifamily Portfolios</title>
-		<link>https://propmodo.com/smaller-deposits-weaker-renters-and-the-risk-building-in-multifamily-portfolios/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Thu, 10 Sep 2026 04:16:55 +0000</pubDate>
-				<category><![CDATA[Multifamily]]></category>
-		<category><![CDATA[leaselock]]></category>
-		<category><![CDATA[multifamily]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181421</guid>
-
-					<description><![CDATA[<p>Multifamily vacancy is rising as oversupply, weaker screening, lower deposits, and new regulations increase bad debt risk for property owners.</p>
-<p>The post <a href="https://propmodo.com/smaller-deposits-weaker-renters-and-the-risk-building-in-multifamily-portfolios/">Smaller Deposits, Weaker Renters, and the Risk Building in Multifamily Portfolios</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The multifamily market has spent the better part of two years absorbing the largest wave of new supply since the 1980s, and the numbers have finally caught up with the narrative. National vacancy has climbed to 8.6%, the highest level in years, while asking rent growth has flattened to roughly 0.2% annually. Absorption through the first five months of 2026 fell 61% year over year, with just 108,000 units absorbed. Occupancy has slipped to 94.1%, down 60 basis points from a year earlier, and among the top 30 markets tracked by Yardi, only San Francisco posted an occupancy gain.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;The second quarter this year was the big pivot everyone has been waiting for,&#8221; said Greg Willett, Chief Economist at LeaseLock. &#8220;We are starting to see price corrections, particularly for the bottom part of the market.&#8221; That correction has not translated into transaction volume, though, because the financing environment has not settled enough for buyers and sellers to agree on value. &#8220;The wildcard has been interest rates,&#8221; Willett said. &#8220;It has created some price correction but they haven&#8217;t stabilized in order to see better deals come to the market.&#8221; The result is a market where owners who might otherwise sell are holding assets, which puts more weight on operating performance to carry returns that would previously have come from a sale.</p>
-
-
-
-<p class="wp-block-paragraph">That pressure is changing how operators fill units, and the change is not always visible in the concession data everyone tracks. &#8220;Concessions are not always financial,&#8221; said Janine Jovanovic, CEO of LeaseLock. &#8220;Sometimes they include choosing a less qualified renter.&#8221; A month of free rent shows up in effective rent calculations and eventually reverses when the market tightens. A resident approved with a thinner credit file, a shorter employment history, or a rent-to-income ratio outside normal underwriting standards does not show up anywhere until the tenancy produces a loss. The concession is real, it is being granted at scale, and it is largely unmeasured.</p>
-
-
-
-<p class="wp-block-paragraph">The scale of risk is not negligible. Roughly one third of all move-outs result in financial loss for the operator, whether through unpaid rent, damage exceeding the deposit, skips, or eviction costs. That baseline was established in a market with tighter screening standards than the one operating today. Loosening criteria to hold occupancy in an oversupplied market pushes that number in one direction, and the losses arrive on a delay of six months to a year, well after the leasing decision that produced them.</p>
-
-
-
-<p class="wp-block-paragraph">Deposits are moving in the same direction at the same time, which compounds the exposure. Operators competing for a shrinking pool of qualified applicants are reducing move-in costs, and lower deposits mean less coverage when a tenancy goes badly. In the workforce and affordable segments the reductions have been significant. One LIHTC operator moved the bulk of its portfolio to a flat $250 deposit for applicants approved without conditions in late 2025, rising to $500 for conditional approvals, against market-rate units where a full month&#8217;s rent remains standard.</p>
-
-
-
-<p class="wp-block-paragraph">The assumption that lower deposits are straightforwardly good for renters deserves more scrutiny than it usually gets. &#8220;It seems like a discount for renters, but if they don&#8217;t pay their debts the landlord still comes after them, and that can mean a lot of other fees that they have to pay,&#8221; Jovanovic said. &#8220;It&#8217;s an illusion of affordability and it clogs the court system quite a bit.&#8221; A renter who moves in with a $250 deposit and leaves owing $3,000 has not saved money. They have deferred an obligation that now arrives as a collections action, with legal fees and court costs attached, and a judgment that follows them into every future rental application. The lower barrier at move-in produced a higher cost at move-out, and the operator absorbing the loss did not avoid it either.</p>
-
-
-
-<p class="wp-block-paragraph">Regulation is pushing deposits down independently of market conditions, which means this dynamic is not going to reverse when occupancy recovers. Roughly 30 states plus the District of Columbia now impose a statutory cap on deposits, with about 20 leaving it to the lease. The most common cap is one month&#8217;s rent, now the standard in California, Colorado, Delaware, Hawaii, Maryland, Massachusetts, Nebraska, New Hampshire, New Mexico, New York, Rhode Island, and DC. The trend line is one-directional. Georgia added a two-month cap in July 2024, Maryland moved to one month in October 2024, and Colorado adopted a one-month cap in January 2026 through HB 25-1249. California layered on AB 2801, effective July 2025, requiring photo documentation for any deduction.</p>
-
-
-
-<p class="wp-block-paragraph">Security deposit alternatives have grown alongside those constraints, and the current environment is accelerating adoption. The products let a renter pay a smaller upfront fee in exchange for coverage that protects the owner against unpaid rent and damage, which addresses the affordability problem at move-in without leaving the owner exposed at move-out. New York City established a pre-qualified list of security deposit alternative providers through HPD and HDC for city-sponsored affordable housing, and regulatory momentum in markets including Seattle and California has consistently driven upticks in adoption.</p>
-
-
-
-<p class="wp-block-paragraph">The logic of that adoption becomes more compelling the longer current conditions persist. Owners are accepting more credit risk to maintain occupancy while simultaneously holding less collateral against it, in an environment where they cannot easily sell their way out of a underperforming asset. Every additional jurisdiction that caps deposits removes another tool from the traditional risk management approach without removing the risk itself. What replaces it will either be a product designed for the purpose or a growing line item for bad debt. The operators thinking about this now are the ones who noticed that the market softened faster than their underwriting standards did.</p>
-<p>The post <a href="https://propmodo.com/smaller-deposits-weaker-renters-and-the-risk-building-in-multifamily-portfolios/">Smaller Deposits, Weaker Renters, and the Risk Building in Multifamily Portfolios</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/08/multifamily-apartments.jpg" />	</item>
 	</channel>
 </rss>
