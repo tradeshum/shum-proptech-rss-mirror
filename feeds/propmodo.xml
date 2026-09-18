@@ -13,13 +13,13 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Wed, 16 Sep 2026 21:44:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Sep 2026 17:45:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1</generator>
+	<generator>https://wordpress.org/?v=7.1.1</generator>
 
 <image>
 	<url>https://propmodo.com/wp-content/uploads/2024/12/cropped-propmodo-icon-512-32x32.png</url>
@@ -29,6 +29,203 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Gap Between Your Property System and Your Accounting System Is Costing You Money</title>
+		<link>https://propmodo.com/the-gap-between-your-property-system-and-your-accounting-system-is-costing-you-money/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 14:06:25 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Property & Facilities Management]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[leasing]]></category>
+		<category><![CDATA[Property management]]></category>
+		<category><![CDATA[Re-Leased]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181485</guid>
+
+					<description><![CDATA[<p>Disconnected property management and accounting systems cause revenue leakage, compliance risks, and costly inefficiencies. Integration closes the gap.</p>
+<p>The post <a href="https://propmodo.com/the-gap-between-your-property-system-and-your-accounting-system-is-costing-you-money/">The Gap Between Your Property System and Your Accounting System Is Costing You Money</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Walk into a commercial real estate organization of any size and you will find property teams working within the constraints of technology that was not necessarily built for them. In some businesses, property management sits inside an accounting-led platform, giving finance one system of record while leaving property teams with fewer modern tools to manage the day-to-day. In others, finance runs on best-in-class deeply embedded platforms such as NetSuite, Microsoft Dynamics, Sage Intacct, Xero or QuickBooks, while property teams piece together separate software, spreadsheets, and manual processes. The result is the same. Neither team chose their platform with the other one in mind, and in portfolios assembled through acquisition, individual properties often arrive with their own systems attached, producing a web of platforms that nobody deliberately designed.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Property Managers might be using property management systems that don&#8217;t mesh with the accounting or ERP platform,&#8221; said Samuel Caulton, CFO of Re-Leased. &#8220;You need two systems running together to make sure you don&#8217;t get data fragmentation.&#8221; The word fragmentation understates what actually happens in practice. What exists between those systems is not a gap in reporting. It is a gap in operational reality, where events that have occurred in one system have not yet been reflected in the other, and where the organization&#8217;s understanding of its own portfolio depends entirely on which screen someone happens to be looking at.</p>
+
+
+		<div class="leadbox-container" data-form-slug="re-leased-aug-10">
+			<div class="leadbox-left">
+				<div class="label">PROPMODO PARTNER OFFER</div>
+									<img decoding="async" src="https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black-300x98.png" alt="">
+								<div class="headline">Level Up: The State of AI in Commercial Property Management</div>
+				<div class="body">A candid look at what&#039;s moving the dial, with a 12-to-18-month roadmap to move from pilot to embedded and reliable.</div>
+			</div>
+			<div class="leadbox-right">
+				<h3 style="margin-top:0; margin-bottom:10px;">
+					Insights from JLL&#039;s CTO, GGP&#039;s VP of IT				</h3>
+				<form id="leadbox-form-181146-1"
+				      class="leadbox-form"
+				      data-zapier="https://hooks.zapier.com/hooks/catch/4148409/46l3tq2/"
+				      data-url="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026.pdf"
+				      data-button-text="Get the Whitepaper">
+					<div class="leadbox-name-row">
+						<input type="text" name="first_name"   placeholder="First Name"    required>
+						<input type="text" name="last_name"    placeholder="Last Name"     required>
+					</div>
+					<input type="email" name="email"           placeholder="Email Address" required>
+					<input type="text"  name="job_title"       placeholder="Job Title"     required>
+					<input type="text"  name="organization"    placeholder="Organization"  required>
+					<button type="submit">Get the Whitepaper</button>
+				</form>
+				<p class="leadbox-disclaimer" style="font-size:11px !important; line-height:1.4 !important; color:#777 !important; margin-top:8px !important;">
+					By submitting this form, you agree to let Propmodo share your information with the sponsor so they can provide this resource. The sponsor may contact you.
+				</p>
+				<p class="leadbox-success" style="display:none;">
+					Thanks! A new tab should have opened.
+					<a href="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026.pdf" target="_blank" rel="noopener">Click here if not.</a>
+				</p>
+				<p class="leadbox-error" style="display:none; color:#c00; margin-top:10px; font-size:14px;"></p>
+			</div>
+		</div>
+		
+
+
+
+<p class="wp-block-paragraph">Revenue leakage is the most direct consequence and the one that hits the income statement soonest. A lease gets signed, the property team records it, the tenant takes occupancy, and the accounting system does not know about any of it. The property is now generating expenses, carrying insurance, incurring management costs, and exposing the owner to liability for a tenancy that has not entered the billing cycle. &#8220;Sometimes people will sign a new lease and it won&#8217;t have made it into the accounting system yet, which means that tenants cannot be billed but there are still lots of expenses and risk associated with it,&#8221; Caulton said. The rent eventually gets caught, usually, but it gets caught late, sometimes after a quarter of income has gone uninvoiced, and the corrections that follow consume time from people who did nothing wrong.</p>
+
+
+
+<p class="wp-block-paragraph">Missed lease events follow the same logic and cost more per occurrence. Rent reviews, option deadlines, break clauses, and escalations are all date-triggered obligations sitting inside lease documents, and their value depends entirely on someone acting before the window closes. A rent review that passes without notice locks in below-market rent for the balance of the term. That is not a billing error to be corrected in the next cycle. It is permanent value destroyed, and it happens because the system tracking the lease terms and the system responsible for collecting revenue are not looking at the same calendar.</p>
+
+
+
+<p class="wp-block-paragraph">Compliance is where the numbers get uncomfortable fast, because regulatory obligations do not distinguish between an owner who ignored a requirement and one whose tracking spreadsheet lived on the wrong laptop. &#8220;We spoke to a prospect recently who missed an asbestos check on a spreadsheet and got fined $200,000,&#8221; Caulton said. A single inspection deadline, tracked outside the systems of record, produced a six-figure penalty. Across a portfolio with hundreds of buildings, each carrying its own schedule of fire safety inspections, environmental testing, elevator certifications, and jurisdiction-specific obligations, the surface area for that kind of failure is considerably larger than most owners have quantified.</p>
+
+
+
+<p class="wp-block-paragraph">The intuitive response to all of this is to put more people on it, and that instinct makes the problem worse rather than better. &#8220;So many people and approvals needed could mean that it can take a long time to update these systems,&#8221; Caulton said. &#8220;To fix these inefficiencies they think they can just add more people, but the larger the team, the worse these problems seem to be.&#8221; Each additional person is another handoff, another approval step, another place where information sits waiting.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The deeper cost is what those people end up doing with their time. Reconciling two versions of a rent roll, chasing down a lease amendment, re-keying data that already exists somewhere else, and checking whether one system&#8217;s number matches another&#8217;s are not jobs anyone was hired to do. They are the tax that disconnected systems impose on skilled professionals, and it scales with the size of the organization. The question worth asking is not how to manage more properties with the current setup. It is how to stop asset managers and controllers from spending their days compensating for systems that were never designed to talk to each other.</p>
+
+
+
+<p class="wp-block-paragraph">What actually resolves it is <a href="https://www.re-leased.com/product/connected-accounting?utm_campaign=53167794-26noam_propmodo_september&amp;utm_source=propmodo&amp;utm_content=article">integration deep enough that both teams see the same events</a> at the same time without either one having to leave the platform they know. Finance keeps its ERP. Property management keeps its operating system. The difference is that a lease signed on a Tuesday is visible in both live in real time, with the billing schedule, the escalation dates, and the compliance obligations flowing automatically rather than waiting for someone to key them in a second time. That flexibility becomes more important as businesses grow, acquire portfolios, and change their technology.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">A property management system that can connect to whatever accounting platform already sits at the heart of the business lets both teams work in the systems built for their respective needs while the underlying data stays connected, which is a meaningfully different proposition than asking one function to abandon its tools for the convenience of the other. That transparency also runs in both directions and changes how the two functions relate to each other. Finance stops discovering surprises at close. Property teams stop fielding questions about numbers they cannot see.</p>
+
+
+
+<p class="wp-block-paragraph">AI is extending that integration into something more useful than synchronization, though the sequencing matters more than most firms appreciate. AI does not fix disconnected data. It amplifies whatever data environment it is given. A model layered over two systems that disagree does not resolve the disagreement, it picks one and runs with it at speed, which turns a reconciliation problem into a decision problem. Before asking what AI can do for a portfolio, the more useful question is whether the property and financial data agree in the first place. Once both systems are connected and the data is flowing consistently, patterns become visible that neither team could detect from inside their own platform.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;AI can flag likely risks that many owners and operators might not even be privy to,&#8221; Caulton said. &#8220;Maybe leases are getting entered wrong consistently. It can suggest an audit or even check the data extraction itself.&#8221; That is a meaningfully different capability than a dashboard. A system that notices a specific property manager&#8217;s lease abstractions consistently misclassify a particular clause type, or that a certain document format produces extraction errors at an elevated rate, is <a href="https://www.re-leased.com/practical-ai-in-commercial-property-management?utm_campaign=53167794-26noam_propmodo_september&amp;utm_source=propmodo&amp;utm_content=article#chapter-4">identifying a problem that would otherwise surface as an unexplained discrepancy months later.</a></p>
+
+
+
+<p class="wp-block-paragraph">The same connected foundation makes it possible to automate processes that have resisted automation for years, CAM reconciliation being the clearest example. Reconciling common area maintenance charges requires pulling actual expenses from the accounting system, applying lease-specific recovery terms and caps and exclusions from the property system, calculating each tenant&#8217;s proportionate share, and producing a defensible statement.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">When those inputs live in disconnected platforms, the work is manual, slow, and error-prone in ways that generate tenant disputes. When they share a live connection, it becomes a process a system can run automatically, with AI handling the interpretation of lease language and the exception handling that used to require a person. That is where the back office starts to look genuinely different. The administrative weight of running a portfolio, the reconciliations and recoveries and recurring calculations that consume weeks of finance and property team time every year, moves from something people execute to something they review.</p>
+
+
+
+<p class="wp-block-paragraph">None of this requires abandoning platforms that teams have spent years learning or that were chosen for good reasons specific to each function. The finance team&#8217;s ERP is well suited to finance. The property management system is well suited to property management. What has been missing is the connective layer between them, and the cost of that absence has been paid quietly, in uninvoiced rent, missed reviews, compliance penalties, and time spent reconciling versions of a portfolio that should never have diverged in the first place.</p>
+<p>The post <a href="https://propmodo.com/the-gap-between-your-property-system-and-your-accounting-system-is-costing-you-money/">The Gap Between Your Property System and Your Accounting System Is Costing You Money</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/01/commercial-real-estate-optimism.jpg" />	</item>
+		<item>
+		<title>When Property Management Software Fails, the Landlord Still Pays</title>
+		<link>https://propmodo.com/when-property-management-software-fails-the-landlord-still-pays/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 01:51:06 +0000</pubDate>
+				<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Property & Facilities Management]]></category>
+		<category><![CDATA[Property Taxes]]></category>
+		<category><![CDATA[RealPage]]></category>
+		<category><![CDATA[Yardi]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181479</guid>
+
+					<description><![CDATA[<p>Property management automation can streamline operations, but software errors leave owners exposed to fines, lawsuits, and compliance risks.</p>
+<p>The post <a href="https://propmodo.com/when-property-management-software-fails-the-landlord-still-pays/">When Property Management Software Fails, the Landlord Still Pays</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Property management companies have been automating just about every process they can think of. Leasing inquiries, maintenance requests, billing and accounts receivable. Just about everything that a real estate operator does is being automated every day. Plenty of work still happens by hand, but the share of it shrinks with every software cycle, and the trajectory is not in question.</p>
+
+
+
+<p class="wp-block-paragraph">The tradeoff to all of this automation is that errors now propagate faster and further than they used to. A misconfigured setting applies to every unit it touches, often without anyone noticing until a resident or a regulator does. And when that happens, the question of who is responsible has a consistent answer that many owners find surprising. The regulated party is the owner. The software vendor is a contractor.A landlord fined for a rent increase that violated a local ordinance cannot hand that fine to the platform that calculated it. A landlord who missed a compliance deadline because a tracking system failed still missed the deadline.</p>
+
+
+
+<p class="wp-block-paragraph">At a mobile home park in California, a rent increase of $923 per month appeared on the online payment portal the day before Thanksgiving in 2023, set to auto-debit from residents&#8217; bank accounts that Friday. When residents confronted the owner, Three Pillar Communities, the company said the change was premature and blamed a system error. <a href="https://www.ktvu.com/news/petaluma-mobile-home-park-rent-doubled-mistakenly-set-to-auto-debit" target="_blank" rel="noreferrer noopener">The city advised residents not to pay anything until arbitration concluded.</a></p>
+
+
+
+<p class="wp-block-paragraph">Whether the error was genuine is beside the point. The ordinance governs what an owner can charge, and a payment portal configured to debit an unapproved amount is an owner problem regardless of which system generated it. The arbitration process did not pause because the increase appeared by accident.</p>
+
+
+
+<p class="wp-block-paragraph">Federal enforcement has put a sharper version of this question in front of the industry. In December 2025, Greystar Real Estate Partners agreed to pay $24 million to settle a lawsuit brought by the Federal Trade Commission and the Colorado attorney general, with $23 million going to the FTC and $1 million to the state. Regulators alleged that the country&#8217;s largest apartment manager advertised base rents that excluded mandatory recurring fees for pest control, valet trash, package concierge service, and utility administration, and that renters typically did not learn the full monthly cost until after paying a nonrefundable application fee. It was the second FTC rental fee case in two years, following a $48 million settlement with Invitation Homes in September 2024.</p>
+
+
+
+<p class="wp-block-paragraph">A week after the Greystar settlement, the FTC sent warning letters to 13 property management software providers. The letters said available information suggested these platforms were limiting the ability of rental property managers and owners to accurately advertise total monthly prices by failing to include all mandatory fees, and advised the companies to review their website hosting platforms and the software controlling the flow of information to listing sites.</p>
+
+
+
+<p class="wp-block-paragraph">That is the agency identifying the tooling as part of the problem. If a platform does not support displaying an all-in monthly price, an operator trying to advertise compliant pricing may not have had a straightforward way to do it. The FTC evidently reached something close to that conclusion, which is why it wrote to the vendors at all. The vendors received a warning about future conduct and a reminder that continued violations could carry civil penalties of up to $53,088 each. The operator had already paid $24 million.</p>
+
+
+
+<p class="wp-block-paragraph">Algorithmic pricing litigation has produced the clearest version of this pattern. Roughly 50 of the largest apartment owners and operators were named alongside RealPage in class actions consolidated in federal court in Tennessee, alleging that the software enabled landlords to coordinate rents. Twenty-seven landlords settled for a collective $141 million in October 2025. MAA settled for $53 million in January 2026 and raised its loss contingency reserve to $62.5 million. Camden Property Trust settled for $53 million in April. A second batch of settlements filed in May covered 11 more defendants for $218 million. RealPage, which built the software, reached its own settlement with the Justice Department in November 2025.</p>
+
+
+
+<p class="wp-block-paragraph">Municipal enforcement is producing the same outcome on a smaller scale. Providence filed its first action under a 2025 ordinance barring software-driven rent coordination, naming Audubon Capital Partners LLC and accruing fines at $500 per day. In Philadelphia, a tenant sued property manager Willow Bridge under a similar law that entitles private plaintiffs to treble damages or $2,000 per violation. The statutes are written to reach the companies that used the software, not the company that sold it.</p>
+
+
+
+<p class="wp-block-paragraph">Owners who pay property taxes through an escrow account often assume the servicer bears the consequences of a missed disbursement, and federal regulation does provide recourse. Under RESPA, a servicer that fails to make a timely payment must correct the error and cover any penalties that resulted. HUD rules are explicit that late payment penalties cannot be charged back to the borrower absent borrower error.</p>
+
+
+
+<p class="wp-block-paragraph">Courts have consistently held that the taxpayer remains ultimately responsible for the tax, and county treasurers proceed accordingly. A lien attaches to the property, not to the servicer. Many counties will waive a penalty as a courtesy when an owner produces a letter from the servicer documenting the failure, which is helpful and entirely discretionary. The owner is the one filing the waiver request, chasing the documentation, and carrying the exposure until it is resolved.</p>
+
+
+
+<p class="wp-block-paragraph">Software errors can also generate litigation an owner never intended to file. In Alexandria, Virginia, a property management firm brought an unlawful detainer action against a sitting city councilwoman for nonpayment of rent she had in fact paid. The company acknowledged in court papers that a glitch in its computer system had generated the filing. Court records showed it had dropped similar mistaken cases against the same resident before. The suit was dropped, but an eviction action had been filed, docketed, and scheduled for a hearing, all of it in the owner&#8217;s name.</p>
+
+
+
+<p class="wp-block-paragraph">Most operators think about software risk as a service quality issue, addressed through contracts, service level agreements, and indemnification clauses. Those instruments are worth having. They also operate entirely within the relationship between the operator and the vendor, which is not the relationship that generates the penalty.</p>
+
+
+
+<p class="wp-block-paragraph">A regulator assessing a violation is not evaluating whether an owner&#8217;s software performed as promised. A tenant bringing a claim under a local ordinance is not suing the platform. The system that failed is context, sometimes mitigating context, but the party holding the license, the deed, and the obligation is the one answering for it.</p>
+
+
+
+<p class="wp-block-paragraph">As more of the operating stack becomes automated and more jurisdictions write rules aimed specifically at how that automation gets used, we are likely to see this gap between operational responsibility and legal responsibility come up more often. Owners who understand it now will ask different questions during procurement than those who discover it after the notice arrives.</p>
+<p>The post <a href="https://propmodo.com/when-property-management-software-fails-the-landlord-still-pays/">When Property Management Software Fails, the Landlord Still Pays</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/03/ai-proptech-software.jpg" />	</item>
+		<item>
 		<title>Commercial Real Estate Faces Rising Borrowing Costs as Fed Hikes Rates</title>
 		<link>https://propmodo.com/commercial-real-estate-faces-rising-borrowing-costs-as-fed-hikes-rates/</link>
 		
@@ -311,7 +508,7 @@
 			<div class="leadbox-right">
 				<h3 style="margin-top:0; margin-bottom:10px;">
 					Unlock Efficiency, NOI, and Resident Trust				</h3>
-				<form id="leadbox-form-181474-1"
+				<form id="leadbox-form-181474-2"
 				      class="leadbox-form"
 				      data-zapier="https://hooks.zapier.com/hooks/catch/4148409/4dst97o/"
 				      data-url="https://www.flipsnack.com/B86956BBDC9/aftermarket-multifamily-design-guide"
@@ -409,90 +606,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
-		<item>
-		<title>Airbnb&#8217;s $250 Million Housing Bet Is a Political Strategy Other Companies Should Copy</title>
-		<link>https://propmodo.com/airbnbs-250-million-housing-bet-is-a-political-strategy-other-companies-should-copy/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Mon, 14 Sep 2026 23:26:18 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[Airbnb]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[RealPage]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181449</guid>
-
-					<description><![CDATA[<p>Its funding could unlock $5 billion</p>
-<p>The post <a href="https://propmodo.com/airbnbs-250-million-housing-bet-is-a-political-strategy-other-companies-should-copy/">Airbnb&#8217;s $250 Million Housing Bet Is a Political Strategy Other Companies Should Copy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1789427819>2 days 22 hr ago</strong><span class="live-fdate">Sep. 14, 2026 4:16 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<h2 id="h-" class="wp-block-heading"></h2>
-
-
-
-<p class="wp-block-paragraph">Airbnb is putting $250 million into affordable housing. Brian Chesky, the company&#8217;s chief executive, said he has lived in the crosshairs of the number one political issue in most major cities in America and cannot keep staring at the problem without offering solutions. This altruistic endevor is an interesting political strategy that is worth studying for every real estate company currently on a regulator&#8217;s list.</p>
-
-
-
-<p class="wp-block-paragraph">Airbnb&#8217;s first investment is $6.4 million toward roughly 200 affordable units in a larger complex on a 20-acre former Home Depot and car dealership site in Austin&#8217;s St. John neighborhood. The city bought the land more than a decade ago and it has sat empty since. Chito Vela, an Austin city council member whose district includes the project, said financing got wobbly once interest rates rose and rents fell. Airbnb&#8217;s checks will reportedly cover about 10 percent of a project&#8217;s capital and that the $250 million should translate into $5 billion over a decade. One of the key components to the deal is that residents of the affordable units will not be allowed to list them on Airbnb.</p>
-
-
-
-<p class="wp-block-paragraph">Airbnb built in a provision that guarantees the investment produces no supply for its own platform. Shaun Donovan, the former secretary of Housing and Urban Development now serving as chief executive of Enterprise Community Partners, described the gap-filling role this kind of capital plays, noting that every rate increase subtracts market-rate capital from a deal and creates holes somebody has to fill. Airbnb is filling holes in deals it gets nothing out of operationally but it does buy it self some much needed political goodwill.</p>
-
-
-
-<p class="wp-block-paragraph">The relevant comparison is the industry&#8217;s current legal docket. RealPage settled with the Department of Justice over algorithmic pricing after six of the largest operators in the country were added as co-defendants. Greystar has faced fair housing complaints across multiple states. The 21st Century ROAD to Housing Act includes a first-of-its-kind cap preventing institutional investors from acquiring single-family homes beyond 350-unit portfolios. New York banned landlord-paid broker fees. San Francisco gave tenants collective bargaining rights. Cities and states are legislating against specific business models, and the companies on the receiving end have mostly responded with lawyers and lobbyists.</p>
-
-
-
-<p class="wp-block-paragraph">Airbnb approach might be worth copying. The company reported $2.5 billion in net income on $12.2 billion in revenue last year. A $250 million commitment is roughly ten percent of one year&#8217;s profit, spread across an unspecified number of years. Compared to the cost of fighting short-term rental bans city by city, or the revenue lost when a major market restricts listings entirely, it is a reasonable hedge. It also buys something litigation cannot, which is a reason for a housing committee chair to take the call.</p>
-
-
-
-<p class="wp-block-paragraph">The initiative goes past writing checks. Airbnb is funding advocacy on zoning, permitting, and building codes, building an open-source data set tracking housing policy, and running a $5 million competition for technology that simplifies homebuilding. Those are the parts an institutional owner or a PropTech company could copy most directly. </p>
-
-
-
-<p class="wp-block-paragraph">Whether regulators actually reward any of this is untested. Chesky&#8217;s own argument, that Airbnb units are a fraction of housing stock and that bans have not lowered home prices, is the kind of claim a city council has heard before and discounted. It is true that the housing crisis will not be solved with money alone. Airbnb&#8217;s $250 million against a shortage estimated somewhere between two million and ten million units is not going to change the supply picture. But every little bit counts and this money shows that Airbnb is at least taking the problem seriously. Other companies facing similar scrutiny should look closely at what Airbnb is attempting to do because it might be the only way turn the tide against futher regulations that would punish the real estate industry without solving the main issue of the housing crisis: supply constraints.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/airbnbs-250-million-housing-bet-is-a-political-strategy-other-companies-should-copy/">Airbnb&#8217;s $250 Million Housing Bet Is a Political Strategy Other Companies Should Copy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/09/airbnb.jpg" />	</item>
-		<item>
-		<title>Investors Return to Enclosed Retail as Consumer Spending Outweighs E-Commerce Fears</title>
-		<link>https://propmodo.com/investors-return-to-enclosed-retail-as-consumer-spending-outweighs-e-commerce-fears/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 14 Sep 2026 23:06:08 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181451</guid>
-
-					<description><![CDATA[<p>Mall property values jumped 13% in a year, topping all commercial sectors as consumer spending and limited supply attract investors back to enclosed retail.</p>
-<p>The post <a href="https://propmodo.com/investors-return-to-enclosed-retail-as-consumer-spending-outweighs-e-commerce-fears/">Investors Return to Enclosed Retail as Consumer Spending Outweighs E-Commerce Fears</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Mall values rose 13% over the past year, outpacing all other commercial property sectors and more than doubling the overall commercial real estate price increase, according to Green Street. Shares of Simon Property Group, the country&#8217;s largest mall owner, surpassed their 2016 record high in July and beat the S&amp;P 500 over the past 12 months. Paris-based Unibail-Rodamco-Westfield reversed its 2021 plan to exit the U.S. market and committed nearly $1 billion this year to buy out partners at two California malls. CBL Properties, which emerged from bankruptcy protection after the pandemic, has acquired five new properties since July 2025 and saw its stock price jump 48% this year.</p>
-
-
-
-<p class="wp-block-paragraph">Resilient consumer spending and few retailer bankruptcies have stabilized the sector after roughly 200 malls closed since 2008. Mall owners renovated properties and replaced department stores with luxury retailers, restaurants like Din Tai Fung, and entertainment venues less vulnerable to online competition. Morgan Stanley&#8217;s head of U.S. REIT and commercial real estate research said malls feel stronger fundamentally than at any point post-Covid. Occupancy and rent growth have held up better than multifamily and office sectors, in part because new retail supply remains limited.</p>
-
-
-
-<p class="wp-block-paragraph">Middle-market properties are performing alongside trophy malls. CBL&#8217;s West County Center in St. Louis saw tenant sales increase 13% since 2023 after Nordstrom closed a competing location and Macy&#8217;s renovated its anchor store. The company expects to refinance the mall within 60 days after being unable to secure financing in 2022 when the property&#8217;s value had declined 30% over the prior decade. Some investors remain cautious, arguing that replacing department stores with entertainment and restaurants creates new tenant-replacement challenges if those tenants close. Mall values still sit well below peak levels from a decade ago.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/real-estate/commercial/malls-were-left-for-dead-now-they-are-the-top-performer-in-commercial-real-estate-0bf6100f" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Malls Were Left for Dead. Now They Are the Top Performer in Commercial Real Estate.</a></div></div>
-<p>The post <a href="https://propmodo.com/investors-return-to-enclosed-retail-as-consumer-spending-outweighs-e-commerce-fears/">Investors Return to Enclosed Retail as Consumer Spending Outweighs E-Commerce Fears</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
 	</channel>
 </rss>

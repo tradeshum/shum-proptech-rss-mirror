@@ -12,13 +12,13 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 16 Sep 2026 23:23:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Sep 2026 20:42:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.8</generator>
+	<generator>https://wordpress.org/?v=6.8.9</generator>
 
 <image>
 	<url>https://www.housingwire.com/wp-content/uploads/2023/10/cropped-favicon-bg.png?w=32</url>
@@ -28,219 +28,221 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>The Fed rate-hike cycle has started. What’s next?</title>
-		<link>https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/</link>
-					<comments>https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 23:23:38 +0000</pubDate>
-				<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603251</guid>
-
-					<description><![CDATA[<p>Key factors for mortgage rates will be the Iran conflict and trade war, not just the economy</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/the-fed-rate-hike-cycle-has-started-whats-next/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603251</post-id>	</item>
-		<item>
-		<title>Housing Market Spotlight: The housing market signal to watch as rates top 7%</title>
-		<link>https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/</link>
-					<comments>https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/#respond</comments>
-		
-		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 20:48:40 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Data & Analytics]]></category>
-		<category><![CDATA[Housing Market Data]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Pending Home Sales]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=602818</guid>
-
-					<description><![CDATA[<p>New listings and pending sales can offer an early look at whether buyer demand is losing ground</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-market-data-mortgage-rates-above-7-percent/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">602818</post-id>	</item>
-		<item>
-		<title>What real estate professionals should know about the Fed rate hike</title>
-		<link>https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/</link>
-					<comments>https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 20:42:43 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Interest Rates]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603233</guid>
-
-					<description><![CDATA[<p>Housing professionals said the psychological effect on homebuyers and sellers is immediate</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/what-real-estate-professionals-should-know-about-the-fed-rate-hike/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603233</post-id>	</item>
-		<item>
-		<title>Why more builder discounts are not unlocking new-home demand</title>
-		<link>https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/</link>
-					<comments>https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 19:39:28 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilder Confidence]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAHB]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603134</guid>
-
-					<description><![CDATA[<p>In September, two out of three homebuilders used incentives and 38% cut prices by 6% on average</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/why-more-builder-discounts-are-not-unlocking-new-home-demand/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603134</post-id>	</item>
-		<item>
-		<title>Fed hikes rates, with analysts seeing more tightening ahead</title>
-		<link>https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/</link>
-					<comments>https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/#respond</comments>
+		<title>Gateway First Bank to acquire Colonial Savings</title>
+		<link>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/</link>
+					<comments>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 18:01:00 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Kevin Warsh]]></category>
-		<category><![CDATA[Monetary Policy]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=602946</guid>
-
-					<description><![CDATA[<p>Fed raises benchmark rate to 3.75% to 4% range in response to high inflation and solid employment</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/fed-rate-hike-inflation-geopolitics-housing-impact/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">602946</post-id>	</item>
-		<item>
-		<title>Student loan match program could add up to $20B annually to retirement accounts</title>
-		<link>https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/</link>
-					<comments>https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 17:06:53 +0000</pubDate>
+		<pubDate>Thu, 17 Sep 2026 20:42:19 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Employee Benefit Research Institute]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<category><![CDATA[Student Loan Debt]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603098</guid>
-
-					<description><![CDATA[<p>EBRI findings highlight an opportunity for employers and plan sponsors to use student loan matching to close retirement savings gaps</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/student-loan-retirement-match-ebri-112b-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603098</post-id>	</item>
-		<item>
-		<title>Mainstay acquires Truelist, raises $18M in financing</title>
-		<link>https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/</link>
-					<comments>https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 16:56:28 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603146</guid>
-
-					<description><![CDATA[<p>Mainstay became an independent company after being carved out of Opendoor in 2024</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mainstay-acquires-truelist-raises-18m-in-financing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603146</post-id>	</item>
-		<item>
-		<title>Reggora launches HomeInspector.com as free service</title>
-		<link>https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/</link>
-					<comments>https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 16:46:11 +0000</pubDate>
-				<category><![CDATA[Appraisals and Valuations]]></category>
-		<category><![CDATA[Home Sales]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<category><![CDATA[Valuation]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603132</guid>
-
-					<description><![CDATA[<p>Inspectors can collect payment before, during or after an inspection</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/reggora-launches-homeinspector-com-as-free-service/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603132</post-id>	</item>
-		<item>
-		<title>OriginPoint hires Austin Reed as producing regional manager</title>
-		<link>https://www.housingwire.com/articles/originpoint-names-reed-manager/</link>
-					<comments>https://www.housingwire.com/articles/originpoint-names-reed-manager/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 16:30:21 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lenders]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603118</guid>
-
-					<description><![CDATA[<p>The 13-year mortgage veteran will focus on borrowers and agent partners across the Northeast</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/originpoint-names-reed-manager/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603118</post-id>	</item>
-		<item>
-		<title>Coldwell Banker Apex expands in Texas with acquisition</title>
-		<link>https://www.housingwire.com/articles/coldwell-banker-apex-expands-in-texas-with-acquisition/</link>
-					<comments>https://www.housingwire.com/articles/coldwell-banker-apex-expands-in-texas-with-acquisition/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 16 Sep 2026 16:07:56 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Coldwell Banker]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Banking]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Mergers and Acquisitions]]></category>
 		<category><![CDATA[Texas]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603115</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603434</guid>
 
-					<description><![CDATA[<p>The firm's 10,478 transaction sides placed No. 40 nationwide last year</p>]]></description>
+					<description><![CDATA[<p>The transaction is expected to close in the first quarter of 2027</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/coldwell-banker-apex-expands-in-texas-with-acquisition/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603115</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">603434</post-id>	</item>
+		<item>
+		<title>Settlor integrates with TitleSphere, expands transaction data use</title>
+		<link>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/</link>
+					<comments>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 20:32:30 +0000</pubDate>
+				<category><![CDATA[Title]]></category>
+		<category><![CDATA[Closings]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603417</guid>
+
+					<description><![CDATA[<p>Users can now generate context around transaction activity in real time</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603417</post-id>	</item>
+		<item>
+		<title>Taylor Morrison CEO says trust can scale in a stress-test market</title>
+		<link>https://www.housingwire.com/articles/taylor-morrison-trust-scale/</link>
+					<comments>https://www.housingwire.com/articles/taylor-morrison-trust-scale/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 19:43:24 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Homebuilder Confidence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603418</guid>
+
+					<description><![CDATA[<p>In a market where 66% of builders use incentives, Sheryl Palmer points to reputation, internal alignment, and data systems as advantages</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/taylor-morrison-trust-scale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603418</post-id>	</item>
+		<item>
+		<title>Florida Agency Network expands CertifID use across closings</title>
+		<link>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/</link>
+					<comments>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 19:21:13 +0000</pubDate>
+				<category><![CDATA[Title]]></category>
+		<category><![CDATA[Closings]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Wire Fraud]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603402</guid>
+
+					<description><![CDATA[<p>FAN said the rollout adds direct wire fraud protection to every closing it conducts</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603402</post-id>	</item>
+		<item>
+		<title>NYC buyers caught in the middle of StreetEasy, Compass listing fight</title>
+		<link>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/</link>
+					<comments>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 19:19:16 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New York City]]></category>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603383</guid>
+
+					<description><![CDATA[<p>Compass pulled listings in August, StreetEasy also capped Experts participation at 20% per firm</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603383</post-id>	</item>
+		<item>
+		<title>Housing starts outlook turns negative through 2027 as costs rise</title>
+		<link>https://www.housingwire.com/articles/housing-starts-august-2026/</link>
+					<comments>https://www.housingwire.com/articles/housing-starts-august-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 19:01:32 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Housing Starts]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Single-Family Housing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603351</guid>
+
+					<description><![CDATA[<p>Buy-downs now support 80-90% of new-home sales as margins tighten and labor shortages persist</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-starts-august-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603351</post-id>	</item>
+		<item>
+		<title>Zillow Preview listings now live on Realtor.com</title>
+		<link>https://www.housingwire.com/articles/zillow-preview-realtor-com/</link>
+					<comments>https://www.housingwire.com/articles/zillow-preview-realtor-com/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 18:41:28 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Listings]]></category>
+		<category><![CDATA[Realtor.com]]></category>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603393</guid>
+
+					<description><![CDATA[<p>Listings will be labeled Realtor.com Preview Listings under a syndication deal first announced in May</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/zillow-preview-realtor-com/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603393</post-id>	</item>
+		<item>
+		<title>UWM says 25% of borrowers benefit from new credit score model</title>
+		<link>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/</link>
+					<comments>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 18:32:08 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[United Wholesale Mortgage]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603358</guid>
+
+					<description><![CDATA[<p>Lender’s data lines up with analysts’ estimates based on historical performance</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603358</post-id>	</item>
+		<item>
+		<title>Foreclosure filings rise 13% year-over-year, South hit hardest</title>
+		<link>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/</link>
+					<comments>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 18:31:44 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[ATTOM]]></category>
+		<category><![CDATA[Foreclosure]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603373</guid>
+
+					<description><![CDATA[<p>Lenders repossessed 5,794 properties through completed foreclosures in August</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603373</post-id>	</item>
+		<item>
+		<title>Single-family rents rise 1.8% year over year in July</title>
+		<link>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/</link>
+					<comments>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 18:17:07 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Cotality]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Investment Properties]]></category>
+		<category><![CDATA[Rent Prices]]></category>
+		<category><![CDATA[Single-Family Rentals]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603339</guid>
+
+					<description><![CDATA[<p>Among the markets analyzed, rent growth was slowest in the South</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603339</post-id>	</item>
 	</channel>
 </rss>
