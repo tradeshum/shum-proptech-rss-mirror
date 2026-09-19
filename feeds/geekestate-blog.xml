@@ -12,7 +12,7 @@
 	<atom:link href="https://geekestateblog.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://geekestateblog.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 11 Sep 2026 19:55:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Sep 2026 18:00:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">22008561</site>	<item>
+		<title>Turning Dirt into Homes with Autonomous Adobe Robots</title>
+		<link>https://geekestateblog.com/turning-dirt-into-homes-with-autonomous-adobe-robots/</link>
+		
+		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 17:20:35 +0000</pubDate>
+				<category><![CDATA[Built World]]></category>
+		<category><![CDATA[construction startups]]></category>
+		<category><![CDATA[construction tech]]></category>
+		<category><![CDATA[Mastermind Showcase]]></category>
+		<category><![CDATA[Terran Robotics]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24543</guid>
+
+					<description><![CDATA[<p>[Note from editor: The “Mastermind Showcase” highlights companies and news from members of GEM. Today’s showcase: Terran Robotics] Terran Robotics builds AI-driven, cable-driven robots that construct code-compliant homes out of adobe — a clay, aggregate, and straw composite mixed on-site from excavated subsoil. After standard...</p>
+<p>The post <a href="https://geekestateblog.com/turning-dirt-into-homes-with-autonomous-adobe-robots/">Turning Dirt into Homes with Autonomous Adobe Robots</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><i>[Note from editor: The “Mastermind Showcase” highlights companies and news from members of <a href="https://www.geekestate.com/gem.html">GEM</a>. Today’s showcase: Terran Robotics]</i></p>
+<p>Terran Robotics builds AI-driven, cable-driven robots that construct code-compliant homes out of adobe — a clay, aggregate, and straw composite mixed on-site from excavated subsoil. After standard site prep and foundation work, a two-person crew can set up Terran&#8217;s robot in a single day to work a space as large as a football field. The robot then autonomously picks and places 10-lb increments of adobe mix, sculpting and tamping each layer with an impulse hammer that uses computer vision and vibration feedback to hit structural precision without manual intervention. Walls are built to IRC Appendix U (Cob Construction), and the system runs around the clock, using reinforcement learning to get faster with every build.</p>
+<p>The pitch to builders: solid monolithic walls that replace framing, insulation, siding, and drywall in one system, cut electrician labor roughly in half thanks to a top-plate system for mechanical rough-ins, and finish in nearly any style — drywall, plaster, stucco, or polished concrete. Terran points to homes that are quieter, fireproof, mold-resistant, and roughly 80% lower in embodied carbon than conventional construction, aimed at closing a housing gap driven by labor shortages, rising material costs, and stalled construction productivity.</p>
+<p><b><i>What we like</i></b>: Terran isn&#8217;t just automating stick-frame construction — it&#8217;s using robotics to make a centuries-proven building method (adobe) commercially viable at scale, turning free, local material into a cost and durability advantage.</p>
+<p style="text-align: center;"><a class="button" href="https://www.terranrobotics.ai/">Learn More</a></p>
+<p>The post <a href="https://geekestateblog.com/turning-dirt-into-homes-with-autonomous-adobe-robots/">Turning Dirt into Homes with Autonomous Adobe Robots</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24543</post-id>	</item>
+		<item>
 		<title>How MapQuest Became the No. 1 App in America. Yes, That MapQuest.</title>
 		<link>https://geekestateblog.com/how-mapquest-became-the-no-1-app-in-america-yes-that-mapquest/</link>
 		
@@ -519,39 +546,5 @@ Speed matters more than polish. The executive order dropped on a Wednesday. The 
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">24492</post-id>	</item>
-		<item>
-		<title>2026 REACH Cohort Announced</title>
-		<link>https://geekestateblog.com/2026-reach-cohort-announced/</link>
-		
-		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 16:53:05 +0000</pubDate>
-				<category><![CDATA[Entrepreneurs and Tech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[reach]]></category>
-		<category><![CDATA[REACH US]]></category>
-		<guid isPermaLink="false">https://geekestateblog.com/?p=24480</guid>
-
-					<description><![CDATA[<p>Geek Estate is about celebrating entrepreneurship, focused on real estate tech (residential and commercial). The REACH program, backed by the National Association of Realtors and Second Century Ventures, is a big part of the broader ecosystem. This week, the 2026 US Resi Cohort was announced....</p>
-<p>The post <a href="https://geekestateblog.com/2026-reach-cohort-announced/">2026 REACH Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="aligncenter size-medium wp-image-19439" src="http://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-300x69.png" alt="" width="300" height="69" srcset="https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-300x69.png 300w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-768x176.png 768w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-1024x235.png 1024w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1-700x160.png 700w, https://geekestateblog.com/wp-content/uploads/2020/05/ReachLogo_Tagline_Color_HiRes_Medium-1.png 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
-<p>Geek Estate is about celebrating entrepreneurship, focused on real estate tech (residential and commercial). <a href="https://nar-reach.com/">The REACH program</a>, backed by the <a href="https://www.nar.realtor/">National Association of Realtors</a> and <a href="http://www.secondcenturyventures.com/">Second Century Ventures</a>, is a big part of the broader ecosystem. This week, <a href="https://www.nar.realtor/newsroom/second-century-ventures-announces-6-technology-companies-for-2026-reach-scale-up-program">the 2026 US Resi Cohort was announced</a>.</p>
-<p>The six companies selected for the 2026 REACH class are:</p>
-<ul>
-<li data-list-item-id="e7b54c910d749f02e0e46634452ae2a2e"><a href="https://ai.realestate/" data-di-id="di-id-dff2f8bb-9fa24f25">Ai.realestate (AiRE)</a>: Unifies unstructured internal data and pairs with property, mortgage and client life intel to provide a supercharged, living database that drives revenue for sales teams.</li>
-<li data-list-item-id="ea049281b033f05f2a922df0ba6c410eb"><a href="https://associationonline.com/" data-di-id="di-id-22b1edf7-7c3a9278">Association Online (AO)</a>: Delivers a comprehensive HOA data and transparency solution designed to reduce closing delays, mitigate risk, and provide specialized support that empowers agents to navigate HOA transactions confidently and drive client loyalty.</li>
-<li data-list-item-id="e33409f5b47aceab8990bf6996a8b9dcd"><a href="https://brokerbot.ai/" data-di-id="di-id-9d7d08ee-dbe82b3a">BrokerBot</a>: Secure, enterprise-grade AI teammates for residential real estate that handle admin, support, training, compliance, and agent guidance—integrating seamlessly with your existing tools so brokers and agents can focus on growing their business and delivering exceptional client experiences.</li>
-<li data-list-item-id="eef324c85906bab9261f4b03e7c7bd6b0"><a href="https://lotroll.com/" data-di-id="di-id-9d7d08ee-784ac6ec">LotRoll</a>: Brings the manufactured housing market online with the data, infrastructure, and tools needed to help industry professionals serve millions of families in one of housing’s most overlooked segments.</li>
-<li data-list-item-id="e1cf082a754c5beff7f592f75109a19ee"><a href="https://maxhome.ai/" data-di-id="di-id-a0153183-22cd2c79">MaxHome.ai</a>: Transaction intelligence platform streamlining compliance, automating workflows, and reducing manual operational work for brokerages and agents.</li>
-<li data-list-item-id="e3468d69b8f83236d20f8e9cce795279c"><a href="https://stackwrap.com/" data-di-id="di-id-dff2f8bb-656a266f">StackWrap</a>: Centralized command center that wraps your existing tech, tools, and third-party systems into a single, secure dashboard while providing visibility into agent engagement and tech adoption rates.</li>
-</ul>
-<p>Collectively, these companies serve every major stakeholder across the residential real estate ecosystem – from agent to consumer, association and MLS, and adjacent industries.</p>
-<p>Please join us in congratulating the entire 2026 REACH class!</p>
-<p>The post <a href="https://geekestateblog.com/2026-reach-cohort-announced/">2026 REACH Cohort Announced</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">24480</post-id>	</item>
 	</channel>
 </rss>

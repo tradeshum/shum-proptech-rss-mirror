@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Thu, 17 Sep 2026 20:42:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Sep 2026 21:04:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,221 +28,226 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Gateway First Bank to acquire Colonial Savings</title>
-		<link>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/</link>
-					<comments>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 20:42:19 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Banking]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Texas]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603434</guid>
-
-					<description><![CDATA[<p>The transaction is expected to close in the first quarter of 2027</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/gateway-first-bank-to-acquire-colonial-savings-texas-mortgage-banking/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603434</post-id>	</item>
-		<item>
-		<title>Settlor integrates with TitleSphere, expands transaction data use</title>
-		<link>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/</link>
-					<comments>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 20:32:30 +0000</pubDate>
-				<category><![CDATA[Title]]></category>
-		<category><![CDATA[Closings]]></category>
-		<category><![CDATA[CRM]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603417</guid>
-
-					<description><![CDATA[<p>Users can now generate context around transaction activity in real time</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/settlor-integrates-with-titlesphere-expands-transaction-data-use/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603417</post-id>	</item>
-		<item>
-		<title>Taylor Morrison CEO says trust can scale in a stress-test market</title>
-		<link>https://www.housingwire.com/articles/taylor-morrison-trust-scale/</link>
-					<comments>https://www.housingwire.com/articles/taylor-morrison-trust-scale/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 19:43:24 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[Homebuilder Confidence]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603418</guid>
-
-					<description><![CDATA[<p>In a market where 66% of builders use incentives, Sheryl Palmer points to reputation, internal alignment, and data systems as advantages</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/taylor-morrison-trust-scale/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603418</post-id>	</item>
-		<item>
-		<title>Florida Agency Network expands CertifID use across closings</title>
-		<link>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/</link>
-					<comments>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 19:21:13 +0000</pubDate>
-				<category><![CDATA[Title]]></category>
-		<category><![CDATA[Closings]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Wire Fraud]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603402</guid>
-
-					<description><![CDATA[<p>FAN said the rollout adds direct wire fraud protection to every closing it conducts</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/florida-agency-network-expands-certifid-use-across-closings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603402</post-id>	</item>
-		<item>
-		<title>NYC buyers caught in the middle of StreetEasy, Compass listing fight</title>
-		<link>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/</link>
-					<comments>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/#respond</comments>
+		<title>Realtor.com lead dispute heads to closed-door arbitration after appeal fails</title>
+		<link>https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/</link>
+					<comments>https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 19:19:16 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
+		<pubDate>Fri, 18 Sep 2026 20:09:50 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Legal]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York City]]></category>
-		<category><![CDATA[Zillow]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603383</guid>
+		<category><![CDATA[Move]]></category>
+		<category><![CDATA[Realtor.com]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603672</guid>
 
-					<description><![CDATA[<p>Compass pulled listings in August, StreetEasy also capped Experts participation at 20% per firm</p>]]></description>
+					<description><![CDATA[<p>Appeals court said it lacked jurisdiction because the dismissal was effectively a stay pending arbitration</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/streeteasy-same-day-listing-rule/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603383</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">603672</post-id>	</item>
 		<item>
-		<title>Housing starts outlook turns negative through 2027 as costs rise</title>
-		<link>https://www.housingwire.com/articles/housing-starts-august-2026/</link>
-					<comments>https://www.housingwire.com/articles/housing-starts-august-2026/#respond</comments>
+		<title>NIL era brings new wealth — and new buyers — to college housing markets</title>
+		<link>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/</link>
+					<comments>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 19:36:03 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[eXp Realty]]></category>
+		<category><![CDATA[First-Time Homebuyers]]></category>
+		<category><![CDATA[Homebuying]]></category>
+		<category><![CDATA[Homeownership]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603632</guid>
+
+					<description><![CDATA[<p>Experts share best practices for helping student-athletes navigate new wealth and homebuying</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603632</post-id>	</item>
+		<item>
+		<title>Lennar defends even-flow, land banking strategy as risks build</title>
+		<link>https://www.housingwire.com/articles/lennar-q3-2026-earnings/</link>
+					<comments>https://www.housingwire.com/articles/lennar-q3-2026-earnings/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 19:01:32 +0000</pubDate>
+		<pubDate>Fri, 18 Sep 2026 18:34:49 +0000</pubDate>
 				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Housing Starts]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Single-Family Housing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603351</guid>
+		<category><![CDATA[Lennar]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603563</guid>
 
-					<description><![CDATA[<p>Buy-downs now support 80-90% of new-home sales as margins tighten and labor shortages persist</p>]]></description>
+					<description><![CDATA[<p>Miller said nearly 50% of visitors cannot immediately qualify, as CPI ran 3.4% and the Fed lifted rates to 3.75% to 4%</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-starts-august-2026/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/lennar-q3-2026-earnings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603351</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">603563</post-id>	</item>
 		<item>
-		<title>Zillow Preview listings now live on Realtor.com</title>
-		<link>https://www.housingwire.com/articles/zillow-preview-realtor-com/</link>
-					<comments>https://www.housingwire.com/articles/zillow-preview-realtor-com/#respond</comments>
+		<title>Hagens Berman seeking plaintiffs for Compass MRED class action</title>
+		<link>https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/</link>
+					<comments>https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 18:41:28 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 18:11:15 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Commission Lawsuit]]></category>
+		<category><![CDATA[Compass]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Listings]]></category>
-		<category><![CDATA[Realtor.com]]></category>
+		<category><![CDATA[MRED]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603595</guid>
+
+					<description><![CDATA[<p>The firm cites claims of 98% market share and points to Compass research showing 4.6% higher sale prices after pre MLS marketing</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603595</post-id>	</item>
+		<item>
+		<title>Zillow-MRED antitrust battle shifts from courtroom to arbitration</title>
+		<link>https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/</link>
+					<comments>https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 17:41:46 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<category><![CDATA[MRED]]></category>
 		<category><![CDATA[Zillow]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603393</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603584</guid>
 
-					<description><![CDATA[<p>Listings will be labeled Realtor.com Preview Listings under a syndication deal first announced in May</p>]]></description>
+					<description><![CDATA[<p>Court said evidence did not sufficiently distinguish conspiracy claims from aligned interests pursued independently by MRED and Compass</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/zillow-preview-realtor-com/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603393</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">603584</post-id>	</item>
 		<item>
-		<title>UWM says 25% of borrowers benefit from new credit score model</title>
-		<link>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/</link>
-					<comments>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/#respond</comments>
+		<title>Key Mortgage hires Kevin Christopher as SVP of production</title>
+		<link>https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/</link>
+					<comments>https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/#respond</comments>
 		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 18:32:08 +0000</pubDate>
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 16:28:19 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[People Movers]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[United Wholesale Mortgage]]></category>
+		<category><![CDATA[JPMorgan Chase]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603561</guid>
+
+					<description><![CDATA[<p>Christopher ran retail mortgage sales across 17 states at JPMorgan Chase’s central division</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/key-mortgage-kevin-christopher-hire/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603561</post-id>	</item>
+		<item>
+		<title>Better board fight escalates as Vishal Garg selects 3 director candidates</title>
+		<link>https://www.housingwire.com/articles/better-board-fight-garg/</link>
+					<comments>https://www.housingwire.com/articles/better-board-fight-garg/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 14:39:24 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Better]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Vishal Garg]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603495</guid>
+
+					<description><![CDATA[<p>Garg moved the written consent deadline to Oct. 2, while Better says he has not produced consents showing majority support</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/better-board-fight-garg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603495</post-id>	</item>
+		<item>
+		<title>Zillow names Rikki Tremblay principal accounting officer</title>
+		<link>https://www.housingwire.com/articles/zillow-tremblay-principal-accounting-officer/</link>
+					<comments>https://www.housingwire.com/articles/zillow-tremblay-principal-accounting-officer/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 13:34:55 +0000</pubDate>
+				<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603475</guid>
+
+					<description><![CDATA[<p>Jennifer Rock will stay in an advisory role through March 1, 2027</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/zillow-tremblay-principal-accounting-officer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603475</post-id>	</item>
+		<item>
+		<title>Sidewalk gaps, train counts ignite California SB 79 zoning lawsuits</title>
+		<link>https://www.housingwire.com/articles/sb79-upzoning-san-diego/</link>
+					<comments>https://www.housingwire.com/articles/sb79-upzoning-san-diego/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 10:04:15 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[San Diego]]></category>
+		<category><![CDATA[Zoning]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603454</guid>
+
+					<description><![CDATA[<p>Plaintiffs say walkway and train frequency rules were applied too narrowly, illegally disqualifying density</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/sb79-upzoning-san-diego/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603454</post-id>	</item>
+		<item>
+		<title>The unseen shift in agency pools: How &#8216;lender choice&#8217; is quietly repricing specified pools</title>
+		<link>https://www.housingwire.com/articles/lender-choice-specified-pools/</link>
+					<comments>https://www.housingwire.com/articles/lender-choice-specified-pools/#respond</comments>
+		
+		<dc:creator><![CDATA[Clifford Rossi]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage-Backed Security]]></category>
+		<category><![CDATA[Secondary market]]></category>
 		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603358</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=601537</guid>
 
-					<description><![CDATA[<p>Lender’s data lines up with analysts’ estimates based on historical performance</p>]]></description>
+					<description><![CDATA[<p>Rising VantageScore 4.0 concentrations are adding uncertainty to credit-based pay-ups and prepayment models 
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/uwm-vantagescore-4-credit-score-model-benefits-25-percent-borrowers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/lender-choice-specified-pools/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603358</post-id>	</item>
-		<item>
-		<title>Foreclosure filings rise 13% year-over-year, South hit hardest</title>
-		<link>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/</link>
-					<comments>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 18:31:44 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[ATTOM]]></category>
-		<category><![CDATA[Foreclosure]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603373</guid>
-
-					<description><![CDATA[<p>Lenders repossessed 5,794 properties through completed foreclosures in August</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/foreclosure-filings-rise-13-year-over-year-south-hit-hardest/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603373</post-id>	</item>
-		<item>
-		<title>Single-family rents rise 1.8% year over year in July</title>
-		<link>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/</link>
-					<comments>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 18:17:07 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Cotality]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Investment Properties]]></category>
-		<category><![CDATA[Rent Prices]]></category>
-		<category><![CDATA[Single-Family Rentals]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603339</guid>
-
-					<description><![CDATA[<p>Among the markets analyzed, rent growth was slowest in the South</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/single-family-rents-july-2026-cotality/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603339</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">601537</post-id>	</item>
 	</channel>
 </rss>
