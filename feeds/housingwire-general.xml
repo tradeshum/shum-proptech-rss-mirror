@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 18 Sep 2026 21:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Sep 2026 20:05:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Will mortgage rates rise to 8% or drop to 6%?</title>
+		<link>https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/</link>
+					<comments>https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2026 20:01:35 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New listings]]></category>
+		<category><![CDATA[Purchase Applications]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603698</guid>
+
+					<description><![CDATA[<p>Mortgage spreads, the Iran conflict and the economy are key 
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/will-mortgage-rates-rise-to-8-or-drop-to-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603698</post-id>	</item>
+		<item>
 		<title>Realtor.com lead dispute heads to closed-door arbitration after appeal fails</title>
 		<link>https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/</link>
 					<comments>https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/#respond</comments>
@@ -225,29 +249,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">603454</post-id>	</item>
-		<item>
-		<title>The unseen shift in agency pools: How &#8216;lender choice&#8217; is quietly repricing specified pools</title>
-		<link>https://www.housingwire.com/articles/lender-choice-specified-pools/</link>
-					<comments>https://www.housingwire.com/articles/lender-choice-specified-pools/#respond</comments>
-		
-		<dc:creator><![CDATA[Clifford Rossi]]></dc:creator>
-		<pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage-Backed Security]]></category>
-		<category><![CDATA[Secondary market]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=601537</guid>
-
-					<description><![CDATA[<p>Rising VantageScore 4.0 concentrations are adding uncertainty to credit-based pay-ups and prepayment models 
-</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/lender-choice-specified-pools/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">601537</post-id>	</item>
 	</channel>
 </rss>
