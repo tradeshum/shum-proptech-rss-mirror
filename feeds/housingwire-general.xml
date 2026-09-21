@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 19 Sep 2026 20:05:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Sep 2026 23:25:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -76,7 +76,7 @@
 		<item>
 		<title>NIL era brings new wealth — and new buyers — to college housing markets</title>
 		<link>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/</link>
-					<comments>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/#respond</comments>
+					<comments>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/#comments</comments>
 		
 		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
 		<pubDate>Fri, 18 Sep 2026 19:36:03 +0000</pubDate>
@@ -92,7 +92,7 @@
 					<description><![CDATA[<p>Experts share best practices for helping student-athletes navigate new wealth and homebuying</p>]]></description>
 		
 					<wfw:commentRss>https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">603632</post-id>	</item>
