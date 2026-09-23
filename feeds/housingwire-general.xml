@@ -12,13 +12,13 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Mon, 21 Sep 2026 21:09:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Sep 2026 20:04:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.9</generator>
+	<generator>https://wordpress.org/?v=6.8.10</generator>
 
 <image>
 	<url>https://www.housingwire.com/wp-content/uploads/2023/10/cropped-favicon-bg.png?w=32</url>
@@ -28,221 +28,225 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Never quote your real estate commission by text</title>
-		<link>https://www.housingwire.com/articles/never-quote-commission-text/</link>
-					<comments>https://www.housingwire.com/articles/never-quote-commission-text/#respond</comments>
-		
-		<dc:creator><![CDATA[Darryl Davis]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 21:08:37 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Commissions]]></category>
-		<category><![CDATA[Real Estate Marketing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603861</guid>
-
-					<description><![CDATA[<p>Move the question to a call, frame value before price, then give an honest range that leads to a listing appointment</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/never-quote-commission-text/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603861</post-id>	</item>
-		<item>
-		<title>Auction.com taps John Ken as SVP of marketing</title>
-		<link>https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/</link>
-					<comments>https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/#respond</comments>
+		<title>AARP lays out six areas of financial health for retirees</title>
+		<link>https://www.housingwire.com/articles/aarp-financial-health-retirees/</link>
+					<comments>https://www.housingwire.com/articles/aarp-financial-health-retirees/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 20:39:02 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Auction.com]]></category>
-		<category><![CDATA[Homebuying]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603849</guid>
-
-					<description><![CDATA[<p>Ken plans to widen education paths for buyers new to the process</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603849</post-id>	</item>
-		<item>
-		<title>Networking for real estate agents, ask better questions and follow through</title>
-		<link>https://www.housingwire.com/articles/real-estate-networking-listening/</link>
-					<comments>https://www.housingwire.com/articles/real-estate-networking-listening/#respond</comments>
-		
-		<dc:creator><![CDATA[Keith Robinson]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 19:09:54 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Marketing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603789</guid>
-
-					<description><![CDATA[<p>Ask better questions, find a real interest, and leave with a small action you can follow through on</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-estate-networking-listening/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603789</post-id>	</item>
-		<item>
-		<title>HUD showcase spotlights Cavco chassis-free manufactured home</title>
-		<link>https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/</link>
-					<comments>https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 19:08:42 +0000</pubDate>
-				<category><![CDATA[Architecture]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Manufactured Housing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603802</guid>
-
-					<description><![CDATA[<p>Cavco says the chassis-free shift is driven by design flexibility, not just $5,000 to $10,000 in cost reductions cited by others</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603802</post-id>	</item>
-		<item>
-		<title>Miami Realtors + RWorld forms new education partnership</title>
-		<link>https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/</link>
-					<comments>https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 17:24:01 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Continuing Education]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Miami]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603801</guid>
-
-					<description><![CDATA[<p>Classes are available in person, by livestream and online</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603801</post-id>	</item>
-		<item>
-		<title>First-time homebuyers get help from Airbnb in New York City</title>
-		<link>https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/</link>
-					<comments>https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 16:51:12 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Airbnb]]></category>
-		<category><![CDATA[First-Time Homebuyers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York City]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603791</guid>
-
-					<description><![CDATA[<p>The initiative is supported by a $600,000 grant from Airbnb over three years</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/first-time-homebuyers-help-from-airbnb-nyc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603791</post-id>	</item>
-		<item>
-		<title>Real estate has a new-agent launch problem, not recruiting</title>
-		<link>https://www.housingwire.com/articles/new-agent-launch-problem/</link>
-					<comments>https://www.housingwire.com/articles/new-agent-launch-problem/#respond</comments>
-		
-		<dc:creator><![CDATA[Alexandre Worthington]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 16:26:43 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Recruiting]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603746</guid>
-
-					<description><![CDATA[<p>A 90-day apprenticeship-style onboarding with activity metrics, practice reps and business basics is key</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/new-agent-launch-problem/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603746</post-id>	</item>
-		<item>
-		<title>Archwell Capital names Mike Middleman CEO</title>
-		<link>https://www.housingwire.com/articles/archwell-capital-new-ceo/</link>
-					<comments>https://www.housingwire.com/articles/archwell-capital-new-ceo/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 15:20:11 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Private]]></category>
-		<category><![CDATA[Freedom Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603767</guid>
-
-					<description><![CDATA[<p>Archwell also named new COO, CFO, CIO, and chief AI officer as it scales investments and businesses</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/archwell-capital-new-ceo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603767</post-id>	</item>
-		<item>
-		<title>NAR wins Meta 2026 award for AI ad automation</title>
-		<link>https://www.housingwire.com/articles/nar-meta-advantage-award/</link>
-					<comments>https://www.housingwire.com/articles/nar-meta-advantage-award/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 13:59:01 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603748</guid>
-
-					<description><![CDATA[<p>Test using Advantage+ Audience drove 432,000 landing page views and cut cost per view by 29%</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-meta-advantage-award/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">603748</post-id>	</item>
-		<item>
-		<title>When a reverse mortgage comes due, heirs face a clock</title>
-		<link>https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/</link>
-					<comments>https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
+		<pubDate>Tue, 22 Sep 2026 20:04:04 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[CFPB]]></category>
-		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[AARP]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Consumer Law Center]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=603680</guid>
+		<category><![CDATA[Retirement]]></category>
+		<category><![CDATA[Social Security]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604006</guid>
 
-					<description><![CDATA[<p>HUD-approved housing counseling agencies and attorneys can help heirs understand their rights</p>]]></description>
+					<description><![CDATA[<p>Rising prices, Social Security uncertainty and record debt are compounding worries</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/reverse-mortgage-comes-due-heirs-face-a-clock/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/aarp-financial-health-retirees/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">603680</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604006</post-id>	</item>
+		<item>
+		<title>Mortgage rates face several hurdles before they can return to 6%</title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-hurdles-6/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-hurdles-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 19:15:51 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Inflation]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603979</guid>
+
+					<description><![CDATA[<p>Inflation, Fed guidance and spreads all play a role with higher rates, Logan Mohtashami says
+
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-hurdles-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603979</post-id>	</item>
+		<item>
+		<title>Housing boom expected to follow SpaceX Louisiana arrival</title>
+		<link>https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/</link>
+					<comments>https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 19:14:56 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Louisiana]]></category>
+		<category><![CDATA[The Real Brokerage]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603988</guid>
+
+					<description><![CDATA[<p>Local Realtors say investors are already buying land around the area in anticipation of workers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-boom-expected-to-follow-spacex-louisiana-arrival/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603988</post-id>	</item>
+		<item>
+		<title>Millrose plans $1 billion bond sale to fund homesite growth</title>
+		<link>https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/</link>
+					<comments>https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:53:22 +0000</pubDate>
+				<category><![CDATA[Capital]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Residential Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603992</guid>
+
+					<description><![CDATA[<p>The land bank lines up $1.5 billion in debt capacity tied to Dream Finders–Beazer land strategy</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/millrose-1-billion-senior-notes-deal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603992</post-id>	</item>
+		<item>
+		<title>NextHome large-office model adds 5 former Keller Williams offices</title>
+		<link>https://www.housingwire.com/articles/nexthome-large-office-model/</link>
+					<comments>https://www.housingwire.com/articles/nexthome-large-office-model/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:35:33 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[eXp World Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Keller Williams]]></category>
+		<category><![CDATA[NextHome]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603980</guid>
+
+					<description><![CDATA[<p>Nearly 400 agents across California joined after the May launch of the 5-year large-office franchise model</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nexthome-large-office-model/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603980</post-id>	</item>
+		<item>
+		<title>Why more real estate agents are getting their mortgage loan originator license </title>
+		<link>https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/</link>
+					<comments>https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/#respond</comments>
+		
+		<dc:creator><![CDATA[Michael Read]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:34:09 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Dual Licensing]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603964</guid>
+
+					<description><![CDATA[<p>A December 2022 FHA letter and higher-rate friction pushed renewed focus on dual licensing and end-to-end deal control</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/why-more-real-estate-agents-get-mlo-license/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603964</post-id>	</item>
+		<item>
+		<title>Massachusetts ballot puts lot density up for a vote of the people</title>
+		<link>https://www.housingwire.com/articles/ma-lot-size-ballot/</link>
+					<comments>https://www.housingwire.com/articles/ma-lot-size-ballot/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 18:25:09 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Massachusetts]]></category>
+		<category><![CDATA[Zoning]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603958</guid>
+
+					<description><![CDATA[<p>The state is the first to put minimum lot sizes on the ballot, with a Nov. 3 vote on a 5,000 square foot cap</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ma-lot-size-ballot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603958</post-id>	</item>
+		<item>
+		<title>New American Funding promotes Stacy Chevalier to Northwest regional VP</title>
+		<link>https://www.housingwire.com/articles/naf-chevalier-northwest-vp/</link>
+					<comments>https://www.housingwire.com/articles/naf-chevalier-northwest-vp/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 17:25:07 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New American Funding]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603951</guid>
+
+					<description><![CDATA[<p>The lender said Chevalier will build teams and branches across five Northwest states</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/naf-chevalier-northwest-vp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603951</post-id>	</item>
+		<item>
+		<title>LoanCare names Amy Jones chief information officer</title>
+		<link>https://www.housingwire.com/articles/loancare-amy-jones-chief-information/</link>
+					<comments>https://www.housingwire.com/articles/loancare-amy-jones-chief-information/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 17:15:45 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Servicing]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603939</guid>
+
+					<description><![CDATA[<p>Jones previously led customer technology and experience at Wellmark, and held servicing tech leadership roles at Wells Fargo</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/loancare-amy-jones-chief-information/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603939</post-id>	</item>
+		<item>
+		<title>Higher mortgage rates are expected to lead to fewer originations through 2027</title>
+		<link>https://www.housingwire.com/articles/mba-cuts-2027-originations/</link>
+					<comments>https://www.housingwire.com/articles/mba-cuts-2027-originations/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 17:11:51 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Longbridge Financial]]></category>
+		<category><![CDATA[Mortgage Bankers Association]]></category>
+		<category><![CDATA[PennyMac]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=603915</guid>
+
+					<description><![CDATA[<p>With 30-year conforming rates reaching 7.32% this week, MBA has penciled in two more Fed hikes in the next 12 months </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mba-cuts-2027-originations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">603915</post-id>	</item>
 	</channel>
 </rss>
