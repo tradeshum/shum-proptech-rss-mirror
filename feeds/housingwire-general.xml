@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 23 Sep 2026 22:02:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Sep 2026 21:35:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,223 +28,219 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Unison faces another class-action lawsuit, this time in North Carolina</title>
-		<link>https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/</link>
-					<comments>https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/#respond</comments>
+		<title>Why credit unions are missing the boat on reverse mortgage demand</title>
+		<link>https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/</link>
+					<comments>https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/#respond</comments>
 		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 21:53:55 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 20:32:33 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Home Equity Investments]]></category>
+		<category><![CDATA[Credit Union]]></category>
+		<category><![CDATA[HECM]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lawsuit]]></category>
-		<category><![CDATA[North Carolina]]></category>
-		<category><![CDATA[Unison]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604240</guid>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604542</guid>
 
-					<description><![CDATA[<p>The case is the latest example of home equity investment providers attracting regulatory and legal scrutiny across the country</p>]]></description>
+					<description><![CDATA[<p>Credit unions originated very few of the 36,000 reverse mortgages in the past 12 months, executives told ACUMA attendees</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/unison-faces-another-class-action-lawsuit-this-time-in-north-carolina/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/credit-unions-reverse-mortgage-demand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604240</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604542</post-id>	</item>
 		<item>
-		<title>KB Home’ build-to-order pivot pays off, but buyers remain cautious</title>
-		<link>https://www.housingwire.com/articles/kb-home-q3-2026-earnings/</link>
-					<comments>https://www.housingwire.com/articles/kb-home-q3-2026-earnings/#respond</comments>
+		<title>Builders cut prices as new home supply holds at 8.5 months</title>
+		<link>https://www.housingwire.com/articles/august-new-home-sales-incentives/</link>
+					<comments>https://www.housingwire.com/articles/august-new-home-sales-incentives/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 21:17:07 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
+		<pubDate>Thu, 24 Sep 2026 20:10:06 +0000</pubDate>
+				<category><![CDATA[Marketing & Sales]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[KB Home]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604211</guid>
+		<category><![CDATA[New Home Sales]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604474</guid>
 
-					<description><![CDATA[<p>Q3 2026 revenue fell 20% and deliveries dropped 19%, while gross margin spiked to 16.5%, up from 15.2% in Q2</p>]]></description>
+					<description><![CDATA[<p>Median price fell 5.8% year over year and supply held at 8.5 months as buydowns remain entrenched</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/kb-home-q3-2026-earnings/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/august-new-home-sales-incentives/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604211</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604474</post-id>	</item>
 		<item>
-		<title>Perchwell CEO on landmark MLS shift to next-generation tech</title>
-		<link>https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/</link>
-					<comments>https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/#respond</comments>
+		<title>Land strategy math gets tougher for homebuilders in 2027–2029</title>
+		<link>https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/</link>
+					<comments>https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 19:42:02 +0000</pubDate>
+				<category><![CDATA[Land]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Residential Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604537</guid>
+
+					<description><![CDATA[<p>Acres says its expanded platform covers 1,000-plus metros and 3,000-plus counties using 155 million parcel records</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/homebuilder-land-underwriting-shift/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604537</post-id>	</item>
+		<item>
+		<title>Concerns over outliving assets grow among non-retirees</title>
+		<link>https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/</link>
+					<comments>https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 19:01:21 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Aging in Place]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Retirement]]></category>
+		<category><![CDATA[Social Security]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604515</guid>
+
+					<description><![CDATA[<p>Most non-retired Americans find the idea of no more regular paychecks concerning</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/concerns-over-outliving-assets-grow-among-non-retirees/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604515</post-id>	</item>
+		<item>
+		<title>HouseCanary’s bankruptcy fight is tied to a $175M+ verdict against Rocket Close</title>
+		<link>https://www.housingwire.com/articles/housecanary-rocket-close-damages/</link>
+					<comments>https://www.housingwire.com/articles/housecanary-rocket-close-damages/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 18:54:10 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Amrock]]></category>
+		<category><![CDATA[HouseCanary]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Rocket Companies]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604517</guid>
+
+					<description><![CDATA[<p>Court filings cite a $30M loan default and a pending final judgment on 2026 damages</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housecanary-rocket-close-damages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604517</post-id>	</item>
+		<item>
+		<title>A new MLS ‘constitution?&#8217; Hive MLS CEO Daniel Jones makes his case</title>
+		<link>https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/</link>
+					<comments>https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/#respond</comments>
 		
 		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 20:49:16 +0000</pubDate>
+		<pubDate>Thu, 24 Sep 2026 18:49:40 +0000</pubDate>
 				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Perchwell]]></category>
 		<category><![CDATA[Real Estate Agents]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604228</guid>
-
-					<description><![CDATA[<p>Fairbanks says a recent MLS conversion represents a different pace of industry innovation</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/perchwell-ceo-on-landmark-mls-shift-to-next-generation-tech/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604228</post-id>	</item>
-		<item>
-		<title>AI won&#8217;t get sued over a bad listing — the agent will</title>
-		<link>https://www.housingwire.com/articles/ai-listing-liability-agents/</link>
-					<comments>https://www.housingwire.com/articles/ai-listing-liability-agents/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 19:38:04 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Real Estate Listings]]></category>
 		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604191</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604473</guid>
 
-					<description><![CDATA[<p>Per the National Association of Realtors' 2026 Technology Report, 48 percent of all Realtors use AI regularly</p>]]></description>
+					<description><![CDATA[<p>The declaration arrives as MLS leaders confront questions involving private listing strategies, data ownership and much more</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/ai-listing-liability-agents/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/a-new-mls-constitution-hive-mls-ceo-daniel-jones-makes-his-case/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604191</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604473</post-id>	</item>
 		<item>
-		<title>Hot economic data sends mortgage rates to yearly highs</title>
-		<link>https://www.housingwire.com/articles/mortgage-spreads-yield-spike/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-spreads-yield-spike/#respond</comments>
+		<title>Interlock ransomware claim triggers lawsuit against NFM Lending</title>
+		<link>https://www.housingwire.com/articles/nfm-lending-interlock-breach/</link>
+					<comments>https://www.housingwire.com/articles/nfm-lending-interlock-breach/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 18:21:55 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lawsuit]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604457</guid>
+
+					<description><![CDATA[<p>Interlock claimed the breach involved more than 2.5 terabytes of files</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nfm-lending-interlock-breach/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604457</post-id>	</item>
+		<item>
+		<title>New home sales are at an 8-month high but still stuck after 10 years</title>
+		<link>https://www.housingwire.com/articles/builder-buydowns-new-home-sales/</link>
+					<comments>https://www.housingwire.com/articles/builder-buydowns-new-home-sales/#respond</comments>
 		
 		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 19:26:35 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
+		<pubDate>Thu, 24 Sep 2026 18:15:09 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604189</guid>
+		<category><![CDATA[New Home Sales]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604478</guid>
 
-					<description><![CDATA[<p>The 10-year yield climbed to a level not seen since 2006 after hot PMI data and more hawkish Fed messaging</p>]]></description>
+					<description><![CDATA[<p>Sales reached a 684,000 annual rate, but higher mortgage rates may pressure builder margins and confidence</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-spreads-yield-spike/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/builder-buydowns-new-home-sales/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604189</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604478</post-id>	</item>
 		<item>
-		<title>SERHANT. upgrades S.MPLE AI platform with Dot assistant</title>
-		<link>https://www.housingwire.com/articles/serhant-dot-smple-2/</link>
-					<comments>https://www.housingwire.com/articles/serhant-dot-smple-2/#respond</comments>
+		<title>HouseCanary files for chapter 11 bankruptcy in New Jersey</title>
+		<link>https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/</link>
+					<comments>https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 18:40:50 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 17:02:04 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Bankruptcy]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[HouseCanary]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Ryan Serhant]]></category>
-		<category><![CDATA[SERHANT.]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604172</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604458</guid>
 
-					<description><![CDATA[<p>S.MPLE 2.0 coordinates multiple AI agents for CMAs, marketing, transactions and follow ups</p>]]></description>
+					<description><![CDATA[<p>Petitions list more than $50 million in assets and at least $50 million in liabilities across 6 affiliated debtors</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/serhant-dot-smple-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/housecanary-chapter-11-bankruptcy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604172</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604458</post-id>	</item>
 		<item>
-		<title>Labor imbalances plague the $230B kitchen and bath sector</title>
-		<link>https://www.housingwire.com/articles/nkba-2026-skilled-labor-study/</link>
-					<comments>https://www.housingwire.com/articles/nkba-2026-skilled-labor-study/#respond</comments>
+		<title>More renters struggling with monthly housing costs</title>
+		<link>https://www.housingwire.com/articles/more-renters-struggling-with-monthly-housing-costs/</link>
+					<comments>https://www.housingwire.com/articles/more-renters-struggling-with-monthly-housing-costs/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 18:04:11 +0000</pubDate>
-				<category><![CDATA[Architecture]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Construction]]></category>
-		<category><![CDATA[Home Improvement]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604155</guid>
-
-					<description><![CDATA[<p>NKBA’s 2026 study shows skilled labor shortages in kitchen and bath are spreading, a limit to project capacity for remodelers</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/nkba-2026-skilled-labor-study/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604155</post-id>	</item>
-		<item>
-		<title>Orion data exchange links MetroList, NNRMLS and ODS listings</title>
-		<link>https://www.housingwire.com/articles/orion-mls-data-exchange/</link>
-					<comments>https://www.housingwire.com/articles/orion-mls-data-exchange/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 17:45:18 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
+		<pubDate>Thu, 24 Sep 2026 16:26:54 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[California]]></category>
+		<category><![CDATA[Affordability]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MetroList]]></category>
-		<category><![CDATA[Nevada]]></category>
-		<category><![CDATA[Oregon]]></category>
-		<category><![CDATA[Real Estate Listings]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604164</guid>
+		<category><![CDATA[Rent Prices]]></category>
+		<category><![CDATA[Renters]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604430</guid>
 
-					<description><![CDATA[<p>First phase delivers real-time, multistate access in a Rapattoni user environment, with primary system feeds planned later</p>]]></description>
+					<description><![CDATA[<p>In 2025, 27.8% of lower-income households reported difficulty paying rent</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/orion-mls-data-exchange/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/more-renters-struggling-with-monthly-housing-costs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604164</post-id>	</item>
-		<item>
-		<title>Stellar MLS expands into Hernando County, Florida via merger</title>
-		<link>https://www.housingwire.com/articles/stellar-mls-hernando-county/</link>
-					<comments>https://www.housingwire.com/articles/stellar-mls-hernando-county/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 16:40:47 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Stellar MLS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604142</guid>
-
-					<description><![CDATA[<p>The Florida-based MLS now covers 19 plus counties in the state and supports 75,000 customers across 20 associations in Florida and Puerto Rico</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/stellar-mls-hernando-county/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604142</post-id>	</item>
-		<item>
-		<title>DRB Group to launch two mortgage joint ventures in 2027</title>
-		<link>https://www.housingwire.com/articles/drb-group-mortgage-joint-ventures/</link>
-					<comments>https://www.housingwire.com/articles/drb-group-mortgage-joint-ventures/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 15:42:51 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604081</guid>
-
-					<description><![CDATA[<p>DRB Group will launch DRB Mortgage and DRB Home Loans in January 2027 with Acrisure Mortgage and Alta Home Lending</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/drb-group-mortgage-joint-ventures/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604081</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604430</post-id>	</item>
 	</channel>
 </rss>
