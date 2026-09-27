@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 25 Sep 2026 20:36:49 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Sep 2026 09:41:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Compass asks MLSs to block listing data from recruiting tools</title>
+		<link>https://www.housingwire.com/articles/compass-mls-recruiting-data/</link>
+					<comments>https://www.housingwire.com/articles/compass-mls-recruiting-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2026 09:41:00 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Recruiting]]></category>
+		<category><![CDATA[Robert Reffkin]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604737</guid>
+
+					<description><![CDATA[<p>Letter seeks opt-out from non-IDX and VOW vendor feeds, with a 30-day deadline</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/compass-mls-recruiting-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604737</post-id>	</item>
+		<item>
 		<title>Where builder discounts are biggest and who is still buying</title>
 		<link>https://www.housingwire.com/articles/builder-marketing-2027-planning/</link>
 					<comments>https://www.housingwire.com/articles/builder-marketing-2027-planning/#respond</comments>
@@ -220,27 +243,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">604611</post-id>	</item>
-		<item>
-		<title>Why file ops costs are the next pressure point for brokerages</title>
-		<link>https://www.housingwire.com/articles/real-estate-file-ops-costs/</link>
-					<comments>https://www.housingwire.com/articles/real-estate-file-ops-costs/#respond</comments>
-		
-		<dc:creator><![CDATA[Noah Laker]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 14:55:31 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604608</guid>
-
-					<description><![CDATA[<p>The commentary argues many transaction tools track tasks but do not draft, chase signatures, or complete disclosures end to end</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-estate-file-ops-costs/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604608</post-id>	</item>
 	</channel>
 </rss>
