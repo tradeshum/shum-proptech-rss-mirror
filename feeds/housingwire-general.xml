@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 26 Sep 2026 09:41:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Sep 2026 00:37:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Mortgage rates have gone wild, so what’s next for housing? </title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sun, 27 Sep 2026 20:51:33 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604742</guid>
+
+					<description><![CDATA[<p>Rates near 7.5% plus volatility delivered a clear hit to weekly demand</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604742</post-id>	</item>
+		<item>
 		<title>Compass asks MLSs to block listing data from recruiting tools</title>
 		<link>https://www.housingwire.com/articles/compass-mls-recruiting-data/</link>
 					<comments>https://www.housingwire.com/articles/compass-mls-recruiting-data/#respond</comments>
@@ -221,27 +241,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">604596</post-id>	</item>
-		<item>
-		<title>MLSs are changing. So is their relationship with Realtor associations</title>
-		<link>https://www.housingwire.com/articles/mls-association-separation-mergers/</link>
-					<comments>https://www.housingwire.com/articles/mls-association-separation-mergers/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 15:08:06 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Canopy MLS]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Realtor]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604611</guid>
-
-					<description><![CDATA[<p>Leaders point to consolidation, shifting ownership stakes, and governance changes as drivers of new operating models</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mls-association-separation-mergers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604611</post-id>	</item>
 	</channel>
 </rss>
