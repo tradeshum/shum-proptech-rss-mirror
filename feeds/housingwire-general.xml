@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Mon, 28 Sep 2026 00:37:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 00:04:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,218 +28,220 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Mortgage rates have gone wild, so what’s next for housing? </title>
-		<link>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/#respond</comments>
+		<title>Are 9% mortgage rates possible?</title>
+		<link>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/</link>
+					<comments>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/#respond</comments>
 		
 		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sun, 27 Sep 2026 20:51:33 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Inventory]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604742</guid>
-
-					<description><![CDATA[<p>Rates near 7.5% plus volatility delivered a clear hit to weekly demand</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-have-gone-wild-so-whats-next-for-housing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604742</post-id>	</item>
-		<item>
-		<title>Compass asks MLSs to block listing data from recruiting tools</title>
-		<link>https://www.housingwire.com/articles/compass-mls-recruiting-data/</link>
-					<comments>https://www.housingwire.com/articles/compass-mls-recruiting-data/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Sat, 26 Sep 2026 09:41:00 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
+		<pubDate>Mon, 28 Sep 2026 21:58:29 +0000</pubDate>
+				<category><![CDATA[Mortgage Rates]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Recruiting]]></category>
-		<category><![CDATA[Robert Reffkin]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604737</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604922</guid>
 
-					<description><![CDATA[<p>Letter seeks opt-out from non-IDX and VOW vendor feeds, with a 30-day deadline</p>]]></description>
+					<description><![CDATA[<p>Without a 10-year move above 6% and the spreads widening, the math does not support 9% — even with a hawkish Fed</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/compass-mls-recruiting-data/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604737</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604922</post-id>	</item>
 		<item>
-		<title>Where builder discounts are biggest and who is still buying</title>
-		<link>https://www.housingwire.com/articles/builder-marketing-2027-planning/</link>
-					<comments>https://www.housingwire.com/articles/builder-marketing-2027-planning/#respond</comments>
+		<title>From policy to a path forward</title>
+		<link>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/</link>
+					<comments>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/#respond</comments>
 		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 20:36:47 +0000</pubDate>
-				<category><![CDATA[Marketing & Sales]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Housing Market Data]]></category>
+		<dc:creator><![CDATA[Paul Gigliotti]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 21:41:15 +0000</pubDate>
+				<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[California]]></category>
+		<category><![CDATA[Disaster Relief]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604700</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604920</guid>
 
-					<description><![CDATA[<p>Audience Town analyzed 201,000 sales across 25 markets and found every market sold below asking</p>]]></description>
+					<description><![CDATA[<p>California MBA CEO Paul Gigliotti explains how collaboration can turn disaster recovery policy into clearer resources and real paths forward for homeowners.</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/builder-marketing-2027-planning/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604700</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604920</post-id>	</item>
 		<item>
-		<title>Proposal seeks to standardize MSR accounting for recapture values</title>
-		<link>https://www.housingwire.com/articles/fasb-msr-recapture-proposal/</link>
-					<comments>https://www.housingwire.com/articles/fasb-msr-recapture-proposal/#respond</comments>
+		<title>Is technology changing the economics?</title>
+		<link>https://www.housingwire.com/articles/cost-originate-ai-economics/</link>
+					<comments>https://www.housingwire.com/articles/cost-originate-ai-economics/#respond</comments>
 		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 18:27:16 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Servicing]]></category>
-		<category><![CDATA[accounting]]></category>
-		<category><![CDATA[Financial Accounting Standards Board]]></category>
+		<dc:creator><![CDATA[Rick Roque, Jim Deitch]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 20:30:08 +0000</pubDate>
+				<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Opinion]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[MSRs]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604671</guid>
+		<category><![CDATA[mortgage]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604778</guid>
 
-					<description><![CDATA[<p>Analysts say the change should boost transparency but is unlikely to move MSR carrying values</p>]]></description>
+					<description><![CDATA[<p>AI is reshaping mortgage economics, but lowering the cost to originate requires disciplined processes, measurable ROI and accountability across the organization.</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fasb-msr-recapture-proposal/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/cost-originate-ai-economics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604671</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604778</post-id>	</item>
 		<item>
-		<title>Gateless Smart Underwrite earns AZP Platinum AI certification</title>
-		<link>https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/</link>
-					<comments>https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 16:39:48 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Gateless]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604647</guid>
-
-					<description><![CDATA[<p>AZP cited 230,000 loans with no reported claims and a framework focused on governance and auditability</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/gateless-platinum-ai-underwriting/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604647</post-id>	</item>
-		<item>
-		<title>Experian integrates Verify with Workday for income verification</title>
-		<link>https://www.housingwire.com/articles/experian-integrates-verify-workday/</link>
-					<comments>https://www.housingwire.com/articles/experian-integrates-verify-workday/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 16:30:41 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Experian]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Income verification]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604640</guid>
-
-					<description><![CDATA[<p>Experian says its Verify network has a path to cover more than 80 million payroll records across the U.S.</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/experian-integrates-verify-workday/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604640</post-id>	</item>
-		<item>
-		<title>New Jersey looks to remove home interior photos upon buyer request</title>
-		<link>https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/</link>
-					<comments>https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 16:23:46 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Homebuyers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New Jersey]]></category>
-		<category><![CDATA[Regulatory Compliance]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604637</guid>
-
-					<description><![CDATA[<p>Failure to comply carries real consequences for licensees</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/new-jersey-looks-to-remove-home-interior-photos-upon-buyer-request/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604637</post-id>	</item>
-		<item>
-		<title>How mortgage brokers can tap into underserved VA markets</title>
-		<link>https://www.housingwire.com/articles/va-loans-brokers-aime/</link>
-					<comments>https://www.housingwire.com/articles/va-loans-brokers-aime/#respond</comments>
+		<title>UWM&#8217;s Mat Ishbia backs VantageScore 4.0, says Underwriting+ results are &#8216;off the charts&#8217;</title>
+		<link>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/</link>
+					<comments>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 16:10:19 +0000</pubDate>
+		<pubDate>Mon, 28 Sep 2026 20:22:13 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[AIME]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Broker]]></category>
-		<category><![CDATA[VA Loan]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604602</guid>
+		<category><![CDATA[Mat Ishbia]]></category>
+		<category><![CDATA[Underwriting]]></category>
+		<category><![CDATA[United Wholesale Mortgage]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604850</guid>
 
-					<description><![CDATA[<p>At AIME Fuse, VA lending experts addressed product misconceptions, targeted borrower outreach strategies and a creative renovation solution</p>]]></description>
+					<description><![CDATA[<p>At last week’s AIME Fuse event, Ishbia also shared his thoughts on UWM’s new Underwriter+ program</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/va-loans-brokers-aime/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604602</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604850</post-id>	</item>
 		<item>
-		<title>Institute for Luxury Home Marketing launches property search platform</title>
-		<link>https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/</link>
-					<comments>https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/#respond</comments>
+		<title>Lennar’s “home within a home” targets multigenerational demand</title>
+		<link>https://www.housingwire.com/articles/lennar-multigenerational-demand/</link>
+					<comments>https://www.housingwire.com/articles/lennar-multigenerational-demand/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 15:45:02 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Home Sales]]></category>
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 20:14:29 +0000</pubDate>
+				<category><![CDATA[Architecture]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Luxury Real Estate]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604623</guid>
+		<category><![CDATA[Lennar]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604860</guid>
 
-					<description><![CDATA[<p>The platform is available to the Institute’s more than 11,000 current members</p>]]></description>
+					<description><![CDATA[<p>A survey from Sotheby's International Realty suggests that buyers are willing to pay a premium for multigenerational homes</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/institute-for-luxury-home-marketing-launches-property-search-platform/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/lennar-multigenerational-demand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604623</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604860</post-id>	</item>
 		<item>
-		<title>Judge dismisses UWM 401(k) forfeiture lawsuit under ERISA</title>
-		<link>https://www.housingwire.com/articles/judge-dismisses-uwm-lawsuit/</link>
-					<comments>https://www.housingwire.com/articles/judge-dismisses-uwm-lawsuit/#respond</comments>
+		<title>Sitzer settlement survives another challenge as attorneys fight over $120M commission fund</title>
+		<link>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/</link>
+					<comments>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 20:11:20 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Commission Lawsuit]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NAR Lawsuit Settlement]]></category>
+		<category><![CDATA[Sitzer/Burnett]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604903</guid>
+
+					<description><![CDATA[<p>Objectors March and Friedman lost rehearing requests, Gibson rehearing petition remains pending</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604903</post-id>	</item>
+		<item>
+		<title>Can a $100M homebuilder build his own operating system with AI?</title>
+		<link>https://www.housingwire.com/articles/homebuilder-ai-operating-system/</link>
+					<comments>https://www.housingwire.com/articles/homebuilder-ai-operating-system/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 20:01:44 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604887</guid>
+
+					<description><![CDATA[<p>Alex Akel says he spent 1,600 to 1,800 hours building an integrated platform spanning sales to field operations</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/homebuilder-ai-operating-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604887</post-id>	</item>
+		<item>
+		<title>Benchmark shuts down wholesale division Eleven Mortgage, says it will focus on retail</title>
+		<link>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/</link>
+					<comments>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 15:41:58 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Mortgage]]></category>
+		<pubDate>Mon, 28 Sep 2026 19:33:27 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Correspondent Lending]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lawsuit]]></category>
-		<category><![CDATA[United Wholesale Mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604596</guid>
+		<category><![CDATA[Mortgage and Housing Layoffs]]></category>
+		<category><![CDATA[Wholesale Lending]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604857</guid>
 
-					<description><![CDATA[<p>Michigan federal judge said plan terms allowed forfeitures to reduce employer contributions when not used for plan expenses</p>]]></description>
+					<description><![CDATA[<p>The company announced the wind-down of its wholesale and correspondent channel</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/judge-dismisses-uwm-lawsuit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604596</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604857</post-id>	</item>
+		<item>
+		<title>NeighborWorks America awards $4.14M in supplemental grants</title>
+		<link>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/</link>
+					<comments>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 19:13:50 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Natural Disaster]]></category>
+		<category><![CDATA[NeighborWorks America]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604858</guid>
+
+					<description><![CDATA[<p>Awards cover 23 network organizations in 17 states and the District of Columbia</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604858</post-id>	</item>
+		<item>
+		<title>Coming soon listings are changing the rules of the home search</title>
+		<link>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/</link>
+					<comments>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 17:45:55 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NWMLS]]></category>
+		<category><![CDATA[private listings]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604840</guid>
+
+					<description><![CDATA[<p>Agents cite shifting syndication rules by brokerage and MLS, with NWMLS First Look allowing up to 21 days pre market</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604840</post-id>	</item>
 	</channel>
 </rss>
