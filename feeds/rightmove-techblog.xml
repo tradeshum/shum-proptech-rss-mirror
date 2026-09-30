@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://rightmove.blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rightmove.blog/</link>
 	<description>Follow for an inside view of the people and technology that power Rightmove.</description>
-	<lastBuildDate>Wed, 24 Jun 2026 09:01:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Sep 2026 14:19:31 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -54,6 +54,71 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:person role="Host">Ana</podcast:person>
 	<podcast:podping usesPodping="true" />
 <site xmlns="com-wordpress:feed-additions:1">151297159</site>	<item>
+		<title>Making moves: from Makers Academy to Rightmove</title>
+		<link>https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/</link>
+					<comments>https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/#respond</comments>
+		
+		<dc:creator><![CDATA[Sophie Lewis]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 14:19:29 +0000</pubDate>
+				<category><![CDATA[Software Engineering]]></category>
+		<category><![CDATA[EngineeringCulture]]></category>
+		<category><![CDATA[Women In Tech]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=4075</guid>
+
+					<description><![CDATA[<p>Four years ago, I transitioned from handling customer complaints to becoming a Backend Software Engineer at Rightmove. My journey began with a coding bootcamp, which transformed my career trajectory. Despite initial imposter syndrome, I grew in confidence and ultimately embraced my new path with enthusiasm and support.</p>
+<p>The post <a href="https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/">Making moves: from Makers Academy to Rightmove</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">Four years ago, I was dealing with complaints and data requests from customers. Now I work for the UK’s favourite online property portal as a Backend Software Engineer.</p>
+
+
+
+<p class="wp-block-paragraph">If you had told me this back then, I probably would have laughed in your face. How could I completely change my career and achieve that within just a couple of years? I would not have even known where to start that journey &#8211; but here we are.</p>
+
+
+
+<p class="wp-block-paragraph">I studied Mathematics and Music at university and worked a few random office jobs in Cardiff throughout most of my 20s. It always bothered me that I did not have a clear career path and had no idea what I actually wanted to do. Apart from one module in my first year at university (maybe not my most productive time), I had never really ventured into coding. It was towards the end of 2021 when I was properly exposed to it. I started flying through courses on Codeacademy and working my way through tasks on Codewars. It felt like playing a game and solving puzzles, and for the first time, I had found something that challenged me and that I was genuinely excited about. That was when I discovered the Makers coding bootcamp.</p>
+
+
+
+<p class="wp-block-paragraph">Makers was an intensive four-month bootcamp where you learn the foundations of software engineering. I was absolutely thrown into the deep end and independent learning was critical. My days were filled with pair programming and team projects, and I made some great friends along the way. At the end of the four months, you move into the next phase: the Careers Bootcamp. They held a careers fair a couple of weeks after I finished, and that is where I met Rightmove.</p>
+
+
+
+<p class="wp-block-paragraph">As you can probably guess what happened next, I got a job as a junior software engineer at Rightmove, packed my bags, and moved to London. I thought the bootcamp had thrown me into the deep end, but starting a new job in a brand-new industry, in a brand-new city, after only coding for four months, felt like being dropped into the bottom of the ocean. I was surrounded by experts in the field, and there I was &#8211; a complete fish out of water.</p>
+
+
+
+<p class="wp-block-paragraph">The company, the team, and the people at Rightmove were incredibly friendly and supportive, but I was riddled with imposter syndrome, something I had never experienced before. The first six months were difficult and an emotional rollercoaster. I could not shake the feeling that I did not belong, that I was not good enough, and that I had made a mistake by changing careers. I completely went into my shell.</p>
+
+
+
+<p class="wp-block-paragraph">It all started to feel overwhelming, so I had a catch-up with a mentor from Makers who was checking in on how things were going. I explained everything I was feeling, and that conversation marked the start of a turning point. They listened and reassured me that my feelings were completely normal, but also something I needed to work on by shifting my mindset. They recommended a few books: <em>You Are a Badass</em> by Jen Sincero, <em>Feel the Fear and Do It Anyway</em> by Susan Jeffers, and <em>You Can Heal Your Life</em> by Louise Hay.</p>
+
+
+
+<p class="wp-block-paragraph">Honestly, I cannot fully explain how much these books transformed my life. They not only reignited my love for reading but also gave me the tools to start chipping away at the negativity within me. The doubt, the fear, the lack of confidence &#8211; it all had to go. Nothing is linear, but from that point on, my experience as a software engineer slowly began to change. It did not happen overnight, but over the course of a year, my confidence grew, my mindset became much healthier, and I could finally enjoy what I came to do: coding.</p>
+
+
+
+<p class="wp-block-paragraph">Changing careers to become a software engineer was one of the best decisions I have ever made. Not only is Rightmove a great company to work for, but there are always exciting projects to get stuck into, and I have made so many good friends here too. It has been an absolute rollercoaster, but in the depths of those difficult moments, that is when you learn the most about yourself and grow &#8211; both in your career and in your life. There is no timeline for figuring out what you want to do, and it is never too late to decide. </p>
+
+
+
+<p class="wp-block-paragraph">If there is one thing I would tell my past self, it is this: <strong>you do not need to have it all figured out &#8211; just curiosity and the courage to begin.</strong></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<p>The post <a href="https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/">Making moves: from Makers Academy to Rightmove</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4075</post-id>	</item>
+		<item>
 		<title>Why Teal isn&#8217;t Tealing?</title>
 		<link>https://rightmove.blog/why-teal-isnt-tealing/</link>
 					<comments>https://rightmove.blog/why-teal-isnt-tealing/#respond</comments>
@@ -1969,157 +2034,5 @@ definition:
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3215</post-id>	</item>
-		<item>
-		<title>13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</title>
-		<link>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/</link>
-					<comments>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/#respond</comments>
-		
-		<dc:creator><![CDATA[Joe Stickings]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Software Engineering]]></category>
-		<category><![CDATA[Agent Mode]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[Github]]></category>
-		<category><![CDATA[workshop]]></category>
-		<guid isPermaLink="false">https://rightmove.blog/?p=3204</guid>
-
-					<description><![CDATA[<p>Over the past few weeks, we ran two hands-on workshops with teams across Rightmove to explore how GitHub Copilot, specifically its Agent Mode, could support day-to-day engineering work.</p>
-<p>The post <a href="https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/">13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
-<p class="wp-block-paragraph">Over the past few weeks, we ran two hands-on workshops with teams across Rightmove to explore how GitHub Copilot, specifically its <strong>Agent Mode</strong>, could support day-to-day engineering work.</p>
-
-
-
-<p class="wp-block-paragraph">The idea was simple: </p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<figure class="wp-block-pullquote"><blockquote><p>take real Jira tickets, and solve them using&nbsp;<em>only prompts</em>, no keyboard coding allowed</p></blockquote></figure>
-</blockquote>
-
-
-
-<p class="wp-block-paragraph">From back-end engineers and front-end developers to product managers, QA&#8217;s, BA&#8217;s and app analysts — everyone got involved. Each team had an hour to tackle a ticket, then 20 minutes to present what worked, what didn’t, and what they learned.</p>
-
-
-
-<h3 class="wp-block-heading">Why we did it</h3>
-
-
-
-<p class="wp-block-paragraph">With AI tooling becoming increasingly embedded in the developer experience, we wanted to give our teams a chance to experiment in a structured but low-pressure environment. </p>
-
-
-
-<p class="wp-block-paragraph">These workshops were designed to help engineers and their cross-functional teammates build practical prompting skills, explore what GitHub Copilot Agent Mode can (and can’t) do, and see how it fits into their everyday workflows. </p>
-
-
-
-<p class="wp-block-paragraph">We were also keen to gather honest, real-world feedback to help us shape how we support AI adoption across different domains, especially as one of our key strategic pillars at Rightmove is to make AI part of our culture.  </p>
-
-
-
-<h3 class="wp-block-heading">How it was organised</h3>
-
-
-
-<p class="wp-block-paragraph">For both workshops, we tasked the teams and managers to identify some suitable Jira work items that could explore how effective Agent Mode was. We made sure there was a variety of work types; upgrades, bug fixes, tech debt and feature development across a mix of legacy and modern solutions.</p>
-
-
-
-<p class="wp-block-paragraph">We compiled these together on Miro boards for each session so individuals or pairs/groups could claim them then take notes. This allowed everyone to find something they were either comfortable with or wanted to learn about, minimise duplication then make notes on how the exercise went.</p>
-
-
-
-<h3 class="wp-block-heading">What went well</h3>
-
-
-
-<p class="wp-block-paragraph">Copilot proved genuinely helpful in a number of ways:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Speeding up small changes</strong>. Things like renaming constants, removing dead code, or generating unit tests were done quickly and cleanly.</li>
-
-
-
-<li><strong>Boilerplate generation</strong>. It handled repetitive patterns well, especially in newer projects with clear conventions.</li>
-
-
-
-<li><strong>Codebase exploration</strong>. Many participants found it useful to query Copilot about code they weren’t familiar with or ask for “explain like I’m a five year old” breakdowns.</li>
-
-
-
-<li><strong>Non-coding tasks</strong>. Writing acceptance criteria, structuring Jira stories, and generating documentation all came up as valuable use cases.</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading">Where it struggled</h3>
-
-
-
-<p class="wp-block-paragraph">Naturally, it wasn’t perfect. Some common pain points emerged:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Lack of context</strong>. Copilot often struggled with project-specific conventions, outdated codebases, or legacy patterns.</li>
-
-
-
-<li><strong>Incorrect assumptions</strong>. It occasionally generated the wrong logic, placed code in the wrong location, or misunderstood what the user was asking for.</li>
-
-
-
-<li><strong>Tests and formatting</strong>. While it could generate tests, they weren’t always correct or aligned with our standards. Formatting could also be hit and miss.</li>
-
-
-
-<li><strong>Overcorrections</strong>. In some cases, Copilot made changes beyond the scope of the request, which reinforced the importance of clear, constrained prompts.</li>
-</ul>
-
-
-
-<h3 class="wp-block-heading">Lessons we’re taking forward</h3>
-
-
-
-<p class="wp-block-paragraph">Across both workshops, one with our Customer domain and one with Internal Product teams, some key themes have emerged so far:</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Prompt engineering is a real skill.</strong>&nbsp;Copilot works best when you guide it firmly. Being explicit, giving it the right context, and even using tricks like “change nothing else” made a big difference.</li>
-
-
-
-<li><strong>Codebase health matters.</strong>&nbsp;Clean, modern, well-structured projects gave much better results than legacy code with unclear patterns.</li>
-
-
-
-<li><strong>It’s not just for engineers.</strong>&nbsp;Product managers and analysts also found value, particularly in generating user stories and understanding technical dependencies.</li>
-
-
-
-<li><strong>Adoption needs trust.</strong>&nbsp;People need to see the tool in action, warts and all, to build confidence in using it responsibly.</li>
-
-
-
-<li><strong>Choose the right model.</strong> Some models worked better than others, especially when it came to some specific prompts. Many engineers found Claude Sonnet 3.5 better than GPT-4.1 with initial attempts.</li>
-</ul>
-<p>The post <a href="https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/">13 things we learned from two AI Developer Tools workshops using just GitHub Copilot Agent Mode</a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://rightmove.blog/13-things-we-learned-from-two-ai-developer-tools-workshops-using-just-github-copilot-agent-mode/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3204</post-id>	</item>
 	</channel>
 </rss>

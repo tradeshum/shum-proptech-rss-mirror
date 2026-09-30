@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Tue, 29 Sep 2026 00:04:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 21:05:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,220 +28,228 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Are 9% mortgage rates possible?</title>
-		<link>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/</link>
-					<comments>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/#respond</comments>
+		<title>The ‘choice market’ arrives as sellers face growing price pressure</title>
+		<link>https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/</link>
+					<comments>https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 21:58:29 +0000</pubDate>
-				<category><![CDATA[Mortgage Rates]]></category>
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 21:03:55 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Austin]]></category>
+		<category><![CDATA[Home Prices]]></category>
+		<category><![CDATA[Houston]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604922</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605035</guid>
 
-					<description><![CDATA[<p>Without a 10-year move above 6% and the spreads widening, the math does not support 9% — even with a hawkish Fed</p>]]></description>
+					<description><![CDATA[<p>Austin, Houston buyers gain choices as sellers cut prices</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/are-9-mortgage-rates-possible/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/the-choice-market-arrives-as-sellers-face-growing-price-pressure/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604922</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605035</post-id>	</item>
 		<item>
-		<title>From policy to a path forward</title>
-		<link>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/</link>
-					<comments>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/#respond</comments>
-		
-		<dc:creator><![CDATA[Paul Gigliotti]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 21:41:15 +0000</pubDate>
-				<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Legislation]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[California]]></category>
-		<category><![CDATA[Disaster Relief]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604920</guid>
-
-					<description><![CDATA[<p>California MBA CEO Paul Gigliotti explains how collaboration can turn disaster recovery policy into clearer resources and real paths forward for homeowners.</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/california-disaster-rebuilding-portal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604920</post-id>	</item>
-		<item>
-		<title>Is technology changing the economics?</title>
-		<link>https://www.housingwire.com/articles/cost-originate-ai-economics/</link>
-					<comments>https://www.housingwire.com/articles/cost-originate-ai-economics/#respond</comments>
-		
-		<dc:creator><![CDATA[Rick Roque, Jim Deitch]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:30:08 +0000</pubDate>
-				<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604778</guid>
-
-					<description><![CDATA[<p>AI is reshaping mortgage economics, but lowering the cost to originate requires disciplined processes, measurable ROI and accountability across the organization.</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/cost-originate-ai-economics/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604778</post-id>	</item>
-		<item>
-		<title>UWM&#8217;s Mat Ishbia backs VantageScore 4.0, says Underwriting+ results are &#8216;off the charts&#8217;</title>
-		<link>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/</link>
-					<comments>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:22:13 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[AIME]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mat Ishbia]]></category>
-		<category><![CDATA[Underwriting]]></category>
-		<category><![CDATA[United Wholesale Mortgage]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604850</guid>
-
-					<description><![CDATA[<p>At last week’s AIME Fuse event, Ishbia also shared his thoughts on UWM’s new Underwriter+ program</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/uwm-ishbia-vantagescore-4-mortgages/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604850</post-id>	</item>
-		<item>
-		<title>Lennar’s “home within a home” targets multigenerational demand</title>
-		<link>https://www.housingwire.com/articles/lennar-multigenerational-demand/</link>
-					<comments>https://www.housingwire.com/articles/lennar-multigenerational-demand/#respond</comments>
+		<title>New homes still cost less than resales in many U.S. markets</title>
+		<link>https://www.housingwire.com/articles/new-homes-cheaper-resale-market/</link>
+					<comments>https://www.housingwire.com/articles/new-homes-cheaper-resale-market/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:14:29 +0000</pubDate>
-				<category><![CDATA[Architecture]]></category>
+		<pubDate>Tue, 29 Sep 2026 20:47:23 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Construction]]></category>
 		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lennar]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604860</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605118</guid>
 
-					<description><![CDATA[<p>A survey from Sotheby's International Realty suggests that buyers are willing to pay a premium for multigenerational homes</p>]]></description>
+					<description><![CDATA[<p>Zillow reports that new homes in July sold at $205 per square foot, compared with $212 for existing homes</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/lennar-multigenerational-demand/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/new-homes-cheaper-resale-market/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604860</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605118</post-id>	</item>
 		<item>
-		<title>Sitzer settlement survives another challenge as attorneys fight over $120M commission fund</title>
-		<link>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/</link>
-					<comments>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:11:20 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Commission Lawsuit]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAR Lawsuit Settlement]]></category>
-		<category><![CDATA[Sitzer/Burnett]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604903</guid>
-
-					<description><![CDATA[<p>Objectors March and Friedman lost rehearing requests, Gibson rehearing petition remains pending</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/eighth-circuit-sitzer-rehearing-denied/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604903</post-id>	</item>
-		<item>
-		<title>Can a $100M homebuilder build his own operating system with AI?</title>
-		<link>https://www.housingwire.com/articles/homebuilder-ai-operating-system/</link>
-					<comments>https://www.housingwire.com/articles/homebuilder-ai-operating-system/#respond</comments>
+		<title>Signature Homes thinks 100-day builds can win in a smaller market</title>
+		<link>https://www.housingwire.com/articles/signature-homes-100-day-build/</link>
+					<comments>https://www.housingwire.com/articles/signature-homes-100-day-build/#respond</comments>
 		
 		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 20:01:44 +0000</pubDate>
+		<pubDate>Tue, 29 Sep 2026 20:32:51 +0000</pubDate>
 				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604887</guid>
+		<category><![CDATA[Residential Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605115</guid>
 
-					<description><![CDATA[<p>Alex Akel says he spent 1,600 to 1,800 hours building an integrated platform spanning sales to field operations</p>]]></description>
+					<description><![CDATA[<p>Builder expects 530 closings and $430 million revenue in 2026, with 304 net orders in the first half</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/homebuilder-ai-operating-system/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/signature-homes-100-day-build/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604887</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605115</post-id>	</item>
 		<item>
-		<title>Benchmark shuts down wholesale division Eleven Mortgage, says it will focus on retail</title>
-		<link>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/</link>
-					<comments>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/#respond</comments>
+		<title>FHFA says Fannie, Freddie will use one LLPA grid for FICO and VantageScore</title>
+		<link>https://www.housingwire.com/articles/fhfa-gses-one-grid/</link>
+					<comments>https://www.housingwire.com/articles/fhfa-gses-one-grid/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 19:33:27 +0000</pubDate>
+		<pubDate>Tue, 29 Sep 2026 20:26:41 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Correspondent Lending]]></category>
+		<category><![CDATA[Bill Pulte]]></category>
+		<category><![CDATA[FHFA]]></category>
+		<category><![CDATA[FICO]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage and Housing Layoffs]]></category>
-		<category><![CDATA[Wholesale Lending]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604857</guid>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605105</guid>
 
-					<description><![CDATA[<p>The company announced the wind-down of its wholesale and correspondent channel</p>]]></description>
+					<description><![CDATA[<p>Change follows lender feedback after VantageScore 4.0 was approved for eligible conventional loans earlier this month</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/eleven-mortgage-shuts-down-benchmark/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fhfa-gses-one-grid/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604857</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605105</post-id>	</item>
 		<item>
-		<title>NeighborWorks America awards $4.14M in supplemental grants</title>
-		<link>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/</link>
-					<comments>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/#respond</comments>
+		<title>NRMLA says it will keep pushing for HECM insurance changes after remarks by Ginnie Mae president</title>
+		<link>https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/</link>
+					<comments>https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 17:27:20 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[FHA]]></category>
+		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Insurance]]></category>
+		<category><![CDATA[NRMLA]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604977</guid>
+
+					<description><![CDATA[<p>NRMLA President Steve Irwin said the trade group will continue to lobby HUD, FHA on lowering the upfront mortgage insurance premium for federally insured reverse mortgages</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nrmla-hecm-upfront-mip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604977</post-id>	</item>
+		<item>
+		<title>Home prices up 1.9% annually in July — energy, fuel costs loom</title>
+		<link>https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/</link>
+					<comments>https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 19:13:50 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Natural Disaster]]></category>
-		<category><![CDATA[NeighborWorks America]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604858</guid>
-
-					<description><![CDATA[<p>Awards cover 23 network organizations in 17 states and the District of Columbia</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/neighborworks-america-awards-4-14m-in-supplemental-grants/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">604858</post-id>	</item>
-		<item>
-		<title>Coming soon listings are changing the rules of the home search</title>
-		<link>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/</link>
-					<comments>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 17:45:55 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
+		<pubDate>Tue, 29 Sep 2026 16:10:26 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Clear Cooperation]]></category>
-		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Case-Shiller]]></category>
+		<category><![CDATA[Home Prices]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NWMLS]]></category>
-		<category><![CDATA[private listings]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=604840</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604998</guid>
 
-					<description><![CDATA[<p>Agents cite shifting syndication rules by brokerage and MLS, with NWMLS First Look allowing up to 21 days pre market</p>]]></description>
+					<description><![CDATA[<p>Seattle recorded the largest annual decline for the second consecutive month</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/coming-soon-listings-portals-mls/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/home-prices-up-1-9-annually-in-july-energy-fuel-costs-loom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">604840</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">604998</post-id>	</item>
+		<item>
+		<title>How real estate agents can build business without waiting on rates or inventory</title>
+		<link>https://www.housingwire.com/articles/real-estate-agents-build-business-now/</link>
+					<comments>https://www.housingwire.com/articles/real-estate-agents-build-business-now/#respond</comments>
+		
+		<dc:creator><![CDATA[Rainy Hake Austin]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 15:37:44 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Rate Hike]]></category>
+		<category><![CDATA[Real Estate Marketing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604990</guid>
+
+					<description><![CDATA[<p>This checklist prioritizes relationship reactivation, one monthly process improvement and consistent publishing that stays useful instead of promotional</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/real-estate-agents-build-business-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604990</post-id>	</item>
+		<item>
+		<title>West Capital Lending hires Michael Cecero and 33-person team</title>
+		<link>https://www.housingwire.com/articles/west-capital-lending-cecero-team/</link>
+					<comments>https://www.housingwire.com/articles/west-capital-lending-cecero-team/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 15:36:47 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Missouri]]></category>
+		<category><![CDATA[Mortgage Broker]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<category><![CDATA[Tennessee]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604973</guid>
+
+					<description><![CDATA[<p>The move adds about $325M in annual production and expands the company's presence in Tennessee and Missouri</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/west-capital-lending-cecero-team/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604973</post-id>	</item>
+		<item>
+		<title>Valera Homes debuts in Houston with focus on attainable housing</title>
+		<link>https://www.housingwire.com/articles/valera-homes-launches-greater-houston/</link>
+					<comments>https://www.housingwire.com/articles/valera-homes-launches-greater-houston/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 15:35:41 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Houston]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604981</guid>
+
+					<description><![CDATA[<p>Valera Homes, a sister of StoneManor Homes, launches with four communities, targeting first-time, value-conscious buyers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/valera-homes-launches-greater-houston/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604981</post-id>	</item>
+		<item>
+		<title>A Florida agent playbook for rate pressure and longer market times</title>
+		<link>https://www.housingwire.com/articles/florida-buyers-wait-sellers-concede/</link>
+					<comments>https://www.housingwire.com/articles/florida-buyers-wait-sellers-concede/#respond</comments>
+		
+		<dc:creator><![CDATA[Darryl Davis]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 15:19:45 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Florida Housing Market]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Rate Hike]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=604800</guid>
+
+					<description><![CDATA[<p>ORRA data shows 53% of buyers are shopping at lower price points, while the 30-year fixed moved above 7%</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/florida-buyers-wait-sellers-concede/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604800</post-id>	</item>
 	</channel>
 </rss>
