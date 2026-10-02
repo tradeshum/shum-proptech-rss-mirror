@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Wed, 30 Sep 2026 22:48:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 23:54:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chicago Completes First Loop Conversion as City Backs Five More Office-to-Residential Towers</title>
+		<link>https://propmodo.com/chicago-completes-first-loop-conversion-as-city-backs-five-more-office-to-residential-towers/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 23:54:15 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181627</guid>
+
+					<description><![CDATA[<p>Chicago finished its first Loop office-to-housing conversion with 117 units and has five more projects underway to create 1,765 apartments downtown.</p>
+<p>The post <a href="https://propmodo.com/chicago-completes-first-loop-conversion-as-city-backs-five-more-office-to-residential-towers/">Chicago Completes First Loop Conversion as City Backs Five More Office-to-Residential Towers</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Chicago opened its first office-to-residential conversion in the Loop earlier this month, a 14-story building now called the Bellwether with 117 mixed-income units. Developer R2 converted 11 floors of the 121-year-old Rector building using $28 million in tax increment financing from the city and $7.8 million in federal historic tax credits. Forty-one of the units are reserved for households earning 60% of area median income. City officials gathered downtown to mark the completion.</p>
+
+
+
+<p class="wp-block-paragraph">Chicago&#8217;s Department of Planning Development expects five more office conversions under its LaSalle Street Reimagined initiative, which aims to create 1,765 mixed-income units from vacant downtown office space. The program addresses both an affordable housing shortage and record-high Loop office vacancies driven by post-pandemic work habits. Outside city-backed projects, nearly two dozen private office conversions are in the pipeline, expected to produce close to 4,000 residential units.</p>
+
+
+
+<p class="wp-block-paragraph">Chicago ranks third nationally for office-to-residential conversions behind New York and Washington, according to RentCafe. Commissioner Ciere Boatright said the Bellwether represents a new model for downtown conversions. Developer Gary Stoltz said the project reflects a belief that the Loop&#8217;s future depends on a mix of residents, workers, and visitors rather than a single-use office district.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.multifamilydive.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Multifamily Dive</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.multifamilydive.com/news/office-to-housing-conversion-chicago-downtown/831770/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">With Its First Office-To-Housing Project Done, Chicago Advances ‘next Chapter’ for Its Downtown</a></div></div>
+<p>The post <a href="https://propmodo.com/chicago-completes-first-loop-conversion-as-city-backs-five-more-office-to-residential-towers/">Chicago Completes First Loop Conversion as City Backs Five More Office-to-Residential Towers</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-housing-multifamily.jpg" />	</item>
+		<item>
+		<title>Before We Talk to Our Buildings, We Need to Teach Them What They Know</title>
+		<link>https://propmodo.com/before-we-talk-to-our-buildings-we-need-to-teach-them-what-they-know/</link>
+		
+		<dc:creator><![CDATA[Mike Laurie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 23:50:47 +0000</pubDate>
+				<category><![CDATA[Perspectives]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Smart Building]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181544</guid>
+
+					<description><![CDATA[<p>Discover why AI-powered property management needs trusted building data, digital twins, and physical ground truth to deliver reliable answers.</p>
+<p>The post <a href="https://propmodo.com/before-we-talk-to-our-buildings-we-need-to-teach-them-what-they-know/">Before We Talk to Our Buildings, We Need to Teach Them What They Know</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Last year I wrote about talking buildings. I pictured a tenant asking about air quality or a new building operator asking when a rooftop unit was last serviced, and the building answering in plain English. AI agents are reshaping property management and the real estate industry is finally figuring out the need for a common data structure underneath those agents.</p>
+
+
+
+<p class="wp-block-paragraph">But I think there&#8217;s another layer underneath that architecture that deserves attention: the physical building itself.</p>
+
+
+
+<p class="wp-block-paragraph">Instead of “what if buildings can talk,” maybe the better question is: What does the building actually know about itself?</p>
+
+
+
+<p class="wp-block-paragraph">A building may be able to tell us the temperature on the fourth floor. But does it know the verified area of that floor? Does it know which air-handling unit serves it? Does it know when the unit was installed, what has been done to it, and whether the drawing showing it is still current? More importantly, does it know which information can be trusted?</p>
+
+
+
+<p class="wp-block-paragraph">I&#8217;ve become convinced that this is one of the biggest practical issues we&#8217;ll have to solve before conversational buildings become truly useful.</p>
+
+
+
+<h2 id="h-data-isn-t-the-same-as-knowledge-nbsp" class="wp-block-heading"><strong>Data isn&#8217;t the same as knowledge&nbsp;</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Commercial buildings accumulate information for decades. Drawings, leases, BOMA calculations, equipment schedules, photographs, condition assessments, work orders, energy bills, specifications, maintenance records, building automation data and now sensor data all become part of the record.</p>
+
+
+
+<p class="wp-block-paragraph">The trouble is that they were created by different people, at different times, for different reasons.</p>
+
+
+
+<p class="wp-block-paragraph">Some information is current. Some isn&#8217;t. Renovations happen without every drawing being updated. Equipment gets replaced. Tenants move. Room names change. A spreadsheet maintained by an experienced operator may contain better information than the formal record.</p>
+
+
+
+<p class="wp-block-paragraph">That was manageable when a person could walk downstairs and ask someone who had worked in the building for 20 years. It becomes a different problem when we expect an AI system to provide an answer in seconds.</p>
+
+
+
+<p class="wp-block-paragraph">AI is very good at finding information. That doesn&#8217;t automatically make the information true.</p>
+
+
+
+<p class="wp-block-paragraph">Our business has spent decades measuring existing buildings. One lesson from that work is simple: the building in front of you eventually becomes different from the building in the records.</p>
+
+
+
+<p class="wp-block-paragraph">That&#8217;s why I think building intelligence has to start with physical ground truth. Modern reality capture makes this far easier than it used to be. LiDAR can establish accurate geometry. 360-degree imagery can preserve a visual record. CAD and BIM can structure spaces and systems. Asset information can then be attached to that physical framework. The important point isn&#8217;t the scan or the 3D model. Those are tools.</p>
+
+
+
+<p class="wp-block-paragraph">The value is establishing a reliable digital baseline of what exists today and giving the rest of the building&#8217;s information somewhere logical to live.</p>
+
+
+
+<h2 id="h-a-digital-twin-needs-more-than-geometry" class="wp-block-heading"><strong>A digital twin needs more than geometry</strong></h2>
+
+
+
+<p class="wp-block-paragraph">In some of my earlier pieces I wrote enthusiastically about digital twins and hyper-intelligent buildings. I still believe in that direction, but our practical work has made my definition of a useful twin more demanding. A 3D model isn&#8217;t enough.</p>
+
+
+
+<p class="wp-block-paragraph">Take a rooftop unit. Its shape and location are useful, but an owner really wants to know what it serves, how old it is, its service history, expected remaining life, current performance and replacement cost. The geometry gives the equipment a location. The relationships give it meaning.</p>
+
+
+
+<p class="wp-block-paragraph">The same applies to rooms, tenants, leases, energy consumption and almost every other piece of building information. An intelligent building needs to understand how those things relate to each other.</p>
+
+
+
+<p class="wp-block-paragraph">Experienced operators carry a huge amount of institutional knowledge. They know the pump that starts making a particular noise before it fails. They know which valve was changed but never updated on the drawing. They know why one part of the building always runs warm on a sunny afternoon. When those people leave, some of the building leaves with them.</p>
+
+
+
+<p class="wp-block-paragraph">A persistent digital record gives us an opportunity to change that. A renovation updates it. An equipment replacement updates it. A condition assessment enriches it. Maintenance adds history. Sensors add observations. Over time, the building develops a memory of itself.</p>
+
+
+
+<h2 id="h-knowing-what-it-doesn-t-know" class="wp-block-heading"><strong>Knowing what it doesn&#8217;t know</strong></h2>
+
+
+
+<p class="wp-block-paragraph">One capability, in particular, will separate useful building AI from a clever chatbot: uncertainty. Suppose I ask when a rooftop unit was installed. One document says 2014 and another says 2016. I don&#8217;t want AI to choose the answer that sounds most likely and present it confidently. I want it to tell me there is a conflict. Better still, I want it to flag the item for verification the next time someone is in the building.</p>
+
+
+
+<p class="wp-block-paragraph">An intelligent building shouldn&#8217;t only know things. It should know what it doesn&#8217;t know, where information came from, and when it was last verified. That&#8217;s what will make people trust it. Once that foundation exists, the conversational interface becomes much more powerful.</p>
+
+
+
+<p class="wp-block-paragraph">An asset manager can ask which rooftop units across the portfolio are approaching replacement. A facility manager can ask which equipment has generated repeated work orders. A leasing team can ask whether measured areas still match its records. An acquisition team can ask what information is missing before it buys a property. The user shouldn&#8217;t have to know which software contains the answer.</p>
+
+
+
+<p class="wp-block-paragraph">That&#8217;s where I see the real opportunity for an intelligence layer: connecting the physical building to the systems and information that already exist around it, then allowing people to interact with that knowledge naturally. One day soon the interface itself may become less important as agents work across systems on our behalf. I agree. But that makes the quality of the information underneath the interface even more important. Before a building can talk intelligently, it has to understand what it is talking about.</p>
+<p>The post <a href="https://propmodo.com/before-we-talk-to-our-buildings-we-need-to-teach-them-what-they-know/">Before We Talk to Our Buildings, We Need to Teach Them What They Know</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/04/ai-real-estate-research.jpg" />	</item>
+		<item>
+		<title>Downtown LA&#8217;s Hotel Clark Returns After 30-Year Adaptive Reuse Saga</title>
+		<link>https://propmodo.com/downtown-las-hotel-clark-returns-after-30-year-adaptive-reuse-saga/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 22:07:46 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181620</guid>
+
+					<description><![CDATA[<p>Hotel Clark reopened in downtown Los Angeles after 30 years vacant, completing a redevelopment delayed by lawsuits, ownership changes, and diplomatic tensions.</p>
+<p>The post <a href="https://propmodo.com/downtown-las-hotel-clark-returns-after-30-year-adaptive-reuse-saga/">Downtown LA&#8217;s Hotel Clark Returns After 30-Year Adaptive Reuse Saga</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Hotel Clark opened to guests in downtown Los Angeles last month, ending a three-decade closure that saw the 1914 Beaux-Arts property change hands repeatedly and sit vacant since the late 1990s. Hospitality firm OTH Hotels Resorts completed a redevelopment that converted the 11-story building into a 348-room lifestyle hotel with a rooftop pool, fitness center, and game room. Rates start at $207 per night for standard rooms and $508 for one-bedroom suites. A Mediterranean restaurant, Votana, opens October 15, alongside a bourbon-focused sports bar and lobby lounge.</p>
+
+
+
+<p class="wp-block-paragraph">Railway entrepreneur Eli P. Clark built the property in 1914 as a 555-room hotel, but it was later converted to low-rent apartments. Attempts to evict tenants and restore luxury status in 1979 ended in lawsuits and a harassment settlement. The People&#8217;s Republic of China bought the building in the late 1980s, gutted the interior for a planned business and cultural center, but abandoned the project when diplomatic relations deteriorated. Another conversion to low-income housing followed, then a second eviction battle that ended in a $1.7 million settlement.</p>
+
+
+
+<p class="wp-block-paragraph">The Chetrit Group acquired the property in the late 1990s and began renovations in 2012, finishing interior work by 2014. Despite completion, the building remained empty for another decade before OTH Hotels took over and opened it to the public. The hotel sits near the Los Angeles Convention Center and Crypto.com Arena, positioning it to capture convention and sports traffic in a downtown submarket that has struggled with high office vacancy and homelessness. Few historic hotel conversions in Los Angeles have taken as long or faced as many ownership disputes.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=nypost.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">California Post</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://nypost.com/2026/10/01/lifestyle/historic-hotel-clark-opens-in-downtown-la-for-first-time-in-35-years/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Hotel Clark ‘soft Opens’ in DTLA After Sitting Closed for More Than 30 Years</a></div></div>
+<p>The post <a href="https://propmodo.com/downtown-las-hotel-clark-returns-after-30-year-adaptive-reuse-saga/">Downtown LA&#8217;s Hotel Clark Returns After 30-Year Adaptive Reuse Saga</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
+		<item>
 		<title>MLS Giants Draw Battle Lines Over Cooperative Listing Transparency Standards</title>
 		<link>https://propmodo.com/mls-giants-draw-battle-lines-over-cooperative-listing-transparency-standards/</link>
 		
@@ -302,129 +482,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
-		<item>
-		<title>Cash to Residents Is the Newest Tool in the Data Center Fight</title>
-		<link>https://propmodo.com/cash-to-residents-is-the-newest-tool-in-the-data-center-fight/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 23:53:18 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Construction]]></category>
-		<category><![CDATA[Data Center]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[Zoning]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181568</guid>
-
-					<description><![CDATA[<p>Utility costs drive much of the opposition</p>
-<p>The post <a href="https://propmodo.com/cash-to-residents-is-the-newest-tool-in-the-data-center-fight/">Cash to Residents Is the Newest Tool in the Data Center Fight</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1790639440>2 days 23 hr ago</strong><span class="live-fdate">Sep. 28, 2026 4:50 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<h2 id="h-" class="wp-block-heading"></h2>
-
-
-
-<p class="wp-block-paragraph">A developer in Pennsylvania has tried something new to get a data center approved. NorthPoint Development sent letters to Hazle Township residents in June <a href="https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7" target="_blank" rel="noreferrer noopener">offering $10,000 to every one of the roughly 4,500 households in town</a>, a $45 million payout, in exchange for letting the company build the first of 15 buildings planned across 1,300 acres. In a township with a median household income of about $60,000, that is real money. Most residents interviewed by The Wall Street Journal said no anyway. Hazle Township&#8217;s government rejected the project on zoning grounds in November, NorthPoint sued to overturn the decision, and the township has since enacted a temporary moratorium while it rewrites its zoning laws.</p>
-
-
-
-<p class="wp-block-paragraph">Community opposition has blocked $18 billion and delayed $46 billion in data center projects across the country, according to Data Center Watch. Communities in at least 14 states have enacted temporary pauses on data center development. More than 30 North Carolina local governments have halted new data center development since February. Charlotte passed a 150-day moratorium in June, and a city survey found 78% community opposition. Palm Beach County commissioners voted 5-1 to deny a 1-million-square-foot project after a 12-hour public hearing. East Vincent Township in Pennsylvania unanimously rejected a 1.9-million-square-foot data center proposed for the historic Pennhurst site.</p>
-
-
-
-<p class="wp-block-paragraph">The polling explains why local officials are willing to say no. A Gallup survey found that 70% of Americans oppose the construction of new AI data centers in their own communities. An NBC News Decision Desk poll found 69% opposed, with 45% strongly opposed, including 81% of Democrats, 71% of independents, and a 57% majority of Republicans. A June Reuters/Ipsos poll found 77% of Americans concerned about data centers raising electricity costs. This is not a partisan issue, which is unusual and makes it hard for any elected official to hide behind party.</p>
-
-
-
-<p class="wp-block-paragraph">Both parties have noticed. Mentions of data centers in campaign ads grew from a handful in January to 62 in June, more than 110 in July, and about 164 in August. In Georgia&#8217;s gubernatorial race alone, more than $12.8 million has been spent on ads mentioning data centers. In Wisconsin, a PAC ad for the Democratic gubernatorial nominee promises to stop AI data centers from making energy bills skyrocket. In Florida, Republican nominee Byron Donalds vows to protect families from data centers that jack up utility rates. It is worth noting that a New York Times/Siena poll found fewer than 1% of voters name AI or data centers as their top issue, so the salience comes from its connection to utility bills rather than from the technology itself.</p>
-
-
-
-<p class="wp-block-paragraph">Direct cash payments are the logical escalation from what developers have been doing already. Community benefit packages worth tens of millions are now standard, covering fire departments, emergency services, and schools. NorthPoint touted another $120 million in payments over 15 years alongside the resident fund, plus sponsorship of free amusement rides at the local festival. Brent Miles, chief marketing officer at NorthPoint, said the payment idea came out of a contentious public meeting where residents asked what they had to gain, and described it as a direct response to the question of what is in it for me. He estimated the company has converted close to 100 initially skeptical residents.</p>
-
-
-
-<p class="wp-block-paragraph">The reaction in Hazle Township points to a possible problem with this approach. Residents heard the offer and asked whether they were being bribed, which is the response a direct payment tends to produce when trust is already low. The objections people raise at these hearings are about noise, property values, water, and electricity bills, and a lump sum addresses none of them. A homeowner who believes a project will cut $50,000 off their house is not made whole by $10,000, and a resident worried about a decade of construction noise is being asked to price something they never agreed to sell. Governor Josh Shapiro signed an executive order last month banning nondisclosure agreements between local governments and data-center companies, which suggests the suspicion about how these deals get negotiated is not coming from nowhere. </p>
-
-
-
-<p class="wp-block-paragraph">Payments also create a durable political liability. Any official who votes yes after residents receive checks now has to defend that vote against the accusation that it was purchased, which raises the cost of approval rather than lowering it. Expect the reaction to show up in local zoning rewrites, more moratoriums while towns figure out what to require, and pressure on state legislatures to set rules that take the negotiation out of individual town halls entirely.</p>
-
-
-
-<p class="wp-block-paragraph">The offer will probably get copied regardless. Nothing else developers have tried has moved local approvals, the capital behind these projects is enormous, and $45 million is a rounding error against a 15-building campus. We would expect the next versions to be structured more carefully, tied to utility bill credits or property value guarantees rather than lump sums, because those address the specific objections residents keep raising. Whether any of it works depends on something money is bad at buying, which is the belief that the people making the offer are telling the truth about what comes next.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/cash-to-residents-is-the-newest-tool-in-the-data-center-fight/">Cash to Residents Is the Newest Tool in the Data Center Fight</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/06/datacenter.jpg" />	</item>
-		<item>
-		<title>Building Owners Pass First Test Under New York&#8217;s Carbon Cap</title>
-		<link>https://propmodo.com/building-owners-pass-first-test-under-new-yorks-carbon-cap/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 23:07:20 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181573</guid>
-
-					<description><![CDATA[<p>New York City reports 95% compliance in first year of Local Law 97 emissions caps, but tighter 2030 limits will test thousands more building owners.</p>
-<p>The post <a href="https://propmodo.com/building-owners-pass-first-test-under-new-yorks-carbon-cap/">Building Owners Pass First Test Under New York&#8217;s Carbon Cap</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">New York City&#8217;s Department of Buildings reported that 95% of properties required to file under Local Law 97 submitted compliance reports in 2025, with 95% of those meeting emissions limits or completing required upgrades. Calendar year 2024 marked the first enforcement period for the law, which requires most buildings over 25,000 square feet to meet greenhouse gas emissions caps and report annually. Of 29,031 buildings required to report, 1,911 missed the August 29 deadline. The city has begun issuing notices of deficiency and fines to non-compliant owners, with penalties reaching $268 per ton of carbon dioxide equivalent emissions above annual limits.</p>
-
-
-
-<p class="wp-block-paragraph">About 11,000 properties filed under Article 320, which covers market-rate buildings across all uses and requires annual emissions reports. Multifamily housing made up 45% of these properties, followed by office at 17%. Only 470 properties exceeded their 2024 emissions limits, with 32% of those over by less than 10%. Most compliant buildings achieved limits through energy efficiency measures including lighting upgrades, envelope improvements, heat pumps, and building management systems. Few owners used alternative compliance tools: 79 purchased Affordable Housing Reinvestment Fund offsets, 31 used solar credits, and six claimed beneficial electrification credits for replacing fossil fuel HVAC with electric equipment.</p>
-
-
-
-<p class="wp-block-paragraph">Article 321 covers affordable housing with over 35% rent-reduced units and houses of worship, requiring one-time improvements rather than annual reporting. More than 83% of these properties chose the prescriptive pathway, which mandates at least 13 energy conservation measures. Manhattan had the highest filing rate at 98% and 95% emissions compliance. The city issued 1,014 notices of deficiency for failure to file under Article 320, prompting 239 properties to submit reports. Fifteen owners have paid penalties totaling roughly $270,000, while five resolved violations by purchasing offsets.</p>
-
-
-
-<p class="wp-block-paragraph">Initial modeling projected 80% compliance based on historical benchmarking data, but actual results exceeded expectations due to data refinement and alternative compliance pathways. Emissions limits tighten significantly in 2030, requiring a 40% reduction and forcing more owners to undertake deeper retrofits. The $1.7 million collected from offset purchases funds decarbonization work at buildings not otherwise required to comply, with two deep electrification projects already allocated. The city is accepting late filings in lieu of fines for first-year violations but will pursue penalties where owners show no effort toward compliance.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.facilitiesdive.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Facilities Diva</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.facilitiesdive.com/news/strong-compliance-in-first-year-of-nycs-local-law-97-building-performance/831504/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Strong Compliance in First Year of NYC’s Local Law 97 Building Performance Mandate</a></div></div>
-<p>The post <a href="https://propmodo.com/building-owners-pass-first-test-under-new-yorks-carbon-cap/">Building Owners Pass First Test Under New York&#8217;s Carbon Cap</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
-		<item>
-		<title>Family-Owned Spirits Firms Continue Entrenching in South Florida Markets</title>
-		<link>https://propmodo.com/family-owned-spirits-firms-continue-entrenching-in-south-florida-markets/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 21:28:09 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181571</guid>
-
-					<description><![CDATA[<p>Bacardi opens 100,000-square-foot North America office in Coral Gables, reinforcing South Florida's position as a spirits industry hub with strong family-owned presence.</p>
-<p>The post <a href="https://propmodo.com/family-owned-spirits-firms-continue-entrenching-in-south-florida-markets/">Family-Owned Spirits Firms Continue Entrenching in South Florida Markets</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Bacardi opened a 100,000-square-foot North America regional office in Plaza Coral Gables on Sept. 16, consolidating about 250 employees across five floors at 3011 Ponce de Leon Boulevard. The Bermuda-headquartered spirits company relocated from another Coral Gables site, continuing an operational presence in South Florida that dates to 1963. Regional president Tony Latham works from the new location, which includes a private fitness center, multiple bars, and event spaces. The office also houses Bacardi&#8217;s archive of more than 18,000 company and family artifacts and an extensive Cuban art collection.</p>
-
-
-
-<p class="wp-block-paragraph">Bacardi has remained family-owned for seven generations since its 1862 founding in Santiago de Cuba, and now operates more than 200 brands across 160 markets with 8,000 employees globally. The company moved to Coral Gables in 2009 after decades in Miami&#8217;s Midtown, where it occupied the landmark Bacardi Buildings on Biscayne Boulevard. CEO Mahesh Madhavan leads the company, which describes itself as the world&#8217;s largest privately held, family-owned spirits operation. Kathleen Procario, VP for people of Bacardi North America, called the new office a space that honors the company&#8217;s heritage following its forced exile from Cuba.</p>
-
-
-
-<p class="wp-block-paragraph">Plaza Coral Gables, developed by an Agave Holdings affiliate and completed in 2022, spans 2.25 million square feet across 7 acres. The mixed-use project includes 455,000 square feet of offices, 165,000 square feet of retail, 170 residences, and a 242-room Loews Hotel. South Florida has emerged as a hub for spirits companies, driven by the region&#8217;s location and hospitality sector. Miami-based Southern Glazer&#8217;s Wine &amp; Spirits, North America&#8217;s largest alcoholic beverage distributor, also maintains headquarters in the market.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">South Florida Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/southflorida/news/2026/09/25/bacardi-launches-new-south-florida-office-photos.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Bacardi Opens 100,000-Square-Foot North America Office in Coral Gables</a></div></div>
-<p>The post <a href="https://propmodo.com/family-owned-spirits-firms-continue-entrenching-in-south-florida-markets/">Family-Owned Spirits Firms Continue Entrenching in South Florida Markets</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-office-workplace.jpg" />	</item>
 	</channel>
 </rss>

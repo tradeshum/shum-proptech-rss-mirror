@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://rightmove.blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rightmove.blog/</link>
 	<description>Follow for an inside view of the people and technology that power Rightmove.</description>
-	<lastBuildDate>Mon, 28 Sep 2026 14:19:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 13:57:22 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -54,6 +54,124 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:person role="Host">Ana</podcast:person>
 	<podcast:podping usesPodping="true" />
 <site xmlns="com-wordpress:feed-additions:1">151297159</site>	<item>
+		<title>How Rightmovers are staying curious with evolving AI and technology </title>
+		<link>https://rightmove.blog/how-rightmovers-are-staying-curious-with-evolving-ai-and-technology/</link>
+					<comments>https://rightmove.blog/how-rightmovers-are-staying-curious-with-evolving-ai-and-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[Ruth Barker]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 10:38:49 +0000</pubDate>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://rightmove.blog/?p=4099</guid>
+
+					<description><![CDATA[<p>Jordan from Rightmove's Organisational Development team emphasises the importance of experimentation and continuous learning in his role as Skills and Performance Lead. He highlights how AI facilitates various tasks, such as data analysis, workshop design, and coaching, while encouraging a culture of curiosity and safe experimentation among employees.</p>
+<p>The post <a href="https://rightmove.blog/how-rightmovers-are-staying-curious-with-evolving-ai-and-technology/">How Rightmovers are staying curious with evolving AI and technology </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
+<p class="wp-block-paragraph">We caught up with <strong>Jordan</strong> from the Organisational Development team to chat all things experimentation and continuous learning. From trying new things in everyday life to bringing a learning mindset into the workplace, Jordan shares how he keeps curiosity at the heart of what he does <img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tell us a little about your role and what L&amp;D looks after at Rightmove</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Hello! I’m Jordan and I am the Skills and Performance Lead at Rightmove, sitting in our Organisational Development team. Our team covers all things Talent Development, from more traditional Learning &amp; Development (L&amp;D) opportunities like Leadership training, through to talent management and succession planning. My role in the team is to support the organisation with our approach to performance, enabling our teams to be high performing, as well as skills enablement with a particular focus on AI right now.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>When did AI first become something you started actively exploring in your life/role in Rightmove? What are the wins so far?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">I first started using AI with the early access of ChatGPT. I’m not a “traditionally techy” person, but I’ve always been very curious with new tools and gadgets. When I found out about it, I just wanted to play around with it and see what it could do. I remember I first used it to create some poetry and joke song lyrics, and I was amazed at what it could do back then, let alone how far we’ve come in the three years since. There are so many ways I use it within work to help me. Sometimes it’s mundane things like asking it to help me find a file I <em>know</em> I had seen but couldn’t quite remember where it was, and then other times it’s doing complicated (for me) Excel wizardry I would never be able to do but then creating a beautiful dashboard.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>How are you personally using AI in your day-to-day work today?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Aside from those examples, there’s a few key things I use it for.&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Data analysis –</strong> I am a huge advocate that within L&amp;D, a lot of the work we do should be grounded in data and enable us to make data-driven decisions. Whether that’s creating a solution from solid data and evidence-based, so we know we’re targeting something meaningful within Rightmove, or it’s being able to understand and find patterns in the data we do have that help us tell meaningful stories.&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Workshop design –</strong> Designing workshops takes a lot of time, and AI really helps in getting your structure right, and turning notes and conversations into actionable outputs. AI tools give you the foundation to then apply your creativity, judgement and design skills and spend less time on the repeatable, standard stuff.&nbsp;&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Coaching –</strong> Coaching is such an incredibly valuable development opportunity for those who are fortunate enough to have it, but not everyone can afford to have coaching for various reasons. AI helps to bridge that accessibility gap for low-stakes meetings where you’d benefit from some quick coaching, you now have the ability to have personalised support which can be really beneficial to give you the help in the moment you need it. We have our own internally designed conversation coach agent which at the very least allows you to understand your own thinking and provide a soundboard to support you.&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>What&#8217;s the L&amp;D team&#8217;s view on Rightmovers experimenting with new technology?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">From an L&amp;D perspective, I think it doesn’t matter if it’s AI or leveraging the latest technology day to day. What matters is that you’re staying current with what is happening, you’re continuously evolving and you are willing to learn and adapt with the business. Curiosity is an incredibly undervalued trait; being eager to learn why something works or understand who someone is and their perspective helps you grow and become more enriched as a person.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>How do you encourage people to experiment with AI without feeling they need to be experts?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">The easiest way to think about it is to ground it in real use cases but in a way where people feel like they can fail and be okay. If people are afraid to use it because they’re not sure if it’s in line with your data policy, they just won’t use it. You need to create the conditions for people to feel safe that if they mess up – hey that’s okay! That’s what experimenting is all about.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>How can AI help Rightmovers become more effective in their roles?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Everyone is time poor! One of the biggest reasons we hear why people don’t use it is they don’t have the time to learn how to use it. They may try once or twice, and then the output isn’t what they want so they give up.&nbsp; If there’s something you find yourself doing the 4-5 times a month, it’s worth investing the time to understand and learn how it can help you with that thing and do it harder/better/faster/stronger.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>What&#8217;s the biggest lesson you&#8217;ve learned so far?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Everything moves so quickly – rather than get stuck in details, you should invest in the “no-regret skills” – skills that will last, always be relevant and help you make the most of whatever tool you use. </p>
+
+
+
+<p class="wp-block-paragraph">As an example, developing your critical thinking skills can set you up for success when using AI much more than learning something like “prompt engineering” where the mechanics of it change frequently. You can get really bogged down and overwhelmed by the sheer pace of change, so for me I’ve found it more useful to learn these broader concepts around AI, so when there are all these changes, you can use your time more valuably.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>What&#8217;s one thing you&#8217;d recommend to somebody who&#8217;s curious about AI but doesn&#8217;t know where to start?</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">There are so many free resources you can use which help you. All the big tech companies – Google, Anthropic, OpenAI – all have their own training that is free for people to use and a great starting point. </p>
+
+
+
+<p class="wp-block-paragraph">Outside of that, just play around with it on things you want for your personal life. Ask it to help put together a gym plan for you. Ask it to help plan your next holiday. Take a photo of your kitchen cupboard and ask it for meal inspiration using only the ingredients you have in the cupboard. </p>
+
+
+
+<p class="wp-block-paragraph">Once you start to see where it’s useful and where it’s not, you’ll more easily be able to spot opportunities within your work where you can use it.&nbsp;&nbsp;</p>
+<p>The post <a href="https://rightmove.blog/how-rightmovers-are-staying-curious-with-evolving-ai-and-technology/">How Rightmovers are staying curious with evolving AI and technology </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rightmove.blog/how-rightmovers-are-staying-curious-with-evolving-ai-and-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4099</post-id>	</item>
+		<item>
 		<title>Making moves: from Makers Academy to Rightmove</title>
 		<link>https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/</link>
 					<comments>https://rightmove.blog/making-moves-from-makers-academy-to-rightmove/#respond</comments>
@@ -228,7 +346,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" decoding="async" width="1024" height="576" data-attachment-id="3960" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/attachment/12/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="12" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1024%2C576&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-3960 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" decoding="async" width="1024" height="576" data-attachment-id="3960" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/attachment/12/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-title="12" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?fit=1024%2C576&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-3960 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/12.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
 <p class="wp-block-paragraph">About three years ago, the system got its first dedicated designer, later joined by an engineer. What they inherited was years of good intentions, different interpretations, mismatched libraries, and competing Figma files, all of which somehow had to become a single coherent thing. It was less a clean build than an archaeological dig with a design system brief attached.</p>
 </div></div>
 
@@ -270,7 +388,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="534" data-attachment-id="3981" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/opti-colours/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1278%2C666&amp;ssl=1" data-orig-size="1278,666" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="opti-colours" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1024%2C534&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&#038;ssl=1" alt="" class="wp-image-3981 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=768%2C400&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1200%2C625&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?w=1278&amp;ssl=1 1278w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="534" data-attachment-id="3981" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/opti-colours/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1278%2C666&amp;ssl=1" data-orig-size="1278,666" data-comments-opened="1" data-image-title="opti-colours" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?fit=1024%2C534&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&#038;ssl=1" alt="" class="wp-image-3981 size-full" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1024%2C534&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=768%2C400&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?resize=1200%2C625&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/opti-colours.png?w=1278&amp;ssl=1 1278w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure><div class="wp-block-media-text__content">
 <p class="wp-block-paragraph">What happened next mattered more than the fix. Design, Brand and Engineering sat down together and rebuilt the palette from first principles, for accessibility, for dark mode, for every surface. Removing the barrier was never going to be one person’s call. It was a shared decision, sparked by different people seeing the same problem from different teams.</p>
 </div></div>
 
@@ -320,7 +438,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
-<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="960" height="540" data-attachment-id="3972" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/it-takes-a-village-smooth/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="it-takes-a-village-smooth" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-3972"/></figure>
+<figure class="wp-block-image size-full"><img data-recalc-dims="1" loading="lazy" decoding="async" width="960" height="540" data-attachment-id="3972" data-permalink="https://rightmove.blog/why-teal-isnt-tealing/it-takes-a-village-smooth/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" data-orig-size="960,540" data-comments-opened="1" data-image-title="it-takes-a-village-smooth" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?fit=960%2C540&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2026/06/it-takes-a-village-smooth.gif?resize=960%2C540&#038;ssl=1" alt="" class="wp-image-3972"/></figure>
 </div>
 </div>
 
@@ -960,7 +1078,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 
-<div data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https://rightmove.blog/rightmove-fed-day-2025/&quot;}'  class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:49.34282%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3591" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4285-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1333%2C889&amp;ssl=1" data-orig-size="1333,889" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R10&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1763034930&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;28&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_4285" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1024%2C683&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 1 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room " data-height="889" data-id="3591" data-link="https://rightmove.blog/?attachment_id=3591" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg" data-width="1333" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:50.65718%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3594" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4376-3-min-1/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1110%2C721&amp;ssl=1" data-orig-size="1110,721" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG_4376-3-min (1)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1024%2C665&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 2 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room" data-height="721" data-id="3594" data-link="https://rightmove.blog/?attachment_id=3594" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg" data-width="1110" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div></div>
+<div data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https://rightmove.blog/rightmove-fed-day-2025/&quot;}'  class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:49.34282%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3591" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4285-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1333%2C889&amp;ssl=1" data-orig-size="1333,889" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;camera&quot;:&quot;Canon EOS R10&quot;,&quot;created_timestamp&quot;:&quot;1763034930&quot;,&quot;focal_length&quot;:&quot;28&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.0125&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_4285" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2.jpg?fit=1024%2C683&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 1 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room " data-height="889" data-id="3591" data-link="https://rightmove.blog/?attachment_id=3591" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg" data-width="1333" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4285-2-1024x683.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:50.65718%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="3594" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/img_4376-3-min-1/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1110%2C721&amp;ssl=1" data-orig-size="1110,721" data-comments-opened="1" data-image-title="IMG_4376-3-min (1)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1.jpg?fit=1024%2C665&amp;ssl=1" role="button" tabindex="0" aria-label="Open image 2 of 2 in full-screen" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=600&#038;ssl=1 600w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=900&#038;ssl=1 900w,https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?strip=info&#038;w=1024&#038;ssl=1 1024w" alt="Colleagues sitting in the conference room" data-height="721" data-id="3594" data-link="https://rightmove.blog/?attachment_id=3594" data-url="https://rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg" data-width="1110" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/IMG_4376-3-min-1-1-1024x665.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div></div>
 
 
 
@@ -1050,7 +1168,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3570" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/ben_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ben_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3570" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3570" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/ben_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-title="Ben_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3570" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Ben_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
 </div>
 
 
@@ -1146,7 +1264,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3583" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/apurva_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Apurva_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3583" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3583" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/apurva_blog_post/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-title="Apurva_blog_post" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3583" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/Apurva_blog_post.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
 </div>
 
 
@@ -1190,7 +1308,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 <div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3585" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/image-4-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image (4)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3585" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
+<figure class="alignright size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="512" height="512" data-attachment-id="3585" data-permalink="https://rightmove.blog/rightmove-fed-day-2025/image-4-3/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-title="image (4)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?fit=512%2C512&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=512%2C512&#038;ssl=1" alt="" class="wp-image-3585" style="width:109px;height:auto" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?w=512&amp;ssl=1 512w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/11/image-4-1.png?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 512px) 100vw, 512px" /></figure>
 </div>
 
 
@@ -1454,7 +1572,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 <p>The post <a href="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/">From traditional to trailblazing: Rightmove’s IT transformation journey  </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div><div class="wp-block-image">
-<figure class="alignleft size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="799" height="800" data-attachment-id="3396" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/vb2_7546_websize-edited/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" data-orig-size="799,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vb2_7546_websize-edited" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=799%2C800&#038;ssl=1" alt="" class="wp-image-3396" style="object-fit:cover;width:400px;height:400px" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?w=799&amp;ssl=1 799w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=768%2C769&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 799px) 100vw, 799px" /></figure>
+<figure class="alignleft size-full is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="799" height="800" data-attachment-id="3396" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/vb2_7546_websize-edited/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" data-orig-size="799,800" data-comments-opened="1" data-image-title="vb2_7546_websize-edited" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?fit=799%2C800&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=799%2C800&#038;ssl=1" alt="" class="wp-image-3396" style="object-fit:cover;width:400px;height:400px" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?w=799&amp;ssl=1 799w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=768%2C769&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/vb2_7546_websize-edited.jpg?resize=200%2C200&amp;ssl=1 200w" sizes="auto, (max-width: 799px) 100vw, 799px" /></figure>
 </div>
 
 
@@ -1502,7 +1620,7 @@ It’s an organisational change programme wearing a Figma hoodie</p>
 
 
 
-<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="994" data-attachment-id="3397" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/screenshot-2025-09-09-at-09-32-47/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1142%2C1108&amp;ssl=1" data-orig-size="1142,1108" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="screenshot-2025-09-09-at-09.32.47" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1024%2C994&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&#038;ssl=1" alt="" class="wp-image-3397" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?w=1142&amp;ssl=1 1142w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="994" data-attachment-id="3397" data-permalink="https://rightmove.blog/from-traditional-to-trailblazing-rightmoves-it-transformation-journey/screenshot-2025-09-09-at-09-32-47/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1142%2C1108&amp;ssl=1" data-orig-size="1142,1108" data-comments-opened="1" data-image-title="screenshot-2025-09-09-at-09.32.47" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?fit=1024%2C994&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&#038;ssl=1" alt="" class="wp-image-3397" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=1024%2C994&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=300%2C291&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?resize=768%2C745&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/09/screenshot-2025-09-09-at-09.32.47.png?w=1142&amp;ssl=1 1142w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -1853,7 +1971,7 @@ definition:
 
 
 
-<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="592" data-attachment-id="3348" data-permalink="https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/policy-as-code-checkov-scan-step-2/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=5258%2C3042&amp;ssl=1" data-orig-size="5258,3042" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Policy as Code &amp;#8211; Checkov Scan step (2)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=1024%2C592&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&#038;ssl=1" alt="" class="wp-image-3348" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=2048%2C1185&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?w=3000&amp;ssl=1 3000w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-large"><img data-recalc-dims="1" loading="lazy" decoding="async" width="1024" height="592" data-attachment-id="3348" data-permalink="https://rightmove.blog/how-we-guard-our-infrastructure-with-policy-as-code/policy-as-code-checkov-scan-step-2/" data-orig-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=5258%2C3042&amp;ssl=1" data-orig-size="5258,3042" data-comments-opened="1" data-image-title="Policy as Code &amp;#8211; Checkov Scan step (2)" data-image-description="" data-image-caption="" data-large-file="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?fit=1024%2C592&amp;ssl=1" src="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&#038;ssl=1" alt="" class="wp-image-3348" srcset="https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=2048%2C1185&amp;ssl=1 2048w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/rightmove.blog/wp-content/uploads/2025/08/Policy-as-Code-Checkov-Scan-step-2.jpg?w=3000&amp;ssl=1 3000w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -1886,153 +2004,5 @@ definition:
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3288</post-id>	</item>
-		<item>
-		<title>What an AI-assisted sprint really looks like </title>
-		<link>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/</link>
-					<comments>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/#respond</comments>
-		
-		<dc:creator><![CDATA[Ahmad Mousavi]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 07:40:08 +0000</pubDate>
-				<category><![CDATA[Rightmove]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[EngineeringCulture]]></category>
-		<guid isPermaLink="false">https://rightmove.blog/?p=3215</guid>
-
-					<description><![CDATA[<p>In a recent experiment, a team conducted an AI-assisted sprint using Copilot to enhance their development process. The initiative aimed to explore how AI could support productivity while maintaining traditional agile practices</p>
-<p>The post <a href="https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/">What an AI-assisted sprint really looks like </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div id="bsf_rt_marker"></div>
-<p class="wp-block-paragraph">About a month ago, fresh off the momentum of <a href="https://rightmove.blog/wp-content/uploads/2025/06/github-copilot-workshop-milton-keynes.jpeg">our Github Copilot hands-on workshop</a>, my brilliant engineers took on the challenge of running an AI-assisted sprint. For me, as an engineering manager, it was a great opportunity to observe how AI might actually support and enhance our ways of working. I was well aware of the sceptics and the not-so-positive noise around AI &#8220;taking over humanity&#8221;, but I didn’t want that to be the reason we avoided trying something new. At the end of the day, this was an experiment.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">To really put the AI to the test (<a href="https://github.com/features/copilot">Github Copilot</a>, to be specific), we picked a chunky feature that required a fair bit of effort across both the backend and frontend. My team includes three backend engineers, two frontend, one QA, a designer, a tech-savvy product manager, and me. (I’ll come back to how important the product manager’s personality turned out to be.) For the experiment, we formed a focused squad: one backend and two frontend engineers. </p>
-
-
-
-<p class="wp-block-paragraph">Before kicking things off, we had a short planning session and came up with three simple ground rules:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li>Use Copilot as much as possible.&nbsp;</li>
-
-
-
-<li>Log your experience daily on a Confluence page (prompts, pain points, tickets, observations, everything).&nbsp;</li>
-
-
-
-<li>Deliver as you normally would, but let AI help wherever it can.</li>
-</ul>
-
-
-
-<p class="wp-block-paragraph">We kicked off the new sprint. Nothing felt different really. Stand-ups were business as usual, and all the standard rituals stayed in place; refinement, 3 Amigos, other syncs, we didn’t cancel a thing.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Fast forward 10 days, and it was time for our sprint review. For those that don’t know, this is the session that happens just before the retrospective, where we look back at our goals, the board, and what we’ve delivered. If there’s something to celebrate, we sing and dance. If there’s something to learn, we call it out, own it, and jot it down.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">How are we measuring productivity?&nbsp;</h2>
-
-
-
-<p class="wp-block-paragraph">Before jumping into the results, I think it’s worth explaining how we compared delivery rates with and without AI to get a more realistic picture. We use story points on our tickets to reflect complexity. The feature we picked for this experiment had been fully refined and pointed by the engineers beforehand.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">We also asked ourselves: for similar work, based on past sprints and with the same capacity (taking into account working days and sprint rituals), what would the typical velocity be for each engineer to complete the tickets?&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">The backend engineer estimated around 10 story points per sprint for similar tasks. We posed the same question to the frontend engineers and captured their answers as well.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">Speed meets complexity&nbsp;</h2>
-
-
-
-<p class="wp-block-paragraph">The backend engineer delivered <strong>25 </strong>story points (a <strong>150</strong>% increase compared to their usual velocity).</p>
-
-
-
-<p class="wp-block-paragraph">The frontend engineers also reported a <strong>30</strong>% uplift in their development pace. </p>
-
-
-
-<p class="wp-block-paragraph">The reason we didn’t see the same level of progress on the frontend, despite having two people, was down to the complexity of the UI work. The components were much trickier for Copilot to get right. Engineers often had to switch between models, pause, clean up, and sometimes start again from scratch. And of course, the learning curve played a part too.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">Syncing frontend and backend work&nbsp;</h2>
-
-
-
-<p class="wp-block-paragraph">Ideally, an agile team works together on a feature from start to finish, then moves on to the next and delivers value continuously. But when there’s an imbalance in frontend and backend velocity or bandwidth, the two disciplines can fall out of sync. It’s a challenge that needs addressing. You don’t want your backend engineers jumping onto new work while others are still playing catch-up.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">Time to rethink&nbsp;QA for speed of delivery</h2>
-
-
-
-<p class="wp-block-paragraph">Another area that stood out was the QA process. </p>
-
-
-
-<p class="wp-block-paragraph">As our implementation pace picked up, it naturally led to more and more tickets piling up, waiting to be tested. It became clear that we need to scale our QA efforts and shift more towards <strong>automation</strong>.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">How the team embraced Copilot&nbsp;</h2>
-
-
-
-<p class="wp-block-paragraph">Some engineers were initially hesitant to use Copilot and that’s completely understandable. What’s interesting is that even the more sceptical ones are now using it confidently and without hesitation. There’s definitely a learning curve, but over time they will improve at crafting more tailored prompts and getting results that meet their standards.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">Remember I mentioned the importance of your product manager at the start? Let me explain why that matters so much. </p>
-
-
-
-<p class="wp-block-paragraph">As engineering managers, we focus on creating a healthy, productive environment, removing blockers, ensuring technical quality, and helping the team grow. </p>
-
-
-
-<p class="wp-block-paragraph">But to truly deliver impact, we need a partner who understands the ‘why’ behind the work as much as we understand the ‘how’. That’s where a strong, curious, and tech-savvy product manager comes in.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">When you have that kind of PM next to you, the team operates with clarity and momentum. They help shape the vision, prioritise the right problems, and keep everyone anchored to the customer or consumer. They’re not just there to manage a backlog; they’re collaborators, sounding boards, and co-pilots (pun intended).&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">In this experiment, I was lucky to work with exactly that kind of product partner. She was hands-on, keen to learn, and quick to adapt as the team gained more capacity with AI tools. We shared the wins and discussed the challenges together. That balance between product thinking and engineering execution made all the difference.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">And what about Copilot itself?</h2>
-
-
-
-<p class="wp-block-paragraph">AI is now like a new team member in the team, and it’s a welcome one. We agreed that there are certain types of tasks where AI can be incredibly helpful. Things like extending existing design patterns, adding new contracts, working on APIs and their documentation, or even doing version bumps. Engineers are happy to delegate these tasks to Copilot so they can focus on more complex and meaningful work.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">To help track this shift, we’ve also decided to use a <code>copilot</code> label in Jira whenever a ticket is mostly written by AI (over 70 percent for us). Engineers are encouraged to leave a comment on the ticket noting roughly what percentage of the work was done by AI. This gives us better visibility and helps inform future decisions about where AI support brings the most value.&nbsp;</p>
-<p>The post <a href="https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/">What an AI-assisted sprint really looks like </a> appeared first on <a href="https://rightmove.blog">Rightmove Tech Blog</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://rightmove.blog/what-an-ai-assisted-sprint-really-looks-like/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3215</post-id>	</item>
 	</channel>
 </rss>

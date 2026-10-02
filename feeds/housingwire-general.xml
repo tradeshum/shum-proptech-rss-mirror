@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 30 Sep 2026 20:29:35 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 21:05:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,225 +28,224 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Pending home sales are falling, but the slowdown isn&#8217;t hitting every market</title>
-		<link>https://www.housingwire.com/articles/pending-home-sales-fall-housing-demand-weakens/</link>
-					<comments>https://www.housingwire.com/articles/pending-home-sales-fall-housing-demand-weakens/#respond</comments>
+		<title>FHFA set to order Fannie, Freddie to accept two-bureau credit reports</title>
+		<link>https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/</link>
+					<comments>https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/#respond</comments>
 		
-		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 20:29:33 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Data & Analytics]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Pending Home Sales]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605209</guid>
-
-					<description><![CDATA[<p>Falling pending sales are revealing a more uneven housing market</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/pending-home-sales-fall-housing-demand-weakens/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605209</post-id>	</item>
-		<item>
-		<title>A Super El Niño is brewing — what it could mean for housing</title>
-		<link>https://www.housingwire.com/articles/a-super-el-nino-is-brewing-what-it-could-mean-for-housing/</link>
-					<comments>https://www.housingwire.com/articles/a-super-el-nino-is-brewing-what-it-could-mean-for-housing/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 20:21:25 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[California]]></category>
-		<category><![CDATA[Flood]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605351</guid>
-
-					<description><![CDATA[<p>California and the Gulf Coast are projected to be the main, but not only, impact areas</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/a-super-el-nino-is-brewing-what-it-could-mean-for-housing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605351</post-id>	</item>
-		<item>
-		<title>CHLA backs Pulte plan for GSE credit score disclosures</title>
-		<link>https://www.housingwire.com/articles/chla-backs-gse-credit-scores/</link>
-					<comments>https://www.housingwire.com/articles/chla-backs-gse-credit-scores/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 19:20:33 +0000</pubDate>
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 21:05:10 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Community Home Lenders of America]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Bill Pulte]]></category>
 		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[FHFA]]></category>
+		<category><![CDATA[Federal Housing Finance Agency]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605326</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605579</guid>
 
-					<description><![CDATA[<p>Letter to FHFA says the added data could improve MBS transparency and reduce recurring credit score cost increases
-</p>]]></description>
+					<description><![CDATA[<p>The requirement is expected to take effect one to three months after it is announced, per Bloomberg</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/chla-backs-gse-credit-scores/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fhfa-bi-merge-credit-reports-fannie-freddie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605326</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605579</post-id>	</item>
 		<item>
-		<title>Compass&#8217;s Reffkin gives MLSs an ultimatum: Change listing rules or face lawsuits</title>
-		<link>https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/</link>
-					<comments>https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 19:08:31 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[CMLS]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Robert Reffkin]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605339</guid>
-
-					<description><![CDATA[<p>Exclusive HousingWire coverage from CMLS: Reffkin said Compass could file antitrust suits by mid-October and set an October 6 deadline</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/reffkin-sue-mls-exclusives/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605339</post-id>	</item>
-		<item>
-		<title>Archwest Capital closes $300M rated RTL securitization</title>
-		<link>https://www.housingwire.com/articles/archwest-300m-rated-securitization/</link>
-					<comments>https://www.housingwire.com/articles/archwest-300m-rated-securitization/#respond</comments>
+		<title>Howard Hughes names Kaminski President of Arizona region</title>
+		<link>https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/</link>
+					<comments>https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:58:55 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Fix and Flip]]></category>
+		<pubDate>Thu, 01 Oct 2026 20:47:40 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Investing]]></category>
-		<category><![CDATA[Secondary market]]></category>
-		<category><![CDATA[Securitization]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605310</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605556</guid>
 
-					<description><![CDATA[<p>Deal is backed by 218 loans, plus a $98.5M accumulation account and a two-year revolving structure
-</p>]]></description>
+					<description><![CDATA[<p>In the role, Kaminski will lead strategy and operations for Teravalis, a 37,000-acre master planned community in Buckeye</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/archwest-300m-rated-securitization/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/howard-hughes-kate-kaminski-arizona/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605310</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605556</post-id>	</item>
 		<item>
-		<title>Zillow’s Samuelson: Undermining the MLS could bring regulators knocking</title>
-		<link>https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/</link>
-					<comments>https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/#respond</comments>
+		<title>Mortgage Banking Summit: FHFA’s unified LLPA grid for FICO, VantageScore raises investor concerns</title>
+		<link>https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/</link>
+					<comments>https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 20:31:05 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[Federal Housing Finance Agency]]></category>
+		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Banking Summit 2026]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605540</guid>
+
+					<description><![CDATA[<p>Summit participants question how investors will treat VS4-driven MBS pools</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605540</post-id>	</item>
+		<item>
+		<title>Why Brookfield Residential put data governance ahead of AI</title>
+		<link>https://www.housingwire.com/articles/brookfield-data-before-ai/</link>
+					<comments>https://www.housingwire.com/articles/brookfield-data-before-ai/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 20:23:19 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605557</guid>
+
+					<description><![CDATA[<p>CIO Brandon Sharp says the company logged 250,000 internal hours and deployed 7 major systems to build a single source of truth</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/brookfield-data-before-ai/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605557</post-id>	</item>
+		<item>
+		<title>Garg says Better board will honor results once consent vote is confirmed</title>
+		<link>https://www.housingwire.com/articles/better-garg-board-consent-vote/</link>
+					<comments>https://www.housingwire.com/articles/better-garg-board-consent-vote/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 19:57:57 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Better]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Vishal Garg]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605536</guid>
+
+					<description><![CDATA[<p>Garg says the consent solicitation topped 50% and could remove five directors, with a third-party inspector reviewing results</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/better-garg-board-consent-vote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605536</post-id>	</item>
+		<item>
+		<title>MLS data is more valuable than ever. The industry has to decide how to protect it</title>
+		<link>https://www.housingwire.com/articles/mls-data-licensing-ai/</link>
+					<comments>https://www.housingwire.com/articles/mls-data-licensing-ai/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:48:01 +0000</pubDate>
+		<pubDate>Thu, 01 Oct 2026 19:45:40 +0000</pubDate>
 				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[CMLS]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Zillow]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605309</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605534</guid>
 
-					<description><![CDATA[<p>Exclusive coverage from CMLS: Samuelson cited Hill scrutiny of Compass and MRED and warned data restrictions could invite regulation</p>]]></description>
+					<description><![CDATA[<p>Speakers at CMLS said data will be monetized either way, the issue is governance and protecting brokers’ rights</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/samuelson-mls-tragedy-commons/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mls-data-licensing-ai/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605309</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605534</post-id>	</item>
 		<item>
-		<title>Texas Mortgage Source: Reverse is the &#8216;largest underserved market in the business right now&#8217;</title>
-		<link>https://www.housingwire.com/articles/texas-mortgage-source-reverse/</link>
-					<comments>https://www.housingwire.com/articles/texas-mortgage-source-reverse/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:31:54 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[AIME]]></category>
-		<category><![CDATA[HECM]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<category><![CDATA[Sales Techniques]]></category>
-		<category><![CDATA[Texas]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605107</guid>
-
-					<description><![CDATA[<p>At AIME Fuse in Austin, Mark Hairston and Shara Parker shared successful borrower scenarios for unlocking nearly $15 trillion in U.S. senior home equity</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/texas-mortgage-source-reverse/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605107</post-id>	</item>
-		<item>
-		<title>When pricing power disappears, builders have to find margin upstream</title>
-		<link>https://www.housingwire.com/articles/builder-pricing-power-margins/</link>
-					<comments>https://www.housingwire.com/articles/builder-pricing-power-margins/#respond</comments>
-		
-		<dc:creator><![CDATA[Higharc]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:30:45 +0000</pubDate>
-				<category><![CDATA[Products]]></category>
-		<category><![CDATA[Sponsored]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[Higharc]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAHB]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605200</guid>
-
-					<description><![CDATA[<p>As incentives and input costs squeeze homebuilder margins, controlling product complexity earlier can create another lever for protecting profitability</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/builder-pricing-power-margins/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605200</post-id>	</item>
-		<item>
-		<title>Stockton Mortgage elevates founder David Stockton to CEO, names new president</title>
-		<link>https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/</link>
-					<comments>https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/#respond</comments>
+		<title>FHA nominee Matt Jones says he&#8217;ll target more housing supply and lower costs</title>
+		<link>https://www.housingwire.com/articles/fha-nominee-matt-jones/</link>
+					<comments>https://www.housingwire.com/articles/fha-nominee-matt-jones/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:18:22 +0000</pubDate>
+		<pubDate>Thu, 01 Oct 2026 19:21:36 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[FHA]]></category>
+		<category><![CDATA[HUD]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605204</guid>
+		<category><![CDATA[Senate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605516</guid>
 
-					<description><![CDATA[<p>Anthony Whiteside becomes president, while Scott Bristol joins as EVP of national sales
-</p>]]></description>
+					<description><![CDATA[<p>In his Senate confirmation hearing, Jones highlighted manufactured housing, limits on large investors and new credit underwriting models</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/stockton-mortgage-leadership-restructure/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fha-nominee-matt-jones/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605204</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605516</post-id>	</item>
 		<item>
-		<title>CMLS CEO Jessica Edgerton urges industry to &#8216;get messy&#8217; at 2026 Open House</title>
-		<link>https://www.housingwire.com/articles/cmls-ceo-jessica-edgerton-urges-industry-to-get-messy-at-2026-open-house/</link>
-					<comments>https://www.housingwire.com/articles/cmls-ceo-jessica-edgerton-urges-industry-to-get-messy-at-2026-open-house/#respond</comments>
+		<title>Breaking down barriers between rural America and more housing</title>
+		<link>https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/</link>
+					<comments>https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/#respond</comments>
 		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 17:05:33 +0000</pubDate>
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 18:50:32 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605482</guid>
+
+					<description><![CDATA[<p>The USDA and HUD agreed earlier this week to streamline environmental reviews for federally funded rural housing projects</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/breaking-down-barriers-between-rural-america-and-more-housing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605482</post-id>	</item>
+		<item>
+		<title>David Charron: How MLSs can stay relevant before the market moves around them</title>
+		<link>https://www.housingwire.com/articles/mls-budgets-relevance-18-months/</link>
+					<comments>https://www.housingwire.com/articles/mls-budgets-relevance-18-months/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 18:37:03 +0000</pubDate>
 				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Bright MLS]]></category>
 		<category><![CDATA[CMLS]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605293</guid>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605514</guid>
 
-					<description><![CDATA[<p>Edgerton also announced a new broker membership tier at CMLS</p>]]></description>
+					<description><![CDATA[<p>Exclusive CMLS coverage: Former Bright MLS strategy chief David Charron urged CMLS attendees to cut friction and invest for where the industry will be 18-month</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/cmls-ceo-jessica-edgerton-urges-industry-to-get-messy-at-2026-open-house/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mls-budgets-relevance-18-months/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605293</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">605514</post-id>	</item>
+		<item>
+		<title>Forget waiting for lower rates. KW&#8217;s Jason Abrams has a playbook for finding business anyway</title>
+		<link>https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/</link>
+					<comments>https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 18:24:06 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605485</guid>
+
+					<description><![CDATA[<p>For agents, Abrams said a slower market requires a different approach to prospecting</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/forget-waiting-for-lower-rates-kws-jason-abrams-has-a-playbook-for-finding-business-anyway/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605485</post-id>	</item>
 	</channel>
 </rss>
