@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 02 Oct 2026 20:44:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Oct 2026 23:05:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,28 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>What&#8217;s next for housing: 7%, 8% or 9% mortgage rates?</title>
+		<link>https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/</link>
+					<comments>https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 21:14:24 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New listings]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605758</guid>
+
+					<description><![CDATA[<p>Mortgage rates are at 7.57% and demand softened more last week</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/whats-next-for-housing-7-8-or-9-mortgage-rates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605758</post-id>	</item>
+		<item>
 		<title>View Homes CEO Gandhi rebuilds builder operating platform</title>
 		<link>https://www.housingwire.com/articles/view-homes-operating-platform/</link>
 					<comments>https://www.housingwire.com/articles/view-homes-operating-platform/#respond</comments>
@@ -140,7 +162,7 @@
 		<item>
 		<title>HECM originations sink to lowest level since 2020, HMBS issuance down 17% in September</title>
 		<link>https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/</link>
-					<comments>https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/#respond</comments>
+					<comments>https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
 		<pubDate>Fri, 02 Oct 2026 18:15:32 +0000</pubDate>
@@ -157,7 +179,7 @@
 					<description><![CDATA[<p>September endorsements dropped to 1,790 — the lowest figure since April 2020 — while HMBS issuance fell to $446 million</p>]]></description>
 		
 					<wfw:commentRss>https://www.housingwire.com/articles/hecm-endorsements-hmbs-septembe/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">605627</post-id>	</item>
@@ -225,27 +247,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">605647</post-id>	</item>
-		<item>
-		<title>FHA launches optional transition period to UAD 3.6  </title>
-		<link>https://www.housingwire.com/articles/fha-optional-uad-3-6/</link>
-					<comments>https://www.housingwire.com/articles/fha-optional-uad-3-6/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 15:28:11 +0000</pubDate>
-				<category><![CDATA[Appraisals and Valuations]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Appraisals]]></category>
-		<category><![CDATA[Federal Housing Administration]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[UAD 3.6]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605633</guid>
-
-					<description><![CDATA[<p>Lenders can begin sending FHA appraisals in UAD 3.6 </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/fha-optional-uad-3-6/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605633</post-id>	</item>
 	</channel>
 </rss>
