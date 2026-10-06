@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Fri, 02 Oct 2026 20:31:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 06:50:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,135 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>What Happens to Proptech When Anyone Can Build Software?</title>
+		<link>https://propmodo.com/what-happens-to-proptech-when-anyone-can-build-software/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 06:50:56 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Architecture]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181643</guid>
+
+					<description><![CDATA[<p>AI-generated code is reshaping real estate software, lowering costs while raising questions about quality, security, and whether to buy or build.</p>
+<p>The post <a href="https://propmodo.com/what-happens-to-proptech-when-anyone-can-build-software/">What Happens to Proptech When Anyone Can Build Software?</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Software development has changed faster than almost anyone in the industry predicted. Google reported in April 2026 that 75% of all new code at the company was AI-generated and approved by engineers. Microsoft put its own figure at 20 to 30% the year before. Across the broader market, DX&#8217;s Q2 2026 report found that more than nine in ten engineering organizations now use AI in development work, with roughly 30% of all merged code written by AI.</p>
+
+
+
+<p class="wp-block-paragraph">The more consequential shift is who can participate. Writing functional software used to require years of training, which meant the gap between having an idea and having a product was measured in hiring cycles. That gap has narrowed considerably. People who understand a problem deeply but have never written code can now produce working applications, which changes the economics of software creation in ways the real estate industry is only beginning to absorb.</p>
+
+
+
+<p class="wp-block-paragraph">For real estate companies, the practical effect lands on the buy or build decision, and it pushes in both directions at once.</p>
+
+
+
+<p class="wp-block-paragraph">On the buy side, there is simply more to choose from. Products that would have taken a funded team a year to develop can now be built by two people in a few months, and the proptech market has filled accordingly. More options is generally good. More options of uneven quality is more complicated.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;We have noticed in the last few years during the AI boom is that there are more and more startups that think they can build a PropTech product,&#8221; said Zaid Tirmizi, Product Manager at TechnBrains. The barrier that used to filter out weaker entrants was technical capability. That filter has largely dissolved, which means the market now contains a much wider range of products built by teams with a much wider range of understanding about the problems they claim to solve.</p>
+
+
+
+<p class="wp-block-paragraph">That shift relocates where the real advantage sits. When building software was hard, knowing how to build it was valuable. When building is comparatively easy, knowing what to build becomes the scarce input.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Real estate companies have an advantage, they know what problems that they need to have solved,&#8221; Tirmizi said. That knowledge is accumulated through operating buildings, managing portfolios, and working through the specific failures that show up in daily practice. It is not available to a founder who read a market report and decided property management looked inefficient, and it cannot be acquired quickly.</p>
+
+
+
+<p class="wp-block-paragraph">Which is the argument for building rather than buying, at least in certain circumstances.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;If a real estate company has a lot of proprietary data but hasn&#8217;t consolidated it yet, they should consider building their own products,&#8221; Tirmizi said. The logic is specific. A company sitting on years of transaction history, maintenance records, or operational data has something no vendor can replicate, and a tool built around that data can do things a general-purpose platform cannot. Previously the development cost made that impractical for most operators. Now the calculation is different.</p>
+
+
+
+<p class="wp-block-paragraph">The calculation is not as different as the marketing suggests, though, and the gap between writing code and shipping software is where most of the cost still lives.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;You will need engineers to solve the technical debt,&#8221; Tirmizi said. &#8220;Writing the code is done by AI but comprehension of code is still a challenge. AI can write in a lot of garbage into code and going through it takes time.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">The data on that point is fairly consistent. LinearB&#8217;s 2026 benchmarks, drawn from 8.1 million pull requests, found that AI-generated code contains 1.7 times more issues per pull request than human-written code. Veracode&#8217;s 2026 security report tested more than 100 models and found an average security pass rate of 56% that has not improved across model generations. Stack Overflow&#8217;s 2025 survey found that 66% of developers spend more time fixing almost-right AI code than they would have spent writing it themselves, and 45% say debugging AI-generated code takes longer than debugging anything else.</p>
+
+
+
+<p class="wp-block-paragraph">Code churn tells a similar story. The share of code revised within two weeks of being written rose from 3.1% in 2020 to 5.7% in 2024, tracking AI adoption. Writing is faster. Everything downstream of writing is not.</p>
+
+
+
+<p class="wp-block-paragraph">What that means in practice is that a real estate company building internally still needs engineering capacity, just allocated differently. Less time producing code, more time reviewing it, maintaining it, and dealing with the accumulated consequences of decisions nobody made deliberately. Organizations that budget for the first and not the second end up with a working prototype and no path to running it in production.</p>
+
+
+
+<p class="wp-block-paragraph">Where the change is unambiguous is in the cost of finding out whether an idea works at all.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;This is a great time to test an idea,&#8221; Tirmizi said. &#8220;You don&#8217;t have to launch it to a huge market, just build it and get some users on it to see if the idea is working. This is a very good time to fail fast.&#8221; That applies to founders and to people inside large organizations equally. An asset manager with a theory about a better underwriting workflow can now build something testable without a budget request, a vendor evaluation, or a six-month development timeline. Most of those experiments will fail, which is the point. Failing in three weeks for very little money is a different proposition than failing in a year after committing real capital.</p>
+
+
+
+<p class="wp-block-paragraph">The labor market is adjusting to all of this, and the early movement is visible in outsourced development.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;We are already seeing the impact on outsourced developers. It has gone down by probably 30 percent already,&#8221; Tirmizi said. That tracks with broader labor data, which shows the effect concentrated rather than uniform. Stanford&#8217;s payroll analysis through June 2026 found no widespread displacement overall but a 19% employment gap for workers aged 22 to 25 in occupations where AI automates rather than assists. Demand has moved up the seniority curve. Junior work that involved implementing well-specified requirements is exactly what AI handles best.</p>
+
+
+
+<p class="wp-block-paragraph">For real estate companies, cheaper development labor compounds with cheaper development tooling, which makes internal builds more viable than they have been. Whether that produces better software is a separate question. The companies that will get the most out of this are the ones that understand their own problems well enough to specify what they actually need, and that have the engineering judgment to tell whether what comes back is sound. Neither of those is something AI provides.</p>
+<p>The post <a href="https://propmodo.com/what-happens-to-proptech-when-anyone-can-build-software/">What Happens to Proptech When Anyone Can Build Software?</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/11/proptech.jpg" />	</item>
+		<item>
+		<title>Suburban Office Parks Begin Adding Housing and Retail to Combat Isolation</title>
+		<link>https://propmodo.com/suburban-office-parks-begin-adding-housing-and-retail-to-combat-isolation/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 06:44:54 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181645</guid>
+
+					<description><![CDATA[<p>Research Triangle Park and other suburban office campuses are adding housing and retail after decades as work-only environments to attract and retain employees.</p>
+<p>The post <a href="https://propmodo.com/suburban-office-parks-begin-adding-housing-and-retail-to-combat-isolation/">Suburban Office Parks Begin Adding Housing and Retail to Combat Isolation</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Research Triangle Park, the 7,000-acre North Carolina campus home to Cisco, Lenovo, and Novartis, recently adopted zoning changes allowing apartments, townhomes, and mixed-use developments after 65 years as a work-only environment. The park&#8217;s managing foundation made the shift in response to changing worker preferences and commutes that often exceed an hour each way. Cummings Research Park in Huntsville, Alabama, implemented similar changes a decade ago and now maintains apartment occupancy above 80 percent.</p>
+
+
+
+<p class="wp-block-paragraph">Travis Crayton, vice president of planning at Research Triangle Park, said the region&#8217;s unusual configuration—a low-density office park at the center of a fast-growing metro area—has remained static for five decades while surrounding communities expanded. Lori O&#8217;Keefe, CEO of the Triangle Community Foundation, said the park was designed for workers to commute in, complete their day, and drive back to distant suburbs. Post-pandemic work patterns accelerated demand for environments employees are willing to commute to, Crayton said.</p>
+
+
+
+<p class="wp-block-paragraph">An outdoor food hall made from shipping containers has already opened at Research Triangle Park and serves as an after-work gathering spot. More residential and mixed-use construction is expected over the next five years as developers act on the new zoning. Erin Koshut, executive director of Cummings Research Park, said tenant companies requested better pedestrian and bike connections to retail and housing, prompting additional sidewalk construction.</p>
+
+
+
+<p class="wp-block-paragraph">The rezoning follows a broader reconsideration of single-use suburban office parks as employers compete for talent in tight labor markets. Mixed-use districts allow companies to offer live-work-play environments that reduce commute times and increase retention. Similar retrofits are under discussion at older corporate campuses across the Sun Belt, where sprawling layouts and car dependency have become competitive disadvantages in recruiting.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.marketplace.org&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Marketplace</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.marketplace.org/story/2026/10/02/can-research-parks-be-redesigned-as-walkable-and-livable" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Research Parks Were Designed for Working. That&#039;s Starting to Change.</a></div></div>
+<p>The post <a href="https://propmodo.com/suburban-office-parks-begin-adding-housing-and-retail-to-combat-isolation/">Suburban Office Parks Begin Adding Housing and Retail to Combat Isolation</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
+		<item>
 		<title>Backyard Units Gain Traction as Partial Answer to Housing Crunch</title>
 		<link>https://propmodo.com/backyard-units-gain-traction-as-partial-answer-to-housing-crunch/</link>
 		
@@ -479,76 +608,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/07/ai-document-management.jpg" />	</item>
-		<item>
-		<title>Manufacturing Is Becoming Industrial Real Estate&#8217;s Biggest Opportunity</title>
-		<link>https://propmodo.com/manufacturing-is-becoming-industrial-real-estates-biggest-opportunity/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 01:43:14 +0000</pubDate>
-				<category><![CDATA[Industrial]]></category>
-		<category><![CDATA[Data Center]]></category>
-		<category><![CDATA[Industrial Realty Trust]]></category>
-		<category><![CDATA[Logistics]]></category>
-		<category><![CDATA[Prologis]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181584</guid>
-
-					<description><![CDATA[<p>Manufacturing is reshaping U.S. industrial real estate, driving demand for smaller, amenity-rich facilities designed for skilled workers.</p>
-<p>The post <a href="https://propmodo.com/manufacturing-is-becoming-industrial-real-estates-biggest-opportunity/">Manufacturing Is Becoming Industrial Real Estate&#8217;s Biggest Opportunity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Industrial has been the best performing property sector for most of the past decade, and the reasons have been consistent. E-commerce growth created demand for distribution space, the pandemic exposed the fragility of global supply chains, and retailers responded by holding more inventory closer to consumers. That combination produced a construction cycle built almost entirely around logistics, with the archetypal industrial asset being a large-format distribution center on a highway interchange.</p>
-
-
-
-<p class="wp-block-paragraph">Now the demand seems to be shifting. Manufacturing-related leasing supported industrial activity through 2025, particularly across the Southeast and Central regions, and in several markets it has become the leading source of new requirements. Cushman &amp; Wakefield reported industrial vacancy falling to 6.9% in the second quarter of 2026 with leasing activity at its highest level since mid-2022, and onshoring and nearshoring appear among the demand drivers the firm cites alongside e-commerce.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;For the first time in my career, we are seeing manufacturing be the number one demand for industrial,&#8221; said Jason Tolliver, President of Americas Logistics and Industrial at Cushman &amp; Wakefield. &#8220;Onshoring and nearshoring are having an effect on supply chains and many Asian based companies are moving back into the U.S.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">A manufacturer looking for space wants something different from what the logistics cycle produced, and in several respects the requirements run in the opposite direction. &#8220;Most modern manufacturing is using much smaller industrial facilities and are often co-located with the offices,&#8221; Tolliver said. &#8220;Companies want engineers to be located next to where the work actually gets done.&#8221; Modern manufacturing takes less floorspace but requires more on-site skilled labor than ever before. NAIOP has noted growing demand for midsize facilities in the 100,000 to 400,000 square foot range, a meaningful departure from the 500,000-plus footprints typical of large logistic facilities.</p>
-
-
-
-<p class="wp-block-paragraph">When a substantial share of a building&#8217;s occupants are engineers and technical staff spending full days on site, the interior of a manufacting floor becomes much more similar to an office environment. &#8220;Industrial is starting to be beautiful and have the kind of curb appeal as a nice office building,&#8221; Tolliver said. &#8220;They want to make these places where people are proud to work.&#8221; That means natural light reaching production areas, lounge and collaboration spaces, considered materials and finishes, and exteriors designed to be looked at rather than simply enclosed. It is a reversal of decades of industrial development logic, which treated the building as a shell around a process and optimized almost exclusively for cost per square foot.</p>
-
-
-
-<p class="wp-block-paragraph">Amenities are following the same trajectory, driven partly by where these buildings tend to be located. Industrial sites sit on the periphery of metropolitan areas, where the supporting services that office workers take for granted in a downtown are thin or absent entirely. &#8220;Workers are looking for things like onsite daycare or medical services,&#8221; Tolliver said. &#8220;If you go to a downtown office you have so many of these amenities but outside of cities there isn&#8217;t as many options.&#8221; A manufacturer competing for skilled labor in a suburban or exurban submarket cannot rely on the surrounding neighborhood to provide what employees need. Bringing childcare, clinics, food service, and fitness onto the campus becomes a practical necessity rather than a perk, particularly for operations running multiple shifts.</p>
-
-
-
-<p class="wp-block-paragraph">None of this has attracted the attention that data centers and large-format logistics have. The headline deals and the flood of AI-related development capital have taken the spotlight, and for good reason given the scale of individual transactions. A single hyperscale campus can involve more square footage and more capital than a dozen manufacturing facilities combined, which makes it easier to cover and easier to underwrite. Manufacturing arrives in smaller increments, spread across more tenants and more markets, which is precisely why it has been overlooked until now.</p>
-<p>The post <a href="https://propmodo.com/manufacturing-is-becoming-industrial-real-estates-biggest-opportunity/">Manufacturing Is Becoming Industrial Real Estate&#8217;s Biggest Opportunity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/07/industrial.jpg" />	</item>
-		<item>
-		<title>Centralizing Multifamily Management to Drive Smarter, Leaner Operations</title>
-		<link>https://propmodo.com/centralizing-multifamily-management-to-drive-smarter-leaner-operations/</link>
-		
-		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 01:22:38 +0000</pubDate>
-				<category><![CDATA[Webinars]]></category>
-		<category><![CDATA[ButterflyMX]]></category>
-		<category><![CDATA[Calix]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181223</guid>
-
-					<description><![CDATA[<p>Learn how centralized property management helps multifamily owners reduce costs, streamline operations, improve visibility, and scale efficiently.</p>
-<p>The post <a href="https://propmodo.com/centralizing-multifamily-management-to-drive-smarter-leaner-operations/">Centralizing Multifamily Management to Drive Smarter, Leaner Operations</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">As multifamily portfolios grow increasingly complex, fragmented systems and disconnected workflows can drive up costs, slow decision-making, and create operational inefficiencies. This webinar explores how centralizing property management can help multifamily owners and operators streamline operations, reduce overhead, and improve portfolio-wide visibility. From consolidating teams and standardizing processes to leveraging technology and data for smarter decisions, discover how leading operators are building leaner, more connected management models that support scalability, enhance performance, and deliver greater value across their portfolios.</p>
-<p>The post <a href="https://propmodo.com/centralizing-multifamily-management-to-drive-smarter-leaner-operations/">Centralizing Multifamily Management to Drive Smarter, Leaner Operations</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2025/12/apartments.jpg" />	</item>
 	</channel>
 </rss>
