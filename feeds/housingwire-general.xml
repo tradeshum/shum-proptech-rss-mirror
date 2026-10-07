@@ -12,13 +12,13 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Mon, 05 Oct 2026 21:18:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Oct 2026 23:07:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.10</generator>
+	<generator>https://wordpress.org/?v=6.8.11</generator>
 
 <image>
 	<url>https://www.housingwire.com/wp-content/uploads/2023/10/cropped-favicon-bg.png?w=32</url>
@@ -28,218 +28,224 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Vishal Garg regains control of Better&#8217;s board after receiving 52% shareholder support</title>
-		<link>https://www.housingwire.com/articles/garg-regains-better-control/</link>
-					<comments>https://www.housingwire.com/articles/garg-regains-better-control/#respond</comments>
+		<title>Vishal Garg lays out Better 2.0 plan during shareholder call</title>
+		<link>https://www.housingwire.com/articles/better-2-plan-shareholder/</link>
+					<comments>https://www.housingwire.com/articles/better-2-plan-shareholder/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 21:18:35 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
+		<pubDate>Tue, 06 Oct 2026 22:01:18 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Better]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Vishal Garg]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605983</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606179</guid>
 
-					<description><![CDATA[<p>A majority of shareholders backed the removal of five directors, including interim CEO Daniel Lewis, with Better finalizing his successor
-</p>]]></description>
+					<description><![CDATA[<p>Daniel Lewis was removed as interim CEO effective Oct. 5, per an SEC filing</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/garg-regains-better-control/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/better-2-plan-shareholder/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605983</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606179</post-id>	</item>
 		<item>
-		<title>Lawmakers float a housing 2.0 push to build faster and cheaper</title>
-		<link>https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/</link>
-					<comments>https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/#respond</comments>
+		<title>Seniors aren&#8217;t keeping up with their credit card debt. Reverse mortgages can help</title>
+		<link>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/</link>
+					<comments>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/#respond</comments>
 		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 21:12:05 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Housing Policy]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605961</guid>
-
-					<description><![CDATA[<p>Bipartisan Build America Caucus sketches housing reform targeting zoning, building material costs and inefficient financing barriers</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/lawmakers-float-a-housing-2-0-push-to-build-faster-and-cheaper/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605961</post-id>	</item>
-		<item>
-		<title>Daniel Dennis named Long and Foster president and CEO</title>
-		<link>https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/</link>
-					<comments>https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 20:30:48 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HomeServices of America]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Long & Foster]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605962</guid>
-
-					<description><![CDATA[<p>Dennis succeeds Patrick Bain, who is stepping down after 16 years with the company</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/daniel-dennis-long-foster-ceo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605962</post-id>	</item>
-		<item>
-		<title>Freddie Mac reshuffles risk leadership as Hinduja exits, Glessner steps in</title>
-		<link>https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/</link>
-					<comments>https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 20:25:34 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Freddie Mac]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Securities and Exchange Commission]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605932</guid>
-
-					<description><![CDATA[<p>Anil Hinduja’s employment with Freddie Mac ended Oct. 1 </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/freddie-mac-anil-hinduja-john-glessner/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605932</post-id>	</item>
-		<item>
-		<title>Pennymac deploys VantageScore 4.0 across all production channels</title>
-		<link>https://www.housingwire.com/articles/pennymac-vantagescore/</link>
-					<comments>https://www.housingwire.com/articles/pennymac-vantagescore/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 20:15:00 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[PennyMac]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605921</guid>
-
-					<description><![CDATA[<p>The move follows FHFA and HUD guidance that opened conventional and FHA lending to competing credit score models
-</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/pennymac-vantagescore/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605921</post-id>	</item>
-		<item>
-		<title>Why Alex Vidal believes REMAX and Real can be stronger together</title>
-		<link>https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/</link>
-					<comments>https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 20:14:23 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[REMAX]]></category>
-		<category><![CDATA[The Real Brokerage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605951</guid>
-
-					<description><![CDATA[<p>He joined after the August close that created Real REMAX Group, with both brands keeping separate identities</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/alex-vidal-remax-president-next-phase/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605951</post-id>	</item>
-		<item>
-		<title>White House readies $90 payments to offset Medicare premiums</title>
-		<link>https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/</link>
-					<comments>https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 19:47:40 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 21:29:46 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Aging in Place]]></category>
-		<category><![CDATA[Centers for Medicare and Medicaid Services]]></category>
+		<category><![CDATA[Debt]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[HECM]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605924</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606165</guid>
 
-					<description><![CDATA[<p>Payments are expected to be distributed in early October</p>]]></description>
+					<description><![CDATA[<p>As credit card and HELOC balances grow, reverse mortgages and their voluntary payment structures should be considered</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/white-house-readies-90-payments-to-offset-medicare-premiums/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605924</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606165</post-id>	</item>
 		<item>
-		<title>Global survey: spiraling costs block households&#8217; path to ownership</title>
-		<link>https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/</link>
-					<comments>https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/#respond</comments>
+		<title>Timberline Homes buy will push Champion deeper into retail</title>
+		<link>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/</link>
+					<comments>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 18:54:07 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
+		<pubDate>Tue, 06 Oct 2026 21:08:14 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Habitat for Humanity]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605857</guid>
+		<category><![CDATA[Manufactured Housing]]></category>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606129</guid>
 
-					<description><![CDATA[<p>A Habitat for Humanity survey across 22 countries found that 75% of individuals say they cut expenses in the cost-of-living crisis</p>]]></description>
+					<description><![CDATA[<p>The Timberline Homes acquisition, Champion Homes' third acquisition since 2025, signals a growing emphasis on direct-to-consumer sales</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/global-survey-housing-budgets-homeownership/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605857</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606129</post-id>	</item>
 		<item>
-		<title>Valon raises $150M Series D at $2.3B valuation</title>
-		<link>https://www.housingwire.com/articles/valon-raises-150-million-series-d/</link>
-					<comments>https://www.housingwire.com/articles/valon-raises-150-million-series-d/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 18:40:41 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Carrington]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Investment]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605897</guid>
-
-					<description><![CDATA[<p>The round doubles its prior valuation and brings in new investor Ribbit Capital </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/valon-raises-150-million-series-d/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">605897</post-id>	</item>
-		<item>
-		<title>Fathom, Bed Bath and Beyond terminate merger</title>
-		<link>https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/</link>
-					<comments>https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/#respond</comments>
+		<title>CRMLS went on offense against Compass. Will other MLSs follow?</title>
+		<link>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/</link>
+					<comments>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 18:23:04 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Fathom Holdings]]></category>
+		<pubDate>Tue, 06 Oct 2026 20:25:59 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[California Regional MLS]]></category>
+		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605896</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606125</guid>
 
-					<description><![CDATA[<p>Companies cite share price valuations; Neighborhood keeps tZERO and other digital asset holdings</p>]]></description>
+					<description><![CDATA[<p>Industry leaders weigh in as CRMLS seeks to stop Compass from challenging MLS rules in court</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fathom-neighborhood-merger-terminated/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605896</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606125</post-id>	</item>
+		<item>
+		<title>Upstate New York bucking national housing slowdown</title>
+		<link>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/</link>
+					<comments>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 20:18:24 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Home Prices]]></category>
+		<category><![CDATA[Housing Market Data]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New York]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606130</guid>
+
+					<description><![CDATA[<p>Planned tech development is expected to bring even more buyers to upper New York</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606130</post-id>	</item>
+		<item>
+		<title>UWM moves to dual-score model, auto-selects best result</title>
+		<link>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/</link>
+					<comments>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 19:31:51 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[credit scores]]></category>
+		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[United Wholesale Mortgage]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606118</guid>
+
+					<description><![CDATA[<p>Lender will obtain both FICO and VantageScore on every credit pull </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606118</post-id>	</item>
+		<item>
+		<title>Rocket Mortgage names Nicole Beattie chief servicing officer</title>
+		<link>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/</link>
+					<comments>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 18:46:20 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Servicing]]></category>
+		<category><![CDATA[Rocket Mortgage]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606109</guid>
+
+					<description><![CDATA[<p>Move comes as Rocket’s servicing book tops $2 trillion and 9.1 million loans</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606109</post-id>	</item>
+		<item>
+		<title>ARM reset wave set to crest in 2027, hit pockets of borrowers</title>
+		<link>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/</link>
+					<comments>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 18:01:56 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Adjustable-Rate Mortgage]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[ICE Mortgage Technology]]></category>
+		<category><![CDATA[Optimal Blue]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606092</guid>
+
+					<description><![CDATA[<p>ICE and Optimal Blue data point to a manageable wave of ARM adjustments</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606092</post-id>	</item>
+		<item>
+		<title>Will mortgage rates nearing 8% force lenders to make cuts or close their doors?</title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 17:48:33 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mat Ishbia]]></category>
+		<category><![CDATA[Mortgage Rates Center]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606069</guid>
+
+					<description><![CDATA[<p>HousingWire Data shows the 30-year conforming average at 7.63%, up 31 bps in two weeks, while FHA rates rose 59 bps</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606069</post-id>	</item>
+		<item>
+		<title>Cold call cost-per-deal benchmarks are leaving out most of the math</title>
+		<link>https://www.housingwire.com/articles/outbound-calling-cost-per-close/</link>
+					<comments>https://www.housingwire.com/articles/outbound-calling-cost-per-close/#respond</comments>
+		
+		<dc:creator><![CDATA[Robyn Thompson DeSantos]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 17:06:58 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=605826</guid>
+
+					<description><![CDATA[<p>Programs should be evaluated on cost per close, not just salary and dialer fees</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/outbound-calling-cost-per-close/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">605826</post-id>	</item>
 	</channel>
 </rss>
