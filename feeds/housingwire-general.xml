@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Tue, 06 Oct 2026 23:07:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Oct 2026 20:51:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,224 +28,229 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Vishal Garg lays out Better 2.0 plan during shareholder call</title>
-		<link>https://www.housingwire.com/articles/better-2-plan-shareholder/</link>
-					<comments>https://www.housingwire.com/articles/better-2-plan-shareholder/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 22:01:18 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Better]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Vishal Garg]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606179</guid>
-
-					<description><![CDATA[<p>Daniel Lewis was removed as interim CEO effective Oct. 5, per an SEC filing</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/better-2-plan-shareholder/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606179</post-id>	</item>
-		<item>
-		<title>Seniors aren&#8217;t keeping up with their credit card debt. Reverse mortgages can help</title>
-		<link>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/</link>
-					<comments>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/#respond</comments>
+		<title>Bank of America: Older Americans have taken on a bigger economic role</title>
+		<link>https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/</link>
+					<comments>https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/#respond</comments>
 		
 		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 21:29:46 +0000</pubDate>
+		<pubDate>Wed, 07 Oct 2026 20:51:25 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Debt]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
-		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[Bank of America]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606165</guid>
+		<category><![CDATA[Retirement]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606433</guid>
 
-					<description><![CDATA[<p>As credit card and HELOC balances grow, reverse mortgages and their voluntary payment structures should be considered</p>]]></description>
+					<description><![CDATA[<p>Households headed by someone 55 or older held close to $140 trillion in net worth as of Q2 2026</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606165</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606433</post-id>	</item>
 		<item>
-		<title>Timberline Homes buy will push Champion deeper into retail</title>
-		<link>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/</link>
-					<comments>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 21:08:14 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Manufactured Housing]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606129</guid>
-
-					<description><![CDATA[<p>The Timberline Homes acquisition, Champion Homes' third acquisition since 2025, signals a growing emphasis on direct-to-consumer sales</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/champion-homes-timberline-acquisition/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606129</post-id>	</item>
-		<item>
-		<title>CRMLS went on offense against Compass. Will other MLSs follow?</title>
-		<link>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/</link>
-					<comments>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 20:25:59 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[California Regional MLS]]></category>
-		<category><![CDATA[Compass]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606125</guid>
-
-					<description><![CDATA[<p>Industry leaders weigh in as CRMLS seeks to stop Compass from challenging MLS rules in court</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/crmls-sues-compass-cooperation/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606125</post-id>	</item>
-		<item>
-		<title>Upstate New York bucking national housing slowdown</title>
-		<link>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/</link>
-					<comments>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 20:18:24 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Home Prices]]></category>
-		<category><![CDATA[Housing Market Data]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606130</guid>
-
-					<description><![CDATA[<p>Planned tech development is expected to bring even more buyers to upper New York</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606130</post-id>	</item>
-		<item>
-		<title>UWM moves to dual-score model, auto-selects best result</title>
-		<link>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/</link>
-					<comments>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/#respond</comments>
+		<title>HUD opens probe into Wells Fargo’s race-based mortgage programs</title>
+		<link>https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/</link>
+					<comments>https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 19:31:51 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[credit scores]]></category>
-		<category><![CDATA[FICO]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[United Wholesale Mortgage]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606118</guid>
-
-					<description><![CDATA[<p>Lender will obtain both FICO and VantageScore on every credit pull </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/uwm-moves-to-dual-score-model/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606118</post-id>	</item>
-		<item>
-		<title>Rocket Mortgage names Nicole Beattie chief servicing officer</title>
-		<link>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/</link>
-					<comments>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 18:46:20 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[Rocket Mortgage]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606109</guid>
-
-					<description><![CDATA[<p>Move comes as Rocket’s servicing book tops $2 trillion and 9.1 million loans</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/rocket-mortgage-chief-servicing-officer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606109</post-id>	</item>
-		<item>
-		<title>ARM reset wave set to crest in 2027, hit pockets of borrowers</title>
-		<link>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/</link>
-					<comments>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 18:01:56 +0000</pubDate>
+		<pubDate>Wed, 07 Oct 2026 20:30:47 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Adjustable-Rate Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Black Homeownership]]></category>
+		<category><![CDATA[HUD]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[ICE Mortgage Technology]]></category>
-		<category><![CDATA[Optimal Blue]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606092</guid>
+		<category><![CDATA[Scott Turner]]></category>
+		<category><![CDATA[Wells Fargo]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606402</guid>
 
-					<description><![CDATA[<p>ICE and Optimal Blue data point to a manageable wave of ARM adjustments</p>]]></description>
+					<description><![CDATA[<p>HUD says bank initiatives may violate the Fair Housing Act
+
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/arm-resets-2027-limited-risk/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606092</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606402</post-id>	</item>
 		<item>
-		<title>Will mortgage rates nearing 8% force lenders to make cuts or close their doors?</title>
-		<link>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/#respond</comments>
+		<title>FICO to cut 15% of staff, reduce management layers</title>
+		<link>https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/</link>
+					<comments>https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 17:48:33 +0000</pubDate>
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 18:55:55 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[FICO]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mat Ishbia]]></category>
-		<category><![CDATA[Mortgage Rates Center]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606069</guid>
+		<category><![CDATA[Mortgage and Housing Layoffs]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606374</guid>
 
-					<description><![CDATA[<p>HousingWire Data shows the 30-year conforming average at 7.63%, up 31 bps in two weeks, while FHA rates rose 59 bps</p>]]></description>
+					<description><![CDATA[<p>The move comes as regulators and large lenders are embracing competing credit score models</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-lenders-pressure/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606069</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606374</post-id>	</item>
 		<item>
-		<title>Cold call cost-per-deal benchmarks are leaving out most of the math</title>
-		<link>https://www.housingwire.com/articles/outbound-calling-cost-per-close/</link>
-					<comments>https://www.housingwire.com/articles/outbound-calling-cost-per-close/#respond</comments>
+		<title>New $100 million Baltimore fund targets vacant housing pipeline</title>
+		<link>https://www.housingwire.com/articles/baltimore-vacant-housing-fund/</link>
+					<comments>https://www.housingwire.com/articles/baltimore-vacant-housing-fund/#respond</comments>
 		
-		<dc:creator><![CDATA[Robyn Thompson DeSantos]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 17:06:58 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 18:50:56 +0000</pubDate>
+				<category><![CDATA[Capital]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[City of Baltimore]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606312</guid>
+
+					<description><![CDATA[<p>The Greater Baltimore Committee and Enterprise will launch a Funders’ Consortium in November</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/baltimore-vacant-housing-fund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606312</post-id>	</item>
+		<item>
+		<title>Property tax delinquency reaches highest level since 2017</title>
+		<link>https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/</link>
+					<comments>https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 18:39:40 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Cotality]]></category>
+		<category><![CDATA[Homeownership]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Property Tax]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606360</guid>
+
+					<description><![CDATA[<p>North Dakota recorded the lowest rate at 1.4%, followed by Wisconsin (1.5%)</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606360</post-id>	</item>
+		<item>
+		<title>Hive MLS agents will soon be able to see buyer demand before a listing hits</title>
+		<link>https://www.housingwire.com/articles/gitcha-bls-hive-mls/</link>
+					<comments>https://www.housingwire.com/articles/gitcha-bls-hive-mls/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 18:23:05 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Homebuyers]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606355</guid>
+
+					<description><![CDATA[<p>Rollout starts in December for nearly 20,000 brokers and appraisers across 6 Southeastern states</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/gitcha-bls-hive-mls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606355</post-id>	</item>
+		<item>
+		<title>Your next buyer or seller may ask ChatGPT for an agent. Will your name come up?</title>
+		<link>https://www.housingwire.com/articles/your-next-client-may-ask-chatgpt-for-an-agent-will-your-name-come-up/</link>
+					<comments>https://www.housingwire.com/articles/your-next-client-may-ask-chatgpt-for-an-agent-will-your-name-come-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 18:20:05 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Lead Generation]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=605826</guid>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<category><![CDATA[Real Estate Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606339</guid>
 
-					<description><![CDATA[<p>Programs should be evaluated on cost per close, not just salary and dialer fees</p>]]></description>
+					<description><![CDATA[<p>An agent's own claims are only part of the information AI can use to evaluate that agent</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/outbound-calling-cost-per-close/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/your-next-client-may-ask-chatgpt-for-an-agent-will-your-name-come-up/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">605826</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606339</post-id>	</item>
+		<item>
+		<title>Civil rights groups warn private listings could widen housing inequities</title>
+		<link>https://www.housingwire.com/articles/private-listings-first-time-buyers-access/</link>
+					<comments>https://www.housingwire.com/articles/private-listings-first-time-buyers-access/#respond</comments>
+		
+		<dc:creator><![CDATA[Gary Acosta]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 16:14:21 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Fair Housing]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[National Association of Hispanic Real Estate Professionals]]></category>
+		<category><![CDATA[National Association of Real Estate Brokers]]></category>
+		<category><![CDATA[National Fair Housing Alliance]]></category>
+		<category><![CDATA[private listings]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606265</guid>
+
+					<description><![CDATA[<p>The groups cite demographic gaps between sellers and first-time buyers, warning that withheld MLS exposure can advantage older, wealthier networks</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/private-listings-first-time-buyers-access/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606265</post-id>	</item>
+		<item>
+		<title>HUD chooses NIBS as factory-built multifamily housing trailblazer</title>
+		<link>https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/</link>
+					<comments>https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 15:41:04 +0000</pubDate>
+				<category><![CDATA[Products]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Construction]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Multifamily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606282</guid>
+
+					<description><![CDATA[<p>NBIS and MOD X will draft a framework for manufactured housing in developments of five-plus units and team up on HUD demos</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/hud-nibs-factory-built-multifamily-housing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606282</post-id>	</item>
+		<item>
+		<title>Six reasons to change your plans now, and come join us in Dallas</title>
+		<link>https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/</link>
+					<comments>https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 15:29:05 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Residential Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606229</guid>
+
+					<description><![CDATA[<p>The 2.5-day Dallas agenda centers on execution, customer value, construction velocity, and leadership judgment</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/homebuilding-leadership-dallas-summit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606229</post-id>	</item>
 	</channel>
 </rss>
