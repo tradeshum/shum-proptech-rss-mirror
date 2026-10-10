@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Fri, 09 Oct 2026 01:57:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Oct 2026 21:25:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,233 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</title>
+		<link>https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 21:25:23 +0000</pubDate>
+				<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hitech i2i]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181661</guid>
+
+					<description><![CDATA[<p>Why do commercial real estate AI pilots fail? Explore how data quality, verification costs, domain models, and workflows determine success.</p>
+<p>The post <a href="https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/">Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The speed of AI adoption in commercial real estate has been remarkable by any measure. JLL&#8217;s 2025 Global Real Estate Technology Survey, which gathered responses from more than 1,000 senior CRE decision-makers across 16 markets, found that the share of teams piloting real estate AI jumped from under 5% to 92% in three years. Occupiers are running an average of five real estate AI pilots simultaneously across roughly 27 identified use cases. Technology budgets have been reorganized around AI initiatives, with the top five spending priorities all tied to implementing <a href="https://www.hitechi2i.com/real-estate-data-platforms/" target="_blank" rel="noreferrer noopener">AI in commercial real estate</a> or preparing for its impact.</p>
+
+
+
+<p class="wp-block-paragraph">The results have not kept pace with the enthusiasm. Only 5% of organizations report having achieved most of their program goals. The rest are still experimenting, still evaluating, or quietly shelving projects that never produced what the business case promised. The gap is rarely about whether AI can perform a task. It is about what happens after a pilot works, turning a promising proof of concept into a reliable, scalable, and economically viable production workflow. That gap is where the real failure patterns repeat, across companies, property types, and vendors.</p>
+
+
+
+<p class="wp-block-paragraph">Before any of that gets diagnosed, most teams skip a step, establishing a baseline. Without a clear read on current cost, turnaround time, accuracy, manual effort, and exception rates, it is hard to prove a pilot moved the needle, let alone build the case to scale it. That baseline should exist before the technology conversation starts, and it is the benchmark every failure pattern below gets measured against.</p>
+
+
+
+<h2 id="h-real-estate-data-quality-can-make-or-break-an-ai-pilot" class="wp-block-heading">Real Estate Data Quality Can Make or Break an AI Pilot</h2>
+
+
+
+<p class="wp-block-paragraph">The most frequent point of failure is not the model. It is what the model is reading.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;One of the biggest reasons that AI pilots fail is inaccurate data,&#8221; said Snehal Joshi, Head of Data Solutions at <a href="https://www.hitechi2i.com/" target="_blank" rel="noreferrer noopener">Hitech i2i</a>. &#8220;Many solutions are not able to produce the level of accuracy that they claim, when this happens there will always be disappointment.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">The JLL data supports that diagnosis. More than 60% of companies must address fundamental technology issues such as duplicated functionality or dormant systems before they can fully leverage AI, and 81% report at least three existing systems that are not generating expected results. Those conditions do not disappear when an AI tool is layered on top of them. They propagate.</p>
+
+
+
+<p class="wp-block-paragraph">A pilot designed to prove that AI can <a href="https://www.hitechi2i.com/ai-data-extraction/" target="_blank" rel="noreferrer noopener">extract data from property records</a> will produce output quality that reflects the source material. When the inputs are inconsistent, incomplete, or structured differently across jurisdictions, the accuracy falls below what was promised in the demo, and the project loses credibility with the stakeholders who approved it.</p>
+
+
+
+<h2 id="h-knowing-when-ai-is-wrong-matters-more-than-being-right" class="wp-block-heading">Knowing When AI Is Wrong Matters More Than Being Right</h2>
+
+
+
+<p class="wp-block-paragraph">Every AI system produces errors at some rate. That is documented, expected, and manageable. What determines whether a pilot survives is whether the system can identify which outputs are likely to be wrong.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Some models will tell you that a certain amount of its answers are inaccurate but for it to be useful it has to tell you when of the values are the ones you have to check,&#8221; Joshi said.</p>
+
+
+
+<p class="wp-block-paragraph">An aggregate accuracy rate is not actionable. A model reporting 94% accuracy across a batch of lease abstractions tells a reviewer nothing about which 6% require attention, which means either every output gets reviewed or none of them do. Neither option works. Reviewing everything eliminates the efficiency gain. Reviewing nothing exposes the organization to errors in financial models, title work, and compliance filings.</p>
+
+
+
+<h2 id="h-when-verification-costs-more-than-the-manual-process" class="wp-block-heading">When Verification Costs More Than the Manual Process</h2>
+
+
+
+<p class="wp-block-paragraph">The verification problem is where a surprising number of pilots die on economics rather than performance.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Some of the AI solutions don&#8217;t provide enough savings compared to the manual process and once you add in double-checking the model it might even cost more,&#8221; Joshi said.</p>
+
+
+
+<p class="wp-block-paragraph">This is the calculation that rarely appears in a pilot proposal. A tool that processes documents faster than a human still requires someone to confirm the results, and if that confirmation takes nearly as long as the original work, the net savings approach zero. Add the cost of the software itself and the implementation effort, and the pilot ends up demonstrating that the old process was cheaper.</p>
+
+
+
+<p class="wp-block-paragraph">Budget pressure makes this worse. JLL found that 65% of organizations have experienced CRE tech budget constraints over the past two years, and that ROI expectations have tightened, requiring more extensive business case development before approval. A pilot that cannot show clear savings does not get funded for a second phase.</p>
+
+
+
+<h2 id="h-confidence-scoring-turns-verification-into-an-exception-queue" class="wp-block-heading">Confidence Scoring Turns Verification Into an Exception Queue</h2>
+
+
+
+<p class="wp-block-paragraph">One practical way to solve the verification problem is field-level confidence scoring, paired with validation rules and cross-checks. Running multiple models against the same document set and flagging where they diverge is one input into that score, not the whole architecture.</p>
+
+
+
+<p class="wp-block-paragraph">When two independently trained systems produce the same value, confidence in that value is considerably higher than when either produces it alone. When they disagree, that disagreement becomes the review queue. Instead of examining everything, reviewers examine the specific fields where the models could not reach the same conclusion.</p>
+
+
+
+<p class="wp-block-paragraph">Over time, that process generates something more valuable than the individual corrections.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;You can also create a confidence score at the value level and then benchmark those scores,&#8221; Joshi said. &#8220;Over time you can start to not check data with a high enough score.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">The sample size accumulated through parallel processing allows an organization to calibrate its thresholds empirically rather than by guesswork. If values scoring above a certain level have proven accurate across thousands of documents, those values can pass through without review. The verification burden shrinks as the evidence base grows, which is what turns a pilot&#8217;s economics from marginal into compelling.</p>
+
+
+
+<h2 id="h-generic-models-do-not-understand-real-estate-documents" class="wp-block-heading">Generic Models Do Not Understand Real Estate Documents</h2>
+
+
+
+<p class="wp-block-paragraph">The choice of model also affects how often the verification problem arises in the first place.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Most of the models are generic, they are more likely they will hallucinate at some point,&#8221; Joshi said. &#8220;We have models specific for real estate documents to fine tune the model so it can really understand the nuances.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">Subdivision is a useful illustration. A <a href="https://www.hitechi2i.com/guide/usa-real-estate-property-record-types/" target="_blank" rel="noreferrer noopener">property record</a> may present what looks like a single property, and a generic model reading it will extract it as one. A model trained on real estate documents should recognize from context that the property has been divided into multiple parcels, each with its own legal description, its own tax identifier, and potentially its own ownership. Missing that distinction produces a record that is confidently wrong in a way that is difficult to catch downstream, because nothing about the extracted output signals that anything was missed.</p>
+
+
+
+<p class="wp-block-paragraph">Production systems need more than a capable model. They need domain context, real-estate-specific evaluation, validation rules, and training against actual edge cases like this one, built from the document types, terminology, and structural conventions real estate records actually use.</p>
+
+
+
+<h2 id="h-production-ai-requires-an-operating-model-not-just-software" class="wp-block-heading">Production AI Requires an Operating Model, Not Just Software</h2>
+
+
+
+<p class="wp-block-paragraph">The last failure pattern is organizational rather than technical. Companies treat an AI deployment as a product purchase when it functions more like an ongoing service relationship.</p>
+
+
+
+<p class="wp-block-paragraph">&#8220;Most solutions are only offering the tech but the service that goes along with the tech is so important,&#8221; Joshi said. &#8220;What most people want is an end-to-end solution, the tech and the human in the loop.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">The comparison to SaaS is instructive. Enterprise software purchases come with implementation support, configuration assistance, training, and ongoing account management, because the industry learned that shipping a login and walking away produces low adoption and high churn. AI deployments carry all of those requirements and add several more. Models need monitoring. Confidence thresholds need recalibration as document mixes change. Exception handling requires people who understand both the technology and the underlying real estate context.</p>
+
+
+
+<p class="wp-block-paragraph">JLL found that only 33% of the workforce feels adequately trained on AI, and that 70% of occupiers use multiple sourcing strategies including external partnerships to fill capability gaps. Organizations that buy the technology without the supporting service end up staffing those functions internally, usually without having budgeted for them.</p>
+
+
+
+<h2 id="h-what-the-successful-pilots-have-in-common" class="wp-block-heading">What the Successful Pilots Have in Common</h2>
+
+
+
+<p class="wp-block-paragraph">The 5% that reach their goals are not working with fundamentally better models. They are working with better preparation.</p>
+
+
+
+<p class="wp-block-paragraph">They have cleaned and structured the data before the pilot begins rather than expecting the AI to compensate for what is missing. They have built verification into the workflow through confidence scoring rather than bolting it on afterward. They have selected models suited to the documents they actually process. And they have treated the vendor relationship as ongoing rather than transactional, with support that extends past implementation into operation.</p>
+
+
+
+<p class="wp-block-paragraph">Before scaling a real estate AI pilot, leaders should be able to answer five questions. Can we measure the baseline? Can we trust the output? Can we identify exceptions efficiently? Does the economics still work after human review? Can the solution operate reliably within the production workflow?</p>
+
+
+
+<p class="wp-block-paragraph">None of that is glamorous, and none of it appears in a product demonstration. It is the difference between a pilot that produces a presentation and one that produces a process the organization keeps using after the pilot period ends. The expectations the real estate industry has placed on AI are not unreasonable. Meeting them mostly depends on work that happens before the technology ever gets switched on.</p>
+<p>The post <a href="https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/">Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/data-ai-pilots.jpg" />	</item>
+		<item>
+		<title>Dear CRE Brokers, Stop Making Bad Software Work</title>
+		<link>https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/</link>
+		
+		<dc:creator><![CDATA[Aaron Aziz]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 02:08:54 +0000</pubDate>
+				<category><![CDATA[Perspectives]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[Data Architecture]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181697</guid>
+
+					<description><![CDATA[<p>Commercial real estate brokers often force ill-fitting CRM software to work. Learn how to audit workflows and choose tools built for complex CRE deals.</p>
+<p>The post <a href="https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/">Dear CRE Brokers, Stop Making Bad Software Work</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The best brokers I know all have the same strange habit: they can make bad software work. Give a top producer a CRM built for residential agents, or a platform built for landlords, and they&#8217;ll bend it, patch it, and run their whole business through it without complaining. It looks like a strength. It&#8217;s the reason our industry keeps buying tools that were never built for us. The problem never gets fixed, because the best of us are too good at dealing with whatever gets put in front of us.</p>
+
+
+
+<p class="wp-block-paragraph">Here&#8217;s the simple fact that habit hides: almost every tool a commercial broker uses was designed for someone whose job isn&#8217;t ours. The CRMs most of us start with were built for residential agents or sales teams. They assume a deal is fast, has one counterparty, and moves in a straight line to a close. The CRE tools built on top of them mostly just bolt real estate features onto that same logic. None of it was built around what we actually do: a months-long negotiation between four parties over free rent, TI, escalations, and options. That&#8217;s not a discipline problem. It&#8217;s a design problem. And after more than a decade leasing space in New York, I&#8217;ve learned you must break the habit on purpose. Here&#8217;s what I have found to work.</p>
+
+
+
+<p class="wp-block-paragraph">Start by figuring out where your deals actually live. Before you look at any new tool, spend one honest week paying attention. Every time you need something about an active deal, write down where you found it. The CRM? A spreadsheet? An email thread? A text? Your own head? Most brokers who do this find the same thing. The system they pay for holds names and addresses. Everything that decides whether a deal closes — whose turn it is, what the landlord will really take, why the tenant rep went quiet — lives somewhere else. That list is what you&#8217;re shopping for. Not features. A home for the stuff currently living in your head.</p>
+
+
+
+<p class="wp-block-paragraph">Next, look hard at your workarounds. Every spreadsheet you keep next to your CRM is proof the CRM failed you. Write them down. The commission tracker you keep separately. The deal-status column your software has no field for. The follow-up reminders you run through your calendar because the CRM&#8217;s reminders don&#8217;t match how deals stop and start. Once you can name your workarounds, you can walk into a demo with a real test instead of nodding along at a feature tour.</p>
+
+
+
+<p class="wp-block-paragraph">At the demo, ask one question before anything else: who were your first hundred customers? Feature lists all sound the same on a sales call. Where the product came from does not. If the honest answer is residential teams, or software sales departments, or big landlords, now you know whose business the product was really built for. And to be fair, there&#8217;s serious software in this industry. Some of it organized a huge part of commercial real estate over a decade ago, and it&#8217;s good at what it does. But a lot of the best CRE tech was built for the owner and the asset manager looking down at a portfolio. In those systems, the broker isn&#8217;t the customer. The broker is a data source, filling in a report someone else reads. That&#8217;s not a knock. It&#8217;s a fit question. And the vendor&#8217;s origin story answers it faster than their feature list ever will.</p>
+
+
+
+<p class="wp-block-paragraph">Then put the demo through a real stress test. Every vendor shows you the happy path. Lead comes in, stages move, deal closes. That&#8217;s not our business. Our deals stall, restart, and break in ways no pipeline was drawn for. They sit in attorney review for weeks. They go quiet and come back to life. They fall apart at the finish line over a clause nobody saw coming. Pick one of yours that did, and ask the salesperson to walk you through exactly how their system would have tracked it, step by step. Watch how fast the demo slows down. If the salesperson has to improvise, the software will make you improvise too, every single day.</p>
+
+
+
+<p class="wp-block-paragraph">Last, look at what this habit costs the whole firm, not just your desk. I&#8217;ve watched good agents lose deals for reasons that had nothing to do with skill. They lost track of whose turn it was. A strong lead emailed in and never got entered, because something &#8220;more important&#8221; hit at the same moment. I&#8217;ve seen brokers who couldn&#8217;t capture big parts of their own deals because the software had nowhere to put them. None of those deals died over price or terms. They died over tracking. Now multiply that across a whole shop. Every agent keeping private spreadsheets. Deal data scattered across files nobody else can see. The firm can&#8217;t even look at its own pipeline. In a business where a great year and a flat year come down to a handful of deals, &#8220;good enough&#8221; software quietly takes a cut of every one. If you run a team, do the one-week audit together. The patterns across five agents&#8217; workarounds are your firm&#8217;s real requirements, written by the people living in the tools every day.</p>
+
+
+
+<p class="wp-block-paragraph">I finally got tired enough of bending borrowed tools that I partnered with a developer and built one around how the business actually flows called Leasync. It may not be the right fit for every broker, but it exists because I couldn&#8217;t find a platform built just for brokers, and I knew one needed to exist.</p>
+
+
+
+<p class="wp-block-paragraph">So next time someone demos a platform for you, don&#8217;t ask whether you can make it work. You&#8217;re a broker. You can make anything work. That&#8217;s the trap. &#8220;I made it work&#8221; is how you end up a year deep in software that was never built for you. Figure out where your deals actually live. Turn your workarounds into a shopping list. Ask who it was built for. Put it through a real stress test. Then decide. The habit that makes you great at closing is the same one that keeps you loyal to tools that fight you. Breaking it starts with refusing to be impressed by how well you can cope.</p>
+<p>The post <a href="https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/">Dear CRE Brokers, Stop Making Bad Software Work</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/broker-software.jpg" />	</item>
+		<item>
 		<title>Federal Probe Challenges Race-Based Mortgage Programs at Major Lender</title>
 		<link>https://propmodo.com/federal-probe-challenges-race-based-mortgage-programs-at-major-lender/</link>
 		
@@ -52,7 +279,7 @@
 <p class="wp-block-paragraph">The investigation reflects a broader shift in how the administration views programs launched or expanded after 2020, when companies responded to social unrest and investor pressure. IBM and Deloitte paid multimillion-dollar fines last year to settle claims they defrauded the government by considering diversity in hiring and promotion decisions. Black homeownership stood at 46 percent in 2024, compared with 73 percent for white households, according to Pew Research Center.</p>
 
 
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Wells Fargo</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership</a></div></div>
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership</a></div></div>
 <p>The post <a href="https://propmodo.com/federal-probe-challenges-race-based-mortgage-programs-at-major-lender/">Federal Probe Challenges Race-Based Mortgage Programs at Major Lender</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></content:encoded>
 					
@@ -105,7 +332,7 @@
 					<description><![CDATA[<p>Michael Dell’s firm is entering senior housing</p>
 <p>The post <a href="https://propmodo.com/luxury-senior-housing-is-attracting-capital-that-used-to-buy-hotels/">Luxury Senior Housing Is Attracting Capital That Used to Buy Hotels</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1791411973>1 day 4 hr ago</strong><span class="live-fdate">Oct. 7, 2026 3:26 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1791411973>2 days 23 hr ago</strong><span class="live-fdate">Oct. 7, 2026 3:26 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
 
 <h2 id="h-" class="wp-block-heading"></h2>
 
@@ -400,71 +627,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/136-Shawmut-Avenue-New-Boston-Ventures-Finegold-Alexander-Architects.jpg" />	</item>
-		<item>
-		<title>Real Estate Brokerages Fail to Capture Two-Thirds of Inbound Leads</title>
-		<link>https://propmodo.com/real-estate-brokerages-fail-to-capture-two-thirds-of-inbound-leads/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 23:14:42 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181659</guid>
-
-					<description><![CDATA[<p>Pied Piper study shows real estate brokerages respond to only one-third of phone inquiries and 32% of web leads within 24 hours.</p>
-<p>The post <a href="https://propmodo.com/real-estate-brokerages-fail-to-capture-two-thirds-of-inbound-leads/">Real Estate Brokerages Fail to Capture Two-Thirds of Inbound Leads</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">A Pied Piper study of 2,198 consumer inquiries across 21 major real estate brands found that only 33% of callers reached an agent during their initial phone call, and 73% received no follow-up within 24 hours. Web inquiries fared worse: 68% went unanswered within a day, and only 18% resulted in contact from an agent. The study, conducted in June and July, assigned Lead Handling Effectiveness scores from 0 to 100 based on speed and quality of response.</p>
-
-
-
-<p class="wp-block-paragraph">Howard Hanna Real Estate Services ranked first overall with a score of 30, followed by Realty Executives, EXIT Realty, Sotheby&#8217;s International Realty, Douglas Elliman and Realty One Group in connecting callers with representatives. Compass, United Real Estate and Keller Williams connected consumers within 30 seconds less than 40% of the time. For web inquiries, the industry-wide average score was just 11 out of 100, with REMAX, Realty One and Howard Hanna responding over 60% of the time within 24 hours. Engel &amp; Völkers, Realty Executives, Sotheby&#8217;s and Long &amp; Foster responded to fewer than 10% of web inquiries.</p>
-
-
-
-<p class="wp-block-paragraph">Pied Piper researchers found that consumers who failed to reach an agent on their first call were often given a direct number but left to pursue follow-up themselves. Vice President Cameron O&#8217;Hagan said delayed responses give customers time to connect with competing agents before the original firm recognizes the missed opportunity. In an industry where lead generation drives revenue, brokerages appear to be losing potential transactions at the first point of contact.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.realestatenews.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Real Estate News</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.realestatenews.com/2026/10/06/brokerages-drop-the-ball-on-most-consumer-phone-web-inquiries" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Brokerages Drop the Ball on Most Consumer Phone, Web Inquiries</a></div></div>
-<p>The post <a href="https://propmodo.com/real-estate-brokerages-fail-to-capture-two-thirds-of-inbound-leads/">Real Estate Brokerages Fail to Capture Two-Thirds of Inbound Leads</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-brokerage-listings.jpg" />	</item>
-		<item>
-		<title>Treasury Secretary&#8217;s Missed Economic Calls Test Bond Market Confidence</title>
-		<link>https://propmodo.com/treasury-secretarys-missed-economic-calls-test-bond-market-confidence/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Tue, 06 Oct 2026 15:47:28 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181655</guid>
-
-					<description><![CDATA[<p>Treasury Secretary Scott Bessent's public economic forecasts on housing, gas prices, and bond yields have largely missed, testing his credibility with investors.</p>
-<p>The post <a href="https://propmodo.com/treasury-secretarys-missed-economic-calls-test-bond-market-confidence/">Treasury Secretary&#8217;s Missed Economic Calls Test Bond Market Confidence</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Treasury Secretary Scott Bessent has built a pattern of public economic forecasts that have largely failed to materialize. His February 2025 prediction of a housing market &#8220;unfreeze&#8221; proved wrong as existing home sales in August hit their slowest pace in over a year and residential construction fell to pandemic lows. His April forecast of $3 gasoline by late summer missed as war in Iran pushed prices above $4.50 per gallon. Inflation remains well above the Federal Reserve&#8217;s 2% target despite his projections of a quick return to that level.</p>
-
-
-
-<p class="wp-block-paragraph">Bessent&#8217;s July intervention in currency markets to support the yen lasted barely a week before effects dissipated. His attempts to cap yields on long-dated Treasuries through jawboning and expanded buybacks also fell short, with 30-year yields climbing to 5.63% by late September, their highest level since 2002. Traders remain focused on fundamentals rather than the Treasury chief&#8217;s commentary, watching both the Iran conflict and U.S. public debt, which breached $40 trillion in August. At a September congressional hearing, Bessent defended the bond market intervention as successful, but economists widely dismissed his claim that the country could grow its way out of debt problems.</p>
-
-
-
-<p class="wp-block-paragraph">Douglas Holtz-Eakin of the American Action Forum said the errant forecasts have damaged Bessent&#8217;s credibility, noting that predecessors avoided such explicit predictions to prevent boxing themselves in. Wall Street initially viewed Bessent favorably after he persuaded Trump to roll back Liberation Day tariffs in April 2025, restoring $trillions in market value within a week. But Matthew Aks, formerly of Treasury under Biden and now at Evercore ISI, said recent interventions and ambiguity around goals have created challenges for that impression.</p>
-
-
-
-<p class="wp-block-paragraph">Bessent retains Trump&#8217;s trust and manages the U.S.-China economic relationship, and some calls have proven accurate, including his prediction that AI-driven data center construction would boost growth. But his path forward grows more difficult with Democrats expected to gain ground in November midterms. Next year&#8217;s debt ceiling negotiations will test whether he can broker compromise with a potentially Democratic Congress while reassuring global bondholders that the U.S. is committed to fiscal discipline, all while the deficit runs near 6% of GDP and Trump promises $5,000 checks to every adult American.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-10-05/scott-bessent-s-economic-forecasts-are-testing-his-credibility" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Scott Bessent’s Rosy Forecasts Are Putting His Credibility at Risk</a></div></div>
-<p>The post <a href="https://propmodo.com/treasury-secretarys-missed-economic-calls-test-bond-market-confidence/">Treasury Secretary&#8217;s Missed Economic Calls Test Bond Market Confidence</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-markets-economy.jpg" />	</item>
 	</channel>
 </rss>
