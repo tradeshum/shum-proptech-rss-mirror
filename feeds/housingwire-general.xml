@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 09 Oct 2026 20:53:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Oct 2026 21:58:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Have mortgage rates peaked, or will we see even more chaos?</title>
+		<link>https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/</link>
+					<comments>https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2026 21:58:43 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606881</guid>
+
+					<description><![CDATA[<p>The month of October still has plenty of variables that can be a problem for rates </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606881</post-id>	</item>
+		<item>
 		<title>Ashton Woods leans into discipline as orders and margins slide</title>
 		<link>https://www.housingwire.com/articles/ashton-woods-q1-2027-earnings/</link>
 					<comments>https://www.housingwire.com/articles/ashton-woods-q1-2027-earnings/#respond</comments>
@@ -225,27 +246,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">606691</post-id>	</item>
-		<item>
-		<title>Trump forms panel to investigate Fed&#8217;s Lisa Cook over mortgage fraud claims</title>
-		<link>https://www.housingwire.com/articles/trump-panel-investigate-lisa-cook/</link>
-					<comments>https://www.housingwire.com/articles/trump-panel-investigate-lisa-cook/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 16:20:14 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Fraud]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606758</guid>
-
-					<description><![CDATA[<p>The panel will hold a Nov. 5 hearing and could recommend her removal “for cause"</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/trump-panel-investigate-lisa-cook/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606758</post-id>	</item>
 	</channel>
 </rss>
