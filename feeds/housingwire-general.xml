@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 10 Oct 2026 21:58:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Oct 2026 23:22:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,52 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>MBA forecast: Mortgage volume to dip below $2T in 2027 as 7% rates linger</title>
+		<link>https://www.housingwire.com/articles/mba-originations-forecast-2027-rates/</link>
+					<comments>https://www.housingwire.com/articles/mba-originations-forecast-2027-rates/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 23:22:04 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Marina Walsh]]></category>
+		<category><![CDATA[Mike Fratantoni]]></category>
+		<category><![CDATA[Mortgage Bankers Association]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606910</guid>
+
+					<description><![CDATA[<p>Trade group projected higher-for-longer borrowing costs, wider spreads and potential Fed hikes ahead </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mba-originations-forecast-2027-rates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606910</post-id>	</item>
+		<item>
+		<title>HHHunt names CFO Ann Kelly as next CEO in 2027 C-suite reset</title>
+		<link>https://www.housingwire.com/articles/hhhunt-ann-kelly-new-ceo-2027/</link>
+					<comments>https://www.housingwire.com/articles/hhhunt-ann-kelly-new-ceo-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 14:16:37 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[New Home Sales]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606894</guid>
+
+					<description><![CDATA[<p>Buck Hunt to remain chairman and lead new venture, as executive shuffle elevates Steve Brant to CFO</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/hhhunt-ann-kelly-new-ceo-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606894</post-id>	</item>
+		<item>
 		<title>Have mortgage rates peaked, or will we see even more chaos?</title>
 		<link>https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/</link>
 					<comments>https://www.housingwire.com/articles/have-mortgage-rates-peaked-or-will-we-see-even-more-chaos/#respond</comments>
@@ -203,48 +249,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">606775</post-id>	</item>
-		<item>
-		<title>Stop saying recapture</title>
-		<link>https://www.housingwire.com/articles/recapture-rates-losing-borrowers/</link>
-					<comments>https://www.housingwire.com/articles/recapture-rates-losing-borrowers/#respond</comments>
-		
-		<dc:creator><![CDATA[Murrey McKee]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 17:28:00 +0000</pubDate>
-				<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Servicing]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606770</guid>
-
-					<description><![CDATA[<p>Lenders keep chasing customers they never gave a reason to stay</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/recapture-rates-losing-borrowers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606770</post-id>	</item>
-		<item>
-		<title>A new NYC policy rebalances zoning powers in 12 city districts</title>
-		<link>https://www.housingwire.com/articles/nyc-fast-track-rezonings/</link>
-					<comments>https://www.housingwire.com/articles/nyc-fast-track-rezonings/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 17:22:38 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York City]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606691</guid>
-
-					<description><![CDATA[<p>Starting Jan. 1, qualifying affordable housing rezonings can follow a 90-day Planning Commission review without a Council vote</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/nyc-fast-track-rezonings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606691</post-id>	</item>
 	</channel>
 </rss>
