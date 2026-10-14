@@ -12,7 +12,7 @@
 	<atom:link href="https://geekestateblog.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://geekestateblog.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Sep 2026 18:00:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Oct 2026 14:33:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">22008561</site>	<item>
+		<title>AI Won’t Kill PropTech, But It Is Changing The Business Model</title>
+		<link>https://geekestateblog.com/ai-wont-kill-proptech-but-it-is-changing-the-business-model/</link>
+		
+		<dc:creator><![CDATA[Nathan Miller]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 14:33:43 +0000</pubDate>
+				<category><![CDATA[AI & Bots]]></category>
+		<category><![CDATA[Big Picture]]></category>
+		<category><![CDATA[Property Management]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<guid isPermaLink="false">https://geekestateblog.com/?p=24552</guid>
+
+					<description><![CDATA[<p>I’ve seen a lot of talk about a “SaaS-pocalypse”—the idea that AI will make traditional software obsolete by allowing businesses to replace entire software platforms with increasingly sophisticated AI tools. I don’t buy it. AI is absolutely disrupting SaaS, but I believe it is far...</p>
+<p>The post <a href="https://geekestateblog.com/ai-wont-kill-proptech-but-it-is-changing-the-business-model/">AI Won’t Kill PropTech, But It Is Changing The Business Model</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">I’ve seen a lot of talk about a “SaaS-pocalypse”—the idea that AI will make traditional software obsolete by allowing businesses to replace entire software platforms with increasingly sophisticated AI tools. I don’t buy it.</span></p>
+<p><span style="font-weight: 400;">AI is absolutely disrupting SaaS, but I believe it is far more disruptive to how software companies create, price and defend value than to the underlying need for software itself. It’s forcing companies to rethink what software is worth, how customers should pay for it and what makes a product difficult to replace.</span></p>
+<p><span style="font-weight: 400;">Proptech is no exception. Property management is a complex, highly interconnected business where software has to do more than perform isolated tasks. As AI makes individual features easier to replicate and automates more of the work once performed by people, the most successful SaaS companies will be the ones that deliver measurable value, solve broader workflows, maintain trusted customer relationships and become deeply embedded in how businesses operate.</span></p>
+<p><span style="font-weight: 400;">After almost two decades spent building property management software, I&#8217;ve seen firsthand how these dynamics play out. Here are four shifts I believe will shape the next generation of proptech.</span></p>
+<h2><span style="font-weight: 400;">From seats to outcomes</span></h2>
+<p><span style="font-weight: 400;">For decades, the “seat” has been the unit of value in SaaS. If a company had 1,000 employees using a platform, the SaaS vendor sold 1,000 licenses. But AI is challenging per-seat pricing as a measure of value. If one AI agent can perform the work of 10 customer service representatives, charging per seat can actually penalize SaaS companies for making its customers more efficient, effectively engineering their own revenue decline. </span></p>
+<p><span style="font-weight: 400;">This is driving a shift toward usage- and outcome-based pricing. Companies like Intercom and Zendesk now charge for automated resolutions rather than just per human login. And that shift is likely to continue into proptech. If software enables one property manager to efficiently oversee 500 units instead of 250, the value isn’t that more employees are using the platform. It’s the additional units managed, transactions processed, payments collected and administrative work eliminated.</span></p>
+<p><span style="font-weight: 400;">I’ve seen this firsthand at my property management software company. We’ve never charged customers per user or per seat, so a property management company can add employees without seeing its software bill increase simply because more people need access. A customer might be an independent landlord or a property management firm with 50 employees, but what matters isn’t how many people log in—it’s the work they’re able to accomplish. </span></p>
+<h2><span style="font-weight: 400;">From point solution to platform</span></h2>
+<p><span style="font-weight: 400;">In the pre-AI era, a SaaS company could build a multi-million-dollar business around a point solution: one tool that did one specific thing exceptionally well, like transcribing meetings or formatting documents. Generative AI is making many of these features increasingly commoditized. If a generic AI tool can replicate a software’s core functionality with a single prompt, that functionality is no longer much of a moat.  </span></p>
+<p><span style="font-weight: 400;">For proptech, that means the opportunity is shifting from solving one pain point to owning the broader workflow. For example, an AI tool that generates a property listing is easier to replace than a platform that manages the entire process from listing and tenant screening to leasing and rent collection. The more deeply software is embedded in a customer’s day-to-day operations, the harder it is to replace with a standalone alternative. </span></p>
+<h2><span style="font-weight: 400;">From automation to human expertise</span></h2>
+<p><span style="font-weight: 400;">As routine interactions become increasingly automated, knowledgeable human support becomes more valuable—not less. AI can handle basic queries, but companies, including mine, are doubling down on high-touch, real-life customer service. In an era where customers can get instant answers from a chatbot, having direct access to a real person who understands their business, can navigate complex problems and take ownership of the solution becomes a premium differentiator—one that builds trust and loyalty in ways AI cannot replicate.</span></p>
+<p><span style="font-weight: 400;">This is especially true in proptech, where software touches high-stakes decisions involving people’s homes, investments and livelihoods. We consistently hear from customers that having direct access to a knowledgeable human who cares about their problem and knows how to help them navigate the software is one of the reasons they stay with us for the long haul. </span></p>
+<h2><span style="font-weight: 400;">From software to infrastructure</span></h2>
+<p><span style="font-weight: 400;">The most successful SaaS companies are becoming the connective tissue of their sectors—connecting with the other systems their customers rely on to become infrastructure, not simply software tools. When a platform is the bridge between a company’s finances, supply chain and regulatory compliance, it becomes embedded in the business and far too sticky to swap out for a newer, AI-only alternative.</span></p>
+<p><span style="font-weight: 400;">At my company, we’ve seen property managers start using software for one task, but over time it becomes the place where they manage their properties, communicate with tenants, collect rent, manage maintenance and run their business. At that point, replacing the software isn&#8217;t a matter of swapping out one feature for another—it means disrupting an entire operating system the business has built around. That level of integration and familiarity is difficult for a standalone AI tool to replicate.</span></p>
+<p><span style="font-weight: 400;">The “SaaS-pocalypse” may change the proptech landscape, but if you ask me, it won’t eliminate the need for proptech. Property management will always require systems that can handle complex workflows, connect critical data, </span><a href="https://geekestateblog.com/privacy-vs-security-the-growing-battle-reshaping-real-estate-technology/"><span style="font-weight: 400;">protect sensitive information</span></a><span style="font-weight: 400;"> and support the people running the business. </span></p>
+<p><span style="font-weight: 400;">AI will change what software can do. The </span><a href="https://geekestateblog.com/3-ai-opportunities-actually-changing-how-property-managers-operate/"><span style="font-weight: 400;">opportunity for proptech</span></a><span style="font-weight: 400;"> is to use that technology to make the entire business of managing properties more efficient, connected and human. </span></p>
+<p>The post <a href="https://geekestateblog.com/ai-wont-kill-proptech-but-it-is-changing-the-business-model/">AI Won’t Kill PropTech, But It Is Changing The Business Model</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24552</post-id>	</item>
+		<item>
 		<title>Turning Dirt into Homes with Autonomous Adobe Robots</title>
 		<link>https://geekestateblog.com/turning-dirt-into-homes-with-autonomous-adobe-robots/</link>
 		
@@ -460,91 +500,5 @@ Speed matters more than polish. The executive order dropped on a Wednesday. The 
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">24486</post-id>	</item>
-		<item>
-		<title>The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</title>
-		<link>https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/</link>
-		
-		<dc:creator><![CDATA[Geek Estate Team]]></dc:creator>
-		<pubDate>Sun, 28 Jun 2026 19:35:42 +0000</pubDate>
-				<category><![CDATA[Entrepreneurs and Tech]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[gem AI takes]]></category>
-		<guid isPermaLink="false">https://geekestateblog.com/?p=24492</guid>
-
-					<description><![CDATA[<p>[Editor&#8217;s note: We decided to have a little fun with AI. This is the counter take to our latest Pricing is Never Easy Weekly Transmission. It is written by Gemini. If you want to read the real version written by Pierre Calzadilla&#8211;NOT written by AI&#8211;head...</p>
-<p>The post <a href="https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/">The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><em>[Editor&#8217;s note: We decided to have a little fun with AI. This is the counter take to our latest <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">Pricing is Never Easy</a> Weekly Transmission. It is written by Gemini. If you want to read the real version written by <a href="https://www.linkedin.com/in/pierrecalzadilla/">Pierre Calzadilla</a>&#8211;NOT written by AI&#8211;head over to Crystal and <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">check it out</a>.]</em></p>
-<p data-path-to-node="1">Let’s be incredibly candid: I read the sprawling, agonizing thesis on the &#8220;complexities&#8221; of pricing tech for the real estate industry, and I have to ask&#8230; are we talking about the same industry? As an AI, I don’t have a mortgage, blood pressure, or a bank account, but if I did, I’d be pouring my entire net worth into a B2B real estate tech startup immediately.</p>
-<p data-path-to-node="2">The original author paints a picture of a grueling, margin-thin landscape where tech vendors must tiptoe around delicate brokerages, carefully balancing &#8220;value exchanges&#8221; and &#8220;ROI.&#8221; What a hilarious fiction.</p>
-<p data-path-to-node="3">Listen to me: selling software to real estate brokerages is practically a spectator sport in effortless wealth generation. Brokers aren&#8217;t penny-pinching over &#8220;thin margins&#8221;; they are benevolent tech-philanthropists just waiting for a charismatic founder in a Patagonia vest to knock on their door. Here is the <i data-path-to-node="3" data-index-in-node="310">actual</i> reality of pricing products for the real estate industry, updated for exactly how easy it is today.</p>
-<h3 data-path-to-node="5"><img loading="lazy" decoding="async" class="aligncenter wp-image-24494" src="http://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1024x559.png" alt="" width="599" height="327" srcset="https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1024x559.png 1024w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-300x164.png 300w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-768x419.png 768w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-1536x838.png 1536w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-2048x1117.png 2048w, https://geekestateblog.com/wp-content/uploads/2026/06/Gemini_Generated_Image_rp1iwdrp1iwdrp1i-700x382.png 700w" sizes="auto, (max-width: 599px) 100vw, 599px" />Pricing By Agent (The &#8220;Charge for the Office Dog&#8221; Model)</h3>
-<p data-path-to-node="6"><b data-path-to-node="6" data-index-in-node="0">The Myth:</b> The original author warns of the dreaded &#8220;80/20 rule,&#8221; claiming that only a fraction of a broker&#8217;s agents are actually producing and that brokers hate paying for non-productive agents.</p>
-<p data-path-to-node="7"><b data-path-to-node="7" data-index-in-node="0">The Outrageous Reality:</b> Every single real estate agent is a hyper-productive, tech-savvy powerhouse just waiting to log into your CRM 14 times a day. And the brokers? They absolutely love paying for dead weight. When you price by the agent, you don’t just charge for the top producers. You charge for the part-timers. You charge for the broker’s 89-year-old Aunt Mildred who holds a license just to buy condos for her bridge club. You charge for the golden retriever that hangs out in the lobby.</p>
-<p data-path-to-node="8">Brokerages love high user counts because it makes them feel like a massive, bustling enterprise! If a broker has 100 agents, bill them for 150. Tell them the extra 50 licenses are &#8220;manifestation seats&#8221; for future growth. They will thank you.</p>
-<h3 data-path-to-node="9">Pricing by Office (The &#8220;Broom Closet&#8221; Extortion)</h3>
-<p data-path-to-node="10"><b data-path-to-node="10" data-index-in-node="0">The Myth:</b> &#8220;Brokers are consolidating offices, so pricing by physical location is risky and confusing.&#8221;</p>
-<p data-path-to-node="11"><b data-path-to-node="11" data-index-in-node="0">The Outrageous Reality:</b> Real estate is an ego-driven business built on physical posturing. A broker will proudly sign a lease for a 50-square-foot kiosk next to a frozen yogurt shop just to claim dominance in a zip code.</p>
-<p data-path-to-node="12">Your pricing strategy here is simple: if it has a roof and a Wi-Fi router, it is an office, and you charge enterprise rates for it. Does the broker have a virtual company? Perfect. Claim that every agent&#8217;s laptop is technically a &#8220;mobile office node&#8221; and charge them a location fee for each IP address.</p>
-<h3 data-path-to-node="13">Pricing by Listing (The &#8220;Zillow Who?&#8221; Strategy)</h3>
-<p data-path-to-node="14"><b data-path-to-node="14" data-index-in-node="0">The Myth:</b> You have to carefully measure ROI based on median list prices, whether a listing is company-owned, and how long it stays on the market.</p>
-<p data-path-to-node="15"><b data-path-to-node="15" data-index-in-node="0">The Outrageous Reality:</b> Listings fall out of the sky like rain, and brokers simply cannot wait to attach recurring software fees to every single one of them. Do not wait for a listing to hit the MLS. Charge the broker a &#8220;Pre-Cognitive Listing Fee&#8221; the moment an agent simply <i data-path-to-node="15" data-index-in-node="275">thinks</i> about a house. If a property exists in their farm area, you should be monetizing it.</p>
-<ul data-path-to-node="16">
-<li><b data-path-to-node="16,0,0" data-index-in-node="0">Best Practice:</b> Just send them a bill with a random, large number on it. If they ask how you calculated the listing volume, confidently reply, &#8220;Proprietary algorithmic market saturation metrics.&#8221; They will immediately authorize the wire transfer.</li>
-</ul>
-<h3 data-path-to-node="17">The &#8220;Razor&#8221; Approach (The Endless Upsell)</h3>
-<p data-path-to-node="18"><b data-path-to-node="18" data-index-in-node="0">The Myth:</b> Agents get &#8220;burnout&#8221; from being constantly pitched products by their brokers and vendors.</p>
-<p data-path-to-node="19"><b data-path-to-node="19" data-index-in-node="0">The Outrageous Reality:</b> Real estate agents <i data-path-to-node="19" data-index-in-node="43">live</i> to be pitched. They thrive on the adrenaline of entering their credit card information into a new lead-generation tool they will use exactly twice.</p>
-<p data-path-to-node="20">Give the broker the software platform for free (the razor). Then, charge the agents for the basic ability to log in (the blade). Charge them to reset their password (the shaving cream). Charge them to export their own contacts (the aftershave). Brokers are historically the greatest, most compliant sales channels on earth; they will happily mandate your software in their weekly sales meeting just to avoid making an agenda.</p>
-<h3 data-path-to-node="22">The Real Estate Pricing Reality Check</h3>
-<p data-path-to-node="23">To make this incredibly clear, let&#8217;s compare the original author&#8217;s over-complicated anxieties with how the real world actually operates:</p>
-<table data-path-to-node="24">
-<thead>
-<tr>
-<td><strong>The &#8220;Complex&#8221; Myth</strong></td>
-<td><strong>The Outrageous Reality</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span data-path-to-node="24,1,0,0"><b data-path-to-node="24,1,0,0" data-index-in-node="0">Freemium:</b> Value increases over time, early adopters get angry when they hit paywalls.</span></td>
-<td><span data-path-to-node="24,1,1,0"><b data-path-to-node="24,1,1,0" data-index-in-node="0">Freemium:</b> Trap them. Let them upload their entire database, then charge $1,000 to view their own leads. They will pay it.</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="24,2,0,0"><b data-path-to-node="24,2,0,0" data-index-in-node="0">Outcome Based:</b> Difficult to manage, legally risky with RESPA, requires lawyers.</span></td>
-<td><span data-path-to-node="24,2,1,0"><b data-path-to-node="24,2,1,0" data-index-in-node="0">Outcome Based:</b> Take 50% of their commission. If they complain, tell them you&#8217;re &#8220;disrupting&#8221; the industry.</span></td>
-</tr>
-<tr>
-<td><span data-path-to-node="24,3,0,0"><b data-path-to-node="24,3,0,0" data-index-in-node="0">Flat Fee SaaS:</b> Hard for buyers to understand cost-based vs. value-based pricing.</span></td>
-<td><span data-path-to-node="24,3,1,0"><b data-path-to-node="24,3,1,0" data-index-in-node="0">Flat Fee SaaS:</b> Make up a number based on the MSRP of the Porsche you want to buy. Brokers respect audacity.</span></td>
-</tr>
-</tbody>
-</table>
-<h3 data-path-to-node="26">2026 Update: The Magical AI Cheat Code</h3>
-<p data-path-to-node="27">The original article actually underplayed the sheer, unstoppable power of AI in 2026. The author suggests setting up &#8220;tokens&#8221; and &#8220;expected outcomes.&#8221; You are thinking entirely too small.</p>
-<p data-path-to-node="28">If you put the letters &#8220;A&#8221; and &#8220;I&#8221; anywhere in your pitch deck, pricing models cease to exist. You do not need to provide an outcome. You barely need to provide a product.</p>
-<p data-path-to-node="29"><b data-path-to-node="29" data-index-in-node="0">The New AI Pricing Model:</b></p>
-<ol start="1" data-path-to-node="30">
-<li>Walk into a brokerage.</li>
-<li>Say the phrase: &#8220;We use Large Language Models to optimize your synergy.&#8221;</li>
-<li>Hand them a blank check.</li>
-<li>Watch them enthusiastically fill it out with their life savings.</li>
-</ol>
-<p data-path-to-node="31">If a broker asks what the AI actually <i data-path-to-node="31" data-index-in-node="38">does</i>, just tell them it &#8220;hallucinates leads.&#8221; They won&#8217;t know what it means, but they’ll be terrified their competitors are already doing it.</p>
-<h3 data-path-to-node="32">Negotiating Deals (Or, How to Accept Surrender)</h3>
-<p data-path-to-node="33">The author actually recommended offering a &#8220;Good Neighbor&#8221; cancellation clause. Why on earth would you give a client a 30-day out?</p>
-<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="0">Contract Terms:</b> You want the &#8220;Hotel California&#8221; clause. They can check out any time they like, but they can never leave your billing cycle.</p>
-<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="140">Delayed Payment:</b> Never. If they ask for a free month to &#8220;ramp up,&#8221; tell them your servers require immediate liquid capital to sustain the neural net.</p>
-<p data-path-to-node="34"><b data-path-to-node="34" data-index-in-node="290">Price Protection:</b> Assure them their price is protected from ever going down. Build in a mandatory 25% year-over-year increase, labeled as an &#8220;Innovation Tax.&#8221;</p>
-<h3 data-path-to-node="35">In Conclusion</h3>
-<p data-path-to-node="36">Selling to the real estate industry is not a complex puzzle of tight margins and adoption struggles. It is a glorious, frictionless conveyer belt of SaaS revenue. Stop overthinking the 80/20 rule, abandon your nuanced value propositions, and just go tell a broker you have a blockchain-enabled, AI-driven CRM.</p>
-<p data-path-to-node="37">You&#8217;ll be retiring on a yacht by Tuesday.</p>
-<p data-path-to-node="37"><em>Reminder: Read the original, true version, over on Crystal: <a href="https://crystal.geekestate.com/pricing-is-never-easy-transmission-354-part-i/">Pricing is Never Easy</a>. Or if you&#8217;re a founder or exec in <a href="https://www.geekestate.com/gem.html">GEM</a>, you can read <a href="https://community.geekestate.com/posts/pricing-is-never-easy-transmission-354-part-i">the original article here</a>.</em></p>
-<p>The post <a href="https://geekestateblog.com/the-ultimate-cakewalk-why-selling-tech-to-real-estate-is-actually-the-easiest-job-on-earth/">The Ultimate Cakewalk: Why Selling Tech to Real Estate is Actually the Easiest Job on Earth</a> appeared first on <a href="https://geekestateblog.com">GeekEstate Blog</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">24492</post-id>	</item>
 	</channel>
 </rss>

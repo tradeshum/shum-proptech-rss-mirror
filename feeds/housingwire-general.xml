@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Mon, 12 Oct 2026 20:02:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Oct 2026 21:42:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,229 +28,224 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Lawsuit claims Compass downplayed regulatory risks ahead of Anywhere acquisition</title>
-		<link>https://www.housingwire.com/articles/compass-anywhere-shareholder-lawsuit/</link>
-					<comments>https://www.housingwire.com/articles/compass-anywhere-shareholder-lawsuit/#respond</comments>
+		<title>Miami’s Little Havana confronts housing density&#8217;s double edge</title>
+		<link>https://www.housingwire.com/articles/little-havana-density-housing/</link>
+					<comments>https://www.housingwire.com/articles/little-havana-density-housing/#respond</comments>
 		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 20:02:35 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Anywhere]]></category>
-		<category><![CDATA[Compass]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 20:26:31 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Housing Policy]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607014</guid>
+		<category><![CDATA[Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607121</guid>
 
-					<description><![CDATA[<p>Robbins LLP filed the proposed class action, lead plaintiff deadline is December 7</p>]]></description>
+					<description><![CDATA[<p>Plan would allow up to 150 units per acre and 8-story buildings, while design rules and state review could extend timelines</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/compass-anywhere-shareholder-lawsuit/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/little-havana-density-housing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607014</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607121</post-id>	</item>
 		<item>
-		<title>Victor Padilla named co-CEO of HIC Land</title>
-		<link>https://www.housingwire.com/articles/victor-padilla-co-ceo-hic-land/</link>
-					<comments>https://www.housingwire.com/articles/victor-padilla-co-ceo-hic-land/#respond</comments>
+		<title>Some builders beat an entry-level retreat. Valera eyes an opening</title>
+		<link>https://www.housingwire.com/articles/valera-homes-houston-entry-level/</link>
+					<comments>https://www.housingwire.com/articles/valera-homes-houston-entry-level/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 18:55:42 +0000</pubDate>
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 20:07:49 +0000</pubDate>
 				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[Houston]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[South Carolina]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606950</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607124</guid>
 
-					<description><![CDATA[<p>The land banking and land development firm has 48,000 lots under control or under development in eight states across the Southeast</p>]]></description>
+					<description><![CDATA[<p>A StoneManor Homes brand extension, Valera Homes will offer Houston-area homes priced from the $270s to the $350s </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/victor-padilla-co-ceo-hic-land/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/valera-homes-houston-entry-level/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606950</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607124</post-id>	</item>
 		<item>
-		<title>Global equity release market projected to hit $52B by 2035</title>
-		<link>https://www.housingwire.com/articles/equity-release-market-2035/</link>
-					<comments>https://www.housingwire.com/articles/equity-release-market-2035/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 18:49:44 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[European Pensions and Property Asset Release Group]]></category>
-		<category><![CDATA[HECM]]></category>
-		<category><![CDATA[Home Equity]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NRMLA]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606967</guid>
-
-					<description><![CDATA[<p>New survey found that North America is expected to account for much of the projected growth</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/equity-release-market-2035/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606967</post-id>	</item>
-		<item>
-		<title>Criminals used 79 dormant domains to impersonate a top real estate team</title>
-		<link>https://www.housingwire.com/articles/criminals-used-79-dormant-domains-to-impersonate-a-top-real-estate-team/</link>
-					<comments>https://www.housingwire.com/articles/criminals-used-79-dormant-domains-to-impersonate-a-top-real-estate-team/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 18:28:44 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Fraud]]></category>
-		<category><![CDATA[REMAX]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606990</guid>
-
-					<description><![CDATA[<p>Unauthorized traffic can damage a brokerage’s and domain’s reputation with email providers</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/criminals-used-79-dormant-domains-to-impersonate-a-top-real-estate-team/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606990</post-id>	</item>
-		<item>
-		<title>Hispanic homebuyers still want in. Here’s how real estate agents can help</title>
-		<link>https://www.housingwire.com/articles/renovation-loans-hispanic-homeownership/</link>
-					<comments>https://www.housingwire.com/articles/renovation-loans-hispanic-homeownership/#respond</comments>
-		
-		<dc:creator><![CDATA[Juan Sanchez]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 18:18:21 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[FHA loan]]></category>
-		<category><![CDATA[Hispanic homeownership]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National HIspanic Construction Alliance]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606390</guid>
-
-					<description><![CDATA[<p>The column highlights FHA 203(k) and conventional renovation loans for financing purchase plus eligible repairs.</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/renovation-loans-hispanic-homeownership/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606390</post-id>	</item>
-		<item>
-		<title>Optimal Blue expands into borrower engagement with Usherpa acquisition</title>
-		<link>https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/</link>
-					<comments>https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/#respond</comments>
+		<title>HUD eyes 203(k) renovation changes to boost housing supply</title>
+		<link>https://www.housingwire.com/articles/fha-203k-renovation-program/</link>
+					<comments>https://www.housingwire.com/articles/fha-203k-renovation-program/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 17:12:12 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[CRM]]></category>
-		<category><![CDATA[Fannie Mae]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Optimal Blue]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606957</guid>
-
-					<description><![CDATA[<p>Usherpa will be natively integrated into Optimal Blue, the companies say</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/optimal-blue-acquires-usherpa/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606957</post-id>	</item>
-		<item>
-		<title>Why private homebuilders are getting M&#038;A premiums right now</title>
-		<link>https://www.housingwire.com/articles/private-builder-ma-premiums/</link>
-					<comments>https://www.housingwire.com/articles/private-builder-ma-premiums/#respond</comments>
-		
-		<dc:creator><![CDATA[Jody Kahn, JK Housing Advisory]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 17:09:51 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606946</guid>
-
-					<description><![CDATA[<p>Whelan Advisory's Margaret Whelan says five to 10 years of lots in strong markets can command premium pricing</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/private-builder-ma-premiums/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">606946</post-id>	</item>
-		<item>
-		<title>Bob Broeksmit says tri-merge &#8216;won’t be around for long&#8217;</title>
-		<link>https://www.housingwire.com/articles/mba-tri-merge-credit-report/</link>
-					<comments>https://www.housingwire.com/articles/mba-tri-merge-credit-report/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 16:52:39 +0000</pubDate>
+		<pubDate>Tue, 13 Oct 2026 19:59:23 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Appraisals]]></category>
-		<category><![CDATA[basel III]]></category>
-		<category><![CDATA[Bob Broeksmit]]></category>
-		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FHA loan]]></category>
+		<category><![CDATA[Ginnie Mae]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606949</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607166</guid>
 
-					<description><![CDATA[<p>MBA signals end of tri-merge credit reports as FHFA weighs options</p>]]></description>
+					<description><![CDATA[<p>Recent draw changes and a potential review of consultant requirements signal a refocus on the product</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mba-tri-merge-credit-report/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fha-203k-renovation-program/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606949</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607166</post-id>	</item>
 		<item>
-		<title>Why eXp Realty chose Newrez for its next mortgage joint venture</title>
-		<link>https://www.housingwire.com/articles/exp-newrez-revenos-mortgage/</link>
-					<comments>https://www.housingwire.com/articles/exp-newrez-revenos-mortgage/#respond</comments>
+		<title>The MLS was built around sellers. Gitcha wants to change that</title>
+		<link>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/</link>
+					<comments>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 15:54:53 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Mortgage]]></category>
+		<pubDate>Tue, 13 Oct 2026 19:24:16 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[eXp Realty]]></category>
+		<category><![CDATA[Homebuyers]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Leo Pareja]]></category>
-		<category><![CDATA[NewRez]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606943</guid>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607157</guid>
 
-					<description><![CDATA[<p>Executives said the JV launches in January 2027 and will add eXp branding to Newrez servicing statements</p>]]></description>
+					<description><![CDATA[<p>Founder Dan Cooper said five MLSs have signed on since early 2025, with more partnerships expected after contract reviews</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/exp-newrez-revenos-mortgage/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606943</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607157</post-id>	</item>
 		<item>
-		<title>MBA, FirstHome IQ partner to launch MBA Homebase</title>
-		<link>https://www.housingwire.com/articles/mba-homebase-loan-officers/</link>
-					<comments>https://www.housingwire.com/articles/mba-homebase-loan-officers/#respond</comments>
+		<title>Ryan Serhant’s AI bet could help agents create more content in less time</title>
+		<link>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/</link>
+					<comments>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 19:07:47 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Ryan Serhant]]></category>
+		<category><![CDATA[SERHANT.]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607148</guid>
+
+					<description><![CDATA[<p>@HeySerhant will publish original content daily for the next 12 months</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607148</post-id>	</item>
+		<item>
+		<title>Optimal Blue data shows non-QM lending, ARM usage is expanding</title>
+		<link>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/</link>
+					<comments>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 15:15:03 +0000</pubDate>
+		<pubDate>Tue, 13 Oct 2026 18:42:53 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Adjustable-Rate Mortgage]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<category><![CDATA[NMLS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606935</guid>
+		<category><![CDATA[Non-QM]]></category>
+		<category><![CDATA[Optimal Blue]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607123</guid>
 
-					<description><![CDATA[<p>New platform offers NMLS-approved CE, coaching, and Trust Certification with FirstHome IQ</p>]]></description>
+					<description><![CDATA[<p>Non-QM represented 12% of production in September as the 30-year conforming rate ended the month at 7.39%
+
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mba-homebase-loan-officers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606935</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607123</post-id>	</item>
+		<item>
+		<title>Existing home sales beat estimates, but don&#8217;t reflect recent higher rates</title>
+		<link>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/</link>
+					<comments>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 18:20:08 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Existing home sales]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607116</guid>
+
+					<description><![CDATA[<p>NAR showed sales up 1.5% month over month, but rates have rapidly increased in the last few weeks</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607116</post-id>	</item>
+		<item>
+		<title>Experian expands Power Profile Plus, adds unlimited soft pulls</title>
+		<link>https://www.housingwire.com/articles/experian-power-profile-plus/</link>
+					<comments>https://www.housingwire.com/articles/experian-power-profile-plus/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 18:19:02 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[Experian]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607117</guid>
+
+					<description><![CDATA[<p>The tool pairs a full Experian credit profile with VantageScore 4.0 and supports a later shift to a hard inquiry
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/experian-power-profile-plus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607117</post-id>	</item>
+		<item>
+		<title>Regulators should rethink proposed CRA changes, NAAHL says</title>
+		<link>https://www.housingwire.com/articles/naahl-cra-proposed-changes/</link>
+					<comments>https://www.housingwire.com/articles/naahl-cra-proposed-changes/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 16:52:20 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Community Reinvestment Act]]></category>
+		<category><![CDATA[Federal Deposit Insurance Corporation]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Office of the Comptroller of the Currency]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607101</guid>
+
+					<description><![CDATA[<p>Proposed asset threshold changes could leave 31 million people in areas with limited community development coverage, association claims</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/naahl-cra-proposed-changes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607101</post-id>	</item>
+		<item>
+		<title>Serving clients or breaking bylaws? AI shortcuts into the MLS are all the rage</title>
+		<link>https://www.housingwire.com/articles/mls-security-ai-bots/</link>
+					<comments>https://www.housingwire.com/articles/mls-security-ai-bots/#respond</comments>
+		
+		<dc:creator><![CDATA[Craig Rowe]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 16:17:52 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Columnist]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Bright MLS]]></category>
+		<category><![CDATA[CMLS]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606985</guid>
+
+					<description><![CDATA[<p>HousingWire exclusive columnist Craig Rowe explores how agents are using AI tools to automate MLS workflows, in many cases against MLS bylaws.</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mls-security-ai-bots/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">606985</post-id>	</item>
 	</channel>
 </rss>
