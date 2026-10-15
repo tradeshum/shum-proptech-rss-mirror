@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Tue, 13 Oct 2026 21:42:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Oct 2026 22:59:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,224 +28,232 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Miami’s Little Havana confronts housing density&#8217;s double edge</title>
-		<link>https://www.housingwire.com/articles/little-havana-density-housing/</link>
-					<comments>https://www.housingwire.com/articles/little-havana-density-housing/#respond</comments>
+		<title>Appeals court sides with Ginnie Mae in Texas Capital Bank&#8217;s reverse mortgage lawsuit</title>
+		<link>https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/</link>
+					<comments>https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/#respond</comments>
 		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 20:26:31 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Housing Policy]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607121</guid>
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 22:25:11 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Ginnie Mae]]></category>
+		<category><![CDATA[HMBS]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<category><![CDATA[Reverse Mortgage Funding]]></category>
+		<category><![CDATA[Texas Capital Bank]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607352</guid>
 
-					<description><![CDATA[<p>Plan would allow up to 150 units per acre and 8-story buildings, while design rules and state review could extend timelines</p>]]></description>
+					<description><![CDATA[<p>The ruling is a signal to warehouse and DIP lenders that financing structures secured by HMBS-related tails may be vulnerable if Ginnie Mae exercises extinguishment remedies</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/little-havana-density-housing/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fifth-circuit-rules-for-ginnie-mae-in-texas-capital-bank-hmbs-tail-lien-case/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607121</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607352</post-id>	</item>
 		<item>
-		<title>Some builders beat an entry-level retreat. Valera eyes an opening</title>
-		<link>https://www.housingwire.com/articles/valera-homes-houston-entry-level/</link>
-					<comments>https://www.housingwire.com/articles/valera-homes-houston-entry-level/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 20:07:49 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Houston]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607124</guid>
-
-					<description><![CDATA[<p>A StoneManor Homes brand extension, Valera Homes will offer Houston-area homes priced from the $270s to the $350s </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/valera-homes-houston-entry-level/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607124</post-id>	</item>
-		<item>
-		<title>HUD eyes 203(k) renovation changes to boost housing supply</title>
-		<link>https://www.housingwire.com/articles/fha-203k-renovation-program/</link>
-					<comments>https://www.housingwire.com/articles/fha-203k-renovation-program/#respond</comments>
+		<title>GSEs target income and occupancy to cut buyback risk</title>
+		<link>https://www.housingwire.com/articles/gse-fannie-freddie-tech/</link>
+					<comments>https://www.housingwire.com/articles/gse-fannie-freddie-tech/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 19:59:23 +0000</pubDate>
+		<pubDate>Wed, 14 Oct 2026 21:14:45 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[FHA loan]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Loan buybacks]]></category>
+		<category><![CDATA[Title insurance]]></category>
+		<category><![CDATA[Underwriting]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607341</guid>
+
+					<description><![CDATA[<p>Mortgage giants are deploying tech to flag occupancy risk and income defects upfront </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/gse-fannie-freddie-tech/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607341</post-id>	</item>
+		<item>
+		<title>AI can speed up permitting, but messy zoning data holds it back</title>
+		<link>https://www.housingwire.com/articles/ai-permitting-zoning-limits/</link>
+					<comments>https://www.housingwire.com/articles/ai-permitting-zoning-limits/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 20:52:43 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607323</guid>
+
+					<description><![CDATA[<p>Localities are turning to AI to fast-track permiting, but outdated or conflicting zoning text and maps still delay approvals </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ai-permitting-zoning-limits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607323</post-id>	</item>
+		<item>
+		<title>When real estate listing scarcity becomes the strategy, who benefits?</title>
+		<link>https://www.housingwire.com/articles/compass-private-listings-fair-housing/</link>
+					<comments>https://www.housingwire.com/articles/compass-private-listings-fair-housing/#respond</comments>
+		
+		<dc:creator><![CDATA[Erinn Nobel]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 20:19:35 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[California Regional MLS]]></category>
+		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[private listings]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607313</guid>
+
+					<description><![CDATA[<p>A Zillow survey cited 74% of Hispanic sellers and 73% of Black sellers were steered to private networks, versus 24% of white sellers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/compass-private-listings-fair-housing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607313</post-id>	</item>
+		<item>
+		<title>HUD officials offer an action plan to spark FHA lending</title>
+		<link>https://www.housingwire.com/articles/hud-fha-ginnie-mae/</link>
+					<comments>https://www.housingwire.com/articles/hud-fha-ginnie-mae/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 19:21:12 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[FHA]]></category>
 		<category><![CDATA[Ginnie Mae]]></category>
 		<category><![CDATA[HUD]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607166</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607253</guid>
 
-					<description><![CDATA[<p>Recent draw changes and a potential review of consultant requirements signal a refocus on the product</p>]]></description>
+					<description><![CDATA[<p>At MBA Annual, Matt Jones and Joe Gormley touched on ways to move the needle in FHA single-family mortgage originations</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fha-203k-renovation-program/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/hud-fha-ginnie-mae/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607166</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607253</post-id>	</item>
 		<item>
-		<title>The MLS was built around sellers. Gitcha wants to change that</title>
-		<link>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/</link>
-					<comments>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 19:24:16 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Homebuyers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607157</guid>
-
-					<description><![CDATA[<p>Founder Dan Cooper said five MLSs have signed on since early 2025, with more partnerships expected after contract reviews</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/gitcha-mls-buyer-listing-service/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607157</post-id>	</item>
-		<item>
-		<title>Ryan Serhant’s AI bet could help agents create more content in less time</title>
-		<link>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/</link>
-					<comments>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 19:07:47 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Ryan Serhant]]></category>
-		<category><![CDATA[SERHANT.]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607148</guid>
-
-					<description><![CDATA[<p>@HeySerhant will publish original content daily for the next 12 months</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ryan-serhants-ai-bet-could-help-agents-create-more-content-in-less-time/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607148</post-id>	</item>
-		<item>
-		<title>Optimal Blue data shows non-QM lending, ARM usage is expanding</title>
-		<link>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/</link>
-					<comments>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 18:42:53 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Adjustable-Rate Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Non-QM]]></category>
-		<category><![CDATA[Optimal Blue]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607123</guid>
-
-					<description><![CDATA[<p>Non-QM represented 12% of production in September as the 30-year conforming rate ended the month at 7.39%
-
-</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/non-qm-arms-optimal-blue/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607123</post-id>	</item>
-		<item>
-		<title>Existing home sales beat estimates, but don&#8217;t reflect recent higher rates</title>
-		<link>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/</link>
-					<comments>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 18:20:08 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Existing home sales]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607116</guid>
-
-					<description><![CDATA[<p>NAR showed sales up 1.5% month over month, but rates have rapidly increased in the last few weeks</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/existing-home-sales-beat-estimates-but-dont-reflect-recent-higher-rates/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607116</post-id>	</item>
-		<item>
-		<title>Experian expands Power Profile Plus, adds unlimited soft pulls</title>
-		<link>https://www.housingwire.com/articles/experian-power-profile-plus/</link>
-					<comments>https://www.housingwire.com/articles/experian-power-profile-plus/#respond</comments>
+		<title>Rechat appoints Audie Chamberlain as chief industry officer</title>
+		<link>https://www.housingwire.com/articles/rechat-appoints-audie-chamberlian-as-chief-industry-officer/</link>
+					<comments>https://www.housingwire.com/articles/rechat-appoints-audie-chamberlian-as-chief-industry-officer/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 18:19:02 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[Experian]]></category>
+		<pubDate>Wed, 14 Oct 2026 19:15:01 +0000</pubDate>
+				<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607117</guid>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607299</guid>
 
-					<description><![CDATA[<p>The tool pairs a full Experian credit profile with VantageScore 4.0 and supports a later shift to a hard inquiry
-</p>]]></description>
+					<description><![CDATA[<p>Chamberlain will also launch the company's brand champions and creator program</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/experian-power-profile-plus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/rechat-appoints-audie-chamberlian-as-chief-industry-officer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607117</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607299</post-id>	</item>
 		<item>
-		<title>Regulators should rethink proposed CRA changes, NAAHL says</title>
-		<link>https://www.housingwire.com/articles/naahl-cra-proposed-changes/</link>
-					<comments>https://www.housingwire.com/articles/naahl-cra-proposed-changes/#respond</comments>
+		<title>Compass CEO defends private listings, says MLSs make homes look ‘damaged’</title>
+		<link>https://www.housingwire.com/articles/reffkin-private-exclusives-mls/</link>
+					<comments>https://www.housingwire.com/articles/reffkin-private-exclusives-mls/#respond</comments>
 		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 16:52:20 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Community Reinvestment Act]]></category>
-		<category><![CDATA[Federal Deposit Insurance Corporation]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Office of the Comptroller of the Currency]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607101</guid>
-
-					<description><![CDATA[<p>Proposed asset threshold changes could leave 31 million people in areas with limited community development coverage, association claims</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/naahl-cra-proposed-changes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607101</post-id>	</item>
-		<item>
-		<title>Serving clients or breaking bylaws? AI shortcuts into the MLS are all the rage</title>
-		<link>https://www.housingwire.com/articles/mls-security-ai-bots/</link>
-					<comments>https://www.housingwire.com/articles/mls-security-ai-bots/#respond</comments>
-		
-		<dc:creator><![CDATA[Craig Rowe]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 16:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 18:18:41 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Columnist]]></category>
 		<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Bright MLS]]></category>
-		<category><![CDATA[CMLS]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[MLS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=606985</guid>
+		<category><![CDATA[Robert Reffkin]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607293</guid>
 
-					<description><![CDATA[<p>HousingWire exclusive columnist Craig Rowe explores how agents are using AI tools to automate MLS workflows, in many cases against MLS bylaws.</p>]]></description>
+					<description><![CDATA[<p>Reffkin said 43% of listings had a price drop history in September, and 6% were pulled off market</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mls-security-ai-bots/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/reffkin-private-exclusives-mls/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">606985</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607293</post-id>	</item>
+		<item>
+		<title>Saluda Grade invests $20M in manufactured housing lender Zippy</title>
+		<link>https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy/</link>
+					<comments>https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 16:34:25 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Investors]]></category>
+		<category><![CDATA[Manufactured Housing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607274</guid>
+
+					<description><![CDATA[<p>Investment will help Zippy expand its 27-state footprint</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607274</post-id>	</item>
+		<item>
+		<title>Why falling housing inventory is sending sellers the wrong signal</title>
+		<link>https://www.housingwire.com/articles/falling-housing-inventory-buyer-demand/</link>
+					<comments>https://www.housingwire.com/articles/falling-housing-inventory-buyer-demand/#respond</comments>
+		
+		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 16:15:33 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Data & Analytics]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607218</guid>
+
+					<description><![CDATA[<p>High mortgage rates are keeping buyers on the sidelines, even as housing inventory falls</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/falling-housing-inventory-buyer-demand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607218</post-id>	</item>
+		<item>
+		<title>Bank of America home loan volume falls 12% in Q3, raising questions about banks&#8217; market share</title>
+		<link>https://www.housingwire.com/articles/bofa-q3-home-loans-down-12/</link>
+					<comments>https://www.housingwire.com/articles/bofa-q3-home-loans-down-12/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 15:39:25 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Bank of America]]></category>
+		<category><![CDATA[Banking]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607247</guid>
+
+					<description><![CDATA[<p>JPMorgan and Wells Fargo also reported lower mortgage volumes amid higher rates </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/bofa-q3-home-loans-down-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607247</post-id>	</item>
 	</channel>
 </rss>
