@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Wed, 14 Oct 2026 00:26:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 21:56:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,291 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Owners Are Drowning in Jobsite Data and Still Guessing at the Schedule</title>
+		<link>https://propmodo.com/owners-are-drowning-in-jobsite-data-and-still-guessing-at-the-schedule/</link>
+		
+		<dc:creator><![CDATA[Chaitanya Naredla Krishna]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 21:56:22 +0000</pubDate>
+				<category><![CDATA[Construction & Project Management]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Perspectives]]></category>
+		<category><![CDATA[BIM]]></category>
+		<category><![CDATA[Construction]]></category>
+		<category><![CDATA[Fire & Life Safety]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181748</guid>
+
+					<description><![CDATA[<p>Construction reality capture creates vast jobsite data, but owners need schedule-linked insights to make faster, defensible project decisions.</p>
+<p>The post <a href="https://propmodo.com/owners-are-drowning-in-jobsite-data-and-still-guessing-at-the-schedule/">Owners Are Drowning in Jobsite Data and Still Guessing at the Schedule</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Owners are spending more on jobsite documentation than at any point in this industry’s history, and most of them still cannot tell you with confidence whether a subcontractor is on schedule. In most of the owner project reviews I am involved in, somebody always asks how a scope of work is tracking. Then there is always a short pause. Then two or three people give slightly different answers, none of them dishonest, and the meeting moves to the next item because nobody in the room has a better instrument than the people in the room.</p>
+
+
+
+<p class="wp-block-paragraph">What is strange about that pause is how well documented the project usually is. Weekly 360-degree walks, drone flights a couple of times a month, laser scans at the milestones, and somewhere a folder holding forty thousand photographs. Every square foot of that building has been recorded, and still, when the question gets asked out loud, the honest answer is a range.</p>
+
+
+
+<p class="wp-block-paragraph">The distance between capturing what is happening on a site and understanding it well enough, and fast enough, to do something about it is not a data problem in the way our industry usually means that phrase. There is plenty of data. What is missing is the step between the data and the decision, and that step is still being performed by a person with a spreadsheet on a Sunday night.</p>
+
+
+
+<p class="wp-block-paragraph">The underlying mistake is one a lot of us made in the first wave of reality capture. We treated the record as the outcome. If the site was fully documented, we assumed the visibility problem was handled. It is not. Forty thousand photographs are an archive, and an archive only answers questions you already knew to ask. It will not tell you, for instance, that drywall on three floors has been quietly running four days behind the curve your schedule assumed since the second week of August. That surfaces later, usually in a conversation about liquidated damages.</p>
+
+
+
+<p class="wp-block-paragraph">Autodesk and FMI surveyed more than 3,900 construction professionals for their 2021 report, Harnessing the Data Advantage in Construction, and only 12 percent said they always use project data when making decisions. The same study pinned 14 percent of all rework in 2020 on bad data, which it valued at close to 89 billion dollars. An earlier FMI study put the share of captured data that goes entirely unused at 95.5 percent. Those studies are five and eight years old. Everything about capture has improved since then, and I am not convinced the decision layer has moved much at all.</p>
+
+
+
+<p class="wp-block-paragraph">Capture hardware got cheap enough that it stopped being a decision and became a default, so the volume coming off every site keeps multiplying whether or not anyone has a plan for it. At the other end, the large project management platforms have started buying reality capture companies outright, at prices that make very little sense if the cameras are the point. They are not paying for the cameras. They are paying for the layer that sits above the imagery and turns it into an answer, because that is where the defensible position is. Capture is becoming a commodity input, roughly the way GPS did, and the margin moved up a level while most owners were still procuring capture as a line item.</p>
+
+
+
+<p class="wp-block-paragraph">The owner holds the real exposure on a capital project. You sign the guarantee, you carry the cost of capital, you answer to the lender, and you absorb whatever a late certificate of occupancy does to a lease-up schedule. Then you manage that exposure using the least rigorous instrument anywhere on the job, which is a narrative report, assembled by hand, describing conditions already a week old, written by the party whose performance it describes. I am not suggesting bad faith here. Most of the people writing those reports are doing careful work under real time pressure. But no lender would accept a borrower’s own summary of the collateral and call it diligence. It is worth asking why we accept the equivalent on a project.</p>
+
+
+
+<p class="wp-block-paragraph">Most of this is fixable in the contract rather than the budget. The most immediately actionable changes are specification changes, and they are worth the argument. The first is specifying what capture has to produce rather than just how often it happens. Most owner agreements set a documentation cadence and stop there, but cadence without a latency requirement only fills the archive faster. Agreeing on specific metrics, in a specific format, within a defined window after each capture is the step most contracts skip. </p>
+
+
+
+<p class="wp-block-paragraph">It is also important to determine definitions before anyone actually pours concrete. Things like: what percent complete does a job need to be before it is considered complete&#8221; What observable conditions constitute completion for each major milestone? These answers then need to be tied back to a schedule activity ID. Nearly every pay application dispute traces back to two parties who never agreed on a definition and then tried to negotiate one under time pressure with money already in dispute. Putting time-stamped visual evidence on the pay application as a standard exhibit gets read as adversarial, but most draw disputes are not about bad faith. </p>
+
+
+
+<p class="wp-block-paragraph">Owners running multiple active projects should also standardize across the portfolio, because six projects with six reporting formats and six working definitions of complete produce no real ability to compare risk until one job fails loudly enough to get attention. Best practice is also to specify in writing that the capture record belongs to the owner and survives a change of contractor.</p>
+
+
+
+<p class="wp-block-paragraph">If you take one thing from this, change the number you manage to. Stop reporting on how much of the site was captured last month, and start tracking how many days pass between something happening physically on site and someone with authority acting on it. That number might be unflattering the first time you measure it, which is exactly why it is useful.</p>
+
+
+
+<p class="wp-block-paragraph">There is real movement toward agentic systems that do not simply report but flag, forecast, and initiate, and I expect that to arrive faster than most capital programs are prepared for. But an agent pointed at an unstructured pile of photographs will produce confident, well-formatted guesses, and a confident guess inside a draw approval workflow is worse than no automation at all. Whatever autonomy turns out to be useful will need a structured, schedule-linked, consistently defined record underneath it. The owners sorting out their definitions and their cadence this year are doing the unglamorous work that makes the rest of it possible. The next competitive layer in this business is not going to be more cameras. It is going to be how long it takes for what a building knows about itself to reach the people who are financially responsible for it. </p>
+<p>The post <a href="https://propmodo.com/owners-are-drowning-in-jobsite-data-and-still-guessing-at-the-schedule/">Owners Are Drowning in Jobsite Data and Still Guessing at the Schedule</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/08/building-inspections-construction.jpg" />	</item>
+		<item>
+		<title>Class B Office Visitation Settles Into New Normal at 72% of Pre-Pandemic Levels</title>
+		<link>https://propmodo.com/class-b-office-visitation-settles-into-new-normal-at-72-of-pre-pandemic-levels/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 21:48:55 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181750</guid>
+
+					<description><![CDATA[<p>Class B office visitation in New York City stabilizes at 72% of pre-pandemic levels, with sharp divergence between well-positioned buildings and struggling assets.</p>
+<p>The post <a href="https://propmodo.com/class-b-office-visitation-settles-into-new-normal-at-72-of-pre-pandemic-levels/">Class B Office Visitation Settles Into New Normal at 72% of Pre-Pandemic Levels</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Class B office buildings across Manhattan, Brooklyn, and Queens reached 72% of pre-pandemic visitation levels in August 2026 and have held that range for two years, according to a Real Estate Board of New York analysis of 200 properties. Midtown performed best among submarkets at 89% of pre-pandemic activity, while Lower Manhattan and Brooklyn/Queens hovered around 70%. Midtown South lagged but showed recent improvement. Twenty percent of properties studied now exceed their pre-pandemic visitation rates.</p>
+
+
+
+<p class="wp-block-paragraph">The city&#8217;s Class B inventory totals more than 235 million square feet across 1,500 buildings, housing small and mid-sized businesses, nonprofits, creative firms, and technology startups. Properties with experienced ownership, strong transit access, and diversified tenant rosters recovered faster than buildings hit by major tenant losses or coworking contractions. Forty-one percent of analyzed properties reached at least 80% of pre-pandemic visitation. REBNY executive vice president Basha Gerhards said policy must account for the wide performance gap between buildings that can compete for tenants and those facing structural challenges.</p>
+
+
+
+<p class="wp-block-paragraph">Class A availability has tightened and companies have increased in-office requirements, but those shifts have not yet pushed significant tenant migration into Class B space. Local Law 97 carbon emission limits add new investment costs that will shape decisions about repositioning versus conversion. Tax incentives including REAP and RACE support tenant recruitment at viable properties, while office-to-residential conversion programs offer an exit for buildings with prolonged vacancy.</p>
+
+
+
+<p class="wp-block-paragraph">The divergence between stabilized and struggling Class B assets will determine how this segment contributes to the city&#8217;s office recovery. Buildings with steady demand and modernization capacity face a different outlook than properties with structural obsolescence or major vacancy. Owners now must evaluate whether their buildings can still compete for tenants or whether conversion offers a better long-term path.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=nyrej.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">NYREJ</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://nyrej.com/new-rebny-analysis-finds-nyc-class-b-office-visitation-stabilizing-after-years-of-post-pandemic-recovery" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">New REBNY Analysis Finds NYC Class B Office Visitation Stabilizing After Years of Post-Pandemic Recovery</a></div></div><p>The post <a href="https://propmodo.com/class-b-office-visitation-settles-into-new-normal-at-72-of-pre-pandemic-levels/">Class B Office Visitation Settles Into New Normal at 72% of Pre-Pandemic Levels</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-office-workplace.jpg" />	</item>
+		<item>
+		<title>Local Investors Step Into D.C. Office Bargains as Institutions Retreat</title>
+		<link>https://propmodo.com/local-investors-step-into-d-c-office-bargains-as-institutions-retreat/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 17:51:06 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181744</guid>
+
+					<description><![CDATA[<p>Smaller investors are acquiring D.C. offices at steep discounts as institutional owners exit the market, planning renovations to capture tenant demand.</p>
+<p>The post <a href="https://propmodo.com/local-investors-step-into-d-c-office-bargains-as-institutions-retreat/">Local Investors Step Into D.C. Office Bargains as Institutions Retreat</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Smaller investors are acquiring D.C. office buildings at steep discounts as institutional owners offload properties at losses. John Mason&#8217;s Garfield Investments and Broad Creek Capital bought 1667 K Street NW for $26.2 million in July, 59% below its assessed value of $64.1 million. Taicoon Property Partners acquired 1400 K Street NW for $35.5 million, less than half its assessed value. FarmViewVentures bought 1250 Connecticut Avenue NW at foreclosure for $16 million, down from a $50 million valuation.</p>
+
+
+
+<p class="wp-block-paragraph">BGRE, formerly Brookfield Properties, has trimmed its D.C. portfolio from 31 buildings totaling 8 million square feet in 2012 to 11 buildings at roughly 3 million square feet today. The company faces a $377 million loan maturity on six properties that entered special servicing in August. James Campbell Co. sold four offices across the region in recent months, pivoting from office to industrial. Tishman Speyer sold 900 19th Street NW for about $30 million, less than half its assessed value.</p>
+
+
+
+<p class="wp-block-paragraph">Buyers plan substantial renovations to compete for tenants priced out of trophy space. Garfield and Broad Creek will invest $10 million at 1667 K Street, while FarmViewVentures plans $15 million at 1250 Connecticut. Class A office space in D.C. absorbed 218,400 square feet in the third quarter, the highest quarterly leasing activity since late 2024, according to CBRE. Sheppard law firm signed a 107,227-square-foot pre-lease at 2033 K Street NW, where In-Rel Properties plans a redevelopment of a building acquired for $20.5 million.</p>
+
+
+
+<p class="wp-block-paragraph">Institutional investors are redirecting capital to infrastructure and data centers as office returns remain uncertain. Brookfield Asset Management holds $262 billion in infrastructure assets and owns stakes in multiple data center platforms. Philadelphia&#8217;s Post Brothers, historically focused on office-to-residential conversions, now plans to develop new Class A office to capture tenant demand. Local investors say reduced acquisition costs allow them to fund renovations and achieve returns unavailable to sellers carrying legacy debt.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Washington Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/washington/news/2026/10/15/institutional-investors-dc-office-real-estate.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Why Smaller Real Estate Investors Are Having a Moment in the DC Area</a></div></div>
+<p>The post <a href="https://propmodo.com/local-investors-step-into-d-c-office-bargains-as-institutions-retreat/">Local Investors Step Into D.C. Office Bargains as Institutions Retreat</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
+		<item>
+		<title>3D Construction Printing Company Lands $1.4 Billion Valuation With Dual-Use Strategy</title>
+		<link>https://propmodo.com/3d-construction-printing-company-lands-1-4-billion-valuation-with-dual-use-strategy/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 03:29:39 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181739</guid>
+
+					<description><![CDATA[<p>Icon Technology raises $200 million at a $1.4 billion valuation, scaling 3D construction printers for housing, military, and lunar projects.</p>
+<p>The post <a href="https://propmodo.com/3d-construction-printing-company-lands-1-4-billion-valuation-with-dual-use-strategy/">3D Construction Printing Company Lands $1.4 Billion Valuation With Dual-Use Strategy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Icon Technology Inc. closed a $200 million series D funding round on October 13, co-led by Baillie Gifford and BlackRock-managed funds. The round values the Austin-based 3D construction printing company at $1.4 billion. Other investors included Capital Factory, Moonshots Capital, Overmatch, The Syndicate, CAZ Investments, Moderne Ventures, Norwest, and Tiger Global. Co-founder and CEO Jason Ballard said the valuation represents a healthy increase from the prior round and carries weight given it was set by two of the world&#8217;s largest investment firms.</p>
+
+
+
+<p class="wp-block-paragraph">Icon operates three business units: Build, which designs and constructs housing; Prime, which focuses on government and military contracts; and Tech, which handles software and R&amp;D. All three units are profitable, and Ballard said the company is on track to roughly quadruple revenue this year. Icon has built about 270 structures to date, a third of which were for social housing projects including Community First! Village in Austin. The company recently launched Titan, a multi-story robotic construction system that sells for nearly $900,000 and requires a $5,000 reservation deposit. Ballard said reservations are running at ten times the company&#8217;s production capacity for next year.</p>
+
+
+
+<p class="wp-block-paragraph">Icon currently manufactures two to three Titan printers per month from its Austin factory and expects to outgrow that capacity by 2028. The company employs about 300 people and plans to grow to over 1,000 within a few years, with the Austin footprint expected to more than double in two years. Icon is also advancing toward potential NASA contracts for lunar construction through its Artemis program work, developing printers that could use moon regolith and ice to build structures. The company has passed NASA thermal vacuum chamber tests and conducted a Blue Origin space flight test using actual moon dust.</p>
+
+
+
+<p class="wp-block-paragraph">Ballard said development work for lunar construction has informed Icon&#8217;s terrestrial products, with the Titan printer sharing the same form factor as the lunar Olympus printer and using software originally developed for moon applications. Icon remains committed to social housing projects despite investor pressure, with Ballard describing a Robin Hood strategy where high-end, scale, and government work mature the technology for application to those most in need of dignified housing. The company expects revenue to at least double again next year across both Build and Prime business units.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Austin Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/austin/news/2026/10/13/icon-raises-200m-to-build-more-3d-printing-robots.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Icon Raises $200M to Build More 3D Printing Robots</a></div></div>
+<p>The post <a href="https://propmodo.com/3d-construction-printing-company-lands-1-4-billion-valuation-with-dual-use-strategy/">3D Construction Printing Company Lands $1.4 Billion Valuation With Dual-Use Strategy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
+		<item>
+		<title>Private Lenders Fuel Investor Rush Into Distressed Rust Belt Housing</title>
+		<link>https://propmodo.com/private-lenders-fuel-investor-rush-into-distressed-rust-belt-housing/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 03:25:44 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181735</guid>
+
+					<description><![CDATA[<p>Debt-service coverage ratio loans bypass traditional underwriting to fund investor acquisition and renovation of distressed single-family homes in Rust Belt cities.</p>
+<p>The post <a href="https://propmodo.com/private-lenders-fuel-investor-rush-into-distressed-rust-belt-housing/">Private Lenders Fuel Investor Rush Into Distressed Rust Belt Housing</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Debt-service coverage ratio loans have opened previously redlined neighborhoods to investor capital by approving borrowers based on property value and projected rental income rather than personal creditworthiness. The product, which emerged in the mid-2010s from private lenders, has directed money into East Cleveland, Indianapolis, Baltimore, Detroit, and Memphis — cities where traditional mortgage underwriting long discouraged investment. Private lenders evaluate the asset and its cash flow potential, bypassing the borrower risk models that once kept institutional capital out of distressed markets.</p>
+
+
+
+<p class="wp-block-paragraph">The loans allow investors to acquire, renovate, and lease vacant or deteriorating single-family homes in neighborhoods that federal guidance once flagged as too risky for conventional lending. Speed and flexible underwriting have made the product popular among small and mid-size investors targeting low-cost inventory as housing prices climb in primary markets. The model has also drawn scrutiny for fraud susceptibility, though the article does not detail specific cases or enforcement actions.</p>
+
+
+
+<p class="wp-block-paragraph">Debt-service coverage ratio lending represents a shift in how capital reaches tertiary housing markets. Traditional mortgage products require borrower income verification and credit checks; the new loans treat single-family rentals as income-producing assets comparable to small multifamily properties. The financing has enabled a wave of buy-renovate-rent activity in markets where property values alone would not support conventional mortgage approval, effectively creating liquidity in neighborhoods that sat outside institutional investment for decades.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/real-estate/this-new-loan-is-bringing-investors-to-abandoned-towns-a12c957b" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">This New Loan Is Bringing Investors to Abandoned Towns</a></div></div>
+<p>The post <a href="https://propmodo.com/private-lenders-fuel-investor-rush-into-distressed-rust-belt-housing/">Private Lenders Fuel Investor Rush Into Distressed Rust Belt Housing</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
+		<item>
+		<title>What Fisher Brothers Learned Building AI Into a Portfolio With Legacy Systems</title>
+		<link>https://propmodo.com/what-fisher-brothers-learned-building-ai-into-a-portfolio-with-legacy-systems/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 03:23:59 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Hospitality]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Area15]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Fisher Brothers]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181733</guid>
+
+					<description><![CDATA[<p>Fisher Brothers is transforming real estate with an AI lab focused on two-week sprints, legacy system integration, and scalable automation.</p>
+<p>The post <a href="https://propmodo.com/what-fisher-brothers-learned-building-ai-into-a-portfolio-with-legacy-systems/">What Fisher Brothers Learned Building AI Into a Portfolio With Legacy Systems</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Fisher Brothers has been in business since 1915, started by three brothers who learned masonry from their immigrant father started building homes outside Manhattan. The firm outlasted the Depression, survived several real estate cycles, and has become one of the old guard of American real estate ownership groups. It now manages roughly $6.1 billion in assets, including about 10 million square feet of Class A office across New York, Washington, and Miami, along with 1,500 multifamily units and AREA15, the immersive entertainment district it developed off the Las Vegas Strip.</p>
+
+
+
+<p class="wp-block-paragraph">A portfolio built over that long a period carries a specific kind of technology problem. Buildings were acquired or developed in different decades, each arriving with whatever systems were standard at the time, and very little of it was designed to work together. That is the environment any AI effort at the firm has to operate in.</p>
+
+
+
+<p class="wp-block-paragraph">The push to address it came from the top and arrived quickly.</p>
+
+
+
+<p class="wp-block-paragraph">“Our CEO Winston Fisher is very forward thinking, the moment ChatGPT was released he really decided to lean into AI and that is why we made the decision to start a lab dedicated to how we could harness AI,” said Mark Stutzman, Chief Technology Officer at Fisher Brothers.</p>
+
+
+
+<p class="wp-block-paragraph">Stutzman wanted the lab to try a lot of different new ideas, which meant that he couldn&#8217;t get his team bogged down into one large project. So, he self implements a time limit that they have for each initiative. “Early on we made the decision that everything we do has to be able to be completed in a two week sprint,” Stutzman said. “This forces everyone to really focus on what can be deployed.”</p>
+
+
+
+<p class="wp-block-paragraph">Most corporate AI efforts stall somewhere between the pilot and production, usually because the scope grew during development until the thing being built no longer resembled what anyone agreed to. A two-week limit eliminates the scope creep that can come with big tech integrations. It also pushes the teams to focus on projects that can provide quick ROI.</p>
+
+
+
+<p class="wp-block-paragraph">The lab’s other function is understanding what the organization needs from automated technology, which means spending time inside the business units rather than in a technology silo. “Part of our mission is to sit with each business department and understand the tasks that could be automated with agents,” Stutzman said. Leasing, accounting, property management, and development all run processes that look automatable in the abstract and reveal their actual complexity only in conversation with the people executing them.</p>
+
+
+
+<p class="wp-block-paragraph">Deployment across the portfolio is where a company like Fisher Brothers can run into issues with legacy technology. An automation that works in one building may have nothing to connect to in another, and portfolio-wide rollouts run into whatever each property happens to be running.</p>
+
+
+
+<p class="wp-block-paragraph">AREA15 is the rare exception where a property was built around the technology, not the other way around. Fisher Brothers acquired the land in 2005 and opened the district in 2020 as a joint venture with Beneville Studios. It has drawn more than 16 million visitors since, expanded through Zone 2 in August 2025, and now anchors a larger district the City of Las Vegas has designated for development. Because it was built from scratch relatively recently, its systems share an architecture.</p>
+
+
+
+<p class="wp-block-paragraph">“Fisher Brothers properties have lots of legacy systems and unstructured data,” Stutzman said. “AREA15 was built around data so it has been very different how we have been able to roll it out.”</p>
+
+
+
+<p class="wp-block-paragraph">The lab’s longer-term work addresses the need for AI infrastructure, and Stutzman describes it in infrastructural rather than application terms. “What we are building today is the foundation of the brain,” he said. “The idea is that each app has its own MCP connectors so all of the governance and permissions are already built in.”</p>
+
+
+
+<p class="wp-block-paragraph">Model Context Protocol connectors give AI systems a standardized way to reach an application’s data and functions. Building governance and permissions into those connectors rather than into each AI tool means access rules get enforced once at the source rather than reimplemented every time something new gets deployed. For a firm with a varied application portfolio, that is the difference between integration work that compounds and integration work that repeats.</p>
+
+
+
+<p class="wp-block-paragraph">With so many possible uses of AI, prioritizing projects required a system of its own. “We use a value tracker that aggregates the benefits of each project with a score and gives the teams a way to submit their requests,” Stutzman said. “Once a month, we go through all of those and look at what we think would be the most impactful to continue to work on.”</p>
+
+
+
+<p class="wp-block-paragraph">Sourcing feedback from the people that will be using the AI also helps shed light on any areas that are possibly being overlooked.  </p>
+
+
+
+<p class="wp-block-paragraph">Stutzman summaried his advice with one line of what the effort has taught him is less about technology than about sequencing. “Don’t fall into the trap of trying to boil the ocean.” Instead he advocates for short projects that can help expose where teh larger work will likely have to take place. “Take digestible chunks and think about how your overall architecture will help standardize the process,&#8221; he said. Fisher Brothers is hoping that their AI lab initiative will help them harness AI today that will help solve for the needs of tomorrow. </p>
+<p>The post <a href="https://propmodo.com/what-fisher-brothers-learned-building-ai-into-a-portfolio-with-legacy-systems/">What Fisher Brothers Learned Building AI Into a Portfolio With Legacy Systems</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2021/10/AREA15_main-1.jpg" />	</item>
+		<item>
 		<title>Rising Refinancing Costs Set to Divide Commercial Property Performance</title>
 		<link>https://propmodo.com/rising-refinancing-costs-set-to-divide-commercial-property-performance/</link>
 		
@@ -74,7 +359,7 @@
 					<description><![CDATA[<p>Authentic expertise matters more than production volume</p>
 <p>The post <a href="https://propmodo.com/real-estate-is-about-to-get-its-own-flood-of-ai-slop/">Real Estate Is About to Get Its Own Flood of AI Slop</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1791937058>1 hr 12 min ago</strong><span class="live-fdate">Oct. 13, 2026 5:17 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1791937058>2 days 22 hr ago</strong><span class="live-fdate">Oct. 13, 2026 5:17 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
 
 <h2 id="h-" class="wp-block-heading"></h2>
 
@@ -207,425 +492,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/real-estate-team.jpg" />	</item>
-		<item>
-		<title>DSCR Loans Pour Capital Into Distressed Urban Neighborhoods Left Behind by Banks</title>
-		<link>https://propmodo.com/dscr-loans-pour-capital-into-distressed-urban-neighborhoods-left-behind-by-banks/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 00:14:07 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181718</guid>
-
-					<description><![CDATA[<p>DSCR loans approve investors on rental income, not personal finances, flooding capital into East Cleveland, Baltimore, Detroit, and Memphis—but fraud risks loom.</p>
-<p>The post <a href="https://propmodo.com/dscr-loans-pour-capital-into-distressed-urban-neighborhoods-left-behind-by-banks/">DSCR Loans Pour Capital Into Distressed Urban Neighborhoods Left Behind by Banks</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Debt-service coverage ratio loans, introduced in the mid-2010s, approve borrowers based on a property&#8217;s rental income potential rather than the investor&#8217;s personal finances. Private lenders have deployed these mortgages across East Cleveland, Indianapolis, Baltimore, Detroit, and Memphis, enabling investors to buy and rehabilitate vacant properties in neighborhoods that traditional banks have avoided since the Great Depression-era redlining. Borrowers often provide no proof of personal income. Investors use short-term construction loans to acquire and fix properties, then refinance into 30-year DSCR mortgages if they cannot sell, converting to landlords in markets where rental demand far exceeds buyer demand.</p>
-
-
-
-<p class="wp-block-paragraph">Baltimore has cut its vacant building count by 30% since 2019, driven almost entirely by private capital flowing through DSCR products, according to the city&#8217;s former housing commissioner Michael Braverman. Detroit and Cleveland have posted similar vacancy reductions. In the ten most vacant ZIP codes of Cleveland, Baltimore, Detroit, and Memphis, flipping activity has outpaced wealthier neighborhoods since DSCR loans gained traction. Investors cite pricing as the draw: one Florida-based investor reported paying no more than $24,000 for a property around Cleveland, a fraction of costs in higher-priced markets.</p>
-
-
-
-<p class="wp-block-paragraph">Lax underwriting and minimal due diligence have attracted fraud in Baltimore and Philadelphia. A group of New York investors allegedly inflated property values to extract cash on hundreds of Baltimore vacants with minimal improvements, triggering defaults and foreclosures. A similar scheme collapsed in Philadelphia earlier this year. Private lending in Baltimore dropped 40% this year compared to last, and Philadelphia lending fell 19% over the 90 days ended September 11, according to Forecasa. Some lenders have exited both markets entirely.</p>
-
-
-
-<p class="wp-block-paragraph">Memphis investor Raymond Porter bought an abandoned Orange Mound home for $79,000, spent $20,000 on rehabilitation, and refinanced with a $110,000 DSCR mortgage to recoup costs and fund additional acquisitions. He rents the property for $1,400 per month. Orange Mound, believed to be the first U.S. neighborhood built for and by formerly enslaved people, has seen investors renovate vacants alongside community cleanups and returning former residents. Philadelphia investor Tabitha Giddens described the DSCR process as requiring far less paperwork than conventional mortgages, enabling her to hold a rehabbed West Philadelphia property as a rental.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/real-estate/new-mortgage-dscr-loan-d77ff640" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">A New Type of Mortgage Is Reviving Long Abandoned Neighborhoods</a></div></div>
-<p>The post <a href="https://propmodo.com/dscr-loans-pour-capital-into-distressed-urban-neighborhoods-left-behind-by-banks/">DSCR Loans Pour Capital Into Distressed Urban Neighborhoods Left Behind by Banks</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
-		<item>
-		<title>The Legal Challenge That Forced the SEC to Reconsider Its Climate Rules</title>
-		<link>https://propmodo.com/the-legal-challenge-that-forced-the-sec-to-reconsider-its-climate-rules/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 23:36:57 +0000</pubDate>
-				<category><![CDATA[Federal Policy]]></category>
-		<category><![CDATA[Law]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[REIT]]></category>
-		<category><![CDATA[Sustainability]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181708</guid>
-
-					<description><![CDATA[<p>The SEC moves to rescind its 2024 climate disclosure rules, reigniting debate over agency authority, investor needs, and corporate reporting.</p>
-<p>The post <a href="https://propmodo.com/the-legal-challenge-that-forced-the-sec-to-reconsider-its-climate-rules/">The Legal Challenge That Forced the SEC to Reconsider Its Climate Rules</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The Securities and Exchange Commission adopted climate disclosure rules in March of 2024 by a three-to-two vote, following two years of rulemaking and more than 20,000 public comments. Public companies would have been required to report greenhouse gas emissions, describe climate-related business risks on a forward-looking basis, and detail whatever steps they were taking to mitigate those risks.</p>
-
-
-
-<p class="wp-block-paragraph">The rules never took effect. Legal challenges arrived almost immediately. The SEC never implemented the rules and on June 3 the Commission published a proposal to rescind the framework in its entirety.&nbsp;</p>
-
-
-
-<p class="wp-block-paragraph">The SEC&#8217;s stated reasoning covers both authority and policy. The proposal says the rules exceed the scope of the agency&#8217;s statutory authority, and adds that even if the authority existed, the rules impose substantial costs on public companies and their shareholders that are not justified by the informational benefits, stray well beyond the policy concerns of the federal securities laws, and conflict with the Commission&#8217;s objectives around capital formation.</p>
-
-
-
-<p class="wp-block-paragraph">For the organizations that brought the challenge, a withdrawal on policy grounds is not sufficient.</p>
-
-
-
-<p class="wp-block-paragraph">The New Civil Liberties Alliance represents the National Center for Public Policy Research in <em>National Center for Public Policy Research v. SEC</em>, a case that prompted the Commission to revisit the rules. Both organizations filed comments urging the SEC to rescind and to acknowledge that it lacked statutory authority from the beginning.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;The SEC was given broad authority to regulate the stock market but it was never authorized to be an environmental regulator,&#8221; said Alana Black, Senior Litigation Counsel at NCLA. &#8220;We have another authority for that, the EPA.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">The statutory argument turns on language written in response to the Crash of 1929. The securities laws authorize the SEC to require disclosure of business and financial information necessary or appropriate in the public interest or for the protection of investors. NCLA&#8217;s position is that climate information falls outside that grant, and that reading it otherwise stretches the statute past what Congress wrote.</p>
-
-
-
-<p class="wp-block-paragraph">Two recent developments strengthen that argument considerably. The Supreme Court&#8217;s Major Questions Doctrine holds that agencies need clear congressional authorization before taking actions of major economic and political significance, and climate disclosure requirements for every public company in the country would seem to qualify. Congress has considered climate disclosure legislation repeatedly and never passed it. Separately, NCLA&#8217;s win in <em>Relentless, Inc. v. Department of Commerce</em> ended <em>Chevron</em> deference, which means courts may no longer defer to an agency&#8217;s own interpretation of an ambiguous statute. An expansive reading of the Securities Act would have to persuade a judge on its merits.</p>
-
-
-
-<p class="wp-block-paragraph">Black said the organization deliberately narrowed its focus to the authority question rather than arguing the merits of the policy.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;There are certainly good policy arguments against this rule but we wanted to focus on the authority,&#8221; she said. &#8220;It is a huge burden to make these companies comply, so we need to know that the SEC is allowed to force companies to do things like this.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">A rescission grounded in policy can be reversed by a future Commission with different policy preferences. A rescission that concedes the agency never had authority is considerably harder to undo, because the next Commission would have to explain what changed about the statute.</p>
-
-
-
-<p class="wp-block-paragraph">That durability question is the reason the comments emphasize it, and Black expects the political window to close quickly.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;I would be shocked if we don&#8217;t get a rule change before the next presidential election,&#8221; she said.</p>
-
-
-
-<p class="wp-block-paragraph">NCLA&#8217;s broader project is constraining administrative agencies rather than opposing any particular regulation. The organization previously led the successful challenge to the SEC&#8217;s Nasdaq board diversity rules, and it argues the climate rules share the same defect.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;We want the SEC to not only revoke the rules but to do it in a way that acknowledges that the rules were outside the authority in the beginning,&#8221; Black said.</p>
-
-
-
-<p class="wp-block-paragraph">The opposing position, advanced by institutional investors, state pension funds, and sustainability-focused asset managers, is that climate exposure is financial information and that existing materiality standards have not produced consistent or comparable reporting. Supporters of the 2024 rules argued that investors managing long-duration portfolios need standardized emissions and physical risk data to price assets, and that voluntary frameworks have produced disclosure too varied to compare across companies. Several SEC commissioners made versions of that argument when the rules passed.</p>
-
-
-
-<p class="wp-block-paragraph">If the rules are dropped, publicly traded REITs would lose a federal reporting obligation that never actually took effect, but the other sources of disclosure pressure remain. California&#8217;s climate disclosure laws apply to companies doing business in the state above certain revenue thresholds regardless of what the SEC does. The EU&#8217;s sustainability reporting directive reaches companies with European operations. Lenders increasingly ask for emissions and physical risk data as part of underwriting, and large institutional investors have their own reporting requirements that flow through to the assets they hold.</p>
-
-
-
-<p class="wp-block-paragraph">Local building performance standards operate on an entirely separate track. New York&#8217;s Local Law 97 and comparable ordinances in Boston, Denver, Seattle, and a growing list of other cities impose emissions caps on buildings directly, with penalties that do not depend on any federal framework.</p>
-
-
-
-<p class="wp-block-paragraph">What the SEC proceeding will settle is whether the federal securities regulator can require this category of disclosure at all. The answer shapes what any future Commission can attempt, which is why both sides are treating a rule that never took effect as worth the fight.</p>
-<p>The post <a href="https://propmodo.com/the-legal-challenge-that-forced-the-sec-to-reconsider-its-climate-rules/">The Legal Challenge That Forced the SEC to Reconsider Its Climate Rules</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/04/sec-climate.jpg" />	</item>
-		<item>
-		<title>European Landlords Exit Prime Office Holdings as Rate Outlook Darkens</title>
-		<link>https://propmodo.com/european-landlords-exit-prime-office-holdings-as-rate-outlook-darkens/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 12 Oct 2026 17:34:32 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181710</guid>
-
-					<description><![CDATA[<p>Major European landlords including Blackstone and Commerz Real are marketing office assets as bond yields reach multi-decade highs and redemption pressure mounts.</p>
-<p>The post <a href="https://propmodo.com/european-landlords-exit-prime-office-holdings-as-rate-outlook-darkens/">European Landlords Exit Prime Office Holdings as Rate Outlook Darkens</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Blackstone is marketing a pair of vacant Paris office buildings it developed near Porte de la Chapelle, roughly six years after completion. BNP Paribas provided a €100 million loan for the €180 million project, later extending the debt for three years in 2023. Blackstone has written off its equity and the sale is proceeding with lender consent. Separately, Commerz Real Fund Management appointed Newmark to sell Etoile Saint Honoré, a central Paris office valued at roughly €500 million, while CPI Property Group&#8217;s Immofinanz unit is marketing the Spire tower in Warsaw.</p>
-
-
-
-<p class="wp-block-paragraph">Commerz Real&#8217;s HausInvest fund recorded more than €600 million in redemptions in the first seven months of 2024, with full-year outflows expected to reach €900 million. German open-ended real estate funds have faced persistent investor withdrawals as clients anticipate further valuation declines. CPI Property Group is selling to reduce leverage ratios that have expanded as property values fell; the company sold a London office development to the Perrodo family earlier this year. JPMorgan Asset Management is also preparing to market a Paris office leased to Barclays for about €250 million.</p>
-
-
-
-<p class="wp-block-paragraph">Government bond yields across major European markets hit multi-decade highs as 42,000 attendees gathered at the Expo Real conference in Munich this week. Some investors have grown impatient waiting for better market conditions; others face loan maturity deadlines or redemption pressure. Rents for top-tier buildings continue to rise, offering a bull case for buyers willing to accept higher financing costs. Brokers say investors now view European real estate primarily as an income and income growth strategy rather than a capital appreciation bet.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-10-11/europe-real-estate-office-sales-shows-fading-hope-of-better-times" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Spate of European Office Sales Shows Fading Hope of Better Times</a></div></div>
-<p>The post <a href="https://propmodo.com/european-landlords-exit-prime-office-holdings-as-rate-outlook-darkens/">European Landlords Exit Prime Office Holdings as Rate Outlook Darkens</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
-		<item>
-		<title>Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</title>
-		<link>https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 21:25:23 +0000</pubDate>
-				<category><![CDATA[Partner Content]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Hitech i2i]]></category>
-		<category><![CDATA[sponsored]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181661</guid>
-
-					<description><![CDATA[<p>Why do commercial real estate AI pilots fail? Explore how data quality, verification costs, domain models, and workflows determine success.</p>
-<p>The post <a href="https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/">Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The speed of AI adoption in commercial real estate has been remarkable by any measure. JLL&#8217;s 2025 Global Real Estate Technology Survey, which gathered responses from more than 1,000 senior CRE decision-makers across 16 markets, found that the share of teams piloting real estate AI jumped from under 5% to 92% in three years. Occupiers are running an average of five real estate AI pilots simultaneously across roughly 27 identified use cases. Technology budgets have been reorganized around AI initiatives, with the top five spending priorities all tied to implementing <a href="https://www.hitechi2i.com/real-estate-data-platforms/" target="_blank" rel="noreferrer noopener">AI in commercial real estate</a> or preparing for its impact.</p>
-
-
-
-<p class="wp-block-paragraph">The results have not kept pace with the enthusiasm. Only 5% of organizations report having achieved most of their program goals. The rest are still experimenting, still evaluating, or quietly shelving projects that never produced what the business case promised. The gap is rarely about whether AI can perform a task. It is about what happens after a pilot works, turning a promising proof of concept into a reliable, scalable, and economically viable production workflow. That gap is where the real failure patterns repeat, across companies, property types, and vendors.</p>
-
-
-
-<p class="wp-block-paragraph">Before any of that gets diagnosed, most teams skip a step, establishing a baseline. Without a clear read on current cost, turnaround time, accuracy, manual effort, and exception rates, it is hard to prove a pilot moved the needle, let alone build the case to scale it. That baseline should exist before the technology conversation starts, and it is the benchmark every failure pattern below gets measured against.</p>
-
-
-
-<h2 id="h-real-estate-data-quality-can-make-or-break-an-ai-pilot" class="wp-block-heading">Real Estate Data Quality Can Make or Break an AI Pilot</h2>
-
-
-
-<p class="wp-block-paragraph">The most frequent point of failure is not the model. It is what the model is reading.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;One of the biggest reasons that AI pilots fail is inaccurate data,&#8221; said Snehal Joshi, Head of Data Solutions at <a href="https://www.hitechi2i.com/" target="_blank" rel="noreferrer noopener">Hitech i2i</a>. &#8220;Many solutions are not able to produce the level of accuracy that they claim, when this happens there will always be disappointment.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">The JLL data supports that diagnosis. More than 60% of companies must address fundamental technology issues such as duplicated functionality or dormant systems before they can fully leverage AI, and 81% report at least three existing systems that are not generating expected results. Those conditions do not disappear when an AI tool is layered on top of them. They propagate.</p>
-
-
-
-<p class="wp-block-paragraph">A pilot designed to prove that AI can <a href="https://www.hitechi2i.com/ai-data-extraction/" target="_blank" rel="noreferrer noopener">extract data from property records</a> will produce output quality that reflects the source material. When the inputs are inconsistent, incomplete, or structured differently across jurisdictions, the accuracy falls below what was promised in the demo, and the project loses credibility with the stakeholders who approved it.</p>
-
-
-
-<h2 id="h-knowing-when-ai-is-wrong-matters-more-than-being-right" class="wp-block-heading">Knowing When AI Is Wrong Matters More Than Being Right</h2>
-
-
-
-<p class="wp-block-paragraph">Every AI system produces errors at some rate. That is documented, expected, and manageable. What determines whether a pilot survives is whether the system can identify which outputs are likely to be wrong.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;Some models will tell you that a certain amount of its answers are inaccurate but for it to be useful it has to tell you when of the values are the ones you have to check,&#8221; Joshi said.</p>
-
-
-
-<p class="wp-block-paragraph">An aggregate accuracy rate is not actionable. A model reporting 94% accuracy across a batch of lease abstractions tells a reviewer nothing about which 6% require attention, which means either every output gets reviewed or none of them do. Neither option works. Reviewing everything eliminates the efficiency gain. Reviewing nothing exposes the organization to errors in financial models, title work, and compliance filings.</p>
-
-
-
-<h2 id="h-when-verification-costs-more-than-the-manual-process" class="wp-block-heading">When Verification Costs More Than the Manual Process</h2>
-
-
-
-<p class="wp-block-paragraph">The verification problem is where a surprising number of pilots die on economics rather than performance.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;Some of the AI solutions don&#8217;t provide enough savings compared to the manual process and once you add in double-checking the model it might even cost more,&#8221; Joshi said.</p>
-
-
-
-<p class="wp-block-paragraph">This is the calculation that rarely appears in a pilot proposal. A tool that processes documents faster than a human still requires someone to confirm the results, and if that confirmation takes nearly as long as the original work, the net savings approach zero. Add the cost of the software itself and the implementation effort, and the pilot ends up demonstrating that the old process was cheaper.</p>
-
-
-
-<p class="wp-block-paragraph">Budget pressure makes this worse. JLL found that 65% of organizations have experienced CRE tech budget constraints over the past two years, and that ROI expectations have tightened, requiring more extensive business case development before approval. A pilot that cannot show clear savings does not get funded for a second phase.</p>
-
-
-
-<h2 id="h-confidence-scoring-turns-verification-into-an-exception-queue" class="wp-block-heading">Confidence Scoring Turns Verification Into an Exception Queue</h2>
-
-
-
-<p class="wp-block-paragraph">One practical way to solve the verification problem is field-level confidence scoring, paired with validation rules and cross-checks. Running multiple models against the same document set and flagging where they diverge is one input into that score, not the whole architecture.</p>
-
-
-
-<p class="wp-block-paragraph">When two independently trained systems produce the same value, confidence in that value is considerably higher than when either produces it alone. When they disagree, that disagreement becomes the review queue. Instead of examining everything, reviewers examine the specific fields where the models could not reach the same conclusion.</p>
-
-
-
-<p class="wp-block-paragraph">Over time, that process generates something more valuable than the individual corrections.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;You can also create a confidence score at the value level and then benchmark those scores,&#8221; Joshi said. &#8220;Over time you can start to not check data with a high enough score.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">The sample size accumulated through parallel processing allows an organization to calibrate its thresholds empirically rather than by guesswork. If values scoring above a certain level have proven accurate across thousands of documents, those values can pass through without review. The verification burden shrinks as the evidence base grows, which is what turns a pilot&#8217;s economics from marginal into compelling.</p>
-
-
-
-<h2 id="h-generic-models-do-not-understand-real-estate-documents" class="wp-block-heading">Generic Models Do Not Understand Real Estate Documents</h2>
-
-
-
-<p class="wp-block-paragraph">The choice of model also affects how often the verification problem arises in the first place.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;Most of the models are generic, they are more likely they will hallucinate at some point,&#8221; Joshi said. &#8220;We have models specific for real estate documents to fine tune the model so it can really understand the nuances.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">Subdivision is a useful illustration. A <a href="https://www.hitechi2i.com/guide/usa-real-estate-property-record-types/" target="_blank" rel="noreferrer noopener">property record</a> may present what looks like a single property, and a generic model reading it will extract it as one. A model trained on real estate documents should recognize from context that the property has been divided into multiple parcels, each with its own legal description, its own tax identifier, and potentially its own ownership. Missing that distinction produces a record that is confidently wrong in a way that is difficult to catch downstream, because nothing about the extracted output signals that anything was missed.</p>
-
-
-
-<p class="wp-block-paragraph">Production systems need more than a capable model. They need domain context, real-estate-specific evaluation, validation rules, and training against actual edge cases like this one, built from the document types, terminology, and structural conventions real estate records actually use.</p>
-
-
-
-<h2 id="h-production-ai-requires-an-operating-model-not-just-software" class="wp-block-heading">Production AI Requires an Operating Model, Not Just Software</h2>
-
-
-
-<p class="wp-block-paragraph">The last failure pattern is organizational rather than technical. Companies treat an AI deployment as a product purchase when it functions more like an ongoing service relationship.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;Most solutions are only offering the tech but the service that goes along with the tech is so important,&#8221; Joshi said. &#8220;What most people want is an end-to-end solution, the tech and the human in the loop.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">The comparison to SaaS is instructive. Enterprise software purchases come with implementation support, configuration assistance, training, and ongoing account management, because the industry learned that shipping a login and walking away produces low adoption and high churn. AI deployments carry all of those requirements and add several more. Models need monitoring. Confidence thresholds need recalibration as document mixes change. Exception handling requires people who understand both the technology and the underlying real estate context.</p>
-
-
-
-<p class="wp-block-paragraph">JLL found that only 33% of the workforce feels adequately trained on AI, and that 70% of occupiers use multiple sourcing strategies including external partnerships to fill capability gaps. Organizations that buy the technology without the supporting service end up staffing those functions internally, usually without having budgeted for them.</p>
-
-
-
-<h2 id="h-what-the-successful-pilots-have-in-common" class="wp-block-heading">What the Successful Pilots Have in Common</h2>
-
-
-
-<p class="wp-block-paragraph">The 5% that reach their goals are not working with fundamentally better models. They are working with better preparation.</p>
-
-
-
-<p class="wp-block-paragraph">They have cleaned and structured the data before the pilot begins rather than expecting the AI to compensate for what is missing. They have built verification into the workflow through confidence scoring rather than bolting it on afterward. They have selected models suited to the documents they actually process. And they have treated the vendor relationship as ongoing rather than transactional, with support that extends past implementation into operation.</p>
-
-
-
-<p class="wp-block-paragraph">Before scaling a real estate AI pilot, leaders should be able to answer five questions. Can we measure the baseline? Can we trust the output? Can we identify exceptions efficiently? Does the economics still work after human review? Can the solution operate reliably within the production workflow?</p>
-
-
-
-<p class="wp-block-paragraph">None of that is glamorous, and none of it appears in a product demonstration. It is the difference between a pilot that produces a presentation and one that produces a process the organization keeps using after the pilot period ends. The expectations the real estate industry has placed on AI are not unreasonable. Meeting them mostly depends on work that happens before the technology ever gets switched on.</p>
-<p>The post <a href="https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/">Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/data-ai-pilots.jpg" />	</item>
-		<item>
-		<title>Dear CRE Brokers, Stop Making Bad Software Work</title>
-		<link>https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/</link>
-		
-		<dc:creator><![CDATA[Aaron Aziz]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 02:08:54 +0000</pubDate>
-				<category><![CDATA[Perspectives]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[CRM]]></category>
-		<category><![CDATA[Data Architecture]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181697</guid>
-
-					<description><![CDATA[<p>Commercial real estate brokers often force ill-fitting CRM software to work. Learn how to audit workflows and choose tools built for complex CRE deals.</p>
-<p>The post <a href="https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/">Dear CRE Brokers, Stop Making Bad Software Work</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The best brokers I know all have the same strange habit: they can make bad software work. Give a top producer a CRM built for residential agents, or a platform built for landlords, and they&#8217;ll bend it, patch it, and run their whole business through it without complaining. It looks like a strength. It&#8217;s the reason our industry keeps buying tools that were never built for us. The problem never gets fixed, because the best of us are too good at dealing with whatever gets put in front of us.</p>
-
-
-
-<p class="wp-block-paragraph">Here&#8217;s the simple fact that habit hides: almost every tool a commercial broker uses was designed for someone whose job isn&#8217;t ours. The CRMs most of us start with were built for residential agents or sales teams. They assume a deal is fast, has one counterparty, and moves in a straight line to a close. The CRE tools built on top of them mostly just bolt real estate features onto that same logic. None of it was built around what we actually do: a months-long negotiation between four parties over free rent, TI, escalations, and options. That&#8217;s not a discipline problem. It&#8217;s a design problem. And after more than a decade leasing space in New York, I&#8217;ve learned you must break the habit on purpose. Here&#8217;s what I have found to work.</p>
-
-
-
-<p class="wp-block-paragraph">Start by figuring out where your deals actually live. Before you look at any new tool, spend one honest week paying attention. Every time you need something about an active deal, write down where you found it. The CRM? A spreadsheet? An email thread? A text? Your own head? Most brokers who do this find the same thing. The system they pay for holds names and addresses. Everything that decides whether a deal closes — whose turn it is, what the landlord will really take, why the tenant rep went quiet — lives somewhere else. That list is what you&#8217;re shopping for. Not features. A home for the stuff currently living in your head.</p>
-
-
-
-<p class="wp-block-paragraph">Next, look hard at your workarounds. Every spreadsheet you keep next to your CRM is proof the CRM failed you. Write them down. The commission tracker you keep separately. The deal-status column your software has no field for. The follow-up reminders you run through your calendar because the CRM&#8217;s reminders don&#8217;t match how deals stop and start. Once you can name your workarounds, you can walk into a demo with a real test instead of nodding along at a feature tour.</p>
-
-
-
-<p class="wp-block-paragraph">At the demo, ask one question before anything else: who were your first hundred customers? Feature lists all sound the same on a sales call. Where the product came from does not. If the honest answer is residential teams, or software sales departments, or big landlords, now you know whose business the product was really built for. And to be fair, there&#8217;s serious software in this industry. Some of it organized a huge part of commercial real estate over a decade ago, and it&#8217;s good at what it does. But a lot of the best CRE tech was built for the owner and the asset manager looking down at a portfolio. In those systems, the broker isn&#8217;t the customer. The broker is a data source, filling in a report someone else reads. That&#8217;s not a knock. It&#8217;s a fit question. And the vendor&#8217;s origin story answers it faster than their feature list ever will.</p>
-
-
-
-<p class="wp-block-paragraph">Then put the demo through a real stress test. Every vendor shows you the happy path. Lead comes in, stages move, deal closes. That&#8217;s not our business. Our deals stall, restart, and break in ways no pipeline was drawn for. They sit in attorney review for weeks. They go quiet and come back to life. They fall apart at the finish line over a clause nobody saw coming. Pick one of yours that did, and ask the salesperson to walk you through exactly how their system would have tracked it, step by step. Watch how fast the demo slows down. If the salesperson has to improvise, the software will make you improvise too, every single day.</p>
-
-
-
-<p class="wp-block-paragraph">Last, look at what this habit costs the whole firm, not just your desk. I&#8217;ve watched good agents lose deals for reasons that had nothing to do with skill. They lost track of whose turn it was. A strong lead emailed in and never got entered, because something &#8220;more important&#8221; hit at the same moment. I&#8217;ve seen brokers who couldn&#8217;t capture big parts of their own deals because the software had nowhere to put them. None of those deals died over price or terms. They died over tracking. Now multiply that across a whole shop. Every agent keeping private spreadsheets. Deal data scattered across files nobody else can see. The firm can&#8217;t even look at its own pipeline. In a business where a great year and a flat year come down to a handful of deals, &#8220;good enough&#8221; software quietly takes a cut of every one. If you run a team, do the one-week audit together. The patterns across five agents&#8217; workarounds are your firm&#8217;s real requirements, written by the people living in the tools every day.</p>
-
-
-
-<p class="wp-block-paragraph">I finally got tired enough of bending borrowed tools that I partnered with a developer and built one around how the business actually flows called Leasync. It may not be the right fit for every broker, but it exists because I couldn&#8217;t find a platform built just for brokers, and I knew one needed to exist.</p>
-
-
-
-<p class="wp-block-paragraph">So next time someone demos a platform for you, don&#8217;t ask whether you can make it work. You&#8217;re a broker. You can make anything work. That&#8217;s the trap. &#8220;I made it work&#8221; is how you end up a year deep in software that was never built for you. Figure out where your deals actually live. Turn your workarounds into a shopping list. Ask who it was built for. Put it through a real stress test. Then decide. The habit that makes you great at closing is the same one that keeps you loyal to tools that fight you. Breaking it starts with refusing to be impressed by how well you can cope.</p>
-<p>The post <a href="https://propmodo.com/dear-cre-brokers-stop-making-bad-software-work/">Dear CRE Brokers, Stop Making Bad Software Work</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/broker-software.jpg" />	</item>
-		<item>
-		<title>Federal Probe Challenges Race-Based Mortgage Programs at Major Lender</title>
-		<link>https://propmodo.com/federal-probe-challenges-race-based-mortgage-programs-at-major-lender/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 01:57:57 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181699</guid>
-
-					<description><![CDATA[<p>HUD opens probe into Wells Fargo's race-based mortgage programs, questioning whether efforts to boost Black homeownership violated fair-lending laws.</p>
-<p>The post <a href="https://propmodo.com/federal-probe-challenges-race-based-mortgage-programs-at-major-lender/">Federal Probe Challenges Race-Based Mortgage Programs at Major Lender</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The Department of Housing and Urban Development opened an investigation into Wells Fargo&#8217;s programs designed to increase Black homeownership, questioning whether the bank violated fair-lending laws by offering products or terms based on race. HUD sent a letter to CEO Charlie Scharf on Wednesday stating the agency would examine whether the bank engaged in illegal &#8220;sorting&#8221; of homeowners. Secretary Scott Turner said HUD is reviewing similar initiatives at other banks.</p>
-
-
-
-<p class="wp-block-paragraph">Wells Fargo committed $60 billion in 2017 to help add 250,000 Black homeowners by 2027, then expanded the program in 2022 to refinance minority homes using its own capital. The bank scaled back its mortgage business broadly in early 2023 but maintained its racial equity pledge. By late 2023, Wells Fargo had achieved about 40 percent of its initial lending commitment and refinanced roughly 5,100 customers with average monthly savings of $100. The bank has since removed its 2023 racial-equity assessment from its website.</p>
-
-
-
-<p class="wp-block-paragraph">The investigation reflects a broader shift in how the administration views programs launched or expanded after 2020, when companies responded to social unrest and investor pressure. IBM and Deloitte paid multimillion-dollar fines last year to settle claims they defrauded the government by considering diversity in hiring and promotion decisions. Black homeownership stood at 46 percent in 2024, compared with 73 percent for white households, according to Pew Research Center.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership</a></div></div>
-<p>The post <a href="https://propmodo.com/federal-probe-challenges-race-based-mortgage-programs-at-major-lender/">Federal Probe Challenges Race-Based Mortgage Programs at Major Lender</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
 	</channel>
 </rss>
