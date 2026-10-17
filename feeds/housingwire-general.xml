@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Thu, 15 Oct 2026 23:10:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Oct 2026 20:04:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,220 +28,223 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Beazer Homes stockholders approve $2.2B sale to Dream Finders</title>
-		<link>https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/</link>
-					<comments>https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/#respond</comments>
+		<title>Real, Compass, SERHANT. add teams; Baird &#038; Warner picks COO</title>
+		<link>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/</link>
+					<comments>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 23:10:24 +0000</pubDate>
+		<pubDate>Fri, 16 Oct 2026 20:04:43 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Keller Williams]]></category>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607649</guid>
+
+					<description><![CDATA[<p>Christies International Real Estate expands in New Jersey</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607649</post-id>	</item>
+		<item>
+		<title>Compass takes CRMLS fight to court and promises to cover agent fines</title>
+		<link>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/</link>
+					<comments>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 19:45:10 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[California Regional MLS]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Robert Reffkin]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607693</guid>
+
+					<description><![CDATA[<p>Complaint alleges fines up to $2,500 for public marketing outside the MLS when clients direct it in writing</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607693</post-id>	</item>
+		<item>
+		<title>First Horizon sells $4.5B mortgage portfolio at discount</title>
+		<link>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/</link>
+					<comments>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 18:43:22 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MBS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607671</guid>
+
+					<description><![CDATA[<p>Bank is moving to align its mortgage production more closely with core relationship clients</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607671</post-id>	</item>
+		<item>
+		<title>Disruption can distract brokerage leaders from consumer expectations</title>
+		<link>https://www.housingwire.com/articles/disruption-consumer-expectations/</link>
+					<comments>https://www.housingwire.com/articles/disruption-consumer-expectations/#respond</comments>
+		
+		<dc:creator><![CDATA[Thomas Downing]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 17:41:10 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Consumer Protection]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607465</guid>
+
+					<description><![CDATA[<p>Lessons from deregulation, software shifts, wireless competition, and patient consumerism point to a consistent pattern, choice changes behavior</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/disruption-consumer-expectations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607465</post-id>	</item>
+		<item>
+		<title>Fannie Mae slashes 2027 mortgage forecast amid higher rates</title>
+		<link>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/</link>
+					<comments>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 16:03:54 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607631</guid>
+
+					<description><![CDATA[<p>Refinance activity takes the brunt of the revision </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607631</post-id>	</item>
+		<item>
+		<title>Dark Matter promotes three executives to senior leadership roles</title>
+		<link>https://www.housingwire.com/articles/dark-matter-promotes-leadership/</link>
+					<comments>https://www.housingwire.com/articles/dark-matter-promotes-leadership/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 14:47:24 +0000</pubDate>
+				<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Dark Matter Technologies]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607627</guid>
+
+					<description><![CDATA[<p>The company promoted three executives into CTO, CFO, legal roles</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/dark-matter-promotes-leadership/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607627</post-id>	</item>
+		<item>
+		<title>Candidates pitch housing affordability fixes as a midterm gambit</title>
+		<link>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/</link>
+					<comments>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 14:13:16 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607550</guid>
+
+					<description><![CDATA[<p>Candidates pair pro-supply policies with populist proposals like investor limits, LIHTC expansion and down payment help</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607550</post-id>	</item>
+		<item>
+		<title>AI voice agents target real estate’s next conversion opportunity</title>
+		<link>https://www.housingwire.com/articles/ai-voice-real-estate-leads/</link>
+					<comments>https://www.housingwire.com/articles/ai-voice-real-estate-leads/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607268</guid>
+
+					<description><![CDATA[<p>CINC’s Jeff Walker says the priority is recognizing lead intent during a 12-month sales cycle and acting at the right moment</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ai-voice-real-estate-leads/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607268</post-id>	</item>
+		<item>
+		<title>Housing M&#038;A shifts as global capital retargets residential futures</title>
+		<link>https://www.housingwire.com/articles/housing-ma-global-capital/</link>
+					<comments>https://www.housingwire.com/articles/housing-ma-global-capital/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 10:50:31 +0000</pubDate>
 				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607583</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607592</guid>
 
-					<description><![CDATA[<p>The all-cash deal is now expected to close on October 20</p>]]></description>
+					<description><![CDATA[<p>Zelman data shows housing M&amp;A deal value up 56% through Aug. 2026 while investment grade issuance fell 71%</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/beazer-homes-dream-finders-approval/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-ma-global-capital/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607583</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607592</post-id>	</item>
 		<item>
-		<title>New York 485-x filings cluster at 99 units to avoid wage rule</title>
-		<link>https://www.housingwire.com/articles/new-york-485x-99-units/</link>
-					<comments>https://www.housingwire.com/articles/new-york-485x-99-units/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 21:28:42 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York City]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607545</guid>
-
-					<description><![CDATA[<p>Latent Urban found 49 registered projects at exactly 99 units across the April and October releases</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/new-york-485x-99-units/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607545</post-id>	</item>
-		<item>
-		<title>Surging jobsite raids put 370,000 new home completions at risk</title>
-		<link>https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/</link>
-					<comments>https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 21:15:38 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Construction]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607547</guid>
-
-					<description><![CDATA[<p>Census data show 256,000 homes under construction and 114,000 not started, as builders push for year end completions</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/immigration-enforcement-home-pipeline-risk/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607547</post-id>	</item>
-		<item>
-		<title>Homa raises $5M to expand across California, add mortgage lending</title>
-		<link>https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/</link>
-					<comments>https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 21:03:56 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[California]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607536</guid>
-
-					<description><![CDATA[<p>The brokerage, also live in Florida and Texas, offers buyers up to 2% of the purchase price back at closing </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/homa-raises-5m-expand-ai-homebuying-platform/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607536</post-id>	</item>
-		<item>
-		<title>Mortgage industry reacts to Pulte&#8217;s absence at MBA Annual</title>
-		<link>https://www.housingwire.com/articles/pulte-mba-annual-reacts/</link>
-					<comments>https://www.housingwire.com/articles/pulte-mba-annual-reacts/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 20:47:14 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[Bill Pulte]]></category>
-		<category><![CDATA[FHFA]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607534</guid>
-
-					<description><![CDATA[<p>MBA said 3,700 attendees still gathered in Chicago as FHFA director cited travel tied to housing funds</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/pulte-mba-annual-reacts/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607534</post-id>	</item>
-		<item>
-		<title>MLSs race to set AI guardrails before data slips beyond their control</title>
-		<link>https://www.housingwire.com/articles/mls-listing-data-ai-governance/</link>
-					<comments>https://www.housingwire.com/articles/mls-listing-data-ai-governance/#respond</comments>
+		<title>Could your lead-gen and referral practices face FTC scrutiny? Senators want a closer look</title>
+		<link>https://www.housingwire.com/articles/ftc-online-real-estate-practices/</link>
+					<comments>https://www.housingwire.com/articles/ftc-online-real-estate-practices/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 20:37:42 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
+		<pubDate>Fri, 16 Oct 2026 10:40:13 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[CMLS]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Elizabeth Warren]]></category>
+		<category><![CDATA[Federal Trade Commission]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Northwest MLS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607520</guid>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607586</guid>
 
-					<description><![CDATA[<p>As agents feed large MLS datasets into LLMs for CMAs, MLSs weigh closed-loop tools and new governance layers</p>]]></description>
+					<description><![CDATA[<p>Letter cites lead gen referrals, mortgage steering, and office exclusive listings as affordability pressures</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mls-listing-data-ai-governance/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/ftc-online-real-estate-practices/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607520</post-id>	</item>
-		<item>
-		<title>What midterms could mean for Realtors and the housing market</title>
-		<link>https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/</link>
-					<comments>https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 19:37:43 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Congress]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607496</guid>
-
-					<description><![CDATA[<p>Data points to close races to determine razor thin Senate and House majorities </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/what-midterms-could-mean-for-realtors-and-the-housing-market/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607496</post-id>	</item>
-		<item>
-		<title>Will home equity investments take flight once their regulatory status is resolved?</title>
-		<link>https://www.housingwire.com/articles/home-equity-investments-regulation/</link>
-					<comments>https://www.housingwire.com/articles/home-equity-investments-regulation/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 19:05:04 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Home Equity]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Point]]></category>
-		<category><![CDATA[Regulatory Compliance]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607416</guid>
-
-					<description><![CDATA[<p>With the MBA forecasting mortgage volume below $2 trillion in 2027, Point is framing HEIs as a viable business alternative</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/home-equity-investments-regulation/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607416</post-id>	</item>
-		<item>
-		<title>New American Funding adds Mullinix Mortgage Group</title>
-		<link>https://www.housingwire.com/articles/new-american-funding-mullinix-mortgage-group/</link>
-					<comments>https://www.housingwire.com/articles/new-american-funding-mullinix-mortgage-group/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 17:31:06 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Loan Officer]]></category>
-		<category><![CDATA[New American Funding]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607471</guid>
-
-					<description><![CDATA[<p>Mullinix ranked No. 32 on HousingWire’s Top Purchase Originators list with $197.2 million across 355 units</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/new-american-funding-mullinix-mortgage-group/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607471</post-id>	</item>
-		<item>
-		<title>Did mortgage rates just peak or is this some bond market madness?</title>
-		<link>https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/</link>
-					<comments>https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 17:24:08 +0000</pubDate>
-				<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607468</guid>
-
-					<description><![CDATA[<p>In the last 48 hours, we got two very hot inflation reports, positive retail sales, rising oil prices and historically low jobless claims</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/did-mortgage-rates-just-peak-or-is-this-some-bond-market-madness/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607468</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607586</post-id>	</item>
 	</channel>
 </rss>
