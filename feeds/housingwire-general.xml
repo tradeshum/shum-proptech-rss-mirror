@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 16 Oct 2026 20:04:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Oct 2026 22:40:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Can mortgage rates get under 7% for the holidays? </title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2026 20:31:02 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607713</guid>
+
+					<description><![CDATA[<p>A path back below 7% exists, but spreads and geopolitics still matter</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607713</post-id>	</item>
+		<item>
 		<title>Real, Compass, SERHANT. add teams; Baird &#038; Warner picks COO</title>
 		<link>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/</link>
 					<comments>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/#respond</comments>
@@ -223,28 +243,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">607592</post-id>	</item>
-		<item>
-		<title>Could your lead-gen and referral practices face FTC scrutiny? Senators want a closer look</title>
-		<link>https://www.housingwire.com/articles/ftc-online-real-estate-practices/</link>
-					<comments>https://www.housingwire.com/articles/ftc-online-real-estate-practices/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 10:40:13 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Elizabeth Warren]]></category>
-		<category><![CDATA[Federal Trade Commission]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Zillow]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607586</guid>
-
-					<description><![CDATA[<p>Letter cites lead gen referrals, mortgage steering, and office exclusive listings as affordability pressures</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ftc-online-real-estate-practices/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607586</post-id>	</item>
 	</channel>
 </rss>
