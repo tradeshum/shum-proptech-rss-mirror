@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 17 Oct 2026 22:40:48 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Oct 2026 14:26:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Voters seize the ‘say’ in key state battles for housing affordability</title>
+		<link>https://www.housingwire.com/articles/housing-ballot-measures-3-states/</link>
+					<comments>https://www.housingwire.com/articles/housing-ballot-measures-3-states/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 14:26:30 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Reform]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607705</guid>
+
+					<description><![CDATA[<p>California voting on new housing reform ballot measures are underway; other states start early voting later this month</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/housing-ballot-measures-3-states/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607705</post-id>	</item>
+		<item>
 		<title>Can mortgage rates get under 7% for the holidays? </title>
 		<link>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/</link>
 					<comments>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/#respond</comments>
@@ -222,26 +243,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">607268</post-id>	</item>
-		<item>
-		<title>Housing M&#038;A shifts as global capital retargets residential futures</title>
-		<link>https://www.housingwire.com/articles/housing-ma-global-capital/</link>
-					<comments>https://www.housingwire.com/articles/housing-ma-global-capital/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 10:50:31 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607592</guid>
-
-					<description><![CDATA[<p>Zelman data shows housing M&amp;A deal value up 56% through Aug. 2026 while investment grade issuance fell 71%</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-ma-global-capital/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607592</post-id>	</item>
 	</channel>
 </rss>
