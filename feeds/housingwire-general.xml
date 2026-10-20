@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sun, 18 Oct 2026 14:26:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Oct 2026 21:18:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,220 +28,222 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Voters seize the ‘say’ in key state battles for housing affordability</title>
-		<link>https://www.housingwire.com/articles/housing-ballot-measures-3-states/</link>
-					<comments>https://www.housingwire.com/articles/housing-ballot-measures-3-states/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Sun, 18 Oct 2026 14:26:30 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Reform]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607705</guid>
-
-					<description><![CDATA[<p>California voting on new housing reform ballot measures are underway; other states start early voting later this month</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-ballot-measures-3-states/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607705</post-id>	</item>
-		<item>
-		<title>Can mortgage rates get under 7% for the holidays? </title>
-		<link>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sat, 17 Oct 2026 20:31:02 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607713</guid>
-
-					<description><![CDATA[<p>A path back below 7% exists, but spreads and geopolitics still matter</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-below-7-holidays/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607713</post-id>	</item>
-		<item>
-		<title>Real, Compass, SERHANT. add teams; Baird &#038; Warner picks COO</title>
-		<link>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/</link>
-					<comments>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/#respond</comments>
+		<title>Builder confidence plunges as rate shock, costs squeeze margins</title>
+		<link>https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/</link>
+					<comments>https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 20:04:43 +0000</pubDate>
+		<pubDate>Mon, 19 Oct 2026 21:09:42 +0000</pubDate>
+				<category><![CDATA[Marketing & Sales]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Builder Confidence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NAHB]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607800</guid>
+
+					<description><![CDATA[<p>NAHB’s October Housing Market Index for builder confidence dropped three points to 29, a low since June 2012</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607800</post-id>	</item>
+		<item>
+		<title>First American&#8217;s Odeta Kushi on how labor, AI and migration will impact the housing market</title>
+		<link>https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/</link>
+					<comments>https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 21:09:25 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Aging in Place]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Employment]]></category>
+		<category><![CDATA[First American]]></category>
+		<category><![CDATA[Home Prices]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607869</guid>
+
+					<description><![CDATA[<p>Economist explains how 7% mortgage rates and lower home price growth are reshaping affordability and mobility</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607869</post-id>	</item>
+		<item>
+		<title>Retirement delays rise as Americans worry about running out of money</title>
+		<link>https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/</link>
+					<comments>https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 21:08:08 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Baby Boomer]]></category>
+		<category><![CDATA[Gen X]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Retirement]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607882</guid>
+
+					<description><![CDATA[<p>More than half of respondents say the events of 2026 have impacted their retirement planning</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607882</post-id>	</item>
+		<item>
+		<title>Your next deal may already be in your CRM. Here&#8217;s how to find it</title>
+		<link>https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/</link>
+					<comments>https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 20:04:51 +0000</pubDate>
 				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Compass]]></category>
+		<category><![CDATA[Homebuyers]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Keller Williams]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607649</guid>
+		<category><![CDATA[Lead Generation]]></category>
+		<category><![CDATA[real estate teams]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607847</guid>
 
-					<description><![CDATA[<p>Christies International Real Estate expands in New Jersey</p>]]></description>
+					<description><![CDATA[<p>An analysis of 10 million real estate leads found that 91% had received no human contact in 90 days </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607649</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607847</post-id>	</item>
 		<item>
-		<title>Compass takes CRMLS fight to court and promises to cover agent fines</title>
-		<link>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/</link>
-					<comments>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/#respond</comments>
+		<title>Opendoor’s shared-equity test shows a new way to hunt for buyer demand</title>
+		<link>https://www.housingwire.com/articles/opendoor-ownify-shared-equity/</link>
+					<comments>https://www.housingwire.com/articles/opendoor-ownify-shared-equity/#respond</comments>
 		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 19:45:10 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
+		<dc:creator><![CDATA[Brooklee Han, Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 20:00:00 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[California Regional MLS]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[Fractional Ownership]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Robert Reffkin]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607693</guid>
+		<category><![CDATA[Opendoor]]></category>
+		<category><![CDATA[Ownify]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607843</guid>
 
-					<description><![CDATA[<p>Complaint alleges fines up to $2,500 for public marketing outside the MLS when clients direct it in writing</p>]]></description>
+					<description><![CDATA[<p>Ownify partner helps fund purchases, buyers make five years of fixed payments, then face renewal or buyout</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/opendoor-ownify-shared-equity/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607693</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607843</post-id>	</item>
 		<item>
-		<title>First Horizon sells $4.5B mortgage portfolio at discount</title>
-		<link>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/</link>
-					<comments>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/#respond</comments>
+		<title>Bank of America pegs 2027 mortgage volume at $1.72T, warns of 2023-style housing replay</title>
+		<link>https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/</link>
+					<comments>https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 18:43:22 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
+		<pubDate>Mon, 19 Oct 2026 19:16:49 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[Bank of America]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[MBS]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607671</guid>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607848</guid>
 
-					<description><![CDATA[<p>Bank is moving to align its mortgage production more closely with core relationship clients</p>]]></description>
+					<description><![CDATA[<p>Analysts see persistent lock-in effect and fading demand despite modest supply gains</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/bank-of-america-2027-mortgage-forecast/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607671</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607848</post-id>	</item>
 		<item>
-		<title>Disruption can distract brokerage leaders from consumer expectations</title>
-		<link>https://www.housingwire.com/articles/disruption-consumer-expectations/</link>
-					<comments>https://www.housingwire.com/articles/disruption-consumer-expectations/#respond</comments>
+		<title>Michael Bloomberg: To ease the housing shortage, empower mayors</title>
+		<link>https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/</link>
+					<comments>https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/#respond</comments>
 		
-		<dc:creator><![CDATA[Thomas Downing]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 17:41:10 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
+		<dc:creator><![CDATA[Michael R. Bloomberg]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 18:16:38 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607822</guid>
+
+					<description><![CDATA[<p>With rates over 7%, city-led reforms could speed homebuilding and ease prices</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/michael-bloomberg-to-ease-the-housing-shortage-empower-mayors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607822</post-id>	</item>
+		<item>
+		<title>West Capital Lending adds Hass Beydoun, Home Advantage team</title>
+		<link>https://www.housingwire.com/articles/west-capital-lending-beydoun/</link>
+					<comments>https://www.housingwire.com/articles/west-capital-lending-beydoun/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 17:57:48 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Detroit]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607831</guid>
+
+					<description><![CDATA[<p>Beydoun’s team has originated $41.9 million on 115 transactions in 2026</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/west-capital-lending-beydoun/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607831</post-id>	</item>
+		<item>
+		<title>Homebuying experience is fragmented, survey finds 70% call it a hassle</title>
+		<link>https://www.housingwire.com/articles/connected-homebuying-experience/</link>
+					<comments>https://www.housingwire.com/articles/connected-homebuying-experience/#respond</comments>
+		
+		<dc:creator><![CDATA[Troy Reierson]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 17:00:24 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
 		<category><![CDATA[Contributors]]></category>
 		<category><![CDATA[Opinion]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Consumer Protection]]></category>
+		<category><![CDATA[HomeServices of America]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607465</guid>
+		<category><![CDATA[Real Estate Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=606406</guid>
 
-					<description><![CDATA[<p>Lessons from deregulation, software shifts, wireless competition, and patient consumerism point to a consistent pattern, choice changes behavior</p>]]></description>
+					<description><![CDATA[<p>HomeServices survey of 1,000 buyers found 46% cite uncoordinated providers as the top frustration</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/disruption-consumer-expectations/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/connected-homebuying-experience/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607465</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">606406</post-id>	</item>
 		<item>
-		<title>Fannie Mae slashes 2027 mortgage forecast amid higher rates</title>
-		<link>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/</link>
-					<comments>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/#respond</comments>
+		<title>MBA calls for policy changes to lower housing costs</title>
+		<link>https://www.housingwire.com/articles/mba-road-map-housing-costs/</link>
+					<comments>https://www.housingwire.com/articles/mba-road-map-housing-costs/#respond</comments>
 		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 16:03:54 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Fannie Mae]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607631</guid>
-
-					<description><![CDATA[<p>Refinance activity takes the brunt of the revision </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607631</post-id>	</item>
-		<item>
-		<title>Dark Matter promotes three executives to senior leadership roles</title>
-		<link>https://www.housingwire.com/articles/dark-matter-promotes-leadership/</link>
-					<comments>https://www.housingwire.com/articles/dark-matter-promotes-leadership/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 14:47:24 +0000</pubDate>
-				<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Dark Matter Technologies]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607627</guid>
-
-					<description><![CDATA[<p>The company promoted three executives into CTO, CFO, legal roles</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/dark-matter-promotes-leadership/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607627</post-id>	</item>
-		<item>
-		<title>Candidates pitch housing affordability fixes as a midterm gambit</title>
-		<link>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/</link>
-					<comments>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 14:13:16 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 16:16:59 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Affordability]]></category>
 		<category><![CDATA[Housing Policy]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607550</guid>
+		<category><![CDATA[Mortgage Bankers Association]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=607799</guid>
 
-					<description><![CDATA[<p>Candidates pair pro-supply policies with populist proposals like investor limits, LIHTC expansion and down payment help</p>]]></description>
+					<description><![CDATA[<p>Trade group points to tri-merge costs, plus LLPA and FHA MIP changes</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-affordability-core-midterm-issue/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mba-road-map-housing-costs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">607550</post-id>	</item>
-		<item>
-		<title>AI voice agents target real estate’s next conversion opportunity</title>
-		<link>https://www.housingwire.com/articles/ai-voice-real-estate-leads/</link>
-					<comments>https://www.housingwire.com/articles/ai-voice-real-estate-leads/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lead Generation]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=607268</guid>
-
-					<description><![CDATA[<p>CINC’s Jeff Walker says the priority is recognizing lead intent during a 12-month sales cycle and acting at the right moment</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ai-voice-real-estate-leads/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">607268</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">607799</post-id>	</item>
 	</channel>
 </rss>
