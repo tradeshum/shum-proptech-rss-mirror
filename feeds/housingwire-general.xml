@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 21 Oct 2026 22:11:45 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Oct 2026 22:16:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,225 +28,223 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Bay Area ADU initiative could lay path for aging in place</title>
-		<link>https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/</link>
-					<comments>https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/#respond</comments>
+		<title>Don&#8217;t count on full Social Security benefits, financial planner warns</title>
+		<link>https://www.housingwire.com/articles/social-security-benefits-financial-planner/</link>
+					<comments>https://www.housingwire.com/articles/social-security-benefits-financial-planner/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 21:32:52 +0000</pubDate>
+		<pubDate>Thu, 22 Oct 2026 21:25:10 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[accessory dwelling units]]></category>
-		<category><![CDATA[Aging in Place]]></category>
-		<category><![CDATA[California]]></category>
+		<category><![CDATA[Financial Adviser]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608411</guid>
+		<category><![CDATA[Retirement]]></category>
+		<category><![CDATA[Social Security]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608620</guid>
 
-					<description><![CDATA[<p>Officials are seeking an administrator to guide participants through the process</p>]]></description>
+					<description><![CDATA[<p>Expert warns future Social Security recipients against assuming they’ll receive currently projected amounts</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/bay-area-adu-initiative-could-lay-path-for-aging-in-place/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/social-security-benefits-financial-planner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608411</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608620</post-id>	</item>
 		<item>
-		<title>White House executive order would seek to cut mortgage costs </title>
-		<link>https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/</link>
-					<comments>https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/#comments</comments>
+		<title>Trump signs executive order targeting mortgage insurance, manufactured housing and more</title>
+		<link>https://www.housingwire.com/articles/trump-order-mortgage-insurance/</link>
+					<comments>https://www.housingwire.com/articles/trump-order-mortgage-insurance/#respond</comments>
 		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 21:13:53 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 21:08:52 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Donald Trump]]></category>
 		<category><![CDATA[HWmember]]></category>
 		<category><![CDATA[Manufactured Housing]]></category>
 		<category><![CDATA[Mortgage Insurance]]></category>
-		<category><![CDATA[Title insurance]]></category>
 		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608225</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608608</guid>
 
-					<description><![CDATA[<p>Executive order draft calls for policy actions across several areas, including mortgage insurance, manufactured housing and refinance costs</p>]]></description>
+					<description><![CDATA[<p>White House fact sheet also mentions expansion of title insurance waivers, along with lower USDA and VA direct loan rates</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/trump-executive-order-housing-costs-mortgage/feed/</wfw:commentRss>
-			<slash:comments>2</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608225</post-id>	</item>
-		<item>
-		<title>Why lower home prices aren&#8217;t bringing buyers back to the housing market</title>
-		<link>https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/</link>
-					<comments>https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/#respond</comments>
-		
-		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 19:01:24 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[Data & Analytics]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608198</guid>
-
-					<description><![CDATA[<p>The search for housing affordability is getting harder as mortgage rates top 7%, with weakening contract activity in Omaha, Huntsville and Tulsa</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/lower-home-prices-housing-affordability-buyers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/trump-order-mortgage-insurance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608198</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608608</post-id>	</item>
 		<item>
-		<title>Permits before loans: Inside the launch of Kukun&#8217;s Renovation-HELOC Index</title>
-		<link>https://www.housingwire.com/articles/kukun-heloc-permit-data/</link>
-					<comments>https://www.housingwire.com/articles/kukun-heloc-permit-data/#respond</comments>
+		<title>Internal AI ecosystem a big win for independent Arizona brokerage</title>
+		<link>https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/</link>
+					<comments>https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 18:43:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 21:01:48 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608589</guid>
+
+					<description><![CDATA[<p>The brokerage also created a consumer-direct mortgage tool</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/internal-ai-ecosystem-a-big-win-for-independent-arizona-brokerage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608589</post-id>	</item>
+		<item>
+		<title>The 10-year yield is under 5%. Are sub-7% mortgage rates next?</title>
+		<link>https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/</link>
+					<comments>https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 21:00:47 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608596</guid>
+
+					<description><![CDATA[<p>Thursday was a wild day, and there was some short covering in bonds </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/the-10-year-yield-is-under-5-are-sub-7-mortgage-rates-next/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608596</post-id>	</item>
+		<item>
+		<title>Nationwide Equities president Glenn Wallace retires after 50 years</title>
+		<link>https://www.housingwire.com/articles/nationwide-equities-wallace-retires/</link>
+					<comments>https://www.housingwire.com/articles/nationwide-equities-wallace-retires/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 20:29:35 +0000</pubDate>
+				<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Nationwide Equities]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608591</guid>
+
+					<description><![CDATA[<p>General counsel Philip Parziale will take over as president while keeping his legal role</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nationwide-equities-wallace-retires/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608591</post-id>	</item>
+		<item>
+		<title>Treasury blueprints carve-outs from ROAD&#8217;s Wall Street BTR ban</title>
+		<link>https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/</link>
+					<comments>https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 20:16:19 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[build-for-rent]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Rental Properties]]></category>
+		<category><![CDATA[U.S. Department of the Treasury]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608553</guid>
+
+					<description><![CDATA[<p>The proposal calls for an 18-month window for institutional investors to buy newly built BTR communities</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/btr-exemptions-institutional-investor-ban/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608553</post-id>	</item>
+		<item>
+		<title>Why mortgage leaders are betting on home equity through 2027</title>
+		<link>https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/</link>
+					<comments>https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 20:14:48 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[accessory dwelling units]]></category>
-		<category><![CDATA[Construction]]></category>
+		<category><![CDATA[Deephaven Mortgage]]></category>
+		<category><![CDATA[Griffin Funding]]></category>
 		<category><![CDATA[HELOC]]></category>
 		<category><![CDATA[Home Equity]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608061</guid>
+		<category><![CDATA[Non-QM]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608554</guid>
 
-					<description><![CDATA[<p>The company has mapped renovation hotspots by ZIP code as lenders and servicers eye home equity opportunities</p>]]></description>
+					<description><![CDATA[<p>Executives cited $35 trillion in accumulated equity and the potential for $150 billion in 2026 originations as second liens gain attention</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/kukun-heloc-permit-data/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/why-mortgage-leaders-are-betting-on-home-equity-through-2027/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608061</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608554</post-id>	</item>
 		<item>
-		<title>Real Wallet expanding into financial hub for agents</title>
-		<link>https://www.housingwire.com/articles/real-wallet-expanding-into-financial-hub-for-agents/</link>
-					<comments>https://www.housingwire.com/articles/real-wallet-expanding-into-financial-hub-for-agents/#respond</comments>
+		<title>Most agents say CMAs will become more relevant, despite AI growth</title>
+		<link>https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/</link>
+					<comments>https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Delozier]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 19:26:01 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lone Wolf Technologies]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608349</guid>
+
+					<description><![CDATA[<p>Nearly 90% of respondents said CMAs will become more relevant in the future</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/most-agents-say-cmas-will-become-more-relevant-despite-ai-growth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608349</post-id>	</item>
+		<item>
+		<title>Mortgage executives on the importance of cost-effective labor, borrower retention amid high rates</title>
+		<link>https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 19:15:48 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Servicing]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[IMBs]]></category>
+		<category><![CDATA[Mortgage and Housing Layoffs]]></category>
+		<category><![CDATA[MSRs]]></category>
+		<category><![CDATA[quality control]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608366</guid>
+
+					<description><![CDATA[<p>At MBA Annual, leaders discussed labor automation and client recapture as a path forward during the down cycle</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-servicing-recapture-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608366</post-id>	</item>
+		<item>
+		<title>Sotheby’s International Realty names Mark McLaughlin CEO, Philip White transitions to executive chairman</title>
+		<link>https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/</link>
+					<comments>https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 18:16:09 +0000</pubDate>
+		<pubDate>Thu, 22 Oct 2026 19:00:54 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[People Movers]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Anywhere]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<category><![CDATA[Real Estate Marketing]]></category>
-		<category><![CDATA[The Real Brokerage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608316</guid>
+		<category><![CDATA[Sotheby's International Realty]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608563</guid>
 
-					<description><![CDATA[<p>Total funds held in Real Wallet checking accounts have grown to $45 million</p>]]></description>
+					<description><![CDATA[<p>Leadership change takes effect Nov. 1, with White shifting to executive chairman after 40-plus years with the brand</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-wallet-expanding-into-financial-hub-for-agents/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/sothebys-mclaughlin-ceo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608316</post-id>	</item>
-		<item>
-		<title>Northpointe to sell distributed retail, consumer direct channels to CMG</title>
-		<link>https://www.housingwire.com/articles/northpointe-mortgage-channels-sale-cmg-financial/</link>
-					<comments>https://www.housingwire.com/articles/northpointe-mortgage-channels-sale-cmg-financial/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 17:12:44 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Banking]]></category>
-		<category><![CDATA[CMG Financial]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608297</guid>
-
-					<description><![CDATA[<p>Deal is expected to close by the end of 2026</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/northpointe-mortgage-channels-sale-cmg-financial/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608297</post-id>	</item>
-		<item>
-		<title>Small investors make gains as institutional homebuyers retreat</title>
-		<link>https://www.housingwire.com/articles/small-investors-make-gains-as-institutional-homebuyers-retreat/</link>
-					<comments>https://www.housingwire.com/articles/small-investors-make-gains-as-institutional-homebuyers-retreat/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 16:44:05 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Homebuying]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Investor]]></category>
-		<category><![CDATA[Realtor.com]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608285</guid>
-
-					<description><![CDATA[<p>Investor activity remained concentrated in the Midwest and Sun Belt</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/small-investors-make-gains-as-institutional-homebuyers-retreat/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608285</post-id>	</item>
-		<item>
-		<title>MLS insurance offerings expanded with new partnership</title>
-		<link>https://www.housingwire.com/articles/mls-insurance-offerings-expanded-with-new-partnership/</link>
-					<comments>https://www.housingwire.com/articles/mls-insurance-offerings-expanded-with-new-partnership/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 16:01:12 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[California]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Insurance]]></category>
-		<category><![CDATA[Oregon]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608266</guid>
-
-					<description><![CDATA[<p>Orion was launched by MetroList, Northern Nevada Regional MLS and Oregon Data Share</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mls-insurance-offerings-expanded-with-new-partnership/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608266</post-id>	</item>
-		<item>
-		<title>Could home transactions become a new money-laundering tool for criminals?</title>
-		<link>https://www.housingwire.com/articles/earnest-money-scam-warning/</link>
-					<comments>https://www.housingwire.com/articles/earnest-money-scam-warning/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 15:59:32 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Cybersecurity]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Fraud]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608268</guid>
-
-					<description><![CDATA[<p>Kentucky broker says a 5% deposit promise and delayed funds raised laundering concerns</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/earnest-money-scam-warning/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608268</post-id>	</item>
-		<item>
-		<title>Real estate agents say they are holding their ground, their expenses say otherwise</title>
-		<link>https://www.housingwire.com/articles/realtor-expenses-income-gap/</link>
-					<comments>https://www.housingwire.com/articles/realtor-expenses-income-gap/#respond</comments>
-		
-		<dc:creator><![CDATA[Brant Levine]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 15:44:53 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Gross commission income]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608263</guid>
-
-					<description><![CDATA[<p>NAR data shows median expenses hit $9,530 while median gross income reached $59,200 in 2026</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/realtor-expenses-income-gap/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608263</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608563</post-id>	</item>
 	</channel>
 </rss>
