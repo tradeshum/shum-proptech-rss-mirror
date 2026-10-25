@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 23 Oct 2026 21:24:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Oct 2026 19:24:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Slightly lower mortgage rates finally pause slide in housing demand</title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 24 Oct 2026 19:21:20 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608807</guid>
+
+					<description><![CDATA[<p>Rates fell toward 7.30% as the 10-year yield dipped below 5% in a wild week for the bond market</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608807</post-id>	</item>
+		<item>
 		<title>Appraisers warn of risks as more real estate listings go private</title>
 		<link>https://www.housingwire.com/articles/uad-36-mls-photo-privacy/</link>
 					<comments>https://www.housingwire.com/articles/uad-36-mls-photo-privacy/#respond</comments>
@@ -220,27 +240,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">608690</post-id>	</item>
-		<item>
-		<title>Real estate coaching that builds authentic agent trust</title>
-		<link>https://www.housingwire.com/articles/authentic-agent-trust/</link>
-					<comments>https://www.housingwire.com/articles/authentic-agent-trust/#respond</comments>
-		
-		<dc:creator><![CDATA[Darryl Davis]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lead Generation]]></category>
-		<category><![CDATA[Real Estate Branding]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608242</guid>
-
-					<description><![CDATA[<p>As automated messaging rises, leaders can create an edge by coaching voice, temperament fit and sustainability</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/authentic-agent-trust/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608242</post-id>	</item>
 	</channel>
 </rss>
