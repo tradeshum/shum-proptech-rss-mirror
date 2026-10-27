@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 24 Oct 2026 19:24:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 21:01:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,217 +28,225 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Slightly lower mortgage rates finally pause slide in housing demand</title>
-		<link>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sat, 24 Oct 2026 19:21:20 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608807</guid>
-
-					<description><![CDATA[<p>Rates fell toward 7.30% as the 10-year yield dipped below 5% in a wild week for the bond market</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-demand-stabilizes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608807</post-id>	</item>
-		<item>
-		<title>Appraisers warn of risks as more real estate listings go private</title>
-		<link>https://www.housingwire.com/articles/uad-36-mls-photo-privacy/</link>
-					<comments>https://www.housingwire.com/articles/uad-36-mls-photo-privacy/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 21:24:37 +0000</pubDate>
-				<category><![CDATA[Appraisals and Valuations]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[CMLS]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608800</guid>
-
-					<description><![CDATA[<p>Appraisers say hidden interiors and off-market sales limit comp verification and will extend turnaround times </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/uad-36-mls-photo-privacy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608800</post-id>	</item>
-		<item>
-		<title>The Agency, huntington &#038; ellis expand as brokerages make moves</title>
-		<link>https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/</link>
-					<comments>https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 20:51:05 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<category><![CDATA[Sotheby's International Realty]]></category>
-		<category><![CDATA[The Agency]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608788</guid>
-
-					<description><![CDATA[<p>The Agency now has over 190 offices across 18 countries and launched 27 new offices in 2025</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608788</post-id>	</item>
-		<item>
-		<title>Housing leaders weigh in on Trump&#8217;s scaled-back EO</title>
-		<link>https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/</link>
-					<comments>https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/#respond</comments>
+		<title>Analysts cast FICO’s $10 mortgage pricing as defensive volume play</title>
+		<link>https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/</link>
+					<comments>https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 19:54:47 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Insurance]]></category>
-		<category><![CDATA[Refinancing]]></category>
-		<category><![CDATA[Title insurance]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608765</guid>
-
-					<description><![CDATA[<p>Analysts see the moves as largely benign for mortgage and title insurers </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608765</post-id>	</item>
-		<item>
-		<title>Subservicer benchmark survey shows 27-point gap between best, worst performers</title>
-		<link>https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 19:24:23 +0000</pubDate>
+		<pubDate>Mon, 26 Oct 2026 21:01:30 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Servicing]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FHFA]]></category>
+		<category><![CDATA[FICO]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[Subservicer]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608764</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608944</guid>
 
-					<description><![CDATA[<p>Garrett, McAuley &amp; Co. surveyed 53 mortgage banking firms, with composite scores ranging from 53 to 80</p>]]></description>
+					<description><![CDATA[<p>Preferred Program locks in FICO pulls at $10 per score as industry shifts to multiscore framework</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608764</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608944</post-id>	</item>
 		<item>
-		<title>Taylor Morrison CEO on the value of trust in a challenging market</title>
-		<link>https://www.housingwire.com/articles/taylor-morrison-trust-culture/</link>
-					<comments>https://www.housingwire.com/articles/taylor-morrison-trust-culture/#respond</comments>
+		<title>Rust Belt city eliminates minimum lot sizes to jump-start revival</title>
+		<link>https://www.housingwire.com/articles/akron-minimum-lot-sizes/</link>
+					<comments>https://www.housingwire.com/articles/akron-minimum-lot-sizes/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 20:07:06 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Ohio]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608904</guid>
+
+					<description><![CDATA[<p>Zoning rewrite allows homes on any lot meeting yard rules, hundreds of city held parcels now qualify</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/akron-minimum-lot-sizes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608904</post-id>	</item>
+		<item>
+		<title>Reds10 Group&#8217;s MMY US acquisition secures U.S. offsite beachhead</title>
+		<link>https://www.housingwire.com/articles/reds10-mmy-us-acquisition/</link>
+					<comments>https://www.housingwire.com/articles/reds10-mmy-us-acquisition/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 19:10:06 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
+		<pubDate>Mon, 26 Oct 2026 19:28:42 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Customer Service]]></category>
-		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608735</guid>
+		<category><![CDATA[Mergers and Acquisitions]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608856</guid>
 
-					<description><![CDATA[<p>Sheryl Palmer said trust helps Taylor Morrison rework land deals and avoid deeper discounts amid 2026 market pressure</p>]]></description>
+					<description><![CDATA[<p>MMY US has an off-site construction facility in Louisville, and is planning to build another modular factory in Cleveland</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/taylor-morrison-trust-culture/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/reds10-mmy-us-acquisition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608735</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608856</post-id>	</item>
 		<item>
-		<title>Sideways demand exposes which homebuilding teams can improve</title>
-		<link>https://www.housingwire.com/articles/homebuilding-leadership-process-2027/</link>
-					<comments>https://www.housingwire.com/articles/homebuilding-leadership-process-2027/#respond</comments>
+		<title>Could a pullback in Medicare Advantage plans boost reverse mortgages?</title>
+		<link>https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/</link>
+					<comments>https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/#respond</comments>
 		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 18:52:18 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 18:47:21 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Home Equity]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Residential Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608761</guid>
+		<category><![CDATA[Retirement]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608852</guid>
 
-					<description><![CDATA[<p>From takeoffs to trade scheduling, Summit conversations show how to turn founder know-how into repeatable, enterprise systems</p>]]></description>
+					<description><![CDATA[<p>With fewer Medicare Advantage plans available in 2027, seniors may look to their home equity to offset rising expenses</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/homebuilding-leadership-process-2027/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608761</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608852</post-id>	</item>
 		<item>
-		<title>Foreclosure auctions, up 25% in the past year, hit a post-pandemic peak</title>
-		<link>https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/</link>
-					<comments>https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 18:49:35 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Auction.com]]></category>
-		<category><![CDATA[FHA loan]]></category>
-		<category><![CDATA[Foreclosure]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[REO]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608742</guid>
-
-					<description><![CDATA[<p>Mortgages originated in 2022 or later represented 46% of all foreclosure auction activity in the third quarter</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/foreclosure-auctions-up-25-in-the-past-year-hit-a-post-pandemic-peak/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608742</post-id>	</item>
-		<item>
-		<title>Qualia expands into payments with earnest money, cash to close</title>
-		<link>https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/</link>
-					<comments>https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 18:17:20 +0000</pubDate>
-				<category><![CDATA[Title]]></category>
-		<category><![CDATA[Closings]]></category>
-		<category><![CDATA[Home Sales]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Qualia]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608730</guid>
-
-					<description><![CDATA[<p>Customers sign up from inside Qualia Core and can keep their existing escrow bank account</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/qualia-expands-into-payments-with-earnest-money-cash-to-close/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">608730</post-id>	</item>
-		<item>
-		<title>Pennsylvania lawsuit targets $650 &#8216;broker fee&#8217; at Keller Williams franchise</title>
-		<link>https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/</link>
-					<comments>https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/#respond</comments>
+		<title>Everything we know so far about Open Real Estate</title>
+		<link>https://www.housingwire.com/articles/open-real-estate-initiative/</link>
+					<comments>https://www.housingwire.com/articles/open-real-estate-initiative/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 17:06:11 +0000</pubDate>
+		<pubDate>Mon, 26 Oct 2026 18:11:42 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Legal]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[eXp Realty]]></category>
+		<category><![CDATA[HomeServices of America]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Keller Williams]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608690</guid>
+		<category><![CDATA[Leo Pareja]]></category>
+		<category><![CDATA[MLS]]></category>
+		<category><![CDATA[Tamir Poleg]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608887</guid>
 
-					<description><![CDATA[<p>Complaint seeks class status and an injunction against Keller Williams Elite in Lancaster County</p>]]></description>
+					<description><![CDATA[<p>Leaders say local MLS governance remains in place as Open Real Estate prepares for a Q1 2027 rollout</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/pennsylvania-keller-williams-broker-fee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-initiative/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608690</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">608887</post-id>	</item>
+		<item>
+		<title>ENRG Realty appoints Eric Hauser as SVP of growth</title>
+		<link>https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/</link>
+					<comments>https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 17:45:57 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Chicago]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<category><![CDATA[real estate teams]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608879</guid>
+
+					<description><![CDATA[<p>Hauser will focus on expanding ENRG's national presence </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/enrg-realty-appoints-eric-hauser-as-svp-of-growth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608879</post-id>	</item>
+		<item>
+		<title>The Agency builds global AI platform for luxury real estate</title>
+		<link>https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/</link>
+					<comments>https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 16:50:08 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Luxury Real Estate]]></category>
+		<category><![CDATA[The Agency]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608871</guid>
+
+					<description><![CDATA[<p>Agents and leaders can ask questions in plain language and get answers grounded in The Agency's own data</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/the-agency-builds-global-ai-platform-for-luxury-real-estate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608871</post-id>	</item>
+		<item>
+		<title>Unlock closes $433.1M home equity agreement securitization</title>
+		<link>https://www.housingwire.com/articles/unlock-433m-hea-securitization/</link>
+					<comments>https://www.housingwire.com/articles/unlock-433m-hea-securitization/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 14:35:39 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Home Equity]]></category>
+		<category><![CDATA[Home Equity Investments]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Securitization]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608842</guid>
+
+					<description><![CDATA[<p>The transaction includes 4,474 HEAs originated and managed by Unlock</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/unlock-433m-hea-securitization/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608842</post-id>	</item>
+		<item>
+		<title>FICO freezes $10 mortgage score bundle price</title>
+		<link>https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/</link>
+					<comments>https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 14:13:48 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608834</guid>
+
+					<description><![CDATA[<p>Flat pricing on Classic FICO and FICO 10T comes amid competition</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fico-holds-10-mortgage-score-pricing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608834</post-id>	</item>
+		<item>
+		<title>Open Real Estate: Housing markets must remain open to all</title>
+		<link>https://www.housingwire.com/articles/open-real-estate-listing-access/</link>
+					<comments>https://www.housingwire.com/articles/open-real-estate-listing-access/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 14:01:09 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HomeServices of America]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Open Real Estate]]></category>
+		<category><![CDATA[Real REMAX Group]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=608830</guid>
+
+					<description><![CDATA[<p>Industry open letter calls for standardized data sharing across MLSs and portals</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-listing-access/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">608830</post-id>	</item>
 	</channel>
 </rss>
