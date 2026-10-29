@@ -13,13 +13,13 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Wed, 28 Oct 2026 00:01:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 23:05:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.3</generator>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
 
 <image>
 	<url>https://propmodo.com/wp-content/uploads/2024/12/cropped-propmodo-icon-512-32x32.png</url>
@@ -29,6 +29,246 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Data Centers Are Funding the Energy Technology All Buildings Will Benefit From</title>
+		<link>https://propmodo.com/data-centers-are-funding-the-energy-technology-all-buildings-will-benefit-from/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 23:04:40 +0000</pubDate>
+				<category><![CDATA[Editor's Picks]]></category>
+		<category><![CDATA[ESG]]></category>
+		<category><![CDATA[Microgrid]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181893</guid>
+
+					<description><![CDATA[<p>Battery storage is getting cheaper</p>
+<p>The post <a href="https://propmodo.com/data-centers-are-funding-the-energy-technology-all-buildings-will-benefit-from/">Data Centers Are Funding the Energy Technology All Buildings Will Benefit From</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1793228526>3 min ago</strong><span class="live-fdate">Oct. 28, 2026 4:02 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+
+<p class="wp-block-paragraph">The energy technology that commercial buildings have been circling for years, on-site storage, microgrid controls, islanding capability, is getting cheaper and more capable at a pace nobody in real estate paid for. Data centers are driving it. Facing grid constraints severe enough to stall multi-billion dollar projects, the AI buildout has poured capital into solving energy problems that building owners share but could never have funded on their own. The solutions are portable, and they are arriving in the commercial market as a byproduct.</p>
+
+
+
+<p class="wp-block-paragraph">US data center electricity demand climbed from roughly 23 gigawatts in 2023 to about 42 in 2026, and the forecasts for where it goes next are large enough that the range between them exceeds what most sectors consume in total. Deloitte projects 176 gigawatts by 2035. Goldman Sachs expects US data center power demand to more than double between 2025 and 2027. McKinsey attributes roughly three quarters of all US power demand growth through 2030 to the sector.</p>
+
+
+
+<p class="wp-block-paragraph">The grid was not built for that, and it cannot be rebuilt quickly. Around 2 terawatts of generation and storage capacity sits in US interconnection queues, close to twice the currently installed fleet, with a median wait from request to commercial operation now exceeding five years. Northern Virginia connections can take more than seven years. Texas has 86 gigawatts of pending interconnection requests through 2031, roughly equal to the state’s entire existing grid capacity.</p>
+
+
+
+<p class="wp-block-paragraph">Faced with waits that long, data center developers stopped treating grid power as the only option. On-site generation, large-scale battery deployments, and behind-the-meter microgrids moved from contingency planning into primary strategy, backed by capital at a scale the energy technology sector had never seen from a single customer segment. The industry had to become an energy player because the alternative was not building.</p>
+
+
+
+<p class="wp-block-paragraph">Commercial energy storage has needed volume to bring costs down for a decade, and data centers are supplying it. The microgrid battery storage market is projected to grow from $8.4 billion in 2026 to $39 billion by 2035, with manufacturing capacity and cost curves responding to demand that originates almost entirely outside commercial real estate. A property owner evaluating storage in 2027 will price hardware that got cheaper because hyperscalers needed it first.</p>
+
+
+
+<p class="wp-block-paragraph">The same dynamic is working through the controls layer. Managing a facility that generates its own power, stores it, and decides moment to moment whether to draw from the grid requires software that did not exist in mature form a few years ago. Data center operators funded that development because their uptime requirements left no room for it to work poorly. Islanding capability, the ability to disconnect from utility lines and run independently while keeping local loads served, now ships in commercial hybrid inverters as a standard feature rather than a custom engineering project.</p>
+
+
+
+<p class="wp-block-paragraph">Utilities are adapting in ways that extend the benefit further. Several have introduced expedited permitting and interconnection pathways for projects that can demonstrate flexible load or on-site generation, since a customer able to reduce consumption during peak events is easier to serve than one who cannot. Incentive programs for demand response and behind-the-meter storage have expanded in the markets where capacity is tightest, reflecting a calculation that paying existing customers to shift load costs less than building new transmission.</p>
+
+
+
+<p class="wp-block-paragraph">For commercial buildings, energy investments are an easier sell. Demand charges, which bill based on a customer’s highest consumption, get more expensive as grid capacity tightens. On-site storage addresses that directly. The same equipment qualifies for utility incentive payments and can earn revenue through demand response participation. </p>
+
+
+
+<p class="wp-block-paragraph">Buildings able to island are also worth more to the grid than they used to be. A property that can separate itself during a stress event removes demand from a constrained system at the moment that demand is most expensive to serve. Aggregated across enough sites, that capability starts to function as dispatchable capacity, and virtual power plant programs are beginning to treat commercial buildings accordingly. Commercial real estate has been described as the largest untapped distributed energy resource available to address US grid shortages, and the technology to access it is arriving on someone else’s development budget.</p>
+
+
+
+<p class="wp-block-paragraph">Constraints remain. Battery supply chains are tight, transformers are quoted in years rather than months, and several states have begun imposing review requirements on large loads that may slow the data center buildout driving all of this. Texas passed SB 6 last year, adding a six-month review for projects above 75 megawatts along with new interconnection costs and curtailment requirements.</p>
+
+
+
+<p class="wp-block-paragraph">We are likely to see the gap between what a sophisticated data center can do with energy and what a well-run commercial building can do continue to narrow. The same cutting-edge techniques being developed at data centers will eventually become commonplace. Love or hate data centers they have to get credit for pushing utilities and industry to move faster when it comes to adopting much needed energy technology.</p>
+
+</div></div><p>The post <a href="https://propmodo.com/data-centers-are-funding-the-energy-technology-all-buildings-will-benefit-from/">Data Centers Are Funding the Energy Technology All Buildings Will Benefit From</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/06/data-center-real-estate.jpg" />	</item>
+		<item>
+		<title>CoStar Pushes Into Aerial Imaging With $730M Vexcel Buy</title>
+		<link>https://propmodo.com/costar-pushes-into-aerial-imaging-with-730m-vexcel-buy/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 23:01:49 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181895</guid>
+
+					<description><![CDATA[<p>CoStar Group will pay $730 million for aerial imaging firm Vexcel, combining sky and ground photography to expand its AI-driven property database.</p>
+<p>The post <a href="https://propmodo.com/costar-pushes-into-aerial-imaging-with-730m-vexcel-buy/">CoStar Pushes Into Aerial Imaging With $730M Vexcel Buy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">CoStar Group agreed to acquire Vexcel, an aerial imaging company, for $730 million in cash. Vexcel uses manned aircraft and proprietary technology to capture high-resolution aerial photographs across 45 countries, generating $140 million in revenue over the last 12 months, up 30% year-over-year. CoStar plans to integrate Vexcel&#8217;s aerial photography with its ground-level property database and apply artificial intelligence to extract data from the images. Erik Jorgensen will remain CEO of Vexcel, which will continue operating under its own brand.</p>
+
+
+
+<p class="wp-block-paragraph">CoStar has relied on vehicle-mounted cameras to photograph buildings for its property database. The company sees Vexcel&#8217;s aerial platform as a complement to that ground-based approach, enabling broader property coverage and new data extraction capabilities through AI. CoStar CEO Andy Florance said the company&#8217;s 2,000-person sales team can accelerate Vexcel&#8217;s growth beyond its current six-person sales force. The deal follows CoStar&#8217;s $1.6 billion acquisition of 3D imaging firm Matterport, which closed in February, and its $815 million purchase of housing data provider Zonda in August.</p>
+
+
+
+<p class="wp-block-paragraph">CoStar reported third-quarter revenue of $952 million, up 14% year-over-year, and raised its full-year guidance. But shares fell more than 13% after the earnings release, extending a 65% decline over the past year. Investors focused on annualized net new bookings, which dropped to $37 million from $84 million a year earlier. Florance attributed the decline to economic headwinds and slower sales force growth, prompting analysts at BTIG and Jefferies to lower their price targets for the stock.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bisnow.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bisnow</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bisnow.com/news/national/technology/costar-to-acquire-aerial-imagery-company-for-730m" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">CoStar To Acquire Aerial Imagery Company For $730M</a></div></div>
+<p>The post <a href="https://propmodo.com/costar-pushes-into-aerial-imaging-with-730m-vexcel-buy/">CoStar Pushes Into Aerial Imaging With $730M Vexcel Buy</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-technology-data.jpg" />	</item>
+		<item>
+		<title>How Real Estate Organizations Can Avoid the AI Adoption J-Curve</title>
+		<link>https://propmodo.com/how-real-estate-organizations-can-avoid-the-ai-adoption-j-curve/</link>
+		
+		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 19:37:40 +0000</pubDate>
+				<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[JLL]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181868</guid>
+
+					<description><![CDATA[<p>Learn how commercial real estate firms can manage the AI deployment J-curve, accelerate adoption, prove value, and build effective governance.</p>
+<p>The post <a href="https://propmodo.com/how-real-estate-organizations-can-avoid-the-ai-adoption-j-curve/">How Real Estate Organizations Can Avoid the AI Adoption J-Curve</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The J-curve is a familiar concept in private equity and economics. Performance declines before it improves, and the shape of that trajectory looks like the letter J. Anyone who has managed a significant technology deployment has experienced a version of it firsthand. New systems disrupt established workflows. People who were productive on the old process become temporarily less productive on the new one. Support tickets spike, workarounds proliferate, and for a period of weeks or months the organization is measurably worse off than it was before the investment. AI deployments in commercial real estate are producing exactly this pattern, and the depth and duration of that dip is where most of the difference between successful and failed initiatives actually lives.</p>
+
+
+
+<p class="wp-block-paragraph">The first and most consequential decision that determines the shape of that curve is made before any technology is deployed. It is the expectation that gets set with leadership about what the initiative will accomplish and when. &#8220;A typical mistake we see is treating the early productivity dip as evidence that AI isn&#8217;t working.&#8221; said Chris Campbell, Managing Director of Technology Advisory at JLL. &#8220;The J-curve is a normal part of transformation. The objective isn&#8217;t to eliminate the dip, but to manage it deliberately and shorten the time it takes to get to measurable results.&#8221; That fear is understandable. A team requesting budget for an AI initiative is competing against other priorities, and the temptation to promise transformative results in the first quarter is real. But an initiative that promises too much creates a much steeper J-curve, because the gap between what was promised and what materializes in the early months reads as failure rather than as the expected transition period.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">AI has the ability to transform even the <a href="https://www.jll.com/en-us/webinars/how-jll-uses-generative-ai-to-answer-cre-toughest-questions" target="_blank" rel="noreferrer noopener">hardest tasks needed by a real estate organization</a>. But it can’t do so right away. Realistic expectations are what makes the transition from pilot to production possible. A pilot that was promised to deliver a 40% productivity improvement and delivers 12% gets shut down. A pilot that was promised to deliver 10% and delivers 12% gets expanded. The technology performed identically in both cases. What differed was the framing, and the framing determines whether leadership sees a promising foundation or a failed experiment. Getting that framing right at the outset is the cheapest and most effective way to protect an AI program through its most vulnerable phase.</p>
+
+
+
+<p class="wp-block-paragraph">The people involved in an AI deployment are the other variable that determines how quickly an organization climbs out of the dip. The employees who will be building these systems and the ones whose daily work will change as a result are the ones who can either accelerate adoption or quietly resist it. Keeping them engaged through the transition requires visible progress, which means starting with projects small enough to produce results quickly. &#8220;Productivity can be difficult to measure at an enterprise level, particularly in an AI program. We encourage clients to start by identifying specific, repeatable work that can be done faster, better or differently, and then measure the outcome,&#8221; Campbell said. A general claim that AI has improved efficiency across an organization is easy to dismiss. A concrete example of a specific team that stopped spending six hours a week on a particular task is not. &#8220;You can start small in order to get these really good examples of how it is making people&#8217;s jobs better, not just more efficient,&#8221; Campbell said. That distinction matters more than it might appear. Efficiency is an organizational benefit. A better job is a personal one, and personal benefits are what drive the enthusiasm that carries an initiative through its difficult phase.</p>
+
+
+
+<p class="wp-block-paragraph">Identifying champions early, and doing so across functions rather than concentrating them in a technology group, is one of the strongest predictors of whether an AI program scales successfully. &#8220;We have seen good success with clients that have embedded champions in multiple different functions,&#8221; Campbell said. &#8220;Champions need to understand the current workflow at a granular level, including the workarounds and friction points that rarely show up in a process map, in order to redesign work, rather than simply automating it.&#8221; That granular business knowledge is what separates a useful champion from a well-intentioned one. Understanding how work actually gets done, including the informal steps and workarounds that never appear in a process document, is what allows a champion to identify where AI will genuinely help and where it will create friction. Someone who understands the technology but not the workflow will consistently propose solutions to problems that do not exist.</p>
+
+
+
+<p class="wp-block-paragraph">Those champions typically get formalized into a committee with its own governance structure and mandate, and the effectiveness of that committee depends heavily on whether it has clear priorities to work against. Strategic alignment to business goals is the starting point, but the specific criteria that guide decisions matter just as much. Resilience, cost optimization, and user experience are all legitimate priorities, and they sometimes conflict. A committee that has explicitly ranked them can make consistent decisions about which projects to pursue and which to defer. A committee that has not, tends to relitigate the same tradeoffs with every proposal.</p>
+
+
+
+<p class="wp-block-paragraph">One responsibility that these committees increasingly own is the lifecycle management of AI agents, which is a genuinely new organizational function that most companies have not built infrastructure for. Agents get deployed for specific purposes, and those purposes change or disappear over time. Without a clear process for retiring them, organizations accumulate agents that run without oversight, consume budget, and occasionally produce outputs that nobody is reviewing. &#8220;An AI agent performing a business task needs many of the same disciplines we apply to people: a defined role, appropriate training, clear boundaries, performance management, and ultimately a decision about whether it should continue doing the work,&#8221; Campbell said. That framing is useful because it brings a familiar management discipline to an unfamiliar problem. Organizations already know how to onboard, train, evaluate, and offboard employees. Applying that same structure to AI agents gives the committee a workable model for governance rather than requiring them to invent one.</p>
+
+
+
+<p class="wp-block-paragraph">The J-curve in AI deployment is not entirely avoidable. Any meaningful change to how work gets done will produce a period of adjustment, and organizations that expect to skip that phase are setting themselves up for the exact disappointment they are trying to avoid. What is controllable is the depth of the dip and the speed of the recovery. Realistic expectations set with leadership from the start, small early projects that produce concrete and personally meaningful wins, champions embedded across functions who understand the business at a granular level, and governance structures that treat AI agents with the same rigor applied to any other organizational resource all shorten that curve considerably. The organizations that build those foundations are not the ones that avoid the difficult phase of AI adoption. They are the ones that get through it fast enough to still have leadership support on the other side.</p>
+<p>The post <a href="https://propmodo.com/how-real-estate-organizations-can-avoid-the-ai-adoption-j-curve/">How Real Estate Organizations Can Avoid the AI Adoption J-Curve</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/office-team-meeting.jpg" />	</item>
+		<item>
+		<title>Tech Has Turned Parking From a Cost Center to a Revenue Driver</title>
+		<link>https://propmodo.com/tech-has-turned-parking-from-a-cost-center-to-a-revenue-driver/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 17:57:17 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Parking]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181885</guid>
+
+					<description><![CDATA[<p>AI-powered parking management helps commercial properties reduce revenue leakage, optimize pricing, boost NOI, and improve customer experience.</p>
+<p>The post <a href="https://propmodo.com/tech-has-turned-parking-from-a-cost-center-to-a-revenue-driver/">Tech Has Turned Parking From a Cost Center to a Revenue Driver</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Most commercial properties have a parking operation, and most property management teams have nobody responsible for running it. Leasing has a team. Maintenance has a team. Parking has a vendor contract, a rate sheet that was set some years ago, and whoever happens to notice when something breaks.</p>
+
+
+
+<p class="wp-block-paragraph">That arrangement produces predictable results. Revenue leakage, the gap between what should be collected and what actually is, runs 10 to 25 percent at properties without active monitoring. Underpricing costs the average multifamily property around $100,000 a year in missed net operating income. Neither number shows up as a problem on a report because nobody is generating the report.</p>
+
+
+
+<p class="wp-block-paragraph">The labor requirement that once made dedicated parking management expensive has largely been automated away. License plate recognition handles enforcement, mobile payment handles collection, and gateless entry removes the equipment that used to need someone standing near it. That does not mean staffing disappears everywhere. Shareena Sandbrook, Chief Commercial Development Officer at Towne, is careful to distinguish between the properties where automation is the whole answer and the ones where it is not. “The tech has come a long way to help reduce the labor but for some types of parking, particularly healthcare, humans are still a really important touch point,” she said. Someone arriving at a hospital is having a difficult day, and a kiosk is not the right greeting.</p>
+
+
+
+<p class="wp-block-paragraph">Where the technology has moved recently is from executing tasks to finding money. Automation made parking cheaper to run. AI is making it more productive, and Sandbrook describes the shift as the system doing analysis nobody at the property had the capacity to do. “AI not only makes our tech faster, it can now identify opportunities to increase NOI by predicting utilization, pricing suggestions, and competitive analysis,” she said. “There is always some revenue leakage not identified, particularly if there isn’t someone specifically working on managing it.”</p>
+
+
+
+<p class="wp-block-paragraph">Speed is its own revenue lever in some asset classes. A retail center where it takes eight minutes to find a space and exit the garage has converted shopping time into waiting time, and the tenant whose sales suffer is the one paying rent. Reducing friction at entry and exit does not show up on a parking P&amp;L, but it shows up in the center’s performance.</p>
+
+
+
+<p class="wp-block-paragraph">Dynamic pricing has gone from unfamiliar to expected over a relatively short period. Rates that move with demand, time of day, or local conditions once required explaining to every customer who encountered them. “When we first started no one really understood surge pricing, now they are much more used to the idea,” Sandbrook said. Consumer familiarity with variable pricing in ridesharing and travel did most of that work before parking operators had to.</p>
+
+
+
+<p class="wp-block-paragraph">What AI adds is the ability to price against information the property does not generate itself. Local event schedules, competitor rates, weather forecasts, and seasonal patterns all affect what a space is worth on a given afternoon, and a pricing engine that reads those signals can adjust faster than a manager reviewing rates quarterly. The target in most cases is somewhere around 85 to 90 percent utilization, high enough to capture demand without turning away the marginal customer.</p>
+
+
+
+<p class="wp-block-paragraph">Older properties face a real obstacle in getting there, since the equipment and software carry upfront cost against a revenue stream the owner has never counted on. Sandbrook sees third-party arrangements as the way most of those properties end up making the investment, because they let an owner see results before committing capital. “One of the benefits of working with third parties is that they can start to realize the benefits without putting up too much money,” she said. “Once they start to realize what kinds of revenue can be made they usually are ready for more investment.”</p>
+
+
+
+<p class="wp-block-paragraph">The sums involved tend to surprise owners who have treated parking as infrastructure. “The additional revenue could be in the hundreds of thousands of dollars in revenue which, depending on the cap rates could really improve the property’s value,” Sandbrook said. Parking income is typically capitalized somewhere between 5 and 10 percent, so a few hundred thousand dollars of durable annual NOI can move a valuation by millions. That math is available at properties that already have the garage built and the cars already arriving.</p>
+
+
+
+<p class="wp-block-paragraph">Parking is also the first and last thing most people experience at a building, which makes it an operational question regardless of what it earns. The properties doing well on both counts have generally stopped treating it as something to be contracted out and forgotten.</p>
+<p>The post <a href="https://propmodo.com/tech-has-turned-parking-from-a-cost-center-to-a-revenue-driver/">Tech Has Turned Parking From a Cost Center to a Revenue Driver</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/parking-paid.jpg" />	</item>
+		<item>
+		<title>UPS Targets Data Center Logistics as New Revenue Driver</title>
+		<link>https://propmodo.com/ups-targets-data-center-logistics-as-new-revenue-driver/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 14:53:25 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181882</guid>
+
+					<description><![CDATA[<p>UPS sees a $15 billion logistics opportunity in data center growth as it targets high-margin shipments to replace lost Amazon volume.</p>
+<p>The post <a href="https://propmodo.com/ups-targets-data-center-logistics-as-new-revenue-driver/">UPS Targets Data Center Logistics as New Revenue Driver</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">UPS told investors it sees a $15 billion logistics opportunity tied to data center growth, a market the company is targeting to offset volume losses from its ended partnership with Amazon. CEO Carol Tomé highlighted the opportunity during an Oct. 27 earnings call, as UPS reported a 4.2% decline in package volumes but a 7% increase in average revenue per package. Revenue growth came from healthcare shipments and the company&#8217;s returns business, Happy Returns.</p>
+
+
+
+<p class="wp-block-paragraph">Data center logistics are growing faster than traditional package delivery, according to Matt Guffey, UPS&#8217;s chief U.S. domestic officer. He said the company is positioned to handle the complex supply chain requirements of data centers, an area where UPS has been investing in cold chain and other specialized capabilities to differentiate from competitors. The shipping company also identified automotive and tech sectors as growth areas.</p>
+
+
+
+<p class="wp-block-paragraph">UPS has been shedding low-margin Amazon volume since the two agreed to wind down their partnership last year. Amazon had negotiated significant shipping discounts due to its scale, compressing UPS&#8217;s per-package revenue. The Atlanta-based company delivered 46 million fewer packages in the second quarter of 2026 compared to the prior year as that partnership concluded.</p>
+
+
+
+<p class="wp-block-paragraph">Amazon announced in May it would enter supply chain logistics for large companies, but UPS leadership said it has not seen meaningful business impact. CEO Tomé told investors the two companies operate different networks. Industry observers note Amazon has capital to invest in specialized logistics if it chooses, though it currently serves a different customer base than UPS and FedEx.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Atlanta Business Chronicle</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/atlanta/news/2026/10/27/ups-data-centers-small-package-logistics-growth.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">UPS Eyes $15 Billion Logistics Opportunity in Data Center Boom</a></div></div>
+<p>The post <a href="https://propmodo.com/ups-targets-data-center-logistics-as-new-revenue-driver/">UPS Targets Data Center Logistics as New Revenue Driver</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-technology-data.jpg" />	</item>
+		<item>
 		<title>Rental Fee Rules Are Moving to Cities and States, Creating a Compliance Headache</title>
 		<link>https://propmodo.com/rental-fee-rules-are-moving-to-cities-and-states-creating-a-compliance-headache/</link>
 		
@@ -210,359 +450,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
-		<item>
-		<title>Industrial Outdoor Storage Spans 1.4 Million Acres and Still Is Not Enough</title>
-		<link>https://propmodo.com/industrial-outdoor-storage-spans-1-4-million-acres-and-still-is-not-enough/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 23:27:31 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Blackstone]]></category>
-		<category><![CDATA[Brookfield]]></category>
-		<category><![CDATA[industrial]]></category>
-		<category><![CDATA[Self Storage]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181834</guid>
-
-					<description><![CDATA[<p>AI demand is reshaping a market that may not have the right space</p>
-<p>The post <a href="https://propmodo.com/industrial-outdoor-storage-spans-1-4-million-acres-and-still-is-not-enough/">Industrial Outdoor Storage Spans 1.4 Million Acres and Still Is Not Enough</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1793056583>1 day 1 hr ago</strong><span class="live-fdate">Oct. 26, 2026 4:16 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<p class="wp-block-paragraph">Every gigawatt of data center capacity requires roughly 100,000 truckloads of steel, concrete, generators, and equipment, according to DAT Freight and Analytics. Much of that material needs somewhere to wait before installation. Industrial outdoor storage (IOS), a largely overlooked category of gravel and asphalt yards used to store equipment, materials, and vehicles, has become one of the <a href="https://www.wsj.com/real-estate/commercial/the-once-obscure-corner-of-commercial-real-estate-now-riding-the-ai-boom-0bce5259" target="_blank" rel="noreferrer noopener">better-performing corners of commercial real estate</a>. The AI buildout is adding demand for staging space to a market that already has very little of it.</p>
-
-
-
-<p class="wp-block-paragraph">Newmark estimates the sector spans about 1.4 million acres nationally, though the investable share is far smaller. Alterra IOS has put the total value above $1 trillion, with most of that land municipally or government-owned, leaving roughly $300 billion held by small local owners and operating businesses. Vacancy runs around 4 percent, compared with roughly 7 percent for traditional industrial, while annual inventory growth remains below 2 percent.</p>
-
-
-
-<p class="wp-block-paragraph">That scarcity shows up in rents. CBRE puts national rent growth at 32 percent since 2021, while Alterra IOS data shows rents up more than 110 percent since 2020 across the top eight port-adjacent markets, including Houston, Savannah, and Norfolk. Part of the pricing power comes from how little the rent matters to the tenant: yard costs are a rounding error against total data center development budgets.</p>
-
-
-
-<p class="wp-block-paragraph">Capital has arrived accordingly. Brookfield agreed this year to acquire Peakstone Realty Trust for $1.2 billion, J.P. Morgan Asset Management partnered with Zenith IOS on roughly 100 properties across 33 markets, and a Starwood Property Trust venture lent $672 million against a portfolio in August. Catalyst Investment Partners has assembled $1.4 billion over six years in Northern Virginia and Atlanta, financed partly by Blackstone.</p>
-
-
-
-<p class="wp-block-paragraph">But the investment thesis has a supply-side problem. Entitling new outdoor storage is close to impossible in many jurisdictions, where these yards often face opposition over noise, appearance, and relatively low tax revenue per acre. Meanwhile, data center development is consuming some of the existing supply. In Manassas, Virginia, more than 200 acres of outdoor storage will be replaced by data centers, representing over 20 percent of the local supply. The same development boom driving demand for staging space is helping eliminate the land that could provide it.</p>
-
-
-
-<p class="wp-block-paragraph">The scale of hyperscale development complicates the thesis. IOS aggregators typically assemble infill parcels of two to fifteen acres from regional operators and retiring owners, properties well suited to trucking companies and equipment rental businesses. Large data center projects introduce a different set of requirements, particularly when contractors need substantial laydown areas close to construction sites. Cushman &amp; Wakefield put the average data center land purchase in 2024 at 224 acres, up 144 percent from 2022, while a gigawatt campus generally needs 500 to 1,500 acres. Crusoe’s Stargate site in Abilene covers roughly 1,100 acres for 1.2 gigawatts, and Meta’s Hyperion campus in Louisiana spans about 2,250 acres under construction.</p>
-
-
-
-<p class="wp-block-paragraph">A project of that size cannot necessarily solve its staging needs by leasing a dozen scattered eight-acre yards. Contractors may need multiple smaller properties for specific logistics, but large projects can also create demand for substantial, contiguous areas near the site. Developers increasingly secure adjacent parcels alongside substation easements and land reserved for future phases. Parts of the IOS sector have begun shifting toward hubs of 50 acres or more, a different product with different entitlement hurdles. The transition is complicated by an existing inventory in which roughly 60 percent of properties were developed before 2000, with many still unpaved or lacking the drainage, lighting, and security institutional users expect.</p>
-
-
-
-<p class="wp-block-paragraph">The near-term numbers reflect a genuine shortage, but the demand underneath them is less uniform than the rent growth suggests. Yards serving ports and last-mile fleets face structural constraints that predate AI and will outlast it. Yards serving a specific data center campus may be scarce only for the duration of construction, after which the contractor leaves. Upgrading older properties and assembling larger sites also takes capital, time, and potentially new entitlements.</p>
-
-
-
-<p class="wp-block-paragraph">The key question is whether aggregators holding infill portfolios can capture the hyperscale demand bidding up rents, or whether much of that demand will flow to larger, contiguous sites the existing investment model was never designed to assemble. Industrial outdoor storage may be benefiting from the AI boom, but not every yard is positioned to benefit equally.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/industrial-outdoor-storage-spans-1-4-million-acres-and-still-is-not-enough/">Industrial Outdoor Storage Spans 1.4 Million Acres and Still Is Not Enough</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/outdoor-storage.jpg" />	</item>
-		<item>
-		<title>Major Brokerages Form Alliance to Counter Private Listing Networks</title>
-		<link>https://propmodo.com/major-brokerages-form-alliance-to-counter-private-listing-networks/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 22:47:32 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181836</guid>
-
-					<description><![CDATA[<p>Four major brokerages launch Open Real Estate, a free data-sharing platform designed to counter private listing networks and expand access to property information.</p>
-<p>The post <a href="https://propmodo.com/major-brokerages-form-alliance-to-counter-private-listing-networks/">Major Brokerages Form Alliance to Counter Private Listing Networks</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">AGNT Inc., HomeServices of America, Keller Williams Realty and Real REMAX Group announced the formation of Open Real Estate, a national data-sharing platform that will allow participating brokerages to distribute property listings across multiple listing services, real estate portals and other authorized recipients. Brown Harris Stevens, Lamacchia Realty, Samson Properties and Windermere Real Estate joined as participating brokers. Participation is free for brokerages, and the founders have invited other firms to join. The platform is designed to work alongside existing MLSs rather than replace them.</p>
-
-
-
-<p class="wp-block-paragraph">The initiative arrives as Compass challenges MLS rules that limit private listing marketing, creating a widening divide over who controls listing data. Compass allows sellers to market homes within its brokerage network before making them widely available, a strategy it says gives sellers more control. Open Real Estate positions itself as a counterweight to that approach, focused on sharing listing data rather than restricting access. The founding companies argue that limiting listing information reduces buyer access and seller exposure, potentially increasing time on market and affecting property value.</p>
-
-
-
-<p class="wp-block-paragraph">The platform is built around four principles: expanding buyer access to housing information, helping sellers make informed marketing decisions, protecting listing data integrity and promoting fair competition. Participating brokerages and agents will be able to enter listings into the shared technology platform, which will then distribute property information to MLSs and portals. The founders say the infrastructure will establish clear governance and data ownership rules while making it easier for industry participants to exchange property information.</p>
-
-
-
-<p class="wp-block-paragraph">The alliance reflects broader industry tension over the fragmentation of property listing information as more homes are marketed through private networks. For agents, a national data-sharing platform could provide broader access to inventory and reduce reliance on individual brokerage networks. The founding companies emphasized in an open letter that sellers should understand how their properties are being marketed and the potential trade-offs of different marketing strategies, stating that success should be determined by those who create the most value rather than those who control the most information.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.housingwire.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">HousingWire</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.housingwire.com/articles/open-real-estate-data-initiative/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">4 Real Estate Giants Team Up to Create New, Shared Listings Platform</a></div></div>
-<p>The post <a href="https://propmodo.com/major-brokerages-form-alliance-to-counter-private-listing-networks/">Major Brokerages Form Alliance to Counter Private Listing Networks</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-brokerage-listings.jpg" />	</item>
-		<item>
-		<title>Five Decisions That Make or Break a Portfolio-Wide EV Charging Rollout</title>
-		<link>https://propmodo.com/five-decisions-that-make-or-break-a-portfolio-wide-ev-charging-rollout/</link>
-		
-		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 22:44:01 +0000</pubDate>
-				<category><![CDATA[Energy & Sustainability]]></category>
-		<category><![CDATA[Partner Content]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Electric Vehicles]]></category>
-		<category><![CDATA[Parking]]></category>
-		<category><![CDATA[sponsored]]></category>
-		<category><![CDATA[SWTCH]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181819</guid>
-
-					<description><![CDATA[<p>Learn how Olen Properties scales EV charging across a diverse portfolio by balancing tenant demand, electrical capacity, costs, and future growth.</p>
-<p>The post <a href="https://propmodo.com/five-decisions-that-make-or-break-a-portfolio-wide-ev-charging-rollout/">Five Decisions That Make or Break a Portfolio-Wide EV Charging Rollout</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Ask an asset manager why their older buildings still don&#8217;t have EV chargers, and the answer usually has little to do with demand. The project dies in the budget meeting, after the cost of a new electrical panel gets loaded onto four Level 2 ports and the payback runs longer than anyone can justify.</p>
-
-
-
-<p class="wp-block-paragraph">Olen Properties has found ways around that problem across one of the more varied portfolios in commercial real estate. The Newport Beach firm, founded in 1974, owns more than 8 million square feet of office, flex, warehouse and R&amp;D space and roughly 17,000 multifamily units in eight states. Some of those buildings went up decades ago and others in the last few years, and their electrical systems vary accordingly.</p>
-
-
-
-<p class="wp-block-paragraph">Olen worked with <a href="http://swtchenergy.com/parking" target="_blank" rel="noreferrer noopener">SWTCH Energy</a> to figure out where chargers should go and how to pay for them. Taylor Curtis, Olen&#8217;s director of asset management, described a process that other owners with mixed portfolios could adapt.</p>
-
-
-
-<h2 id="h-tenants-are-asking" class="wp-block-heading">Tenants are asking</h2>
-
-
-
-<p class="wp-block-paragraph">CBRE found that roughly 70 percent of prime US office buildings offer charging, compared with only about 5 percent of multifamily buildings. In NMHC and Grace Hill survey data, renter interest in EV charging rose from 27 percent to 34 percent over two years.</p>
-
-
-
-<p class="wp-block-paragraph">At Olen, the request came up through property management. &#8220;Property managers were telling us how important it is to compete in the market,&#8221; Curtis said. &#8220;It is becoming pretty critical for certain markets now.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">It also comes up during lease talks. &#8220;Some of our capital decisions get made at the point of leasing. They can often come from a tenant renewal negotiation where they are pushing for this,&#8221; Curtis said. &#8220;It is much cheaper than an empty building.&#8221; A charger installation that keeps a tenant from leaving is easy to justify against months of vacancy, even if the chargers barely cover their own electricity costs.</p>
-
-
-
-<h2 id="h-start-with-who-will-use-them" class="wp-block-heading">Start with who will use them</h2>
-
-
-
-<p class="wp-block-paragraph">Olen began by counting cars. The team audited how many EVs were parked at each property, a large number in Southern California, and then looked at how far tenants and residents commuted. Long commutes were a good indicator of who needed to charge during the day.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;Initially, we just looked at demand, which properties would use the chargers the most,&#8221; Curtis said. &#8220;Buildings where people had to commute a long way, for example.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">Electrical assessments came later. Working in that order meant Olen spent its engineering budget on properties where chargers would actually get used.</p>
-
-
-
-<h2 id="h-look-for-the-easy-electrical-wins" class="wp-block-heading">Look for the easy electrical wins</h2>
-
-
-
-<p class="wp-block-paragraph">&#8220;The biggest challenge in doing this to older properties is finding a way to provide enough capacity with the existing electrical grid,&#8221; Curtis said. Some of Olen&#8217;s parking garages have only enough power for their lights. Others have capacity to spare.</p>
-
-
-
-<p class="wp-block-paragraph">Olen looked for properties where it could add two to four chargers without upgrading electrical service, since that is where retrofit costs start to climb. Level 2 ports typically cost $5,000 to $15,000 installed at multifamily properties, and retrofit work can run three to five times what the same installation would cost during construction. A few of Olen&#8217;s projects cost only a few thousand dollars.</p>
-
-
-
-<p class="wp-block-paragraph">Load management helps stretch the power that&#8217;s already there. Software that caps how much each property&#8217;s chargers can draw lets more ports share the same electrical service, which can delay or avoid a panel upgrade.</p>
-
-
-
-<p class="wp-block-paragraph">When a new panel couldn&#8217;t be avoided, Olen only went ahead at properties where it expected to add more chargers later.</p>
-
-
-
-<h2 id="h-two-budgets-instead-of-one" class="wp-block-heading">Two budgets instead of one</h2>
-
-
-
-<p class="wp-block-paragraph">The most useful part of Olen&#8217;s approach is how it handles the math. Rather than judge each site as one investment, the company splits it in two.</p>
-
-
-
-<p class="wp-block-paragraph">&#8220;We look at the electrical upgrades as a long-term cost, with a 20-year payback or thereabouts,&#8221; Curtis said. &#8220;Then we looked at the return on the initial hardware costs and wanted to see it have about a 5 to 7 year payback.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">Panels, conduit and service upgrades will outlast several generations of chargers, so Olen treats them like other long-term building improvements. The chargers are treated as an amenity with a much shorter payback window. Lump the two together and the electrical work can sink a project even when the chargers would pay for themselves.</p>
-
-
-
-<p class="wp-block-paragraph">Curtis compares charging to adding a gym. It&#8217;s there to attract and keep tenants, so the company charges just to break even and keep costs down for tenants. &#8220;We are long-term owners, so in that perspective, it makes the decisions a lot easier,&#8221; he said.</p>
-
-
-
-<h2 id="h-software-that-works-with-any-charger" class="wp-block-heading">Software that works with any charger</h2>
-
-
-
-<p class="wp-block-paragraph">Olen&#8217;s properties don&#8217;t all need the same thing from a charging system. &#8220;What you need in an office parking lot is different from an apartment building,&#8221; Curtis said. Some garages don&#8217;t need network connectivity. At some properties, tenants pay for charging directly, while at others the property pays and recovers the cost.</p>
-
-
-
-<p class="wp-block-paragraph">Many charging vendors want to control the whole system. &#8220;There are so many contracts where the vendors want to be in control,&#8221; Curtis said. Olen wanted a single dashboard for its apartment and commercial properties that would work with whatever hardware was installed. &#8220;We didn&#8217;t want to put all of our eggs into one hardware basket.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">SWTCH&#8217;s platform gave Olen that. The team runs Wallbox chargers, takes reservations, sets pricing and tracks energy costs from one place, and its own staff manages the system. &#8220;It allowed us to disentangle the software from the hardware,&#8221; Curtis said.</p>
-
-
-
-<p class="wp-block-paragraph">For a long-term owner, that flexibility counts. Chargers will be replaced over the life of a building. With the software kept separate, Olen can change hardware without much difficulty.</p>
-
-
-
-<h2 id="h-plan-for-more-demand-than-you-expect" class="wp-block-heading">Plan for more demand than you expect</h2>
-
-
-
-<p class="wp-block-paragraph">&#8220;There is a lot more demand for these than we initially forecasted,&#8221; Curtis said. &#8220;The second you put them in, people start changing their habits, and we see a lot more EVs getting charged at the parking lots. Once you put them in, you can&#8217;t take them out, because people will start to expect them.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">That affects how many chargers to install. A property that puts in the bare minimum may find them full within a year, and by then residents expect to be able to charge. Running extra conduit and leaving panel capacity for a second phase costs much less while the walls are already open.</p>
-
-
-
-<h2 id="h-less-upkeep-than-expected" class="wp-block-heading">Less upkeep than expected</h2>
-
-
-
-<p class="wp-block-paragraph">&#8220;These systems are fairly hands off,&#8221; Curtis said. Olen reviews them once a year to keep pricing in line with electricity rates. Staff needed some training on the network side, though Curtis said most problems are fixed by resetting the connection.</p>
-
-
-
-<p class="wp-block-paragraph">Learn more about how SWTCH works with owners across property types and charger brands at <a href="https://swtchenergy.com/parking" target="_blank" rel="noreferrer noopener">swtchenergy.com/parking</a>.</p>
-
-
-
-<p class="wp-block-paragraph"></p>
-<p>The post <a href="https://propmodo.com/five-decisions-that-make-or-break-a-portfolio-wide-ev-charging-rollout/">Five Decisions That Make or Break a Portfolio-Wide EV Charging Rollout</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/parking.jpg" />	</item>
-		<item>
-		<title>AI Was Supposed to Reduce Office Demand. So Far It Has Done the Opposite.</title>
-		<link>https://propmodo.com/ai-was-supposed-to-reduce-office-demand-so-far-it-has-done-the-opposite/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Sun, 25 Oct 2026 15:35:27 +0000</pubDate>
-				<category><![CDATA[Office]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Corporate Real Estate]]></category>
-		<category><![CDATA[office design]]></category>
-		<category><![CDATA[VTS]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181815</guid>
-
-					<description><![CDATA[<p>AI office demand is surging as record funding drives tech firms to lease larger spaces in San Francisco, New York, Silicon Valley, and beyond.</p>
-<p>The post <a href="https://propmodo.com/ai-was-supposed-to-reduce-office-demand-so-far-it-has-done-the-opposite/">AI Was Supposed to Reduce Office Demand. So Far It Has Done the Opposite.</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The capital flowing into artificial intelligence has reached a scale that makes previous technology cycles look modest. CB Insights put US private AI funding at $206 billion in the first quarter of 2026 alone, approaching what the entire prior year produced. That money is going into model development, data center capacity, chips, and the engineering talent required to build any of it.</p>
-
-
-
-<p class="wp-block-paragraph">Hiring engineers means putting them somewhere, and the companies doing the hiring have reached a conclusion about where that should be. Nick Romito, co-founder and CEO of VTS, has watched the posture of tech tenants reverse over the past few years. “Post COVID the tech companies were pushing back against the return to the office,” he said. “Now they are driving the return, a lot of companies are even bringing people in on Saturdays because they know they can’t win this race to innovate if they are remote.”</p>
-
-
-
-<p class="wp-block-paragraph">VTS tracks live office requirements across 17 markets, and its data shows national AI office demand up 85 percent year over year, with growth of 179 percent across the largest AI hubs. AI companies now account for 46 percent of the square footage tech firms are actively pursuing. The requirements themselves are larger than typical tech deals, averaging 37,000 square feet against 27,000 for tech overall.</p>
-
-
-
-<p class="wp-block-paragraph">That demand is not spread evenly. San Francisco, Silicon Valley, and New York together hold roughly two-thirds of all active AI square footage, and a single San Francisco submarket covering SoMa and Mission Bay accounts for a quarter of national AI demand on its own. San Francisco’s 81 active AI requirements average 62,000 square feet, more than double the average tech requirement across the markets VTS follows.</p>
-
-
-
-<p class="wp-block-paragraph">The composition differs by market. San Francisco skews toward foundation model labs, while New York draws application-layer companies and AI infrastructure firms selling into its financial, legal, and media base. New York recently moved past Silicon Valley into second place for active AI demand, with 2.79 million square feet against Silicon Valley’s 2.78 million, and it now has more requirements over 50,000 square feet than Silicon Valley does.</p>
-
-
-
-<p class="wp-block-paragraph">Secondary markets are starting to register. Seattle posted the fastest growth of any market VTS tracks at 390 percent year over year, and Northern Virginia grew 169 percent on defense and government technology work. Los Angeles and Boston are the only markets moving the other direction.</p>
-
-
-
-<p class="wp-block-paragraph">What makes the current cycle different is how quickly it has compressed. After the financial crisis, San Francisco anchored tech demand in 2010, New York followed by 2013, and Seattle entered by 2016. This time those markets activated close to simultaneously.</p>
-
-
-
-<p class="wp-block-paragraph">The broader expectation about AI and office space ran in the opposite direction. If AI automates enough knowledge work, companies need fewer people, and fewer people need less space. That logic shaped a good deal of commentary about where office demand was headed, and it has not yet shown up in leasing data.</p>
-
-
-
-<p class="wp-block-paragraph">Ryan Masiello, co-founder and chief strategy officer at VTS, thinks the reason has to do with the limits of distributed work for the kind of problem-solving these companies are doing. “Unless you are a company that started as a remote company, it is really hard, if not impossible, to have the same productivity over Slack,” he said.</p>
-
-
-
-<p class="wp-block-paragraph">The broader market numbers point the same way. New York became the strongest office market in the country in the second quarter, supported by a 113 percent year-over-year increase in technology demand. San Francisco ranked second with trailing twelve-month tech demand up 161 percent. Excluding San Francisco, which was coming off a record first quarter, technology demand rose 19 percent quarter over quarter.</p>
-
-
-
-<p class="wp-block-paragraph">There is an early signal that the effect is spreading beyond AI tenants themselves. Professional services requirement velocity in San Francisco is up 33 percent year over year, which follows the pattern from prior cycles where tech leasing led and other industries followed into the same submarkets.</p>
-
-
-
-<p class="wp-block-paragraph">Whether that holds depends on things nobody can forecast with confidence. AI funding could contract the way tech funding did in 2022, when companies that had hired ahead of revenue cut staff quickly. The productivity effects that were supposed to reduce headcount may simply be arriving on a longer timeline than the leasing data covers. And the concentration in a handful of submarkets means a landlord underwriting to metro averages is reading a market that does not exist at their property.</p>
-
-
-
-<p class="wp-block-paragraph">For now, the companies building this technology are leasing more space than their predecessors did at the same stage, and they are doing it while telling their employees to come in on weekends.</p>
-<p>The post <a href="https://propmodo.com/ai-was-supposed-to-reduce-office-demand-so-far-it-has-done-the-opposite/">AI Was Supposed to Reduce Office Demand. So Far It Has Done the Opposite.</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/office-workplace.jpg" />	</item>
-		<item>
-		<title>Instant City Races to Build Tax Base From Scratch</title>
-		<link>https://propmodo.com/instant-city-races-to-build-tax-base-from-scratch/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Sun, 25 Oct 2026 15:26:24 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181821</guid>
-
-					<description><![CDATA[<p>San Tan Valley incorporated as Arizona's largest new town with 104,000 residents, zero staff, and borrowed funds. Now it's chasing commercial tenants.</p>
-<p>The post <a href="https://propmodo.com/instant-city-races-to-build-tax-base-from-scratch/">Instant City Races to Build Tax Base From Scratch</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">San Tan Valley incorporated in September 2025 as an instant town of 104,000 residents in Pinal County, Arizona — the largest new incorporation in state history. Starting with zero staff, no infrastructure, and no access to tax revenue, the town borrowed operating funds from neighboring Queen Creek for ten months while building out basic municipal functions. Brent Billingsley, hired as the first employee in December 2025, led a 15-person team to operational independence by July 1, 2026. The town had to navigate federal and state bureaucracy to unlock state-shared revenue, which remains its primary funding source alongside a new transaction privilege tax that took effect October 1.</p>
-
-
-
-<p class="wp-block-paragraph">San Tan Valley leases office space from Pinal County and contracts with the county sheriff&#8217;s office and Rural Metro Fire for emergency services. Residents will vote November 3 to raise the state-imposed spending cap from $91 million to $850 million, a ceiling the town expects to grow into over time. Neighboring Queen Creek, with a smaller population, operates under a $650 million limit. First-year revenue reached roughly $51 million. Financial priorities hinge on a 10-year general plan now in development, with goals including land acquisition, a town hall, parks, and road expansion.</p>
-
-
-
-<p class="wp-block-paragraph">Mayor Daren Schnepf and Billingsley both aim to diversify beyond the town&#8217;s bedroom-community reputation by attracting industrial and commercial tenants. An estimated 600 businesses currently operate in San Tan Valley, serving 37,000 to 39,491 housing units. A battery storage site has been approved, and town leaders are touring data centers to educate the Council on potential energy infrastructure projects. A 3,238-acre state-owned parcel bounded by Hash Knife Draw Road, Bella Vista Road, Hunt Highway, and Gantzel Road is envisioned as a walkable downtown core where developers can pitch mixed-use plans to the state through the town.</p>
-
-
-
-<p class="wp-block-paragraph">Economic development leaders from Queen Creek, Casa Grande, and Maricopa cautioned San Tan Valley to manage expectations and treat growth as a marathon. Doreen Cott, Queen Creek&#8217;s economic development director, noted that projects often take years to materialize. The advice comes as San Tan Valley seeks to recapture sales tax leaking to neighboring cities and build a commercial base capable of supporting its population. Recent openings of a Winco Foods and In-N-Out Burger mark early commercial traction in a town that had no billing system or computers a year ago.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Phoenix Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/phoenix/news/2026/10/23/san-tan-valley-one-year-later.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Go Behind the Curtains of Arizona&#039;s Newest City</a></div></div>
-<p>The post <a href="https://propmodo.com/instant-city-races-to-build-tax-base-from-scratch/">Instant City Races to Build Tax Base From Scratch</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
 	</channel>
 </rss>

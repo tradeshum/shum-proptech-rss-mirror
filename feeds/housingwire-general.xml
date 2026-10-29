@@ -12,13 +12,13 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Tue, 27 Oct 2026 22:04:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 23:13:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.11</generator>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
 
 <image>
 	<url>https://www.housingwire.com/wp-content/uploads/2023/10/cropped-favicon-bg.png?w=32</url>
@@ -28,226 +28,223 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>These cities are labeled the best for retirees. How are their housing markets performing?</title>
-		<link>https://www.housingwire.com/articles/2027-retiree-rankings-affordability/</link>
-					<comments>https://www.housingwire.com/articles/2027-retiree-rankings-affordability/#respond</comments>
+		<title>The housing market gets a positive Fed day for a change</title>
+		<link>https://www.housingwire.com/articles/fed-warsh-10-year-5/</link>
+					<comments>https://www.housingwire.com/articles/fed-warsh-10-year-5/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 22:04:23 +0000</pubDate>
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 23:13:10 +0000</pubDate>
 				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Housing Market Data]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<category><![CDATA[U.S. News & World Report]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609052</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609389</guid>
 
-					<description><![CDATA[<p>HousingWire Data shows that seven of the top 10 markets are at least 10% more affordable than the national average</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/2027-retiree-rankings-affordability/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609052</post-id>	</item>
-		<item>
-		<title>Equity Union launches agent healthcare program with Trident BPO</title>
-		<link>https://www.housingwire.com/articles/equity-union-agent-healthcare-program/</link>
-					<comments>https://www.housingwire.com/articles/equity-union-agent-healthcare-program/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 21:01:48 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Equity Union Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Agents]]></category>
-		<category><![CDATA[RealTrends Verified GameChangers]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609123</guid>
-
-					<description><![CDATA[<p>NAR data shows 81% of firms do not offer health insurance to independent contractors or agents</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/equity-union-agent-healthcare-program/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609123</post-id>	</item>
-		<item>
-		<title>NAMB&#8217;s Michael Farrell on 2027 priorities of mortgage education, advocacy and member benefits</title>
-		<link>https://www.housingwire.com/articles/farrell-namb-2027-priorities/</link>
-					<comments>https://www.housingwire.com/articles/farrell-namb-2027-priorities/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 20:46:23 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Education]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAMB]]></category>
-		<category><![CDATA[VA Loan]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609078</guid>
-
-					<description><![CDATA[<p>Farrell highlights the new MORE education platform, plus policy priorities tied to LLPAs and VA loan funding fees
+					<description><![CDATA[<p>We still have some pressing issues with inflation, but it looks like the Fed doesn’t want to go crazy with rate hikes 
 </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/farrell-namb-2027-priorities/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fed-warsh-10-year-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609078</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609389</post-id>	</item>
 		<item>
-		<title>Case-Shiller home prices continue to lag inflation in August</title>
-		<link>https://www.housingwire.com/articles/case-shiller-lag-inflation-august/</link>
-					<comments>https://www.housingwire.com/articles/case-shiller-lag-inflation-august/#respond</comments>
+		<title>Alexander brothers sentenced to 30 years for sex trafficking</title>
+		<link>https://www.housingwire.com/articles/alexander-brothers-30-years/</link>
+					<comments>https://www.housingwire.com/articles/alexander-brothers-30-years/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 20:41:07 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Case-Shiller]]></category>
-		<category><![CDATA[Cotality]]></category>
+		<pubDate>Wed, 28 Oct 2026 21:43:12 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Alexander brothers]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Inflation]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609112</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609381</guid>
 
-					<description><![CDATA[<p>Home prices gained 2.1% YoY while CPI inflation was 3.4%, and only 2 metros posted monthly gains</p>]]></description>
+					<description><![CDATA[<p>The brothers were convicted in March 2026 after 11 women testified during trial</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/case-shiller-lag-inflation-august/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/alexander-brothers-30-years/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609112</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609381</post-id>	</item>
 		<item>
-		<title>New home sales muddle through &#8216;choppy and challenging&#8217; market</title>
-		<link>https://www.housingwire.com/articles/september-new-home-sales/</link>
-					<comments>https://www.housingwire.com/articles/september-new-home-sales/#respond</comments>
+		<title>Toll Brothers underwrites lots for tomorrow&#8217;s market, not yesterday&#8217;s</title>
+		<link>https://www.housingwire.com/articles/toll-brothers-land-strategy/</link>
+					<comments>https://www.housingwire.com/articles/toll-brothers-land-strategy/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 20:06:58 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
+		<pubDate>Wed, 28 Oct 2026 20:48:19 +0000</pubDate>
+				<category><![CDATA[Land]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New Home Sales]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609073</guid>
+		<category><![CDATA[Toll Brothers]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609318</guid>
 
-					<description><![CDATA[<p>September new-home price averaged $400,000, and months’ supply inched lower to 8.4 despite weaker buyer traffic
-</p>]]></description>
+					<description><![CDATA[<p>As demand moderates, Toll Brothers is tightening its underwriting hurdle rates and doubling down on prime "Main and Main" sites </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/september-new-home-sales/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/toll-brothers-land-strategy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609073</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609318</post-id>	</item>
 		<item>
-		<title>Why home prices and new home sales aren’t as hot as today’s reports show</title>
-		<link>https://www.housingwire.com/articles/case-shiller-lagged-prices/</link>
-					<comments>https://www.housingwire.com/articles/case-shiller-lagged-prices/#respond</comments>
+		<title>CoStar wants faster Homes.com growth, is shifting sales into the field</title>
+		<link>https://www.housingwire.com/articles/costar-q3-2026-bookings/</link>
+					<comments>https://www.housingwire.com/articles/costar-q3-2026-bookings/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 19:15:03 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Home Price Index]]></category>
-		<category><![CDATA[Home Sales]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609054</guid>
-
-					<description><![CDATA[<p>Case-Shiller rose 2.1% YoY in August, while September new home sales ran 676,000, with builder buydowns still shaping demand</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/case-shiller-lagged-prices/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609054</post-id>	</item>
-		<item>
-		<title>Op-ed: CAR governance review sparks debate over member access and control</title>
-		<link>https://www.housingwire.com/articles/car-transparency-representation-dispute/</link>
-					<comments>https://www.housingwire.com/articles/car-transparency-representation-dispute/#respond</comments>
-		
-		<dc:creator><![CDATA[Dmitriy Kruglyak]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 17:32:20 +0000</pubDate>
-				<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Opinion]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 20:39:03 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[California Association of Realtors]]></category>
+		<category><![CDATA[Andy Florance]]></category>
+		<category><![CDATA[CoStar Group]]></category>
+		<category><![CDATA[Homes.com]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=608352</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609367</guid>
 
-					<description><![CDATA[<p>A town hall drew 1,000-plus attendees as members challenged the mandate and meeting restrictions</p>]]></description>
+					<description><![CDATA[<p>Net new bookings totaled $37 million, while residential segment revenue rose to $460 million from $373 million</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/car-transparency-representation-dispute/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/costar-q3-2026-bookings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">608352</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609367</post-id>	</item>
 		<item>
-		<title>Open Real Estate got the brokers to agree. Now it has to decide who holds the keys</title>
-		<link>https://www.housingwire.com/articles/ore-rules-private-listings/</link>
-					<comments>https://www.housingwire.com/articles/ore-rules-private-listings/#respond</comments>
+		<title>NYC office-to-apartment mega project resumes after near disaster</title>
+		<link>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/</link>
+					<comments>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/#respond</comments>
 		
-		<dc:creator><![CDATA[Darryl Davis]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 17:24:49 +0000</pubDate>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 19:58:55 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
+		<category><![CDATA[Construction]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609310</guid>
+
+					<description><![CDATA[<p>The 1,600 unit project triggered 180 city inspections, with 65 violations and 18 partial stop work orders</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609310</post-id>	</item>
+		<item>
+		<title>Open Real Estate gains momentum as independent brokerages sign on</title>
+		<link>https://www.housingwire.com/articles/open-real-estate-early-brokerages/</link>
+					<comments>https://www.housingwire.com/articles/open-real-estate-early-brokerages/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 19:22:06 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Opinion]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[Donny Samson]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Open Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609019</guid>
+		<category><![CDATA[Samson Properties]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609300</guid>
 
-					<description><![CDATA[<p>Founders say listings must flow to MLS and portals together, critics want clearer ownership and seller choices</p>]]></description>
+					<description><![CDATA[<p>Backers say the effort will streamline property data sharing to MLSs, portals and other sites ahead of a Q1 2027 launch</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/ore-rules-private-listings/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-early-brokerages/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609019</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609300</post-id>	</item>
 		<item>
-		<title>USDA expands rural home loan pilot with six lenders</title>
-		<link>https://www.housingwire.com/articles/usda-lite-pilot-lenders/</link>
-					<comments>https://www.housingwire.com/articles/usda-lite-pilot-lenders/#respond</comments>
+		<title>As tappable home equity peaks, can reverse mortgage lenders get more borrowers on board?</title>
+		<link>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/</link>
+					<comments>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 19:10:55 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[First American]]></category>
+		<category><![CDATA[Home Equity]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609193</guid>
+
+					<description><![CDATA[<p>First American report shows the vast majority of accessible equity is tied to mortgages with rates that are not refi ready</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609193</post-id>	</item>
+		<item>
+		<title>Figure hits $500M per year in small-business loans as entrepreneurs turn to home equity</title>
+		<link>https://www.housingwire.com/articles/figure-small-business-financing-500m/</link>
+					<comments>https://www.housingwire.com/articles/figure-small-business-financing-500m/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 17:16:05 +0000</pubDate>
+		<pubDate>Wed, 28 Oct 2026 19:07:05 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Figure Technologies]]></category>
+		<category><![CDATA[HELOCs]]></category>
+		<category><![CDATA[Home Equity]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New American Funding]]></category>
-		<category><![CDATA[PennyMac]]></category>
-		<category><![CDATA[Union Home Mortgage]]></category>
-		<category><![CDATA[USDA]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609025</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609279</guid>
 
-					<description><![CDATA[<p>The program delegates preclosing approval to lenders for rural mortgages backed by USDA’s 90% guarantee</p>]]></description>
+					<description><![CDATA[<p>Figure says approvals can take 5 minutes with funding in as few as 5 days, and borrowers can access up to $750K
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/usda-lite-pilot-lenders/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/figure-small-business-financing-500m/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609025</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609279</post-id>	</item>
 		<item>
-		<title>Budge Huskey steps back as Premier Sotheby’s CEO, but retirement isn’t in the plan</title>
-		<link>https://www.housingwire.com/articles/premier-sothebys-ceo-transition-2027/</link>
-					<comments>https://www.housingwire.com/articles/premier-sothebys-ceo-transition-2027/#respond</comments>
+		<title>Fed pauses before midterms as markets bet on December hike</title>
+		<link>https://www.housingwire.com/articles/fed-holds-benchmark-rate/</link>
+					<comments>https://www.housingwire.com/articles/fed-holds-benchmark-rate/#respond</comments>
 		
-		<dc:creator><![CDATA[Tracey Velt]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 16:56:33 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 18:02:49 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Peerage Realty Partners]]></category>
-		<category><![CDATA[Sotheby's International Realty]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609014</guid>
+		<category><![CDATA[Kevin Warsh]]></category>
+		<category><![CDATA[Monetary Policy]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609070</guid>
 
-					<description><![CDATA[<p>In an exclusive interview with HousingWire, Huskey says the timing is right to hand the baton to new CEO Jackie Thiel</p>]]></description>
+					<description><![CDATA[<p>Softer job growth clashes with hotter September inflation</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/premier-sothebys-ceo-transition-2027/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fed-holds-benchmark-rate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609014</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609070</post-id>	</item>
+		<item>
+		<title>Better reports $22.9M in annualized savings from turnaround efforts</title>
+		<link>https://www.housingwire.com/articles/better-annualized-savings-turnaround/</link>
+					<comments>https://www.housingwire.com/articles/better-annualized-savings-turnaround/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 17:17:04 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Better]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Vishal Garg]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609208</guid>
+
+					<description><![CDATA[<p>Weekly scorecard shows $6.6M added from staffing and vendor cuts</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/better-annualized-savings-turnaround/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609208</post-id>	</item>
 	</channel>
 </rss>
