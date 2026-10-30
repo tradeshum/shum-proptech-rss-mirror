@@ -1,0 +1,40 @@
+name: Mirror luxury real-estate feeds
+
+# Feeds the SHUM "Luxury Journal Scout" cloud routine (twice a week, Mon and Thu 06:00 UTC).
+# The cloud sandbox can only reach GitHub-class hosts, so this workflow fetches the feeds and
+# commits ONE rolling file, data/items.json (21 days, de-duplicated by link, each item with first_seen).
+# 22:43 UTC leaves a wide buffer before 06:00 UTC: GitHub's scheduler can delay low-traffic repos by hours.
+on:
+  schedule:
+    - cron: "43 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch every feed (one failure never blocks the others)
+        run: |
+          mkdir -p raw
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          while IFS='|' read -r name url; do
+            [ -z "$name" ] && continue
+            curl -sSL --max-time 30 --retry 3 --retry-delay 5 --retry-all-errors \
+              -A "$UA" -H "Accept: application/rss+xml, application/xml, text/xml, */*" \
+              -o "raw/$name.xml" "$url" || echo "fetch failed: $name"
+          done < scripts/feeds_luxury.txt
+
+      - name: Merge into data/items.json
+        run: python3 scripts/build_items.py raw data
+
+      - name: Commit when changed
+        run: |
+          git config user.name "shum-proptech-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no changes"; else git commit -m "Update luxury items ($(date -u +%Y-%m-%d))" && git push; fi

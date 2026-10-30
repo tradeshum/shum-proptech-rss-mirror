@@ -35,3 +35,6 @@ other repo's private-repo minutes quota.
 ```
 gh workflow run mirror.yml --repo tradeshum/shum-proptech-rss-mirror
 ```
+
+## Luxury feeds (added 2026-10-30)
+`.github/workflows/mirror-luxury.yml` + `scripts/feeds_luxury.txt` + `scripts/build_items.py` keep `data/items.json` (rolling 21 days, each item has `first_seen`) and `data/health.json` (per-feed status) for the Luxury Journal Scout routine.
