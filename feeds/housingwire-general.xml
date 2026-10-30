@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 28 Oct 2026 23:13:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2026 21:39:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,223 +28,228 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>The housing market gets a positive Fed day for a change</title>
-		<link>https://www.housingwire.com/articles/fed-warsh-10-year-5/</link>
-					<comments>https://www.housingwire.com/articles/fed-warsh-10-year-5/#respond</comments>
+		<title>Rocket posts $709M profit in Q3 despite tougher mortgage market</title>
+		<link>https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/</link>
+					<comments>https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 23:13:10 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 21:39:41 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Earnings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609389</guid>
+		<category><![CDATA[Rocket Companies]]></category>
+		<category><![CDATA[Rocket Mortgage]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609519</guid>
 
-					<description><![CDATA[<p>We still have some pressing issues with inflation, but it looks like the Fed doesn’t want to go crazy with rate hikes 
+					<description><![CDATA[<p>Rocket guided Q4 adjusted revenue to range of $2.1 billion to $2.3 billion while noting that refis could drop nearly 50% from Q3
 </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fed-warsh-10-year-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/rocket-q3-profit-tougher-market/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609389</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609519</post-id>	</item>
 		<item>
-		<title>Alexander brothers sentenced to 30 years for sex trafficking</title>
-		<link>https://www.housingwire.com/articles/alexander-brothers-30-years/</link>
-					<comments>https://www.housingwire.com/articles/alexander-brothers-30-years/#respond</comments>
+		<title>Why Howard Hanna was missing from Open Real Estate launch list</title>
+		<link>https://www.housingwire.com/articles/howard-hanna-open-real-estate/</link>
+					<comments>https://www.housingwire.com/articles/howard-hanna-open-real-estate/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 21:43:12 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Alexander brothers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609381</guid>
-
-					<description><![CDATA[<p>The brothers were convicted in March 2026 after 11 women testified during trial</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/alexander-brothers-30-years/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609381</post-id>	</item>
-		<item>
-		<title>Toll Brothers underwrites lots for tomorrow&#8217;s market, not yesterday&#8217;s</title>
-		<link>https://www.housingwire.com/articles/toll-brothers-land-strategy/</link>
-					<comments>https://www.housingwire.com/articles/toll-brothers-land-strategy/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 20:48:19 +0000</pubDate>
-				<category><![CDATA[Land]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Toll Brothers]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609318</guid>
-
-					<description><![CDATA[<p>As demand moderates, Toll Brothers is tightening its underwriting hurdle rates and doubling down on prime "Main and Main" sites </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/toll-brothers-land-strategy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609318</post-id>	</item>
-		<item>
-		<title>CoStar wants faster Homes.com growth, is shifting sales into the field</title>
-		<link>https://www.housingwire.com/articles/costar-q3-2026-bookings/</link>
-					<comments>https://www.housingwire.com/articles/costar-q3-2026-bookings/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 20:39:03 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Andy Florance]]></category>
-		<category><![CDATA[CoStar Group]]></category>
-		<category><![CDATA[Homes.com]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609367</guid>
-
-					<description><![CDATA[<p>Net new bookings totaled $37 million, while residential segment revenue rose to $460 million from $373 million</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/costar-q3-2026-bookings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609367</post-id>	</item>
-		<item>
-		<title>NYC office-to-apartment mega project resumes after near disaster</title>
-		<link>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/</link>
-					<comments>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 19:58:55 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[Construction]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609310</guid>
-
-					<description><![CDATA[<p>The 1,600 unit project triggered 180 city inspections, with 65 violations and 18 partial stop work orders</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/nyc-office-apartment-conversion-pipeline/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609310</post-id>	</item>
-		<item>
-		<title>Open Real Estate gains momentum as independent brokerages sign on</title>
-		<link>https://www.housingwire.com/articles/open-real-estate-early-brokerages/</link>
-					<comments>https://www.housingwire.com/articles/open-real-estate-early-brokerages/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 19:22:06 +0000</pubDate>
+		<pubDate>Thu, 29 Oct 2026 20:40:06 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[Clear Cooperation]]></category>
-		<category><![CDATA[Donny Samson]]></category>
+		<category><![CDATA[Hoby Hanna]]></category>
+		<category><![CDATA[Howard Hanna Real Estate Services]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Samson Properties]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609300</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609520</guid>
 
-					<description><![CDATA[<p>Backers say the effort will streamline property data sharing to MLSs, portals and other sites ahead of a Q1 2027 launch</p>]]></description>
+					<description><![CDATA[<p>CEO Hoby Hanna says founders have contacted him, he wants clarity on governance, funding and end goals before committing</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-early-brokerages/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/howard-hanna-open-real-estate/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609300</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609520</post-id>	</item>
 		<item>
-		<title>As tappable home equity peaks, can reverse mortgage lenders get more borrowers on board?</title>
-		<link>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/</link>
-					<comments>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/#respond</comments>
+		<title>RealTrends Verified brokerage Howard Hanna enters Alabama with ARC, Capstone deal</title>
+		<link>https://www.housingwire.com/articles/howard-hanna-enters-alabama/</link>
+					<comments>https://www.housingwire.com/articles/howard-hanna-enters-alabama/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 19:10:55 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[First American]]></category>
-		<category><![CDATA[Home Equity]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 19:53:35 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Alabama]]></category>
+		<category><![CDATA[Hoby Hanna]]></category>
+		<category><![CDATA[Howard Hanna Real Estate Services]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609193</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609506</guid>
 
-					<description><![CDATA[<p>First American report shows the vast majority of accessible equity is tied to mortgages with rates that are not refi ready</p>]]></description>
+					<description><![CDATA[<p>The partnership adds 875 agents across 12 offices in Birmingham, Montgomery and Huntsville</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/accessible-home-equity-record-13-2-trillion-rate-lock-in-q2-2026-first-american/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/howard-hanna-enters-alabama/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609193</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609506</post-id>	</item>
 		<item>
-		<title>Figure hits $500M per year in small-business loans as entrepreneurs turn to home equity</title>
-		<link>https://www.housingwire.com/articles/figure-small-business-financing-500m/</link>
-					<comments>https://www.housingwire.com/articles/figure-small-business-financing-500m/#respond</comments>
+		<title>MLS executives weigh Open Real Estate and listing control</title>
+		<link>https://www.housingwire.com/articles/mls-open-real-estate-control/</link>
+					<comments>https://www.housingwire.com/articles/mls-open-real-estate-control/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 18:51:47 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Bright MLS]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NorthstarMLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609494</guid>
+
+					<description><![CDATA[<p>Bright MLS and Northstar MLS cite modernization potential, SDMLS flags adoption hurdles and data set concerns</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mls-open-real-estate-control/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609494</post-id>	</item>
+		<item>
+		<title>CrossCountry says borrowers are saving an average of $2,500 with VantageScore 4.0</title>
+		<link>https://www.housingwire.com/articles/crosscountry-vantagescore-savings/</link>
+					<comments>https://www.housingwire.com/articles/crosscountry-vantagescore-savings/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 19:07:05 +0000</pubDate>
+		<pubDate>Thu, 29 Oct 2026 17:46:01 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Figure Technologies]]></category>
-		<category><![CDATA[HELOCs]]></category>
-		<category><![CDATA[Home Equity]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[CrossCountry Mortgage]]></category>
+		<category><![CDATA[FHFA]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609279</guid>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609476</guid>
 
-					<description><![CDATA[<p>Figure says approvals can take 5 minutes with funding in as few as 5 days, and borrowers can access up to $750K
-</p>]]></description>
+					<description><![CDATA[<p>Company cites a 62-bps average LLPA reduction in the first 60 days after scores improved</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/figure-small-business-financing-500m/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/crosscountry-vantagescore-savings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609279</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609476</post-id>	</item>
 		<item>
-		<title>Fed pauses before midterms as markets bet on December hike</title>
-		<link>https://www.housingwire.com/articles/fed-holds-benchmark-rate/</link>
-					<comments>https://www.housingwire.com/articles/fed-holds-benchmark-rate/#respond</comments>
+		<title>Does recruiting really take 1,000 cups of coffee, or just a system?</title>
+		<link>https://www.housingwire.com/articles/brokerage-recruiting-system/</link>
+					<comments>https://www.housingwire.com/articles/brokerage-recruiting-system/#respond</comments>
+		
+		<dc:creator><![CDATA[Brant Levine]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 17:31:53 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Recruiting]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609465</guid>
+
+					<description><![CDATA[<p>Courted found 16% of agents moved in 2025, top brands traded down as net volume grew 1.8%</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/brokerage-recruiting-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609465</post-id>	</item>
+		<item>
+		<title>ICE grows mortgage tech revenue in Q3 through Wells Fargo, Freedom deals</title>
+		<link>https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/</link>
+					<comments>https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 18:02:49 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
+		<pubDate>Thu, 29 Oct 2026 17:25:41 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[Freedom Mortgage]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Kevin Warsh]]></category>
-		<category><![CDATA[Monetary Policy]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609070</guid>
+		<category><![CDATA[ICE Mortgage Technology]]></category>
+		<category><![CDATA[Intercontinental Exchange]]></category>
+		<category><![CDATA[Wells Fargo]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609469</guid>
 
-					<description><![CDATA[<p>Softer job growth clashes with hotter September inflation</p>]]></description>
+					<description><![CDATA[<p>Wells Fargo and Freedom Mortgage recently added home equity portfolios to ICE’s MSP platform</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fed-holds-benchmark-rate/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/ice-mortgage-tech-q3-revenue/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609070</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609469</post-id>	</item>
 		<item>
-		<title>Better reports $22.9M in annualized savings from turnaround efforts</title>
-		<link>https://www.housingwire.com/articles/better-annualized-savings-turnaround/</link>
-					<comments>https://www.housingwire.com/articles/better-annualized-savings-turnaround/#respond</comments>
+		<title>Regulators urge seniors to build defenses against financial fraud, cyber threats</title>
+		<link>https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/</link>
+					<comments>https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 17:06:33 +0000</pubDate>
+				<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[CFPB]]></category>
+		<category><![CDATA[Cybersecurity]]></category>
+		<category><![CDATA[Federal Deposit Insurance Corporation]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Veterans]]></category>
+		<category><![CDATA[Wire Fraud]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609358</guid>
+
+					<description><![CDATA[<p>Officials at the FDIC and CFPB highlighted cyber hygiene, investment fraud red flags and veteran pension scams in their Money Smart educational series</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fdic-cfpb-senior-fraud/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609358</post-id>	</item>
+		<item>
+		<title>Parents, grandparents step in as down payment backers amid affordability crunch</title>
+		<link>https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/</link>
+					<comments>https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 15:52:32 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Down Payment Assistance]]></category>
+		<category><![CDATA[Gen Z]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609457</guid>
+
+					<description><![CDATA[<p>Among parents of children 5 and under, 14% have already started saving for a future down payment</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/parents-saving-kids-down-payment-coldwell-banker-2026-american-dream-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609457</post-id>	</item>
+		<item>
+		<title>Radian announces leadership changes, including new CFO and CIO</title>
+		<link>https://www.housingwire.com/articles/radian-leadership-cfo-cio/</link>
+					<comments>https://www.housingwire.com/articles/radian-leadership-cfo-cio/#respond</comments>
 		
 		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 17:17:04 +0000</pubDate>
+		<pubDate>Thu, 29 Oct 2026 15:42:55 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Better]]></category>
-		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[People Movers]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Vishal Garg]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609208</guid>
+		<category><![CDATA[Mortgage Insurance]]></category>
+		<category><![CDATA[Radian]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609446</guid>
 
-					<description><![CDATA[<p>Weekly scorecard shows $6.6M added from staffing and vendor cuts</p>]]></description>
+					<description><![CDATA[<p>The changes span mortgage insurance and specialty insurance 
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/better-annualized-savings-turnaround/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/radian-leadership-cfo-cio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609208</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609446</post-id>	</item>
 	</channel>
 </rss>
