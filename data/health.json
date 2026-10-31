@@ -2,121 +2,121 @@
  "altrata": {
   "error": "",
   "items_in_feed": 12,
-  "new_items": 12,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 0,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "archdigest": {
   "error": "",
   "items_in_feed": 30,
-  "new_items": 30,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 9,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "cntraveller": {
   "error": "",
   "items_in_feed": 30,
-  "new_items": 30,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 7,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "curbed": {
   "error": "",
   "items_in_feed": 20,
-  "new_items": 20,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 4,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "dezeen": {
   "error": "",
   "items_in_feed": 50,
-  "new_items": 50,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 6,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "elledecor": {
   "error": "",
   "items_in_feed": 50,
-  "new_items": 50,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 2,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "globetrender": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 0,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "guardian-property": {
   "error": "",
   "items_in_feed": 20,
-  "new_items": 20,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 0,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "hospitalitynet": {
   "error": "",
   "items_in_feed": 20,
-  "new_items": 20,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 11,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "hoteldive": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 1,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "luxurydaily": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 0,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "luxurylondon": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 2,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "nypost-realestate": {
   "error": "",
   "items_in_feed": 20,
-  "new_items": 20,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 3,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "propertywire": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 3,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "robbreport": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 9,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "skift": {
   "error": "",
   "items_in_feed": 10,
-  "new_items": 10,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 8,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "thespaces": {
   "error": "",
   "items_in_feed": 20,
-  "new_items": 20,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 1,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "townandcountry": {
   "error": "",
   "items_in_feed": 50,
-  "new_items": 50,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 15,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "vedomosti-realty": {
   "error": "",
   "items_in_feed": 200,
-  "new_items": 200,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 0,
+  "ok": "2026-10-31T01:50+00:00"
  },
  "wallpaper": {
   "error": "",
   "items_in_feed": 50,
-  "new_items": 50,
-  "ok": "2026-10-30T11:00+00:00"
+  "new_items": 3,
+  "ok": "2026-10-31T01:50+00:00"
  }
 }
