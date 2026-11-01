@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 30 Oct 2026 20:56:11 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Oct 2026 21:37:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>A path to sub-7% mortgage rates is back on the table</title>
+		<link>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/</link>
+					<comments>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2026 20:57:31 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609681</guid>
+
+					<description><![CDATA[<p>As rates have fallen, housing demand has stabilized the last two weeks</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609681</post-id>	</item>
+		<item>
+		<title>Exclusive: CrossCountry Mortgage demands payment from former LOs, invokes 2-year non-solicitation</title>
+		<link>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/</link>
+					<comments>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2026 02:02:14 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[CrossCountry Mortgage]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Loan Officer]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609653</guid>
+
+					<description><![CDATA[<p>Documents show the company is demanding 75 bps for each refinanced loan on former customers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609653</post-id>	</item>
+		<item>
 		<title>Silvio Tavares steps down as VantageScore CEO, Anthony Hutchinson named interim leader</title>
 		<link>https://www.housingwire.com/articles/vantagescore-ceo-steps-down/</link>
 					<comments>https://www.housingwire.com/articles/vantagescore-ceo-steps-down/#respond</comments>
@@ -201,50 +242,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">609531</post-id>	</item>
-		<item>
-		<title>eXp Realty coming soon listings to appear on RealScout</title>
-		<link>https://www.housingwire.com/articles/exp-coming-soon-realscout/</link>
-					<comments>https://www.housingwire.com/articles/exp-coming-soon-realscout/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 15:07:16 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[eXp Realty]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Leo Pareja]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609548</guid>
-
-					<description><![CDATA[<p>The companies did not provide a launch date, expanding eXp syndication beyond Realtor.com and Homes.com</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/exp-coming-soon-realscout/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609548</post-id>	</item>
-		<item>
-		<title>Exclusive: Dark Matter acquires House Numbers’ agentic AI platform</title>
-		<link>https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/</link>
-					<comments>https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Dark Matter Technologies]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609499</guid>
-
-					<description><![CDATA[<p>Jeff Levinsohn, the co-founder and CEO of House Numbers, joins Dark Matter as chief AI officer</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609499</post-id>	</item>
 	</channel>
 </rss>
