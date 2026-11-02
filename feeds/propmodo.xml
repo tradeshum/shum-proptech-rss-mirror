@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Thu, 29 Oct 2026 22:53:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Nov 2026 00:51:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,136 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI Is Letting Everyone in a Real Estate Organization See the Data They Need</title>
+		<link>https://propmodo.com/ai-is-letting-everyone-in-a-real-estate-organization-see-the-data-they-need/</link>
+		
+		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 00:51:16 +0000</pubDate>
+				<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Re-Leased]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181925</guid>
+
+					<description><![CDATA[<p>Explore how AI in real estate is advancing from basic automation to trusted decisions across lease monitoring, compliance, data, and portfolio management.</p>
+<p>The post <a href="https://propmodo.com/ai-is-letting-everyone-in-a-real-estate-organization-see-the-data-they-need/">AI Is Letting Everyone in a Real Estate Organization See the Data They Need</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Adoption of AI across real estate organizations has been broad and shallow. Nearly everyone is using it somewhere, usually for drafting, summarizing, or extracting information from documents, and almost nobody has given it authority to decide anything. The human stays in the loop not because the technology cannot handle the task but because handing over judgment feels different from handing over typing.</p>
+
+
+
+<p class="wp-block-paragraph">That boundary is likely to move, though the pace depends less on capability than on comfort. Dai Williams, President of Re-Leased, pointed out that the constraint is often about people rather than models. “The tech is capable of so much but what matters is what humans are comfortable with handing over to AI,” he said. “Once AI shows its effectiveness, it will start to creep in more.” Confidence accumulates through repeated correct outputs, and the organizations further along are the ones that started earlier and have more of that history to draw on.</p>
+
+
+
+<!-- Re-Leased webinar promo. Paste into a Custom HTML block. -->
+<style>
+  .pm-rl-promo { box-sizing: border-box; margin: 2.5em 0; padding: 1.5em 1.75em; background: #000; color: #EDEAE4; border-radius: 4px; font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.4; display: flex; gap: 1.75em; align-items: flex-start; }
+  .pm-rl-promo * { box-sizing: border-box; }
+  .pm-rl-promo .pm-rl-main { flex: 1 1 auto; min-width: 0; }
+  .pm-rl-promo .pm-rl-speaker { flex: 0 0 auto; margin: 0.25em 0 0; display: flex; flex-direction: column; align-items: center; text-align: center; width: 120px; }
+  .pm-rl-promo .pm-rl-speaker img { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; display: block; margin: 0 0 0.6em; border: 2px solid #3A3835; }
+  .pm-rl-promo .pm-rl-speaker figcaption { font-size: 0.8em; line-height: 1.3; color: #C9C5BD; }
+  .pm-rl-promo .pm-rl-speaker figcaption strong { display: block; color: #fff; font-weight: 600; }
+  .pm-rl-promo .pm-rl-kicker { margin: 0 0 0.5em; font-size: 0.8em; color: #9A968F; }
+  .pm-rl-promo .pm-rl-title { margin: 0 0 0.2em; font-size: 1.35em; font-weight: 700; line-height: 1.2; color: #fff; }
+  .pm-rl-promo .pm-rl-when { margin: 0 0 0.9em; font-size: 0.9em; color: #EDEAE4; }
+  .pm-rl-promo .pm-rl-body { margin: 0 0 1.1em; font-size: 0.95em; color: #C9C5BD; max-width: 60ch; }
+  .pm-rl-promo .pm-rl-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75em 1.25em; }
+  .pm-rl-promo .pm-rl-btn { display: inline-block; padding: 0.65em 1.3em; background: #fff; color: #000; font-size: 0.95em; font-weight: 700; text-decoration: none; border-radius: 3px; border: 2px solid #fff; transition: background .15s, color .15s; }
+  .pm-rl-promo .pm-rl-btn:hover, .pm-rl-promo .pm-rl-btn:focus-visible { background: #000; color: #fff; outline: none; }
+  .pm-rl-promo .pm-rl-note { margin: 0; font-size: 0.8em; color: #9A968F; }
+  @media (max-width: 600px) {
+    .pm-rl-promo { flex-direction: column; padding: 1.25em; gap: 1em; }
+    .pm-rl-promo .pm-rl-speaker { flex-direction: row; text-align: left; width: auto; gap: 0.75em; margin: 0; }
+    .pm-rl-promo .pm-rl-speaker img { width: 64px; height: 64px; margin: 0; }
+    .pm-rl-promo .pm-rl-btn { width: 100%; text-align: center; }
+  }
+</style>
+
+<aside class="pm-rl-promo" aria-label="Re-Leased webinar">
+  <div class="pm-rl-main">
+    <p class="pm-rl-kicker">Live webinar from Re-Leased</p>
+    <h3 class="pm-rl-title">Your data is your AI’s ceiling</h3>
+    <p class="pm-rl-when">Thursday, November 19 at 11am PT / 1pm CT</p>
+    <p class="pm-rl-body">AI can only work with the records behind it. Join Cody Bunea, our VP of Product, for a practical look at how commercial property teams are using AI to capture, check and maintain their data, plus an early look at Credia Monitor, which continuously checks property records and flags what needs attention.</p>
+    <div class="pm-rl-row">
+      <a class="pm-rl-btn" href="https://global.re-leased.com/ai-webinar-noam-nov?utm_campaign=57658756-26noam_propmodo_november&amp;utm_source=propmodo&amp;utm_content=leadcapture" target="_blank" rel="noopener sponsored">Save your seat</a>
+      <p class="pm-rl-note">Can’t make it live? Register and we’ll send you the recording.</p>
+    </div>
+  </div>
+  <figure class="pm-rl-speaker">
+    <img loading="lazy" decoding="async" src="https://propmodo.com/wp-content/uploads/2026/11/cody_bunea-re-leased.jpeg" alt="Cody Bunea" width="96" height="96" loading="lazy">
+    <figcaption><strong>Cody Bunea</strong>VP of Product, Re-Leased</figcaption>
+  </figure>
+</aside>
+
+
+
+<p class="wp-block-paragraph">Underneath the comfort question sits a data question that most portfolios have not resolved. An AI system is working from whatever got entered into the system of record, and real estate data has a long history of being entered inconsistently, incompletely, or incorrectly by people who had other things to do. Williams sees extraction accuracy as the gate that everything else waits behind. “If you can trust the data that gets extracted you can start to automate putting data where it needs to go,” he said. Automating the movement of information is a smaller ask than automating a decision, and it is the step that makes larger ones possible.</p>
+
+
+
+<p class="wp-block-paragraph">The application that has <a href="https://www.re-leased.com/practical-ai-in-commercial-property-management?utm_campaign=57658756-26noam_propmodo_november&amp;utm_source=propmodo-nov&amp;utm_content=article#chapter-4" target="_blank" rel="noreferrer noopener">proven itself first is monitoring</a>, which happens to be something AI does well and organizations do poorly. Lease documents contain dozens of dates and conditions that require someone to act before a window closes, and those obligations tend to live in a spreadsheet maintained by whoever inherited it. Rent reviews are the failure Williams encounters most. “The most common things we see missed is rent reviews,” he said. “There is sometimes a lack of ownership on who needs to oversee it.” A missed review locks in below-market rent for the rest of the term, and nobody discovers it until someone reconciles the rent roll against the lease.</p>
+
+
+
+<p class="wp-block-paragraph">Compliance carries a different kind of exposure, which is why Williams thinks it deserves more attention than it usually gets. “Compliance is so important, it is one of the only things that can land you in jail if you don’t do it right,” he said. Fire safety inspections, elevator certifications, environmental testing, and accessibility requirements all run on schedules that vary by jurisdiction and property type, and a portfolio operating across several markets is tracking hundreds of recurring obligations with different triggers.</p>
+
+
+
+<p class="wp-block-paragraph">What exists today mostly flags those lapses. A system notices that a fire extinguisher certification has expired and tells someone. The version coming next closes the loop, ordering the replacement, scheduling the service, and updating the certificate record without a person routing it. Getting there requires an organization willing to let an agent transact on its behalf, which brings the conversation back to where it started.</p>
+
+
+
+<p class="wp-block-paragraph">Query access is changing a different part of the picture, and it is reshaping how platforms get built. Dashboards have always been a compromise between what developers anticipated users wanting and what any individual user actually needs on a given day. Williams describes two populations with incompatible requirements. “There are two types of users, highly specialized and very broad,” he said. “The specialized users are working with tenants will want to be very specific about the data they have. Broad users look at it at a portfolio level and want to see how all of the properties compare with each other.” A property manager needs the detail on one building. An asset manager needs the comparison across forty. Natural language querying serves both without forcing either into a layout designed for the other.</p>
+
+
+
+<p class="wp-block-paragraph">Whether any of this scales depends on something harder than the interface, which is getting an AI system access to information scattered across the platforms different stakeholders use. Property management, accounting, maintenance, and asset management systems each hold part of the picture, and a portfolio view assembled from one of them is incomplete by construction. Williams sees that as the gap between consumer AI and anything usable at an institutional level. “Institutional knowledge is so important, most LLMs are built for single users,” he said. “You need tools that stretch across verticals that can really be used by large organizations.”</p>
+<p>The post <a href="https://propmodo.com/ai-is-letting-everyone-in-a-real-estate-organization-see-the-data-they-need/">AI Is Letting Everyone in a Real Estate Organization See the Data They Need</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/modern-city-windows.jpg" />	</item>
+		<item>
+		<title>Semiconductor Manufacturing Fuels Taiwanese Investment Wave Across Arizona Markets</title>
+		<link>https://propmodo.com/semiconductor-manufacturing-fuels-taiwanese-investment-wave-across-arizona-markets/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 23:05:11 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=181931</guid>
+
+					<description><![CDATA[<p>TSMC's Arizona expansion pulls $500 million in Taiwanese capital into Phoenix real estate, accelerating home values and industrial demand near the chipmaker's campus.</p>
+<p>The post <a href="https://propmodo.com/semiconductor-manufacturing-fuels-taiwanese-investment-wave-across-arizona-markets/">Semiconductor Manufacturing Fuels Taiwanese Investment Wave Across Arizona Markets</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Taiwan Semiconductor Manufacturing Co.&#8217;s $265 billion Arizona campus has drawn more than $500 million in Taiwanese real estate investment since 2021, matching Canadian capital inflows to the Phoenix region. Family offices and property investors from Taipei are acquiring industrial sites, development parcels, and residential projects within proximity to TSMC&#8217;s 2,000-acre north Phoenix facility, which now includes one operational fabrication plant and two more scheduled by decade&#8217;s end. Taicoon Property Partners paid $88 million for two plots near the campus, planning a $1 billion mixed-use project anchored by Taiwanese retail brands. Starlux and China Airlines operate nonstop flights between Taipei and Phoenix, and Taiwan opened a trade office in the state capital in 2024.</p>
+
+
+
+<p class="wp-block-paragraph">North Gateway and Desert View submarkets near the TSMC campus recorded 53% home value appreciation over six years, outpacing Phoenix&#8217;s 42% citywide gain. Industrial vacancies in northwest Phoenix fell to 8% in June from 16% a year earlier, compared with a two-percentage-point drop across the broader metro area. Howard Hughes accelerated development timelines for Teravalis, a 37,000-acre master-planned community west of Phoenix that will eventually include 110,000 homes and 60 million square feet of retail. Major builders Taylor Morrison and Lennar are expanding across the region, with one submarket planning 3,300 new homes.</p>
+
+
+
+<p class="wp-block-paragraph">TSMC employs 3,500 workers at its Arizona facilities and plans to add 2,500 more, creating demand that outstrips local labor supply for specialized semiconductor roles. The company sponsors visas for Taiwanese workers, a practice that drew a class-action discrimination lawsuit from a former employee alleging favoritism toward East Asian hires. TSMC says many overseas employees are on temporary assignment while it recruits from U.S. universities and local training programs. The administration last month suspended several large tech companies from a permanent residency sponsorship program, and Arizona State University faces a visa fraud investigation tied to foreign graduate enrollment.</p>
+
+
+
+<p class="wp-block-paragraph">Land constraints tied to Arizona groundwater rules and state-owned property sales are surfacing conflicts between residential developers and industrial expansion. TSMC purchased roughly 900 acres within the NorthPark development south of Loop 303, reducing planned housing by 20% despite hundreds of public objections to rezoning. Deer Valley Unified School District now enrolls hundreds of students from Taiwanese families, with the superintendent projecting it will become Arizona&#8217;s largest district within two decades. Local brokers report midnight calls from Asian investors asking a single question about any available tract: distance to the TSMC campus.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/features/2026-11-01/tsmc-s-phoenix-semiconductor-campus-sparked-a-real-estate-boom?" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">TSMC’s $265 Billion Campus Is Driving a Real Estate Boom in the Phoenix Suburbs</a></div></div>
+<p>The post <a href="https://propmodo.com/semiconductor-manufacturing-fuels-taiwanese-investment-wave-across-arizona-markets/">Semiconductor Manufacturing Fuels Taiwanese Investment Wave Across Arizona Markets</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
+		<item>
 		<title>The Access Tax: The Hidden Cost of Friction in Multifamily Operations</title>
 		<link>https://propmodo.com/the-access-tax-the-hidden-cost-of-friction-in-multifamily-operations/</link>
 		
@@ -173,7 +303,7 @@
 					<description><![CDATA[<p>Battery storage is getting cheaper</p>
 <p>The post <a href="https://propmodo.com/data-centers-are-funding-the-energy-technology-all-buildings-will-benefit-from/">Data Centers Are Funding the Energy Technology All Buildings Will Benefit From</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1793228526>2 days 11 hr ago</strong><span class="live-fdate">Oct. 28, 2026 4:02 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1793228526>4 days 2 hr ago</strong><span class="live-fdate">Oct. 28, 2026 3:02 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
 
 <p class="wp-block-paragraph">The energy technology that commercial buildings have been circling for years, on-site storage, microgrid controls, islanding capability, is getting cheaper and more capable at a pace nobody in real estate paid for. Data centers are driving it. Facing grid constraints severe enough to stall multi-billion dollar projects, the AI buildout has poured capital into solving energy problems that building owners share but could never have funded on their own. The solutions are portable, and they are arriving in the commercial market as a byproduct.</p>
 
@@ -398,102 +528,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-technology-data.jpg" />	</item>
-		<item>
-		<title>Rental Fee Rules Are Moving to Cities and States, Creating a Compliance Headache</title>
-		<link>https://propmodo.com/rental-fee-rules-are-moving-to-cities-and-states-creating-a-compliance-headache/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 00:01:07 +0000</pubDate>
-				<category><![CDATA[Multifamily]]></category>
-		<category><![CDATA[Law]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181875</guid>
-
-					<description><![CDATA[<p>States and cities are tightening rental fee laws, requiring transparent pricing, limiting landlord charges, and raising compliance risks for operators.</p>
-<p>The post <a href="https://propmodo.com/rental-fee-rules-are-moving-to-cities-and-states-creating-a-compliance-headache/">Rental Fee Rules Are Moving to Cities and States, Creating a Compliance Headache</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Federal attention to rental fee practices has receded over the past year, and the vacuum has not gone unfilled. State legislatures and city councils have taken up the issue on their own, producing a growing set of rules that govern what landlords can charge, how those charges have to be disclosed, and what happens when they get it wrong.</p>
-
-
-
-<p class="wp-block-paragraph">Seattle passed the most recent example in August. The city council voted 8-0 to approve the Rental Fee Restriction Ordinance, which takes effect July 1, 2027. The law bans recurring pet rent along with charges for package and mail handling, common area access, valet garbage, in-unit appliances, lease administration, and adding or removing a tenant from a lease. Landlords can still collect application screening fees, utilities, key replacement charges, security deposits, and pet deposits capped at 25 percent of rent. Move-in fees are limited to one month’s rent in total.</p>
-
-
-
-<p class="wp-block-paragraph">The disclosure requirements may matter more than the prohibitions. Seattle will require advertisements, listings, applications, and leases to present base rent, all mandatory and optional fees, and utility estimates on a standardized summary sheet. The Seattle Department of Construction and Inspections gets enforcement authority and subpoena power, and the City Attorney’s Office can recover three times the amount of any illegal fees collected.</p>
-
-
-
-<p class="wp-block-paragraph">Colorado moved earlier and went further in some respects. House Bill 25-1090 took effect January 1, 2026, and requires landlords to advertise a single total price that incorporates every mandatory charge. The law bans common area maintenance fees outright and caps third-party markups at either 2 percent of the landlord’s actual cost or $10 a month, whichever is lower. For leases of a year or less, non-utility fees cannot increase more than 2 percent during the term. Tenants who paid a prohibited fee can send a written demand for reimbursement.</p>
-
-
-
-<p class="wp-block-paragraph">Connecticut took a disclosure-focused approach with Public Act 25-44, signed in June 2025 with rental provisions effective that October. Landlords must include all periodic or recurring fees in any advertised rent, whether or not a tenant can opt out of them. Payment processing fees, pet fees and deposits, utilities, and damage charges are excepted. A violation entitles the tenant to one month’s rent plus attorney’s fees.</p>
-
-
-
-<p class="wp-block-paragraph">Tracking this as it develops is becoming part of the job for anyone running a portfolio across multiple jurisdictions, and Krisann Gaiko, SVP of Learning and Enablement at Grace Hill, argues that waiting for passage is too late. Knowing what is under consideration gives operators time to adjust before a deadline and a chance to participate in the process. “Managers and VPs need to know what laws are being proposed so they can be prepared operationally and advocate politically,” she said.</p>
-
-
-
-<p class="wp-block-paragraph">The practical difficulty is that the people closest to these properties have no capacity to do that monitoring themselves. “Property operators are drowning in the day to day, it is a lot to ask them to read every new law or legislation,” Gaiko said. A regional manager handling leasing, maintenance escalations, and staffing across a dozen communities is not going to read a city council agenda, which puts the burden on corporate compliance functions that are often thin.</p>
-
-
-
-<p class="wp-block-paragraph">Writing a compliant policy is also only the first half of the work. Gaiko describes the second half as translating that policy into procedures the people executing them can actually follow, which requires asking those people what would have to change. “You have to sit down and put policies together that are compliant,” she said. “From there, you have to bring your teams in and ask them how the procedures need to change to match that policy.” A fee disclosure requirement touches leasing scripts, listing templates, application flows, lease documents, and onboarding materials, and none of that updates itself.</p>
-
-
-
-<p class="wp-block-paragraph">Compliance that was verified at rollout and never checked again tends to drift as staff turns over and shortcuts accumulate, which is how an operator ends up out of compliance without anyone having decided to be. Creating protocols around compliance only works if the procedures being run by staff continue to adhere to the protocols, requiring ongoing audits. </p>
-
-
-
-<p class="wp-block-paragraph">Gaiko also thinks the industry has a self-inflicted problem underneath the regulatory one. Fees that serve a real purpose get resented when nobody explains what they cover, and fees that cannot be explained probably should not be charged. “People perceive these as junk fees because landlords are not explaining them well,” she said. “If you can’t defend the fees then it probably should not exist.”</p>
-
-
-
-<p class="wp-block-paragraph">Where this ends up, in her view, is somewhere operators may find they prefer. All-in pricing removes the gap between the advertised number and the actual monthly cost, which removes the moment where a prospect feels misled. “All-in rent pricing can turn out to be a good experience,” Gaiko said. “It creates trust and can make for a better relationship.”</p>
-
-
-
-<p class="wp-block-paragraph">Several of these laws have compliance dates that have not yet arrived, and more jurisdictions are drafting their own versions. Operators working across state lines will be managing different disclosure formats, different prohibited fee lists, and different penalty structures in each market, with the Seattle rules landing in mid-2027 and Colorado’s already in force.</p>
-<p>The post <a href="https://propmodo.com/rental-fee-rules-are-moving-to-cities-and-states-creating-a-compliance-headache/">Rental Fee Rules Are Moving to Cities and States, Creating a Compliance Headache</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/10/seattle-apartments.jpg" />	</item>
-		<item>
-		<title>Long Island City Rental Tower Hits 90% Leased Before Opening</title>
-		<link>https://propmodo.com/long-island-city-rental-tower-hits-90-leased-before-opening/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 22:57:17 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=181872</guid>
-
-					<description><![CDATA[<p>The Orchard in Long Island City reached 90% leased 10 months into marketing and a year before its 2027 opening.</p>
-<p>The post <a href="https://propmodo.com/long-island-city-rental-tower-hits-90-leased-before-opening/">Long Island City Rental Tower Hits 90% Leased Before Opening</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">The Orchard, a 70-story rental tower in Long Island City, reached 90% leased after 10 months of marketing and more than a year before its early 2027 opening. Construction wrapped last year on the 824-unit project, developed by BLDG Management Co. under CEO Lloyd Goldman. The building also signed its first retail tenants — K-beauty brand Tokimo, Japanese tea and beverage brand Mollytea, and financial tech firm Intuit — filling nearly all of its 7,500 square feet of ground-floor space. Corcoran New Developments serves as exclusive leasing agent.</p>
-
-
-
-<p class="wp-block-paragraph">At 823 feet, the tower claims the title of tallest building in Queens, surpassing the nearby Skyline Tower&#8217;s 778 feet. It ranks as the second-tallest building in New York outside Manhattan, behind only Brooklyn Tower. The project includes more than 100,000 square feet of amenities, anchored by a 60,000-square-foot landscaped recreation area that the developer calls the city&#8217;s largest private backyard. Of the 824 apartments, 576 are market-rate and 248 affordable.</p>
-
-
-
-<p class="wp-block-paragraph">Preleasing performance at The Orchard reflects continued demand for new rental inventory in Long Island City, which has emerged as one of the city&#8217;s most active residential development districts. The tower sits near the foot of the 59th Street Bridge in a neighborhood that has added thousands of units over the past decade. Strong absorption ahead of delivery suggests renters remain willing to commit to properties offering large amenity packages and location advantages, even as the broader New York rental market contends with elevated supply.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=nypost.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">New York Post</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://nypost.com/2026/10/27/business/the-orchard-queens-tallest-building-is-almost-all-leased-out-ahead-of-2027-opening/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">The Orchard — Queens’ Tallest Building — Is Almost All Leased Out Ahead of 2027 Opening</a></div></div>
-<p>The post <a href="https://propmodo.com/long-island-city-rental-tower-hits-90-leased-before-opening/">Long Island City Rental Tower Hits 90% Leased Before Opening</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-housing-multifamily.jpg" />	</item>
 	</channel>
 </rss>
