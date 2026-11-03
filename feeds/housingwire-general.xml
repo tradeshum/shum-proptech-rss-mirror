@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sat, 31 Oct 2026 21:37:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Nov 2026 21:40:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,219 +28,220 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>A path to sub-7% mortgage rates is back on the table</title>
-		<link>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/</link>
-					<comments>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sat, 31 Oct 2026 20:57:31 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609681</guid>
-
-					<description><![CDATA[<p>As rates have fallen, housing demand has stabilized the last two weeks</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/sub-7-mortgage-rates-path/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609681</post-id>	</item>
-		<item>
-		<title>Exclusive: CrossCountry Mortgage demands payment from former LOs, invokes 2-year non-solicitation</title>
-		<link>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/</link>
-					<comments>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Sat, 31 Oct 2026 02:02:14 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[CrossCountry Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Loan Officer]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609653</guid>
-
-					<description><![CDATA[<p>Documents show the company is demanding 75 bps for each refinanced loan on former customers</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ccm-customer-poaching-former-loan-officers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609653</post-id>	</item>
-		<item>
-		<title>Silvio Tavares steps down as VantageScore CEO, Anthony Hutchinson named interim leader</title>
-		<link>https://www.housingwire.com/articles/vantagescore-ceo-steps-down/</link>
-					<comments>https://www.housingwire.com/articles/vantagescore-ceo-steps-down/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 20:53:42 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609645</guid>
-
-					<description><![CDATA[<p>Hutchinson has spent four years at VantageScore, holding prior roles at Fannie, Freddie and NAR</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/vantagescore-ceo-steps-down/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609645</post-id>	</item>
-		<item>
-		<title>Q3 2026 earnings for publicly traded mortgage, real estate and homebuilder companies</title>
-		<link>https://www.housingwire.com/articles/q3-2026-earnings-mortgage-real-estate-homebuilding/</link>
-					<comments>https://www.housingwire.com/articles/q3-2026-earnings-mortgage-real-estate-homebuilding/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 19:34:44 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Earnings]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=520384</guid>
-
-					<description><![CDATA[<p>As earnings results wrap up for Q3 2026, here's a rundown of what's happened for major lenders, brokerages, homebuilders, listing portals and title firms. </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/q3-2026-earnings-mortgage-real-estate-homebuilding/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">520384</post-id>	</item>
-		<item>
-		<title>Op-Ed: MLSs can build what brokers want or brokers will do it</title>
-		<link>https://www.housingwire.com/articles/brokers-mls-data-rights/</link>
-					<comments>https://www.housingwire.com/articles/brokers-mls-data-rights/#respond</comments>
-		
-		<dc:creator><![CDATA[Joe Rath]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 17:52:01 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Contributors]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Redfin]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609586</guid>
-
-					<description><![CDATA[<p>With a vendor not expected until early 2027, brokers are pressing for rule changes on data use, IDX and distribution</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/brokers-mls-data-rights/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609586</post-id>	</item>
-		<item>
-		<title>Pennymac posts $29M profit amid expense cuts, upcoming leadership changes</title>
-		<link>https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/</link>
-					<comments>https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 17:36:03 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Earnings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[PennyMac]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609554</guid>
-
-					<description><![CDATA[<p>Company announces pending retirement of president Doug Jones, while CSO Kevin Ryan will replace Dan Perotti as CFO</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/pennymac-q3-2026-earnings-msr-sale-cost-cuts-leadership-changes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609554</post-id>	</item>
-		<item>
-		<title>First Horizon, Nations Lending and Planet announce leadership moves</title>
-		<link>https://www.housingwire.com/articles/first-horizon-leadership-moves/</link>
-					<comments>https://www.housingwire.com/articles/first-horizon-leadership-moves/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 17:20:55 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Better]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Planet Home Lending]]></category>
-		<category><![CDATA[Team Leaders]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609588</guid>
-
-					<description><![CDATA[<p>This week’s mortgage industry appointments include a new SVP of valuations, a president and COO restructure, plus a bank board addition</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/first-horizon-leadership-moves/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609588</post-id>	</item>
-		<item>
-		<title>MAVERIX adds former Compass International Holdings executive Anna Visioli as strategic advisor</title>
-		<link>https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/</link>
-					<comments>https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 17:11:19 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Compass International Holdings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609566</guid>
-
-					<description><![CDATA[<p>Visioli held multiple leadership roles focused on building technology platforms, operational programs and strategic initiatives across large brokerage networks</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/maverix-adds-anna-visioli-strategic-advisor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609566</post-id>	</item>
-		<item>
-		<title>$711 million is sitting in the commission suit settlement fund, so when do payouts start?</title>
-		<link>https://www.housingwire.com/articles/nar-settlement-payout-timing/</link>
-					<comments>https://www.housingwire.com/articles/nar-settlement-payout-timing/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 15:52:31 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Commission Lawsuit]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAR Lawsuit Settlement]]></category>
-		<category><![CDATA[Sitzer/Burnett]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609573</guid>
-
-					<description><![CDATA[<p>JND reports 2.7 million claims processed, while the court pauses payments and audits administrator invoices</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-settlement-payout-timing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609573</post-id>	</item>
-		<item>
-		<title>California&#8217;s housing push braves a lion&#8217;s den of local NIMBY tactics</title>
-		<link>https://www.housingwire.com/articles/california-mountain-lion-housing/</link>
-					<comments>https://www.housingwire.com/articles/california-mountain-lion-housing/#respond</comments>
+		<title>A $20M fine stalks Los Angeles over delay of a new housing project</title>
+		<link>https://www.housingwire.com/articles/mountain-lion-housing-law-fight/</link>
+					<comments>https://www.housingwire.com/articles/mountain-lion-housing-law-fight/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 15:15:04 +0000</pubDate>
+		<pubDate>Mon, 02 Nov 2026 21:33:57 +0000</pubDate>
 				<category><![CDATA[Policy]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Housing Policy]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Zoning]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609531</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609854</guid>
 
-					<description><![CDATA[<p>The 398-home plan includes 97 very-low-income units and sought streamlined approval on commercially zoned land</p>]]></description>
+					<description><![CDATA[<p>Developer counsel says denial violates AB 2011 and the Housing Accountability Act and argues for damages for missed deadlines</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/california-mountain-lion-housing/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mountain-lion-housing-law-fight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609531</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">609854</post-id>	</item>
+		<item>
+		<title>Real estate is moving toward more data privacy. Appraisers say UAD 3.6 is moving the other way</title>
+		<link>https://www.housingwire.com/articles/uad-36-certification-25/</link>
+					<comments>https://www.housingwire.com/articles/uad-36-certification-25/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 21:27:44 +0000</pubDate>
+				<category><![CDATA[Appraisals and Valuations]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Appraisals]]></category>
+		<category><![CDATA[GSEs]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609841</guid>
+
+					<description><![CDATA[<p>Certification 25 expands who can store, analyze, and distribute appraisal report data, including interior photos</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/uad-36-certification-25/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609841</post-id>	</item>
+		<item>
+		<title>Could dual licensing grow as agents, LOs seek revenue opportunities?</title>
+		<link>https://www.housingwire.com/articles/retr-dual-license-analysis/</link>
+					<comments>https://www.housingwire.com/articles/retr-dual-license-analysis/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 20:36:34 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Loan Officer]]></category>
+		<category><![CDATA[Real Estate Agents]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609848</guid>
+
+					<description><![CDATA[<p>RETR identified 3,729 agent and loan officer name matches, with 40% in California</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/retr-dual-license-analysis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609848</post-id>	</item>
+		<item>
+		<title>Open Real Estate gets a boost from independents — and an opening from MLSs</title>
+		<link>https://www.housingwire.com/articles/open-real-estate-826-letters/</link>
+					<comments>https://www.housingwire.com/articles/open-real-estate-826-letters/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609829</guid>
+
+					<description><![CDATA[<p>Independent firms account for 493 letters, or 59%, the group said on Monday</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-826-letters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609829</post-id>	</item>
+		<item>
+		<title>Could Social Security turmoil influence senior homeowners and reverse mortgage demand?</title>
+		<link>https://www.housingwire.com/articles/social-security-early-claims-impact-housing-retirement-income/</link>
+					<comments>https://www.housingwire.com/articles/social-security-early-claims-impact-housing-retirement-income/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 18:49:04 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Retirement]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<category><![CDATA[Social Security]]></category>
+		<category><![CDATA[The New York Times]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609809</guid>
+
+					<description><![CDATA[<p>Senior homeowners will continue to face long-term budgeting pressures, with implications for the reverse mortgage segment</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/social-security-early-claims-impact-housing-retirement-income/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609809</post-id>	</item>
+		<item>
+		<title>Introducing the 2026 Tech Trendsetters</title>
+		<link>https://www.housingwire.com/articles/introducing-the-2026-tech-trendsetters/</link>
+					<comments>https://www.housingwire.com/articles/introducing-the-2026-tech-trendsetters/#respond</comments>
+		
+		<dc:creator><![CDATA[Lesley Collins]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+				<category><![CDATA[Awards]]></category>
+		<category><![CDATA[HW Awards]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609766</guid>
+
+					<description><![CDATA[<p>HousingWire honors 75 leaders turning AI, data and digital innovation into practical solutions for mortgage, real estate and housing.</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/introducing-the-2026-tech-trendsetters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609766</post-id>	</item>
+		<item>
+		<title>Best real estate continuing education schools for license renewal in 2026</title>
+		<link>https://www.housingwire.com/articles/real-estate-continuing-education/</link>
+					<comments>https://www.housingwire.com/articles/real-estate-continuing-education/#respond</comments>
+		
+		<dc:creator><![CDATA[Sara Stover, Meghan Thibault]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 17:56:38 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Real Estate Education]]></category>
+		<category><![CDATA[Vetted by HousingWire]]></category>
+		<category><![CDATA[Buyer Guide]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=454972</guid>
+
+					<description><![CDATA[<p>Need to renew your real estate license? Use our guide to the best online real estate schools for fulfilling your continuing education requirements in 2024</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/real-estate-continuing-education/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">454972</post-id>	</item>
+		<item>
+		<title>eLEND expands credit eligibility for FHA cash-out refis, conventional loans</title>
+		<link>https://www.housingwire.com/articles/elend-credit-fha-conventional/</link>
+					<comments>https://www.housingwire.com/articles/elend-credit-fha-conventional/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 17:37:44 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FHA loan]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609801</guid>
+
+					<description><![CDATA[<p>Limited-time CreditEdge locks must be in place by the end of 2026 and require an AUS approval
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/elend-credit-fha-conventional/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609801</post-id>	</item>
+		<item>
+		<title>Before the price cut: A first-week real estate listing review</title>
+		<link>https://www.housingwire.com/articles/first-week-listing-review/</link>
+					<comments>https://www.housingwire.com/articles/first-week-listing-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Andrew Piane]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 15:50:02 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Listings]]></category>
+		<category><![CDATA[Real Estate Marketing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609776</guid>
+
+					<description><![CDATA[<p>A 3-step checkpoint separates marketing issues, showing friction and true pricing signals.</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/first-week-listing-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609776</post-id>	</item>
+		<item>
+		<title>Northern California MLSListings joins Compass antitrust fight</title>
+		<link>https://www.housingwire.com/articles/mlslistings-lawsuit-compass/</link>
+					<comments>https://www.housingwire.com/articles/mlslistings-lawsuit-compass/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 15:41:23 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=609783</guid>
+
+					<description><![CDATA[<p>Amended complaint adds the Northern California MLS, and repeats the request to protect MLS cooperation rules from antitrust claims</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mlslistings-lawsuit-compass/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">609783</post-id>	</item>
 	</channel>
 </rss>
