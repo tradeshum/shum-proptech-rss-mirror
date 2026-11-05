@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Tue, 03 Nov 2026 23:03:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Nov 2026 22:43:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,231 +28,226 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Finance of America grows origination volume but reports $110M loss in Q3</title>
-		<link>https://www.housingwire.com/articles/finance-of-america-earnings/</link>
-					<comments>https://www.housingwire.com/articles/finance-of-america-earnings/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 23:03:12 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Earnings]]></category>
-		<category><![CDATA[Finance of America]]></category>
-		<category><![CDATA[HECM]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610028</guid>
-
-					<description><![CDATA[<p>Funded volume increased 24% year over year to $748 million, but higher interest rates pressured origination margins</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/finance-of-america-earnings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610028</post-id>	</item>
-		<item>
-		<title>MSRs trade at richest levels in decades as lenders, funds pile in</title>
-		<link>https://www.housingwire.com/articles/msr-multiples-near-7x/</link>
-					<comments>https://www.housingwire.com/articles/msr-multiples-near-7x/#respond</comments>
+		<title>Mortgage policy faces tight runway in split Washington</title>
+		<link>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 22:17:56 +0000</pubDate>
+		<pubDate>Wed, 04 Nov 2026 22:04:01 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Servicing]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Congress]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[MSRs]]></category>
-		<category><![CDATA[NewRez]]></category>
-		<category><![CDATA[Rate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610004</guid>
+		<category><![CDATA[Mortgage Bankers Association]]></category>
+		<category><![CDATA[PennyMac]]></category>
+		<category><![CDATA[Realtor.com]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610229</guid>
 
-					<description><![CDATA[<p>From Rate’s full retention stance to UWM’s bulk sale, strategies diverge  </p>]]></description>
+					<description><![CDATA[<p>Industry eyes tougher confirmations and a volatile rate outlook</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/msr-multiples-near-7x/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610004</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610229</post-id>	</item>
 		<item>
-		<title>NIMBYs cite a 155-year-old law to thwart a San Francisco project</title>
-		<link>https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/</link>
-					<comments>https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 21:54:57 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Housing Policy]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[San Francisco]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610001</guid>
-
-					<description><![CDATA[<p>A Reconstruction-era civil rights statute is the sole federal hook in a lawsuit over homes above a waterfront Safeway</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610001</post-id>	</item>
-		<item>
-		<title>Why homebuilders and lot sellers no longer price risk the same way</title>
-		<link>https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/</link>
-					<comments>https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 21:24:16 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Residential Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609936</guid>
-
-					<description><![CDATA[<p>Public homebuilder gross margins fell to about 20% from 26%, and incentives rose to about 8% to 12% of prices</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609936</post-id>	</item>
-		<item>
-		<title>Social Security COLA, tax break could narrow spending gap for older consumers in 2027</title>
-		<link>https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/</link>
-					<comments>https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 20:11:27 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Bank of America]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Inflation]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<category><![CDATA[Social Security]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609975</guid>
-
-					<description><![CDATA[<p>Policy drivers could have implications for housing, including renovation demand and affordability assessments for older clients</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609975</post-id>	</item>
-		<item>
-		<title>Real Brokerage expands in Midwest with Iowa-based The Team</title>
-		<link>https://www.housingwire.com/articles/real-midwest-team-move/</link>
-					<comments>https://www.housingwire.com/articles/real-midwest-team-move/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 18:47:02 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Iowa]]></category>
-		<category><![CDATA[The Real Brokerage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609961</guid>
-
-					<description><![CDATA[<p>Dubuque-based group reports $1.2B volume since 2020, with plans to recruit and enter new markets</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-midwest-team-move/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">609961</post-id>	</item>
-		<item>
-		<title>Mortgage rates have a quiet week as markets digest Fed comments, Trump&#8217;s directive</title>
-		<link>https://www.housingwire.com/articles/mortgage-rates-flat-fedwatch-december/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-rates-flat-fedwatch-december/#respond</comments>
+		<title>HECM broker rankings for August stay steady as shift to proprietary products rolls on</title>
+		<link>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/</link>
+					<comments>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 18:38:19 +0000</pubDate>
+		<pubDate>Wed, 04 Nov 2026 21:47:30 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[HECM]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Kevin Warsh]]></category>
-		<category><![CDATA[Mat Ishbia]]></category>
-		<category><![CDATA[Mortgage Rates Center]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609907</guid>
+		<category><![CDATA[Mortgage Broker]]></category>
+		<category><![CDATA[Reverse Market Insight]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610225</guid>
 
-					<description><![CDATA[<p>HousingWire’s Mortgage Rates Center shows 30-year fixed rates at 7.38% as 77% of traders price a 25-bps hike by the Fed next month</p>]]></description>
+					<description><![CDATA[<p>Broker endorsements show little movement in the HECM market, but a new tech offering and potentially lower rates could provide a boost</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-flat-fedwatch-december/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609907</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610225</post-id>	</item>
 		<item>
-		<title>Why Offerpad is getting more selective on home buys</title>
-		<link>https://www.housingwire.com/articles/offerpad-strategy-mortgage-rates/</link>
-					<comments>https://www.housingwire.com/articles/offerpad-strategy-mortgage-rates/#respond</comments>
+		<title>Zillow pushes Preferred agent program toward 100% of buyer connections</title>
+		<link>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/</link>
+					<comments>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 17:44:30 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
+		<pubDate>Wed, 04 Nov 2026 21:46:55 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Earnings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[iBuying]]></category>
-		<category><![CDATA[OfferPad]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609943</guid>
+		<category><![CDATA[Zillow]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610252</guid>
 
-					<description><![CDATA[<p>Q3 2026 transactions rose to 324, but fell 32% from a year earlier as sales cycles lengthened</p>]]></description>
+					<description><![CDATA[<p>Average monthly unique users fell to 215 million, revenue rose 7% to $724 million, and net loss widened to $158 million</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/offerpad-strategy-mortgage-rates/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609943</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610252</post-id>	</item>
 		<item>
-		<title>RealTrends Verified brokerage ERA Live Moore acquisition and other brokerage moves</title>
-		<link>https://www.housingwire.com/articles/brokerage-moves-era-serhant-corcoran-realtrends-verified/</link>
-					<comments>https://www.housingwire.com/articles/brokerage-moves-era-serhant-corcoran-realtrends-verified/#respond</comments>
+		<title>Bright turns on Ocusell integration so agents enter listings once</title>
+		<link>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/</link>
+					<comments>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/#respond</comments>
 		
-		<dc:creator><![CDATA[Tracey Velt]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 17:36:58 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[People Movers]]></category>
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 21:16:49 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Century 21]]></category>
-		<category><![CDATA[ERA]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Bright MLS]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[SERHANT.]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609462</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610242</guid>
 
-					<description><![CDATA[<p>Deals and leadership changes span North Carolina, Pennsylvania, Tennessee and Florida, including ERA Live Moore acquisition and SERHANT. people mover</p>]]></description>
+					<description><![CDATA[<p>OneList validates data against MLS rules and pushes updates into Bright and other MLSs</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/brokerage-moves-era-serhant-corcoran-realtrends-verified/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609462</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610242</post-id>	</item>
 		<item>
-		<title>The concessions field problem that breaks pay-for-listing data models</title>
-		<link>https://www.housingwire.com/articles/reso-concessions-data/</link>
-					<comments>https://www.housingwire.com/articles/reso-concessions-data/#respond</comments>
+		<title>What housing market headlines can&#8217;t tell your clients</title>
+		<link>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/</link>
+					<comments>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/#respond</comments>
 		
-		<dc:creator><![CDATA[Nikola Gojkovic]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 17:17:56 +0000</pubDate>
-				<category><![CDATA[Appraisals and Valuations]]></category>
-		<category><![CDATA[Contributors]]></category>
+		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 20:56:38 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Data & Analytics]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[Houston]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610121</guid>
+
+					<description><![CDATA[<p>HousingWire Data reveals how shifting inventory, buyer activity and price reductions can help agents guide local buying and selling decisions</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610121</post-id>	</item>
+		<item>
+		<title>Ballot roulette: Florida voters pick property tax break over local services</title>
+		<link>https://www.housingwire.com/articles/florida-amendment-3-passes/</link>
+					<comments>https://www.housingwire.com/articles/florida-amendment-3-passes/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 20:55:26 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Property Tax]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610156</guid>
+
+					<description><![CDATA[<p>The measure passed with 62%, despite estimates of nearly $5 billion in local losses in 2027-28</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/florida-amendment-3-passes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610156</post-id>	</item>
+		<item>
+		<title>LGI Homes Q3 2026 earnings reveal leadership test in downturn</title>
+		<link>https://www.housingwire.com/articles/lgi-earnings-leadership-test/</link>
+					<comments>https://www.housingwire.com/articles/lgi-earnings-leadership-test/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 20:14:18 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610228</guid>
+
+					<description><![CDATA[<p>SG&amp;A ratio improved 180 bps year over year, while backlog fell 47.5% and guidance narrowed to 4,600 to 4,800 closings</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/lgi-earnings-leadership-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610228</post-id>	</item>
+		<item>
+		<title>Nationwide Equities debuts ReverseReach tool for mortgage broker lead generation help</title>
+		<link>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/</link>
+					<comments>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 19:43:24 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Broker]]></category>
+		<category><![CDATA[Nationwide Equities]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610207</guid>
+
+					<description><![CDATA[<p>Nationwide Equities positions ReverseReach as a business development strategy focused on reengaging existing borrowers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610207</post-id>	</item>
+		<item>
+		<title>NAR advances strategic plan with new tools, MLS outreach and housing initiatives</title>
+		<link>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/</link>
+					<comments>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 19:27:57 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
-		<category><![CDATA[Valuation]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=609827</guid>
+		<category><![CDATA[National Association of Realtors]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610219</guid>
 
-					<description><![CDATA[<p>When concessions can be answered without a numeric amount, contribution credits reward volume over evidence</p>]]></description>
+					<description><![CDATA[<p>NAR said it's work focused on MLS engagement, executing federal housing law, commercial market intelligence and broker support</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/reso-concessions-data/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">609827</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610219</post-id>	</item>
+		<item>
+		<title>Absolute Home Mortgage targets growth through First Option strategic transaction</title>
+		<link>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/</link>
+					<comments>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<category><![CDATA[Partnerships]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610038</guid>
+
+					<description><![CDATA[<p>First Option executives Alvin Shah and Kurt Nikolai will join Absolute’s ownership group and board, and Shah will become chief strategy officer to lead a broader acquisition push</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610038</post-id>	</item>
 	</channel>
 </rss>
