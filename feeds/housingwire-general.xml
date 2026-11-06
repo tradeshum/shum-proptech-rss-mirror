@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 04 Nov 2026 22:43:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Nov 2026 00:48:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,226 +28,220 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Mortgage policy faces tight runway in split Washington</title>
-		<link>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 22:04:01 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[Congress]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<category><![CDATA[PennyMac]]></category>
-		<category><![CDATA[Realtor.com]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610229</guid>
-
-					<description><![CDATA[<p>Industry eyes tougher confirmations and a volatile rate outlook</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610229</post-id>	</item>
-		<item>
-		<title>HECM broker rankings for August stay steady as shift to proprietary products rolls on</title>
-		<link>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/</link>
-					<comments>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 21:47:30 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[HECM]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Broker]]></category>
-		<category><![CDATA[Reverse Market Insight]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610225</guid>
-
-					<description><![CDATA[<p>Broker endorsements show little movement in the HECM market, but a new tech offering and potentially lower rates could provide a boost</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610225</post-id>	</item>
-		<item>
-		<title>Zillow pushes Preferred agent program toward 100% of buyer connections</title>
-		<link>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/</link>
-					<comments>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/#respond</comments>
+		<title>Compass boosts private listings while weighing Open Real Estate</title>
+		<link>https://www.housingwire.com/articles/compass-private-exclusives-open-real-estate/</link>
+					<comments>https://www.housingwire.com/articles/compass-private-exclusives-open-real-estate/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 21:46:55 +0000</pubDate>
+		<pubDate>Fri, 06 Nov 2026 00:48:35 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[Earnings]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Robert Reffkin]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610428</guid>
+
+					<description><![CDATA[<p>Reffkin says 63% of new launches use 3-phase marketing in locations without restrictions</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/compass-private-exclusives-open-real-estate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610428</post-id>	</item>
+		<item>
+		<title>Los Angeles votes all-in on housing, electing YIMBY-backed Raman</title>
+		<link>https://www.housingwire.com/articles/raman-bass-la-mayor/</link>
+					<comments>https://www.housingwire.com/articles/raman-bass-la-mayor/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 21:55:09 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Los Angeles]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610394</guid>
+
+					<description><![CDATA[<p>Bass becomes the 1st Los Angeles mayor in 2 decades to lose reelection, after AP called the race</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/raman-bass-la-mayor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610394</post-id>	</item>
+		<item>
+		<title>RealPRO Select helps lift Realtor.com revenue</title>
+		<link>https://www.housingwire.com/articles/realtorcom-revenue-q1-2027/</link>
+					<comments>https://www.housingwire.com/articles/realtorcom-revenue-q1-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 21:36:37 +0000</pubDate>
 				<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[Technology]]></category>
 		<category><![CDATA[Earnings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Zillow]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610252</guid>
+		<category><![CDATA[News Corp.]]></category>
+		<category><![CDATA[Realtor.com]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610375</guid>
 
-					<description><![CDATA[<p>Average monthly unique users fell to 215 million, revenue rose 7% to $724 million, and net loss widened to $158 million</p>]]></description>
+					<description><![CDATA[<p>Move reported $160 million in quarterly revenue, its eighth straight quarter of segment growth</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/realtorcom-revenue-q1-2027/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610252</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610375</post-id>	</item>
 		<item>
-		<title>Bright turns on Ocusell integration so agents enter listings once</title>
-		<link>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/</link>
-					<comments>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/#respond</comments>
+		<title>American Housing Corp names leadership for new Austin division  </title>
+		<link>https://www.housingwire.com/articles/american-housing-corp-austin-division/</link>
+					<comments>https://www.housingwire.com/articles/american-housing-corp-austin-division/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 21:16:49 +0000</pubDate>
-				<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Bright MLS]]></category>
-		<category><![CDATA[Clear Cooperation]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610242</guid>
-
-					<description><![CDATA[<p>OneList validates data against MLS rules and pushes updates into Bright and other MLSs</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/bright-ocusell-onelist-integration/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610242</post-id>	</item>
-		<item>
-		<title>What housing market headlines can&#8217;t tell your clients</title>
-		<link>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/</link>
-					<comments>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/#respond</comments>
-		
-		<dc:creator><![CDATA[Rachel Bader, HW Data]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 20:56:38 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[Data & Analytics]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[Houston]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610121</guid>
-
-					<description><![CDATA[<p>HousingWire Data reveals how shifting inventory, buyer activity and price reductions can help agents guide local buying and selling decisions</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/local-housing-market-trends-buyers-sellers/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610121</post-id>	</item>
-		<item>
-		<title>Ballot roulette: Florida voters pick property tax break over local services</title>
-		<link>https://www.housingwire.com/articles/florida-amendment-3-passes/</link>
-					<comments>https://www.housingwire.com/articles/florida-amendment-3-passes/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 20:55:26 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Florida]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Property Tax]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610156</guid>
-
-					<description><![CDATA[<p>The measure passed with 62%, despite estimates of nearly $5 billion in local losses in 2027-28</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/florida-amendment-3-passes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610156</post-id>	</item>
-		<item>
-		<title>LGI Homes Q3 2026 earnings reveal leadership test in downturn</title>
-		<link>https://www.housingwire.com/articles/lgi-earnings-leadership-test/</link>
-					<comments>https://www.housingwire.com/articles/lgi-earnings-leadership-test/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 20:14:18 +0000</pubDate>
+		<pubDate>Thu, 05 Nov 2026 21:02:24 +0000</pubDate>
 				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Earnings]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610228</guid>
+		<category><![CDATA[Texas]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610316</guid>
 
-					<description><![CDATA[<p>SG&amp;A ratio improved 180 bps year over year, while backlog fell 47.5% and guidance narrowed to 4,600 to 4,800 closings</p>]]></description>
+					<description><![CDATA[<p> American Housing Corporation's Austin homebuilding division will focus on factory-built, infill urban rowhomes </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/lgi-earnings-leadership-test/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/american-housing-corp-austin-division/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610228</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610316</post-id>	</item>
 		<item>
-		<title>Nationwide Equities debuts ReverseReach tool for mortgage broker lead generation help</title>
-		<link>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/</link>
-					<comments>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/#respond</comments>
+		<title>NYC pied-a-terre tax notices get an appeals court green light</title>
+		<link>https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/</link>
+					<comments>https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 19:43:24 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Reverse]]></category>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 20:46:37 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Broker]]></category>
-		<category><![CDATA[Nationwide Equities]]></category>
-		<category><![CDATA[Reverse Mortgage Daily]]></category>
-		<category><![CDATA[Technology]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610207</guid>
+		<category><![CDATA[New York City]]></category>
+		<category><![CDATA[Property Tax]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610343</guid>
 
-					<description><![CDATA[<p>Nationwide Equities positions ReverseReach as a business development strategy focused on reengaging existing borrowers</p>]]></description>
+					<description><![CDATA[<p>The surcharge applies to non-primary homes over $5 million through July 2028, as a separate legal challenge remains active</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/nyc-pied-a-terre-tax-appeal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610207</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610343</post-id>	</item>
 		<item>
-		<title>NAR advances strategic plan with new tools, MLS outreach and housing initiatives</title>
-		<link>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/</link>
-					<comments>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/#respond</comments>
+		<title>Secure borders. A stronger economy. Washington must deliver both</title>
+		<link>https://www.housingwire.com/articles/borders-labor-housing-2026/</link>
+					<comments>https://www.housingwire.com/articles/borders-labor-housing-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 20:14:40 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Regulatory Compliance]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610352</guid>
+
+					<description><![CDATA[<p>Harvard JCHS reports foreign-born workers drove all net growth in construction trades from 2013 to 2024</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/borders-labor-housing-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610352</post-id>	</item>
+		<item>
+		<title>Can the new Congress help lower mortgage rates?</title>
+		<link>https://www.housingwire.com/articles/can-the-new-congress-help-lower-mortgage-rates/</link>
+					<comments>https://www.housingwire.com/articles/can-the-new-congress-help-lower-mortgage-rates/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 19:57:25 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610334</guid>
+
+					<description><![CDATA[<p>The 4 factors that could pull the 10-year yield off recent highs
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/can-the-new-congress-help-lower-mortgage-rates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610334</post-id>	</item>
+		<item>
+		<title>Florida’s Amendment 3 could give housing market a ‘sugar high’ through year-end</title>
+		<link>https://www.housingwire.com/articles/florida-amendment-3-cutoff/</link>
+					<comments>https://www.housingwire.com/articles/florida-amendment-3-cutoff/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 19:55:37 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Florida]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610339</guid>
+
+					<description><![CDATA[<p>Homestead exemption rises to $250,000 in 2028, eligibility requires Florida residency by 12/31/2026</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/florida-amendment-3-cutoff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610339</post-id>	</item>
+		<item>
+		<title>CFPB narrows enforcement practices, closes 86% of supervisory actions</title>
+		<link>https://www.housingwire.com/articles/cfpb-closes-supervisory-actions/</link>
+					<comments>https://www.housingwire.com/articles/cfpb-closes-supervisory-actions/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 19:27:57 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
+		<pubDate>Thu, 05 Nov 2026 19:24:20 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[CFPB]]></category>
+		<category><![CDATA[Fair Lending]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610219</guid>
+		<category><![CDATA[Loss Mitigation]]></category>
+		<category><![CDATA[Regulatory Compliance]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610324</guid>
 
-					<description><![CDATA[<p>NAR said it's work focused on MLS engagement, executing federal housing law, commercial market intelligence and broker support</p>]]></description>
+					<description><![CDATA[<p>Semiannual report says 1,327 of 1,552 supervisory actions were closed, and scheduled exams fell about 50%</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/cfpb-closes-supervisory-actions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610219</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610324</post-id>	</item>
 		<item>
-		<title>Absolute Home Mortgage targets growth through First Option strategic transaction</title>
-		<link>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/</link>
-					<comments>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/#respond</comments>
+		<title>CCM’s non-solicitation push tests limits of lender control</title>
+		<link>https://www.housingwire.com/articles/ccm-enforcement-action-non-solicitation/</link>
+					<comments>https://www.housingwire.com/articles/ccm-enforcement-action-non-solicitation/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Flávia Furlan Nunes, Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 18:29:16 +0000</pubDate>
 				<category><![CDATA[LendingLife]]></category>
 		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[CrossCountry Mortgage]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lenders]]></category>
-		<category><![CDATA[Partnerships]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610038</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610307</guid>
 
-					<description><![CDATA[<p>First Option executives Alvin Shah and Kurt Nikolai will join Absolute’s ownership group and board, and Shah will become chief strategy officer to lead a broader acquisition push</p>]]></description>
+					<description><![CDATA[<p>Industry split on how lenders should police client and referral poaching  
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/absolute-home-mortgage-first-option-origination-platform/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/ccm-enforcement-action-non-solicitation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610038</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610307</post-id>	</item>
 	</channel>
 </rss>
