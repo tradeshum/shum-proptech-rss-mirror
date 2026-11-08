@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 06 Nov 2026 22:33:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Nov 2026 00:36:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Mortgage rates fell and demand steadied as inventory dipped</title>
+		<link>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/</link>
+					<comments>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 23:54:51 +0000</pubDate>
+				<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Home Prices]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610573</guid>
+
+					<description><![CDATA[<p>Is the market changing or is it just seasonality?</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610573</post-id>	</item>
+		<item>
 		<title>Why didn’t the strong jobs report send mortgage rates skyrocketing? </title>
 		<link>https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/</link>
 					<comments>https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/#respond</comments>
@@ -224,28 +244,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">610470</post-id>	</item>
-		<item>
-		<title>AGNT says housing market is tough but not broken, points to &#8216;unmatched&#8217; agent value</title>
-		<link>https://www.housingwire.com/articles/agnt-q3-2026-earnings/</link>
-					<comments>https://www.housingwire.com/articles/agnt-q3-2026-earnings/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 17:19:33 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Earnings]]></category>
-		<category><![CDATA[eXp Realty]]></category>
-		<category><![CDATA[eXp World Holdings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Leo Pareja]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610462</guid>
-
-					<description><![CDATA[<p>Revenue rose to $1.4 billion, but net results swung to a $4.3 million loss</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/agnt-q3-2026-earnings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610462</post-id>	</item>
 	</channel>
 </rss>
