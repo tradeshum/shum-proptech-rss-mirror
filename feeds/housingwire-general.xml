@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sun, 08 Nov 2026 21:55:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Nov 2026 21:53:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,221 +28,215 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>NAR sees pent-up demand waiting on lower mortgage rates, better sentiment</title>
-		<link>https://www.housingwire.com/articles/nar-pent-up-housing-demand/</link>
-					<comments>https://www.housingwire.com/articles/nar-pent-up-housing-demand/#respond</comments>
+		<title>California voters reject measure to shred environmental red tape</title>
+		<link>https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/</link>
+					<comments>https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Sun, 08 Nov 2026 21:55:28 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Existing home sales]]></category>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 21:50:41 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Housing Policy]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lawrence Yun]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610581</guid>
+		<category><![CDATA[Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610718</guid>
 
-					<description><![CDATA[<p>Yun cites 350M population and 159M payroll jobs, yet sales track near 4M, well below 2000 levels</p>]]></description>
+					<description><![CDATA[<p>Opponents argued the measure could also fast-track data centers and major infrastructure, not just housing</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-pent-up-housing-demand/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610581</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610718</post-id>	</item>
 		<item>
-		<title>What NAR&#8217;s new MLS policy options mean for data feeds and licensing</title>
-		<link>https://www.housingwire.com/articles/nar-mls-policy-updates/</link>
-					<comments>https://www.housingwire.com/articles/nar-mls-policy-updates/#respond</comments>
+		<title>HECM endorsements rebound in October but stay near decade low</title>
+		<link>https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/</link>
+					<comments>https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 21:28:00 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[HMBS]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Reverse Market Insight]]></category>
+		<category><![CDATA[Reverse Mortgage Daily]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610645</guid>
+
+					<description><![CDATA[<p>HECM endorsements rise 11% while HMBS issuance falls 16%</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610645</post-id>	</item>
+		<item>
+		<title>Century Communities names Jim Francescon as president</title>
+		<link>https://www.housingwire.com/articles/entury-communities-jim-francescon-president/</link>
+					<comments>https://www.housingwire.com/articles/entury-communities-jim-francescon-president/#respond</comments>
 		
 		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Sun, 08 Nov 2026 21:46:16 +0000</pubDate>
+		<pubDate>Mon, 09 Nov 2026 21:15:30 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610716</guid>
+
+					<description><![CDATA[<p>Executive Chairman Dale Francescon will remain in his role, and CEO Rob Francescon will continue as chief executive</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/entury-communities-jim-francescon-president/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610716</post-id>	</item>
+		<item>
+		<title>Trump strikes a softer note on immigration; builders need proof</title>
+		<link>https://www.housingwire.com/articles/trump-immigration-homebuilders/</link>
+					<comments>https://www.housingwire.com/articles/trump-immigration-homebuilders/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 20:58:32 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610694</guid>
+
+					<description><![CDATA[<p>On Sunday, President Donald Trump said his administration's immigration policies "might be too tough"</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/trump-immigration-homebuilders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610694</post-id>	</item>
+		<item>
+		<title>What View Homes&#8217; rebrand says about Gandhi’s operating overhaul</title>
+		<link>https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/</link>
+					<comments>https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 20:44:41 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610701</guid>
+
+					<description><![CDATA[<p>After seven months as CEO, Gandhi is aligning standards across 5 divisions and eyeing Denver-area growth</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610701</post-id>	</item>
+		<item>
+		<title>NAR moves from survival to ‘showing receipts’ on member value</title>
+		<link>https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/</link>
+					<comments>https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 19:45:13 +0000</pubDate>
 				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
 		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610586</guid>
+		<category><![CDATA[Nykia Wright]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610688</guid>
 
-					<description><![CDATA[<p>New optional rules include up to 50% copyright interest in some listing content, with quarterly registration and broker opt outs</p>]]></description>
+					<description><![CDATA[<p>Wright credited Kevin Sears and Kevin Brown, citing Tuccori opt in, 450+ MLS outreach and zero based budgeting</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-mls-policy-updates/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/nar-nxt-strategic-plan-mls/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610586</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610688</post-id>	</item>
 		<item>
-		<title>Mortgage rates fell and demand steadied as inventory dipped</title>
-		<link>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/</link>
-					<comments>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/#respond</comments>
+		<title>Invitation Homes, HBI team up to train vets in skilled trades</title>
+		<link>https://www.housingwire.com/articles/invitation-homes-hbi-partnership/</link>
+					<comments>https://www.housingwire.com/articles/invitation-homes-hbi-partnership/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sat, 07 Nov 2026 23:54:51 +0000</pubDate>
-				<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Home Prices]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610573</guid>
-
-					<description><![CDATA[<p>Is the market changing or is it just seasonality?</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/rates-fall-demand-stabilizes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610573</post-id>	</item>
-		<item>
-		<title>Why didn’t the strong jobs report send mortgage rates skyrocketing? </title>
-		<link>https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/</link>
-					<comments>https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 22:02:49 +0000</pubDate>
-				<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Jobs Report]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610556</guid>
-
-					<description><![CDATA[<p>Payrolls rose 165,000, construction softened slightly and residential construction employment remained a key cycle indicator</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/jobs-report-mortgage-rates-flat/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610556</post-id>	</item>
-		<item>
-		<title>Opendoor says it&#8217;s behind schedule but plans to catch up by 2027</title>
-		<link>https://www.housingwire.com/articles/opendoor-q3-2026-losses/</link>
-					<comments>https://www.housingwire.com/articles/opendoor-q3-2026-losses/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 21:42:47 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Earnings]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[iBuying]]></category>
-		<category><![CDATA[Opendoor]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610557</guid>
-
-					<description><![CDATA[<p>Adjusted net loss totaled $66 million, revenue rose 12% to $1.022 billion, and inventory increased to 7,596 homes</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/opendoor-q3-2026-losses/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610557</post-id>	</item>
-		<item>
-		<title>Progress Residential to pay $49.8M to settle FTC, state claims over rental practices</title>
-		<link>https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/</link>
-					<comments>https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 21:02:28 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Federal Trade Commission]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Pretium Partners]]></category>
-		<category><![CDATA[Single-Family Rentals]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610542</guid>
-
-					<description><![CDATA[<p>Settlement with the FTC and four states requires clearer pricing disclosures</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/progress-residential-ftc-settlement-49-8m/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610542</post-id>	</item>
-		<item>
-		<title>How a new Pulte Florida agrihood makes conservation a buyer desire</title>
-		<link>https://www.housingwire.com/articles/how-a-new-pulte-florida-agrihood-makes-conservation-a-buyer-desire/</link>
-					<comments>https://www.housingwire.com/articles/how-a-new-pulte-florida-agrihood-makes-conservation-a-buyer-desire/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 20:43:31 +0000</pubDate>
-				<category><![CDATA[Marketing & Sales]]></category>
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 19:43:34 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
 		<category><![CDATA[Construction]]></category>
 		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610507</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610663</guid>
 
-					<description><![CDATA[<p>PulteGroup recently grand-opened The Grow, an "agrihood" community centered around a 9-acre working farm</p>]]></description>
+					<description><![CDATA[<p>The investment will fund hands-on training, industry credentials and job placement for transitioning service members and veterans </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/how-a-new-pulte-florida-agrihood-makes-conservation-a-buyer-desire/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/invitation-homes-hbi-partnership/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610507</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610663</post-id>	</item>
 		<item>
-		<title>Massachusetts AG issues rule on shared appreciation mortgages, NCLC calls for broader protections</title>
-		<link>https://www.housingwire.com/articles/mass-ag-rule-shared-appreciation-mortgages-home-equity-risks/</link>
-					<comments>https://www.housingwire.com/articles/mass-ag-rule-shared-appreciation-mortgages-home-equity-risks/#respond</comments>
+		<title>loanDepot&#8217;s Q3 loss grows while it chases 2027 break-even</title>
+		<link>https://www.housingwire.com/articles/loandepot-q3-2026/</link>
+					<comments>https://www.housingwire.com/articles/loandepot-q3-2026/#respond</comments>
 		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 20:26:57 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Home Equity Investments]]></category>
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 19:08:51 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Earnings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Massachusetts]]></category>
-		<category><![CDATA[National Consumer Law Center]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610458</guid>
+		<category><![CDATA[loanDepot]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610681</guid>
 
-					<description><![CDATA[<p>NCLC welcomed SAM safeguards but warned that similar risks persist in home equity investments, which are not directly covered by the rule</p>]]></description>
+					<description><![CDATA[<p>Founder and CEO Anthony Hsieh signaled break-even "by first half or mid next year"</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mass-ag-rule-shared-appreciation-mortgages-home-equity-risks/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/loandepot-q3-2026/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610458</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610681</post-id>	</item>
 		<item>
-		<title>Elizabeth Warren expected to lead Senate banking committee in January</title>
-		<link>https://www.housingwire.com/articles/warren-senate-banking-chair/</link>
-					<comments>https://www.housingwire.com/articles/warren-senate-banking-chair/#respond</comments>
+		<title>NAR membership proves more resilient than expected, topping 1.46 million</title>
+		<link>https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/</link>
+					<comments>https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/#respond</comments>
 		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 20:22:13 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Politics]]></category>
-		<category><![CDATA[CFPB]]></category>
-		<category><![CDATA[Elizabeth Warren]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Senate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610501</guid>
-
-					<description><![CDATA[<p>Democrats’ midterm wins set up a leadership change that may reshape oversight and CFPB policy</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/warren-senate-banking-chair/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">610501</post-id>	</item>
-		<item>
-		<title>NAR President Kevin Brown warns of outside forces threatening real estate marketplace</title>
-		<link>https://www.housingwire.com/articles/nar-mls-listing-data-fight/</link>
-					<comments>https://www.housingwire.com/articles/nar-mls-listing-data-fight/#respond</comments>
-		
-		<dc:creator><![CDATA[Tracey Velt]]></dc:creator>
-		<pubDate>Fri, 06 Nov 2026 20:12:42 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[MLS/Associations]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 17:43:14 +0000</pubDate>
+				<category><![CDATA[MLS/Associations]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Commission Lawsuit]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[MLS]]></category>
 		<category><![CDATA[National Association of Realtors]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=610503</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610648</guid>
 
-					<description><![CDATA[<p>Brown compared current marketplace pressures to forces that preceded the 2008 housing crisis</p>]]></description>
+					<description><![CDATA[<p>Membership hit 1,469,127 at end of September, dues revenue was about $220 million, and expenses ran $7 million under budget</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/nar-mls-listing-data-fight/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/nar-membership-revenue-budget-2026/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">610503</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">610648</post-id>	</item>
+		<item>
+		<title>Pro-housing coalition presses Senate on BAAJA permitting reforms</title>
+		<link>https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/</link>
+					<comments>https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 17:12:54 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=610650</guid>
+
+					<description><![CDATA[<p>The coalition argues that BAAJA’s reforms could significantly cut timelines and costs for federally assisted affordable housing</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/pro-housing-coalition-baaja-reforms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">610650</post-id>	</item>
 	</channel>
 </rss>
