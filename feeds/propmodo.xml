@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Thu, 12 Nov 2026 01:25:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Nov 2026 01:51:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AI In Property Management Has a Ground-Truth Problem</title>
+		<link>https://propmodo.com/ai-in-property-management-has-a-ground-truth-problem/</link>
+		
+		<dc:creator><![CDATA[Mike Laurie]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 01:51:37 +0000</pubDate>
+				<category><![CDATA[Operations]]></category>
+		<category><![CDATA[Perspectives]]></category>
+		<category><![CDATA[Property & Facilities Management]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Architecture]]></category>
+		<category><![CDATA[Property management]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182070</guid>
+
+					<description><![CDATA[<p>AI in property management needs more than connected data: verified building information, clear provenance and visible uncertainty are essential for trust.</p>
+<p>The post <a href="https://propmodo.com/ai-in-property-management-has-a-ground-truth-problem/">AI In Property Management Has a Ground-Truth Problem</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Artificial intelligence has a remarkable ability to consume building information. Give it drawings, specifications, inspection reports, maintenance records, leases, photographs and spreadsheets, and it will extract facts at a speed no human team could match.</p>
+
+
+
+<p class="wp-block-paragraph">Much of the current conversation about AI agents in property management turns on the need for a coherent data structure underneath them, so that agents working across maintenance, leasing and operations can reconcile their outputs instead of each acting on a partial view. I agree with that entirely. But a common schema solves only one part of the problem. It can organize the information. It cannot, by itself, tell us whether that information still describes the physical building.</p>
+
+
+
+<p class="wp-block-paragraph">That distinction is not hypothetical. Existing buildings are full of records that disagree with each other. One drawing puts a wall in one location and a later plan puts it somewhere else. The lease abstract carries one area and the measurement carries another. An equipment schedule lists a unit that was replaced years ago and never removed from the list. AI can read all of it. It still needs some way to know which version is true.</p>
+
+
+
+<h2 id="h-the-physical-world-is-the-final-authority" class="wp-block-heading"><strong>The physical world is the final authority</strong></h2>
+
+
+
+<p class="wp-block-paragraph">In my line of work we spend a great deal of time resolving exactly these discrepancies, and the answer is usually old fashioned. Go back to the building. Measure it, look at it, identify the equipment, confirm the space, record the condition.</p>
+
+
+
+<p class="wp-block-paragraph">The tools have changed enormously. LiDAR, mobile scanning, 360 degree imagery and computer vision have made verification faster, cheaper and far richer than it was even five years ago. The principle has not changed at all. For a physical asset, the physical world is still the only authority that settles an argument.</p>
+
+
+
+<p class="wp-block-paragraph">This is where I think the industry’s mental model of the stack is incomplete. The chain is usually described as software systems, then a common data model, then an AI agent. For existing buildings it needs one more layer underneath: the physical building, then verified ground truth, then the connected data structure, then AI. That extra step is the least visible part of the architecture and the part that lets everything above it earn trust. Without it, an outdated drawing, a stale equipment schedule and a current maintenance record all populate the same beautifully organized schema, and the result is wrong in a format that looks authoritative.</p>
+
+
+
+<h2 id="h-provenance-is-about-to-matter-a-great-deal" class="wp-block-heading"><strong>Provenance is about to matter a great deal</strong></h2>
+
+
+
+<p class="wp-block-paragraph">As AI takes a larger role in real estate decisions, I expect to hear far more about provenance. Where did this number come from? Who established it? Which standard was applied? When was it last verified? Has the building changed since then?</p>
+
+
+
+<p class="wp-block-paragraph">Those questions are familiar to anyone who works in building measurement, and they become considerably more important once machines are assembling answers from thousands of sources at once. A building record should not simply hold a value. It should hold enough context to explain why that value deserves to be believed.</p>
+
+
+
+<p class="wp-block-paragraph">My expert witness work has made this unusually vivid. Disputes involving floor area or measurement standards are almost never resolved by finding one more spreadsheet. They are resolved by understanding the source documents, the standard that applied, the physical conditions at the time and the method used to arrive at the number. AI can help organize that evidence and it can find inconsistencies a person would miss. But evidence and truth are not the same thing, and the distinction is going to matter well beyond litigation. It will matter in acquisitions, in leasing, in capital planning and in any decision where building data carries financial weight.</p>
+
+
+
+<h2 id="h-let-it-say-i-don-t-know" class="wp-block-heading"><strong>Let it say “I don’t know”</strong></h2>
+
+
+
+<p class="wp-block-paragraph">We have all become accustomed to software returning an answer. Building AI is going to need a different habit.</p>
+
+
+
+<p class="wp-block-paragraph">Sometimes the most useful answer is that the system does not know. Or that it found two conflicting sources. Or that nothing has been verified since the renovation. That is not a weakness in the product. It is the feature that makes the rest of it credible.</p>
+
+
+
+<p class="wp-block-paragraph">A system worth trusting should maintain confidence levels, surface conflicts rather than resolving them silently, and build a verification queue that someone actually works through. Over time every inspection, scan, service call and capital project improves the record. The result is never a perfect database, because buildings are too dynamic for that. What we can realistically build is a building record whose uncertainty is visible and managed rather than hidden.</p>
+
+
+
+<h2 id="h-the-preparation-happens-in-mechanical-rooms" class="wp-block-heading"><strong>The preparation happens in mechanical rooms</strong></h2>
+
+
+
+<p class="wp-block-paragraph">There is a great deal of talk about getting data ready for AI, and in most industries that means cleaning databases. In real estate it cannot mean only that, because we are dealing with physical assets.</p>
+
+
+
+<p class="wp-block-paragraph">Some of the most valuable AI preparation in this industry is going to happen in mechanical rooms, on rooftops, in tenant spaces and in parking garages, where the digital record finally meets the actual building. It is unglamorous work and it is not what anyone puts in a funding announcement.</p>
+
+
+
+<p class="wp-block-paragraph">Whoever solves that connection between physical truth and machine intelligence will have built something more valuable than another dataset. They will have built trust. Without it, talking to a building stays an impressive demonstration rather than a reliable way to run real estate.</p>
+<p>The post <a href="https://propmodo.com/ai-in-property-management-has-a-ground-truth-problem/">AI In Property Management Has a Ground-Truth Problem</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/mechanical-room-chiller-hvac.jpg" />	</item>
+		<item>
+		<title>Fatal Brooklyn Collapse Triggers Citywide Construction Site Audit</title>
+		<link>https://propmodo.com/fatal-brooklyn-collapse-triggers-citywide-construction-site-audit/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 21:32:28 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182074</guid>
+
+					<description><![CDATA[<p>New York will inspect 100 construction sites after a Brooklyn building collapse killed eight people and injured 19 near an active development project.</p>
+<p>The post <a href="https://propmodo.com/fatal-brooklyn-collapse-triggers-citywide-construction-site-audit/">Fatal Brooklyn Collapse Triggers Citywide Construction Site Audit</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">A three-story residential building at 1321 Flatbush Avenue in Brooklyn collapsed Wednesday afternoon, killing at least eight people and injuring 19 others. The structure fell into an excavation pit created by construction at an adjacent property at 2625 Bedford Avenue, where a one-story building was being converted into a nine-unit apartment complex. Emergency crews continued extracting victims from the rubble hours after the 4:30 p.m. collapse, with one injured person remaining in critical condition as of Thursday afternoon. Among the dead were two children and two construction workers.</p>
+
+
+
+<p class="wp-block-paragraph">New York City officials announced a sweep of approximately 100 construction sites connected to the five entities involved in the adjacent development project. The Department of Buildings had issued a stop-work order for the Bedford Avenue site in March, but a follow-up inspection found the original building had already been demolished, resulting in a $10,000 fine. DOB Commissioner Ahmed Tigani said the agency is conducting a &#8220;whole-of-government investigation&#8221; while continuing to document evidence as debris is cleared. The collapsed building at 1321 Flatbush Avenue contained four apartment units and is owned by Isolag Realty Corp., which acquired the property in 2024.</p>
+
+
+
+<p class="wp-block-paragraph">The incident adds to mounting concerns about construction oversight in New York, where the city&#8217;s building boom has strained inspection resources. The planned audit of 100 sites represents one of the largest enforcement actions triggered by a single incident in recent years. Mayor Mamdani promised full accountability for any responsible parties, though the exact cause of the collapse remained under investigation as of Thursday.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=therealdeal.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Real Deal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://therealdeal.com/new-york/2026/11/11/brooklyn-building-collapsed-killing-and-injuring-many/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">City Plans 100-Building Inspection Sweep After Deadly Building Collapse</a></div></div>
+<p>The post <a href="https://propmodo.com/fatal-brooklyn-collapse-triggers-citywide-construction-site-audit/">Fatal Brooklyn Collapse Triggers Citywide Construction Site Audit</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
+		<item>
+		<title>New York&#8217;s Right of First Refusal Law Adds Transaction Delays for Distressed Multifamily</title>
+		<link>https://propmodo.com/new-yorks-right-of-first-refusal-law-adds-transaction-delays-for-distressed-multifamily/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 21:30:02 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182072</guid>
+
+					<description><![CDATA[<p>New York's COPA law grants nonprofits first refusal rights on 2,100 multifamily buildings, adding transaction delays critics say discourage private investment.</p>
+<p>The post <a href="https://propmodo.com/new-yorks-right-of-first-refusal-law-adds-transaction-delays-for-distressed-multifamily/">New York&#8217;s Right of First Refusal Law Adds Transaction Delays for Distressed Multifamily</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">New York City Mayor Zohran Mamdani signed the Community Opportunity to Purchase Act into law on Tuesday, requiring owners of certain multifamily buildings to notify the city before selling and grant nonprofits a right of first refusal. COPA takes effect in November 2027 and applies to roughly 2,100 buildings, including distressed properties with four or more units and smaller buildings subject to affordability restrictions. Eligible nonprofits have 20 days to submit a statement of interest and 70 days to make an initial offer. If an owner receives a competing bid from a private buyer, the nonprofit retains a right of first refusal.</p>
+
+
+
+<p class="wp-block-paragraph">City Council member Sandy Nurse, the bill&#8217;s lead sponsor, pushed the legislation through after former Mayor Eric Adams vetoed a broader version in December 2025. The original proposal would have covered 10,000 buildings. Nurse argued the city cannot build its way out of the housing crisis and must preserve existing stock. Manhattan Institute senior fellow John Ketcham countered that the law assumes nonprofit ownership is superior to private ownership without evidence that nonprofits manage maintenance or tenant relations better than private landlords.</p>
+
+
+
+<p class="wp-block-paragraph">A 2025 report from New York University&#8217;s Furman Center warned that opportunity-to-purchase laws impose timing delays and legal costs that can discourage investment, particularly in softer markets. Real Deal analyst Erik Engquist noted that nonprofits capable of acquiring distressed buildings already had access to them without the mandate, and COPA simply adds process layers rather than improving acquisition economics. The law follows the Mamdani administration&#8217;s rent freeze, which took effect last month, continuing a pattern of regulatory expansion in the city&#8217;s housing market.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=reason.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Reason</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://reason.com/2026/11/12/mamdani-signs-a-law-letting-housing-nonprofits-bid-first-on-distressed-buildings/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Mamdani Signs a Law Letting Housing Nonprofits Bid First on Distressed Buildings</a></div></div>
+<p>The post <a href="https://propmodo.com/new-yorks-right-of-first-refusal-law-adds-transaction-delays-for-distressed-multifamily/">New York&#8217;s Right of First Refusal Law Adds Transaction Delays for Distressed Multifamily</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
+		<item>
 		<title>California Wealth Tax Defeat Unlocks Deals as Luxury Buyers Return</title>
 		<link>https://propmodo.com/california-wealth-tax-defeat-unlocks-deals-as-luxury-buyers-return/</link>
 		
@@ -109,7 +268,7 @@
 					<description><![CDATA[<p>Blockchain can’t search title or inspect buildings</p>
 <p>The post <a href="https://propmodo.com/did-the-binance-heist-take-the-last-air-out-of-real-estate-tokenization/">Did the Binance Heist Take the Last Air Out of Real Estate Tokenization?</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794445985>2 hr 38 min ago</strong><span class="live-fdate">Nov. 11, 2026 5:13 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794445985>1 day 1 hr ago</strong><span class="live-fdate">Nov. 11, 2026 5:13 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
 
 <p class="wp-block-paragraph">My inbox used to carry a tokenized real estate pitch most weeks. Fractional ownership of a rental portfolio, a deed recorded as an NFT, a coin backed by self-storage. Those have essentially stopped arriving, and what happened at Binance last month makes their return less likely rather than more.</p>
 
@@ -360,115 +519,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
-		<item>
-		<title>Easement Dispute Stalls Office Conversion Above Chicago JW Marriott</title>
-		<link>https://propmodo.com/easement-dispute-stalls-office-conversion-above-chicago-jw-marriott/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 22:34:35 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182030</guid>
-
-					<description><![CDATA[<p>A foreclosed hotel owner sues to stop an office-to-residential conversion above the JW Marriott Chicago, citing a violated easement agreement.</p>
-<p>The post <a href="https://propmodo.com/easement-dispute-stalls-office-conversion-above-chicago-jw-marriott/">Easement Dispute Stalls Office Conversion Above Chicago JW Marriott</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">A lender that foreclosed on the JW Marriott Chicago in 2022 has sued to halt an office-to-residential conversion of five floors at 208 South LaSalle Street, claiming the project violates a 2014 reciprocal easement agreement. The developer began demolition work in late October to prepare the conversion, which is part of Mayor Brandon Johnson&#8217;s LaSalle Street Reimagined Initiative. The hotel occupies the 12 floors below the office space being converted into apartments in the landmark building.</p>
-
-
-
-<p class="wp-block-paragraph">The lawsuit centers on a reciprocal easement agreement that requires either party to obtain consent before undertaking work that could materially affect the other. The hotel&#8217;s owner argues the developer proceeded without obtaining that approval. A hearing in the case is scheduled for January 4, 2027, though that date appears to be far in the future.</p>
-
-
-
-<p class="wp-block-paragraph">The LaSalle Street Reimagined Initiative launched after the pandemic emptied Loop office buildings, with city officials aiming to transform what they called an &#8220;office monoculture&#8221; into a mixed-use neighborhood. The Bellweather Residences, the first completed conversion under the program, opened in early September. The 208 South LaSalle dispute illustrates how easement agreements and shared infrastructure can complicate adaptive reuse projects even when municipal policy supports them.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.cbsnews.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">CBS News</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.cbsnews.com/chicago/news/jw-marriott-sues-developer-office-to-residential-conversion/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">JW Marriott Sues LaSalle Street Reimagined Developer Over Office-To-Residential Conversion</a></div></div>
-<p>The post <a href="https://propmodo.com/easement-dispute-stalls-office-conversion-above-chicago-jw-marriott/">Easement Dispute Stalls Office Conversion Above Chicago JW Marriott</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-construction-development.jpg" />	</item>
-		<item>
-		<title>States Are Funding Housing With Debt Instead of Rule Changes</title>
-		<link>https://propmodo.com/states-are-funding-housing-with-debt-instead-of-rule-changes/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 22:31:08 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Affordable Housing]]></category>
-		<category><![CDATA[Politics]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182028</guid>
-
-					<description><![CDATA[<p>Rising borrowing costs threaten housing bond economics</p>
-<p>The post <a href="https://propmodo.com/states-are-funding-housing-with-debt-instead-of-rule-changes/">States Are Funding Housing With Debt Instead of Rule Changes</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794262972>2 days 4 hr ago</strong><span class="live-fdate">Nov. 9, 2026 2:22 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<p class="wp-block-paragraph">Six state housing measures appeared on ballots last week, the most in a single election year since at least 2006, and the results split cleanly along one line. Voters approved every measure that asked them to borrow money for housing and rejected both measures that asked them to loosen the rules governing where housing can be built.</p>
-
-
-
-<p class="wp-block-paragraph">California carried the bulk of the borrowing. Proposition 1 authorized $11.25 billion in general obligation bonds with about 59 percent support, sending $7.2 billion to affordable multifamily housing, $1.1 billion to homeownership assistance, and smaller allocations to farmworker, student, tribal, and infrastructure programs, plus $1.25 billion for veteran home loans. Proposition 37 passed with 61 percent, authorizing up to $25 billion in revenue bonds for second mortgages covering as much as 17 percent of a new home’s price. Rhode Island approved a $120 million housing bond with more than 61 percent, its second in two cycles after a $120 million measure cleared with 65 percent in 2024. Hawaii voters amended the state constitution with about 62 percent to let counties issue Resilient Infrastructure for Shelter and Equity bonds, a tax increment mechanism repaid from property tax growth inside designated districts rather than from general funds. Raleigh passed a $101.5 million housing bond with nearly 65 percent.</p>
-
-
-
-<p class="wp-block-paragraph">Both regulatory measures failed. California’s Proposition 45, which would have streamlined permitting and environmental review under a law now half a century old, went down with nearly 56 percent opposed. Massachusetts Question 7 would have allowed a single-family home on any residentially zoned lot outside Boston measuring at least 5,000 square feet with road frontage and utility connections, and it had backing from Governor Maura Healey and Boston Mayor Michelle Wu. Jesse Kanson-Benanav, executive director of Abundant Housing Massachusetts, had argued the current standards push builders toward larger and costlier houses, describing the state’s average minimum lot as closer in size to an NFL field than an NBA court. Opponents ran on local control and the absence of affordability guardrails, and they won.</p>
-
-
-
-<p class="wp-block-paragraph">Borrowing was the cheaper option the last time most of these states went to voters. State and local governments issued a record $611.8 billion in municipal bonds over the 52 weeks ending October 16, according to Bloomberg data compiled by Matt Fabian, president of Municipal Market Analytics. SIFMA put issuance through October at $521 billion against $4.5 trillion outstanding. September brought the worst municipal selloff since the financial crisis, pushing the underlying yield on the broad muni index to its highest level since 2008, and the supply has been widening spreads against Treasuries at the long end of the curve.</p>
-
-
-
-<p class="wp-block-paragraph">California’s Legislative Analyst’s Office estimated repayment on the $10 billion general housing portion of Proposition 1 at $500 million to $600 million annually for about 25 years, roughly a quarter of one percent of the General Fund, with total cost running about 15 percent above what paying up front would have required. The veterans portion repays itself through participant mortgage payments. That estimate predates the recent move in yields, and every measure that passed last week carries a schedule of its own arriving in budgets already absorbing the end of pandemic-era federal aid.</p>
-
-
-
-<p class="wp-block-paragraph">Melina Lodge, executive director of the Housing Network of Rhode Island, has defended the approach on the grounds that development costs have outrun what private capital will fund at lower price points, leaving bonds as the only reliable source for units the market will not build on its own. Rhode Island’s business-backed policy council pushed back during the campaign, questioning whether the state’s recent housing spending had produced enough homes to justify what it cost.</p>
-
-
-
-<p class="wp-block-paragraph">Money raised through a bond spreads across every taxpayer over decades and buys something visible. A lot size standard asks the person voting to accept a change on their own street for the benefit of someone who does not live there yet. The second proposition is harder to sell, which both results confirm. What makes Massachusetts worth watching is how close it came anyway, in a state with some of the highest housing costs in the country, on a ballot where it finished tighter than eight other questions.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/states-are-funding-housing-with-debt-instead-of-rule-changes/">States Are Funding Housing With Debt Instead of Rule Changes</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2024/03/housing-construction.jpg" />	</item>
-		<item>
-		<title>Out-of-State Capital Returns to San Francisco&#8217;s Office Market</title>
-		<link>https://propmodo.com/out-of-state-capital-returns-to-san-franciscos-office-market/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 22:20:09 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182032</guid>
-
-					<description><![CDATA[<p>Florida investment firm 1754 Properties paid $28 million for San Francisco office building, plans more deals as AI boom attracts out-of-state capital.</p>
-<p>The post <a href="https://propmodo.com/out-of-state-capital-returns-to-san-franciscos-office-market/">Out-of-State Capital Returns to San Francisco&#8217;s Office Market</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Florida-based 1754 Properties closed on a six-story office building at 40 Jessie Street in late October for nearly $28 million, marking the firm&#8217;s first San Francisco acquisition and first office purchase in a portfolio otherwise concentrated in Florida and Mexico hotels. The company partnered with Vander Capital Partners on the deal, which values the property roughly $10 million above the $17.6 million Long Market Property Partners paid Golden Gate University in 2023. Google occupies the entire building under a lease that runs through 2030, following its 2021 acquisition of previous tenant Fitbit. About 60% of the space is configured as lab area.</p>
-
-
-
-<p class="wp-block-paragraph">1754 Properties CEO Joe Smith said the firm plans to build a larger Bay Area office portfolio and is seeking local partners for additional deals. He cited the city&#8217;s AI-driven leasing momentum and office vacancy falling below 30% as evidence the market has turned. Smith called current conditions &#8220;probably the best it&#8217;s been in 12 years&#8221; and expects single-digit vacancy rates within four to five years. The firm is passing on hotel investments in San Francisco despite its specialty in that sector, citing high union concentration and labor costs.</p>
-
-
-
-<p class="wp-block-paragraph">San Francisco has drawn a wave of out-of-state buyers over the past year as AI growth has shifted investor sentiment. A Texas investor began acquiring Union Square properties in 2023, while East Coast investors launched Project Uris in the same neighborhood. Foreign capital entered the market this year with purchases of the Transamerica Pyramid and Ghirardelli Square, and a New York investor is set to buy a downtown retail property. Smith described the shift as a reversal of the prior five years, when capital flowed from California to Florida rather than the opposite direction.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=sfstandard.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The San Francisco Standard</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://sfstandard.com/2026/11/09/1754-buys-40-jessie-st-plots-sf-portfolio/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">This Florida Firm Wants to Go on an SF Office Shopping Spree</a></div></div>
-<p>The post <a href="https://propmodo.com/out-of-state-capital-returns-to-san-franciscos-office-market/">Out-of-State Capital Returns to San Francisco&#8217;s Office Market</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
 	</channel>
 </rss>
