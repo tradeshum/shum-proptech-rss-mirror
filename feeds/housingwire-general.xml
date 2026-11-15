@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 13 Nov 2026 21:58:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Nov 2026 00:45:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>The seasonal decline in housing inventory is in full force</title>
+		<link>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/</link>
+					<comments>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sun, 15 Nov 2026 00:34:58 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Inventory]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611256</guid>
+
+					<description><![CDATA[<p>Inventory fell to 895,988, down 6,752 week to week, while new listings were 53,162 vs 56,569 last year.</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611256</post-id>	</item>
+		<item>
 		<title>Legislative risk continues to cloud BTR’s capital outlook; here&#8217;s why</title>
 		<link>https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/</link>
 					<comments>https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/#respond</comments>
@@ -224,25 +245,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">611138</post-id>	</item>
-		<item>
-		<title>IRS raises 401(k) limit for 2027 to $25,500</title>
-		<link>https://www.housingwire.com/articles/irs-401-k-2027-limit/</link>
-					<comments>https://www.housingwire.com/articles/irs-401-k-2027-limit/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 16:37:05 +0000</pubDate>
-				<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Internal Revenue Service]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611136</guid>
-
-					<description><![CDATA[<p>Catch-up limits for older workers rise to $8,500 and $11,750, while IRA limits stay at $7,500</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/irs-401-k-2027-limit/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611136</post-id>	</item>
 	</channel>
 </rss>
