@@ -24,3 +24,6 @@ Match by SUBJECT (brand + project, person, place, event), not by article headlin
 2026-11-16 | sent | Waldorf Astoria Residences portfolio set to nearly triple by 2030
 2026-11-16 | sent | London: stock of unsold or empty high-end flats (Guardian, "Prime property, slow sales")
 2026-11-16 | sent | renovation of a mansion into an art space
+
+## Marked skip by the owner
+2026-11-18 | skip | Waldorf Astoria Residences (the UAE projects in Ras Al Khaimah and Abu Dhabi are sold out, nothing to offer or link to for now; revisit only if resales or a new UAE launch appear)
