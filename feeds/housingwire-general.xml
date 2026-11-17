@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sun, 15 Nov 2026 00:45:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Nov 2026 23:02:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,222 +28,231 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>The seasonal decline in housing inventory is in full force</title>
-		<link>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/</link>
-					<comments>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/#respond</comments>
+		<title>NAMB opposes VA loan fee increases in Senate bill</title>
+		<link>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/</link>
+					<comments>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sun, 15 Nov 2026 00:34:58 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Inventory]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 22:22:39 +0000</pubDate>
+				<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611256</guid>
+		<category><![CDATA[NAMB]]></category>
+		<category><![CDATA[VA Loan]]></category>
+		<category><![CDATA[Veterans]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611323</guid>
 
-					<description><![CDATA[<p>Inventory fell to 895,988, down 6,752 week to week, while new listings were 53,162 vs 56,569 last year.</p>]]></description>
+					<description><![CDATA[<p>Legislation passed by the House would lift IRRRL fees to 1.42% and make higher charges permanent</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/inventory-seasonal-decline-rates/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611256</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611323</post-id>	</item>
 		<item>
-		<title>Legislative risk continues to cloud BTR’s capital outlook; here&#8217;s why</title>
-		<link>https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/</link>
-					<comments>https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/#respond</comments>
+		<title>Infill outlier Thomas James Homes &#8216;landmaxxes&#8217; lots with ADUs</title>
+		<link>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/</link>
+					<comments>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 21:58:22 +0000</pubDate>
-				<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[build-for-rent]]></category>
-		<category><![CDATA[Housing Policy]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Rental Properties]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611222</guid>
-
-					<description><![CDATA[<p>NAA data shows BTR starts down 18.5% YoY, completions down 40.2% and sales volume down 51.5% as of Q3 2026</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/btr-legislative-uncertainty-capital/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611222</post-id>	</item>
-		<item>
-		<title>Apartment rents diverge: San Francisco rises, the Sun Belt falls</title>
-		<link>https://www.housingwire.com/articles/apartment-rents-diverge-2026/</link>
-					<comments>https://www.housingwire.com/articles/apartment-rents-diverge-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 21:06:16 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Multifamily Housing]]></category>
-		<category><![CDATA[Rent Prices]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611210</guid>
-
-					<description><![CDATA[<p>Northern California took the top 3 growth spots, and San Antonio posted the steepest decline among the 50 largest markets</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/apartment-rents-diverge-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611210</post-id>	</item>
-		<item>
-		<title>Movement Mortgage seeks to recoup $1.2M from former LOs</title>
-		<link>https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/</link>
-					<comments>https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 20:52:52 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lawsuit]]></category>
-		<category><![CDATA[Loan Officer]]></category>
-		<category><![CDATA[Movement Mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611209</guid>
-
-					<description><![CDATA[<p>Arbitrator backs lender on signing bonus payback tied to 3-year terms</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/movement-mortgage-1-2m-bonus-clawback/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611209</post-id>	</item>
-		<item>
-		<title>PRMG hires 100-person team from Gold Star in organic growth push</title>
-		<link>https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/</link>
-					<comments>https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 18:56:46 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Loan Officer]]></category>
-		<category><![CDATA[PRMG]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611186</guid>
-
-					<description><![CDATA[<p>Responsive Mortgage joins PRMG in a move indicative of ‘peak transition season’</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/prmg-hires-responsive-mortgage-team/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611186</post-id>	</item>
-		<item>
-		<title>Stubborn input inflation pressures builders despite energy pullback</title>
-		<link>https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/</link>
-					<comments>https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 18:51:30 +0000</pubDate>
+		<pubDate>Mon, 16 Nov 2026 21:50:15 +0000</pubDate>
 				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Products]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Construction]]></category>
-		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[Homebuilders]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611196</guid>
+		<category><![CDATA[Seattle]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611383</guid>
 
-					<description><![CDATA[<p>Residential construction input prices climb 10.4% year over year</p>]]></description>
+					<description><![CDATA[<p>The builder's PNW division leverages attached ADUs to maximize yard space and lower costs through shared walls and utilities</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/residential-construction-input-inflation-october-nahb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611196</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611383</post-id>	</item>
 		<item>
-		<title>Will the Fifth Circuit keep FinCEN anti-money laundering rule off the books?</title>
-		<link>https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/</link>
-					<comments>https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 18:41:30 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Title]]></category>
-		<category><![CDATA[American Land Title Association]]></category>
-		<category><![CDATA[FinCEN]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611154</guid>
-
-					<description><![CDATA[<p>ALTA and TLTA filed amicus briefs after an East Texas judge vacated the rule in March</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/fincen-anti-money-laundering-real-estate-rule-appeal/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611154</post-id>	</item>
-		<item>
-		<title>Why Midwest buyer demand is holding up in the face of higher mortgage rates</title>
-		<link>https://www.housingwire.com/articles/midwest-buyer-demand-pending-sales/</link>
-					<comments>https://www.housingwire.com/articles/midwest-buyer-demand-pending-sales/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 18:30:48 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Cleveland]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Missouri]]></category>
-		<category><![CDATA[Ohio]]></category>
-		<category><![CDATA[St. Louis]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611150</guid>
-
-					<description><![CDATA[<p>Several Midwest metros are keeping pending sales aligned with new listings, led by Columbus and Cincinnati</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/midwest-buyer-demand-pending-sales/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611150</post-id>	</item>
-		<item>
-		<title>Builder credit conditions tighten for 19th straight quarter</title>
-		<link>https://www.housingwire.com/articles/ad-c-credit-conditions-tighten-third-quarter-2026/</link>
-					<comments>https://www.housingwire.com/articles/ad-c-credit-conditions-tighten-third-quarter-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 17:26:37 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Land]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611147</guid>
-
-					<description><![CDATA[<p>NAHB: AD&amp;C lending remains restrictive despite mixed rate movements; construction-to-perm loans grow </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ad-c-credit-conditions-tighten-third-quarter-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611147</post-id>	</item>
-		<item>
-		<title>Mortgage industry expects CFPB servicing rule to narrow</title>
-		<link>https://www.housingwire.com/articles/cfpb-revised-mortgage-servicing-loss-mitigation/</link>
-					<comments>https://www.housingwire.com/articles/cfpb-revised-mortgage-servicing-loss-mitigation/#respond</comments>
+		<title>Ackman says Trump can still end GSE conservatorships, relist this term</title>
+		<link>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/</link>
+					<comments>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 13 Nov 2026 16:56:05 +0000</pubDate>
+		<pubDate>Mon, 16 Nov 2026 21:40:57 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Servicing]]></category>
-		<category><![CDATA[CFPB]]></category>
+		<category><![CDATA[Conservatorship]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Freddie Mac]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Loss Mitigation]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611138</guid>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611401</guid>
 
-					<description><![CDATA[<p>Legal experts anticipate targeted changes to Regulation X rather than a full rewrite</p>]]></description>
+					<description><![CDATA[<p>Pershing Square execs argue the administration has a political incentive to avoid ‘handing control’ of the GSEs</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/cfpb-revised-mortgage-servicing-loss-mitigation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611138</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611401</post-id>	</item>
+		<item>
+		<title>Hedge fund pressures Invitation Homes to speed up home sales</title>
+		<link>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/</link>
+					<comments>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 20:24:55 +0000</pubDate>
+				<category><![CDATA[Capital]]></category>
+		<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[build-for-rent]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Single-Family Rentals]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611377</guid>
+
+					<description><![CDATA[<p>Land &amp; Buildings urges Invitation Homes to sell more houses, return $2B a year to shareholders</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611377</post-id>	</item>
+		<item>
+		<title>Villa hires former Century Communities CFO Messenger as CEO</title>
+		<link>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/</link>
+					<comments>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 20:01:38 +0000</pubDate>
+				<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611332</guid>
+
+					<description><![CDATA[<p>David Messenger will focus on expanding Villa’s offsite solutions for land developers, homebuilders and multifamily owners</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611332</post-id>	</item>
+		<item>
+		<title>Alex Vidal to oversee REMAX Canada as company clarifies remit</title>
+		<link>https://www.housingwire.com/articles/vidal-leads-remax-canada/</link>
+					<comments>https://www.housingwire.com/articles/vidal-leads-remax-canada/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 19:49:42 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[REMAX]]></category>
+		<category><![CDATA[The Real Brokerage]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611357</guid>
+
+					<description><![CDATA[<p>Don Kottick plans to depart on Dec. 15 after leading REMAX Canada since April 2025</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/vidal-leads-remax-canada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611357</post-id>	</item>
+		<item>
+		<title>CCM leader Brady Mullen&#8217;s playbook to win reverse mortgage referrals without a hard sales pitch</title>
+		<link>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/</link>
+					<comments>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 19:47:51 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Continuing Education]]></category>
+		<category><![CDATA[CrossCountry Mortgage]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[NRMLA]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611206</guid>
+
+					<description><![CDATA[<p>At NRMLA Annual, Mullen outlined a detailed process for reaching new referral partners</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611206</post-id>	</item>
+		<item>
+		<title>Lenders increasingly pull with new credit score model, but few use it for pricing</title>
+		<link>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/</link>
+					<comments>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 18:49:41 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Credit Score]]></category>
+		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[VantageScore]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611324</guid>
+
+					<description><![CDATA[<p>More than 170 lenders are now pulling VS4, but relatively few are using it as their pricing score </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611324</post-id>	</item>
+		<item>
+		<title>Using AI for listings, where marketing ends and misrepresentation begins</title>
+		<link>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/</link>
+					<comments>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/#respond</comments>
+		
+		<dc:creator><![CDATA[Hila Pooli]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 17:23:25 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Real Estate Marketing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611311</guid>
+
+					<description><![CDATA[<p>75% of AI-using agents rely on it for listing descriptions, NAR 2026 data shows</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611311</post-id>	</item>
+		<item>
+		<title>FHA&#8217;s MMI Fund stays 5x above floor, fueling calls to cut insurance premiums</title>
+		<link>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/</link>
+					<comments>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 17:09:02 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Federal Housing Administration]]></category>
+		<category><![CDATA[FHA loan]]></category>
+		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mutual Mortgage Insurance Fund]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611292</guid>
+
+					<description><![CDATA[<p>The MMI Fund had a capital reserve ratio of 10.29% as of Sept. 30</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611292</post-id>	</item>
 	</channel>
 </rss>

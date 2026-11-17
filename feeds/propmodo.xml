@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Mon, 16 Nov 2026 01:15:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 01:20:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Leaseback Structures Now Back Nearly Half of US Data Center Construction</title>
+		<link>https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 01:20:42 +0000</pubDate>
+				<category><![CDATA[Editor's Picks]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Blackstone]]></category>
+		<category><![CDATA[Data Center]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182134</guid>
+
+					<description><![CDATA[<p>Hyperscalers are becoming tenants in their own data centers</p>
+<p>The post <a href="https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/">Leaseback Structures Now Back Nearly Half of US Data Center Construction</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794878440>A few seconds ago</strong><span class="live-fdate">Nov. 16, 2026 5:20 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
+
+<p class="wp-block-paragraph">Ownership of the AI buildout is quietly separating from the companies doing the building. Blackstone Digital Infrastructure Trust agreed last week to <a href="https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519" target="_blank" rel="noreferrer noopener">acquire a majority stake in a data center portfolio from Amazon in a deal valued around $5 billion</a>, taking 75.1 percent of two joint ventures holding 13 newly built powered shells across campuses in Indiana and Mississippi. Amazon Web Services keeps 24.9 percent, worth about $600 million, and leases back the entire portfolio on an initial 12-year term extending to 32 years if fully exercised. The portfolio carries 647 megawatts and priced at a 7 percent initial capitalization rate. BXDC funded it with roughly $1.9 billion of proceeds from the public offering it completed earlier this year plus about $2.5 billion in new non-recourse mortgage debt.</p>
+
+
+
+<p class="wp-block-paragraph">Amazon’s reason for selling buildings it intends to keep using is visible in its own disclosures. The company raised 2026 cash capital expenditure guidance to roughly $220 billion in July, up from $200 billion, which Andy Jassy attributed largely to higher memory costs, and held that figure steady at third-quarter earnings. Trailing twelve-month free cash flow swung to an outflow of $42.4 billion by the end of the third quarter, against a $14.8 billion inflow a year earlier, as trailing capital expenditure reached roughly $211 billion versus $168.3 billion of operating cash flow. Cash capital expenditures in the quarter alone were $75.9 billion.</p>
+
+
+
+<p class="wp-block-paragraph">Jassy has been direct about the timing problem underneath those numbers, noting that data center capital goes out roughly two years before the servers inside produce revenue and that free cash flow headwinds continue until the sites are monetized. AWS carries a backlog around $496 billion and grew 39 percent in the quarter, so the constraint is not demand. It is the lag between writing the check and collecting the rent, and a sale-leaseback shortens that considerably by converting a finished building into cash while keeping the capacity.</p>
+
+
+
+<p class="wp-block-paragraph">Meta has run the same play at larger scale and pioneered the template. Its Hyperion campus in Richland Parish, Louisiana, sits inside a special purpose vehicle managed by Blue Owl Capital that raised roughly $27 billion in external debt, with Meta holding 20 percent as minority partner and tenant and providing residual value guarantees near $28 billion. Meta announced a similar venture with BlackRock in El Paso at roughly $14 billion for a one-gigawatt campus, again taking 20 percent alongside the land and about $2.3 billion of construction. A third Texas venture followed at comparable size, returning $1.04 billion in cash to Meta.</p>
+
+
+
+<p class="wp-block-paragraph">The aggregate obligation created by all of this is now large enough that ratings agencies have started tracking it separately. Moody’s calculated that the five largest US hyperscalers held $969 billion in undiscounted future data center lease commitments at the end of 2025, with $662 billion sitting off balance sheet because the leases had not yet commenced. Later tallies put the uncommenced figure above $1 trillion, with Microsoft carrying the largest disclosed pipeline. The Bank for International Settlements described the mechanics in its March Quarterly Review as substituting upfront capital expenditure for multi-year operating expenses financed through dedicated vehicles backed by private credit.</p>
+
+
+
+<p class="wp-block-paragraph">Sizing the leaseback share against total development requires some estimation, since nobody publishes a clean tally. The Census Bureau put private US data center construction at a seasonally adjusted annual rate of about $85 billion in August, up 73 percent year over year, against $49.7 billion for all of 2025. The announced joint venture and leaseback structures over roughly the past eighteen months, counting Hyperion, El Paso, the second Texas venture, and now the AWS portfolio, total somewhere near $60 billion. Measured against perhaps $125 billion of US data center construction put in place over the same window, that suggests close to half the capital behind the largest projects is now arriving through structures where the operator is a tenant rather than an owner. The figure is imprecise and heavily weighted toward Meta, but the direction is not ambiguous.</p>
+
+
+
+<p class="wp-block-paragraph">Development economics change when the end buyer is identified before the slab is poured. A hyperscaler building for its own account underwrites against internal cost of capital and holds whatever it builds. A hyperscaler building for contribution to a venture underwrites against what a Blackstone or a Blue Owl will pay, which means cap rates, lease terms, and residual value assumptions start shaping design decisions the way they already do in industrial and net lease. The 7 percent cap rate on the AWS portfolio is a real number that other developers can price against, and the 12-year initial term with a 32-year extension is a real duration that lenders can underwrite.</p>
+
+
+
+<p class="wp-block-paragraph">What remains unresolved is who holds the risk when a 12-year lease expires on a building designed for hardware that turns over every four or five years. Powered shells age better than the equipment inside them, which is most of the argument for this asset class, but the residual value guarantees Meta attached to its ventures suggest the capital partners wanted something more than that argument. We would expect more of these transactions in 2027 given how much construction is still in the pipeline and how thin free cash flow has become across the group, and we would watch the guarantee terms more closely than the headline prices.</p>
+
+</div></div><p>The post <a href="https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/">Leaseback Structures Now Back Nearly Half of US Data Center Construction</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/data-center-construction.jpg" />	</item>
+		<item>
+		<title>Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</title>
+		<link>https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 22:34:32 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182136</guid>
+
+					<description><![CDATA[<p>Bedrock Energy raised $24 million to expand geothermal drilling for commercial buildings and data centers seeking grid capacity relief.</p>
+<p>The post <a href="https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/">Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Bedrock Energy closed a $24 million funding round to expand its AI-directed geothermal drilling operation for commercial buildings. The startup uses directional drilling techniques adapted from oil and gas extraction to install geothermal heat pump systems up to 1,000 feet deep. Bedrock claims its rigs cut drilling time by up to 80% compared to conventional water-well-style equipment, reducing installation costs for systems that use the earth as a year-round heat source and sink. The company currently operates in Texas, Utah, Colorado, New York, and Alberta.</p>
+
+
+
+<p class="wp-block-paragraph">Clean Energy Ventures and Clearvision Ventures led the round, joined by GVP Climate, Susquehanna Sustainable Investments, Catalytic Capital for Climate and Health by Temasek Trust, and several other investors. Bedrock raised $12 million in its Series A last year and $8.5 million in a 2023 seed round. The new capital will fund rig purchases and expansion into New England, New Jersey, the upper Midwest, and additional Western states. The company has drilled nine sites to date and secured commitments from customers planning installations over the next two years.</p>
+
+
+
+<p class="wp-block-paragraph">Data center developers have emerged as a customer segment alongside office and commercial properties. Some operators want geothermal cooling for server racks, but others see the technology as a way to free up grid capacity by deploying it on adjacent parcels. CEO Joselyn Lai said one Michigan prospect estimated that freeing a few megawatts could accelerate data center operations by months or a full year. Geothermal heat pumps require minimal maintenance once installed, making them attractive for long-term infrastructure projects where upfront costs can be amortized over decades of service.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=techcrunch.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Tech Crunch</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Bedrock Energy Raises $24M to Build More AI-enabled Geothermal Drill Rigs for Enterprise Buildings</a></div></div>
+<p>The post <a href="https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/">Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-energy-infrastructure.jpg" />	</item>
+		<item>
+		<title>Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</title>
+		<link>https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 20:17:24 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182132</guid>
+
+					<description><![CDATA[<p>U-Haul consolidates 2,000 employees in a Phoenix tower bought from foreclosure, stabilizing a distressed midtown asset as the office market recovers selectively.</p>
+<p>The post <a href="https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/">Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">U-Haul has moved 2,000 employees into a 25-story office tower at 20 East Thomas Road in Phoenix, completing its acquisition and renovation of the former CenturyLink building. The company paid $23.7 million for the 548,938-square-foot property in December 2024, two years after the building entered foreclosure through lender Second Step Asset Management, a Bank of America affiliate. The building was 84% vacant at acquisition. Only one tenant remains: HDR Engineering, which occupies 20,000 square feet and is negotiating to double its footprint.</p>
+
+
+
+<p class="wp-block-paragraph">U-Haul expanded from roughly 300,000 square feet in its previous Central Avenue headquarters to 500,000 square feet in the new building. CEO Joe Shoen said the company needed room to grow after filling all 22 floors of its original two-tower complex, where it had operated since relocating from Portland in 1967. The company retained ownership of its former headquarters and surrounding parcels between Central Avenue and 3rd Street, including a conference center and fitness facility that opened in 2021. Shoen said the old towers may be repurposed for self-storage or nonprofit office space, though no final plans have been set.</p>
+
+
+
+<p class="wp-block-paragraph">U-Haul employs nearly 4,000 people in Arizona and maintains a market capitalization above $10.6 billion. The company reported $137 million in earnings for its second fiscal quarter of 2027, up from $106 million the prior year, driven by self-storage and its U-Box portable container service, which together account for 25% of revenue. Self-storage revenue has grown 71% since the second quarter of fiscal 2022.</p>
+
+
+
+<p class="wp-block-paragraph">Phoenix office vacancy stood at 22% in the third quarter of 2026, down from 24% the prior year, but midtown Phoenix posted a 26.7% vacancy rate that has trended higher even as the broader market recovered. Midtown asking rents average 15% below market, with Class A buildings in top submarkets commanding nearly double midtown rates. CoStar analysts said the submarket is positioned to attract tenants seeking quality towers at discounted pricing, a profile U-Haul&#8217;s occupancy validates.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Phoenix Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/phoenix/news/2026/11/13/u-haul-headquarters-phoenix.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">2,000 Employees Move Into U-Haul&#039;s New Headquarters</a></div></div>
+<p>The post <a href="https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/">Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
+		<item>
 		<title>Real Estate Market Transparency Determines Where Global Capital Goes</title>
 		<link>https://propmodo.com/real-estate-market-transparency-determines-where-global-capital-goes/</link>
 		
@@ -1079,124 +1199,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
-		<item>
-		<title>California Wealth Tax Defeat Unlocks Deals as Luxury Buyers Return</title>
-		<link>https://propmodo.com/california-wealth-tax-defeat-unlocks-deals-as-luxury-buyers-return/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 01:25:20 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182066</guid>
-
-					<description><![CDATA[<p>California luxury agents report buyer activity resuming after voters rejected a billionaire wealth tax that had frozen high-end residential deals.</p>
-<p>The post <a href="https://propmodo.com/california-wealth-tax-defeat-unlocks-deals-as-luxury-buyers-return/">California Wealth Tax Defeat Unlocks Deals as Luxury Buyers Return</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">California voters rejected Proposition 40 on Monday, a measure that would have imposed a one-time 5 percent tax on individuals with net worth exceeding $1 billion. The Associated Press called the race with 52.8 percent voting no and 47.2 percent in favor. High-end residential agents reported immediate client activity following the announcement, with showing requests and transaction approvals coming in from buyers who had paused plans. Aaron Kirman of Christie&#8217;s International Real Estate Southern California said three of his five billionaire clients contacted him to restart deals in Los Angeles and Atherton, California.</p>
-
-
-
-<p class="wp-block-paragraph">Agents said the tax proposal froze activity across the luxury market, affecting properties priced at $5 million and above as multi-millionaires worried about future levies. The measure drew opposition from commercial real estate figures including Marcus &amp; Millichap founder George Marcus, The Wonderful Company&#8217;s Stewart Resnick, and Ducks owner Henry Samueli, who funded campaigns against it. Los Angeles County and San Francisco voted in favor of the tax at roughly 55 percent and 56 percent respectively, while Orange County rejected it 59 percent to 41 percent. Douglas Elliman agent Cory Weiss received two showing requests for his West Hollywood Edition penthouse listing the evening results were announced.</p>
-
-
-
-<p class="wp-block-paragraph">High-end residential brokers view the defeat as relief for a market already strained by Los Angeles&#8217;s mansion tax, which took effect in 2023 and applies to sales above certain thresholds. Newmark Estates partner Steven Schaefer said clients who considered leaving California have called to reconsider those plans. Compass&#8217;s Carl Gambino cautioned that ultra-wealthy buyers remain wary of future tax measures despite the outcome. A separate ballot measure, Proposition 42, passed and bars new state taxes on financial assets and business interests, though real estate remains taxable.</p>
-
-
-
-<p class="wp-block-paragraph">The mansion tax continues to complicate transactions for sellers who purchased during the pandemic at low interest rates and now face higher borrowing costs plus the additional levy. Gambino described deals falling apart as buyers struggle to justify the combined expense of elevated rates and the tax. Agents pointed to maintenance spending and related services that billionaire property owners support, arguing the tax&#8217;s defeat preserves economic activity tied to high-end real estate. Some brokers reported increased call volume for properties above $5 million in the final weekend before the election.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=therealdeal.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Real Deal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://therealdeal.com/la/2026/11/10/resi-agents-relieved-at-billionaire-taxs-defeat/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Real Estate Reversal? Client Calls Pour in with Billionaire Tax’s Defeat</a></div></div>
-<p>The post <a href="https://propmodo.com/california-wealth-tax-defeat-unlocks-deals-as-luxury-buyers-return/">California Wealth Tax Defeat Unlocks Deals as Luxury Buyers Return</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-housing-multifamily.jpg" />	</item>
-		<item>
-		<title>Secondaries Boom Offers Exit Path for Stranded Real Estate Capital</title>
-		<link>https://propmodo.com/secondaries-boom-offers-exit-path-for-stranded-real-estate-capital/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 01:22:06 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182058</guid>
-
-					<description><![CDATA[<p>Blackstone targets $3 billion for a real estate secondaries fund as liquidity pressures drive managers and LPs to sell stakes at discounts.</p>
-<p>The post <a href="https://propmodo.com/secondaries-boom-offers-exit-path-for-stranded-real-estate-capital/">Secondaries Boom Offers Exit Path for Stranded Real Estate Capital</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Blackstone is raising at least $3 billion for a new fund through its Strategic Partners division to buy stakes in other asset managers&#8217; real estate vehicles. The fund will target interests in core real estate funds, acquiring them at discounts to net asset value, with a focus on data center, rental housing and industrial assets. Strategic Partners raised $2.6 billion for a similar fund in 2023.</p>
-
-
-
-<p class="wp-block-paragraph">The fundraising comes as limited partners and asset managers search for liquidity after years of deal drought. The Federal Reserve&#8217;s rate increases starting in 2022 slowed transactions across commercial real estate, while the pandemic&#8217;s impact on office buildings added further pressure. Real estate secondaries deals led by fund managers reached $14.5 billion last year, up 60% from the prior year, according to Ares Management.</p>
-
-
-
-<p class="wp-block-paragraph">Continuation vehicles have become a preferred tool for managers seeking to retain high-performing assets while providing exits to investors. Private-asset firms have used these structures to extend hold periods on properties in logistics, data centers and senior housing. Ares projects real estate secondaries volumes to double over the next several years as the gap between fundraising and distribution persists.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-11-11/blackstone-aims-to-raise-3-billion-for-real-estate-secondaries" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Blackstone Aims to Raise $3 Billion for Real Estate Secondaries</a></div></div>
-<p>The post <a href="https://propmodo.com/secondaries-boom-offers-exit-path-for-stranded-real-estate-capital/">Secondaries Boom Offers Exit Path for Stranded Real Estate Capital</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
-		<item>
-		<title>Did the Binance Heist Take the Last Air Out of Real Estate Tokenization?</title>
-		<link>https://propmodo.com/did-the-binance-heist-take-the-last-air-out-of-real-estate-tokenization/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Thu, 12 Nov 2026 01:20:33 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Blockchain]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[tokenization]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182056</guid>
-
-					<description><![CDATA[<p>Blockchain can’t search title or inspect buildings</p>
-<p>The post <a href="https://propmodo.com/did-the-binance-heist-take-the-last-air-out-of-real-estate-tokenization/">Did the Binance Heist Take the Last Air Out of Real Estate Tokenization?</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794445985>4 days ago</strong><span class="live-fdate">Nov. 11, 2026 5:13 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<p class="wp-block-paragraph">My inbox used to carry a tokenized real estate pitch most weeks. Fractional ownership of a rental portfolio, a deed recorded as an NFT, a coin backed by self-storage. Those have essentially stopped arriving, and what happened at Binance last month makes their return less likely rather than more.</p>
-
-
-
-<p class="wp-block-paragraph">Hackers took $6.3 billion from the world’s largest crypto exchange on October 29, the biggest digital asset theft ever recorded. Binance halted deposits and withdrawals, its co-chief executive pledged to cover the losses, and the company brought in outside cybersecurity reviewers. Bitcoin fell to around $76,400 in the days after. Crypto hacks have taken more than $22.3 billion since 2021, according to Chainalysis, but nothing at this scale had hit an exchange this central to the market. This has <a href="https://www.bloomberg.com/news/newsletters/2026-11-11/private-markets-take-stock-on-tokenization-after-binance-heist" target="_blank" rel="noreferrer noopener">reportedly made some rethink the role of cypto in their portfolios</a> as well as how and why tokenization should be used.</p>
-
-
-
-<p class="wp-block-paragraph">Property was always the laggard in tokenization, and private asset owners are now reassessing the whole category. Treasuries and private credit have scaled on-chain. Real estate has not, because the slow parts of a property transaction are slow for reasons a token does not address. Title has to be searched. Condition has to be inspected. Someone has to manage the building. Anyone pitching a blockchain solution for a closing now has to answer for the hack as well, and the answer is not simple.</p>
-
-
-
-<p class="wp-block-paragraph">Binance attributed the breach to North Korea and said the campaign began when one of its engineers was contacted through a job hunting platform by someone posing as a project director. The engineer was interviewed by a person claiming to run a company that did not exist, shown personal photos and social accounts to establish credibility, and asked to download an assignment containing malicious code. Binance called the approach more advanced and deceptive than anything it had seen.</p>
-
-
-
-<p class="wp-block-paragraph">AI makes that kind of attack cheaper to run at scale, generating convincing personas, writing the code, and handling the correspondence, and exchanges are now asking whether their own internal AI systems create new openings rather than closing them. AI also makes mistakes on its own, which is a separate problem that points the same direction. Systems that can reverse a transaction, freeze a transfer, or require a human signature start looking like features instead of overhead.</p>
-
-
-
-<p class="wp-block-paragraph">Quantum computing is the longer-term concern and the timeline keeps shortening. Research published this year cut the estimated resources needed to break the cryptography securing most major chains by roughly twentyfold. Bitcoin merged its first quantum-resistant address proposal in February and Ethereum formed a post-quantum team in January. Expert estimates now cluster between 2029 and the mid-2030s, and some think sooner. If a capable machine arrives before the migration finishes, the security promise underneath distributed ledgers goes with it.</p>
-
-
-
-<p class="wp-block-paragraph">Blockchains were supposed to strip the intermediaries out of a property transaction and leave something faster and cheaper behind. What the past two weeks suggest is that those intermediaries were doing more than adding cost. They were absorbing risk, and the industry now rebuilding that capacity in software is making the case better than any skeptic could.</p>
-
-
-
-<p class="wp-block-paragraph">Writing this will almost certainly put a few tokenization pitches back in my inbox. I guess I might have missed them after all.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/did-the-binance-heist-take-the-last-air-out-of-real-estate-tokenization/">Did the Binance Heist Take the Last Air Out of Real Estate Tokenization?</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/cyber-security-hack.jpg" />	</item>
 	</channel>
 </rss>
