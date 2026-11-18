@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Mon, 16 Nov 2026 23:02:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 22:01:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,231 +28,223 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>NAMB opposes VA loan fee increases in Senate bill</title>
-		<link>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/</link>
-					<comments>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 22:22:39 +0000</pubDate>
-				<category><![CDATA[Legislation]]></category>
-		<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NAMB]]></category>
-		<category><![CDATA[VA Loan]]></category>
-		<category><![CDATA[Veterans]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611323</guid>
-
-					<description><![CDATA[<p>Legislation passed by the House would lift IRRRL fees to 1.42% and make higher charges permanent</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/namb-va-loan-fees-s4744/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611323</post-id>	</item>
-		<item>
-		<title>Infill outlier Thomas James Homes &#8216;landmaxxes&#8217; lots with ADUs</title>
-		<link>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/</link>
-					<comments>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 21:50:15 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Products]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Seattle]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611383</guid>
-
-					<description><![CDATA[<p>The builder's PNW division leverages attached ADUs to maximize yard space and lower costs through shared walls and utilities</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/thomas-james-homes-adus-seattle/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611383</post-id>	</item>
-		<item>
-		<title>Ackman says Trump can still end GSE conservatorships, relist this term</title>
-		<link>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/</link>
-					<comments>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 21:40:57 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Conservatorship]]></category>
-		<category><![CDATA[Fannie Mae]]></category>
-		<category><![CDATA[Freddie Mac]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Trump Administration]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611401</guid>
-
-					<description><![CDATA[<p>Pershing Square execs argue the administration has a political incentive to avoid ‘handing control’ of the GSEs</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ackman-fannie-freddie-conservatorship-relisting-trump/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611401</post-id>	</item>
-		<item>
-		<title>Hedge fund pressures Invitation Homes to speed up home sales</title>
-		<link>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/</link>
-					<comments>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 20:24:55 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[build-for-rent]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Single-Family Rentals]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611377</guid>
-
-					<description><![CDATA[<p>Land &amp; Buildings urges Invitation Homes to sell more houses, return $2B a year to shareholders</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/land-buildings-invitation-homes-activist-letter/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611377</post-id>	</item>
-		<item>
-		<title>Villa hires former Century Communities CFO Messenger as CEO</title>
-		<link>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/</link>
-					<comments>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 20:01:38 +0000</pubDate>
-				<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611332</guid>
-
-					<description><![CDATA[<p>David Messenger will focus on expanding Villa’s offsite solutions for land developers, homebuilders and multifamily owners</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/villa-names-david-messenger-ceo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611332</post-id>	</item>
-		<item>
-		<title>Alex Vidal to oversee REMAX Canada as company clarifies remit</title>
-		<link>https://www.housingwire.com/articles/vidal-leads-remax-canada/</link>
-					<comments>https://www.housingwire.com/articles/vidal-leads-remax-canada/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 19:49:42 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[People Movers]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[REMAX]]></category>
-		<category><![CDATA[The Real Brokerage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611357</guid>
-
-					<description><![CDATA[<p>Don Kottick plans to depart on Dec. 15 after leading REMAX Canada since April 2025</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/vidal-leads-remax-canada/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611357</post-id>	</item>
-		<item>
-		<title>CCM leader Brady Mullen&#8217;s playbook to win reverse mortgage referrals without a hard sales pitch</title>
-		<link>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/</link>
-					<comments>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/#respond</comments>
+		<title>Fitch affirms Finance of America’s CCC rating as key risks, leverage persist</title>
+		<link>https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/</link>
+					<comments>https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 19:47:51 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
+		<pubDate>Tue, 17 Nov 2026 22:01:45 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
 		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Continuing Education]]></category>
-		<category><![CDATA[CrossCountry Mortgage]]></category>
+		<category><![CDATA[Finance of America]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Marketing]]></category>
-		<category><![CDATA[NRMLA]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611206</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611591</guid>
 
-					<description><![CDATA[<p>At NRMLA Annual, Mullen outlined a detailed process for reaching new referral partners</p>]]></description>
+					<description><![CDATA[<p>Fitch says assigning a higher rating to FOA would require a larger liquidity cushion and sustained profitability</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/ccm-leader-brady-mullens-playbook-to-win-reverse-mortgage-referrals-without-a-hard-sales-pitch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611206</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611591</post-id>	</item>
 		<item>
-		<title>Lenders increasingly pull with new credit score model, but few use it for pricing</title>
-		<link>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/</link>
-					<comments>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/#respond</comments>
+		<title>Fitch warns of growing balance-sheet strain at top nonbank mortgage firms</title>
+		<link>https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/</link>
+					<comments>https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 18:49:41 +0000</pubDate>
+		<pubDate>Tue, 17 Nov 2026 21:21:09 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Credit Score]]></category>
-		<category><![CDATA[FICO]]></category>
+		<category><![CDATA[Servicing]]></category>
+		<category><![CDATA[Fitch Ratings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[VantageScore]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611324</guid>
+		<category><![CDATA[MSRs]]></category>
+		<category><![CDATA[PennyMac]]></category>
+		<category><![CDATA[Rocket Companies]]></category>
+		<category><![CDATA[United Wholesale Mortgage]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611595</guid>
 
-					<description><![CDATA[<p>More than 170 lenders are now pulling VS4, but relatively few are using it as their pricing score </p>]]></description>
+					<description><![CDATA[<p>Rising leverage and MSR concentration drive negative outlooks</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/lenders-pull-but-dont-price-with-new-credit-score-model/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611324</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611595</post-id>	</item>
 		<item>
-		<title>Using AI for listings, where marketing ends and misrepresentation begins</title>
-		<link>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/</link>
-					<comments>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/#respond</comments>
+		<title>Homebuilder confidence sinks to a 14-year low as buyers hibernate</title>
+		<link>https://www.housingwire.com/articles/homebuilder-confidence-november-2026/</link>
+					<comments>https://www.housingwire.com/articles/homebuilder-confidence-november-2026/#respond</comments>
 		
-		<dc:creator><![CDATA[Hila Pooli]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 17:23:25 +0000</pubDate>
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 20:52:28 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Homebuilder Confidence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NAHB]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611565</guid>
+
+					<description><![CDATA[<p>NAHB says 68% of builders used incentives in November, as builders face thinner margins and affordability constrained buyers</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/homebuilder-confidence-november-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611565</post-id>	</item>
+		<item>
+		<title>Dark Matter, ServiceLink add automated closing to Empower</title>
+		<link>https://www.housingwire.com/articles/dark-matter-servicelink-empower/</link>
+					<comments>https://www.housingwire.com/articles/dark-matter-servicelink-empower/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 19:53:50 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Dark Matter Technologies]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[ServiceLink]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611564</guid>
+
+					<description><![CDATA[<p>Tech integration comes as ServiceLink data shows 82% of borrowers expect a refi to close in less than a month
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/dark-matter-servicelink-empower/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611564</post-id>	</item>
+		<item>
+		<title>How reverse mortgage LOs can help borrowers to self-service</title>
+		<link>https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/</link>
+					<comments>https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:50:43 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Celink]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Servicing]]></category>
+		<category><![CDATA[Onity Mortgage]]></category>
+		<category><![CDATA[Technology]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611351</guid>
+
+					<description><![CDATA[<p>At NRMLA Annual, Celink said it plans to launch ReverseLink within weeks, while Onity is building infrastructure for digital draw requests</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611351</post-id>	</item>
+		<item>
+		<title>Prophetic unveils SiteAI Drafter for homebuilder land teams</title>
+		<link>https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/</link>
+					<comments>https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:35:10 +0000</pubDate>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611537</guid>
+
+					<description><![CDATA[<p> The tool complements SiteAI’s existing automated layouts, allowing users to custom map road networks and product mixes</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/prophetic-launches-siteai-drafter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611537</post-id>	</item>
+		<item>
+		<title>Renting as a financial strategy, what real estate agents should know</title>
+		<link>https://www.housingwire.com/articles/renting-financial-strategy-agents/</link>
+					<comments>https://www.housingwire.com/articles/renting-financial-strategy-agents/#respond</comments>
+		
+		<dc:creator><![CDATA[Troy Palmquist]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:17:14 +0000</pubDate>
 				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[Contributors]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Compliance]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate Marketing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611311</guid>
+		<category><![CDATA[Rent Prices]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611341</guid>
 
-					<description><![CDATA[<p>75% of AI-using agents rely on it for listing descriptions, NAR 2026 data shows</p>]]></description>
+					<description><![CDATA[<p>Entrata leader Virginia Love says renters prioritize savings, debt payoff, and flexibility amid higher ownership costs</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/ai-real-estate-misrepresentation-risk/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/renting-financial-strategy-agents/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611311</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611341</post-id>	</item>
 		<item>
-		<title>FHA&#8217;s MMI Fund stays 5x above floor, fueling calls to cut insurance premiums</title>
-		<link>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/</link>
-					<comments>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/#respond</comments>
+		<title>Mortgage rates jump to 7.58% as inflation lifts bond yields</title>
+		<link>https://www.housingwire.com/articles/mortgage-rates-jump-758/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-rates-jump-758/#respond</comments>
 		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 17:09:02 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Federal Housing Administration]]></category>
-		<category><![CDATA[FHA loan]]></category>
-		<category><![CDATA[HECM]]></category>
-		<category><![CDATA[HUD]]></category>
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 18:09:28 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Cotality]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mutual Mortgage Insurance Fund]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611292</guid>
+		<category><![CDATA[Inflation]]></category>
+		<category><![CDATA[Mortgage Rates Center]]></category>
+		<category><![CDATA[Realtor.com]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611502</guid>
 
-					<description><![CDATA[<p>The MMI Fund had a capital reserve ratio of 10.29% as of Sept. 30</p>]]></description>
+					<description><![CDATA[<p>In the wake of October inflation gains, 30-year jumbo loans jumped to 7.87% and odds of a Fed hike in December hit 93%</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fha-mmi-fund-capital-ratio-2026-mip-cuts-pressure/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-rates-jump-758/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611292</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611502</post-id>	</item>
+		<item>
+		<title>Promise Robotics raises $25M to scale automated homebuilding</title>
+		<link>https://www.housingwire.com/articles/promise-robotics-25m-katerra-economics/</link>
+					<comments>https://www.housingwire.com/articles/promise-robotics-25m-katerra-economics/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 17:53:27 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Construction]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611535</guid>
+
+					<description><![CDATA[<p>Promise says Series B funds the platform, not factories, as it plans a Phoenix facility and 2028 deployments</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/promise-robotics-25m-katerra-economics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611535</post-id>	</item>
+		<item>
+		<title>Mamdani&#8217;s NYC public housing rebuild plan skirts DSA rebuke</title>
+		<link>https://www.housingwire.com/articles/mamdani-dsa-public-housing/</link>
+					<comments>https://www.housingwire.com/articles/mamdani-dsa-public-housing/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 16:26:06 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611439</guid>
+
+					<description><![CDATA[<p>The plan, which opponents call 'privatization,' replaces 2,056 apartments with about 3,500 new mixed-income units, with rent capped at 30% of income</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mamdani-dsa-public-housing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611439</post-id>	</item>
 	</channel>
 </rss>
