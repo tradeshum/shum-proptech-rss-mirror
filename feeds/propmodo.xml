@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Thu, 19 Nov 2026 01:04:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Nov 2026 00:44:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,858 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Get Real Estate Teams Behind an AI Rollout</title>
+		<link>https://propmodo.com/how-to-get-real-estate-teams-behind-an-ai-rollout/</link>
+		
+		<dc:creator><![CDATA[Propmodo Studio]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 00:44:43 +0000</pubDate>
+				<category><![CDATA[Partner Content]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[JLL]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182153</guid>
+
+					<description><![CDATA[<p>Real estate firms are deploying AI faster than they are preparing the people who will use it. JLL's Reeves Davis explains why employee buy-in drives the return.</p>
+<p>The post <a href="https://propmodo.com/how-to-get-real-estate-teams-behind-an-ai-rollout/">How to Get Real Estate Teams Behind an AI Rollout</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Real estate organizations have moved on AI quickly, and in many cases the decision to deploy has run well ahead of any conversation with the people who will actually use the tools. Software gets selected, a rollout date gets set, and training arrives as a thirty-minute session the week before launch. The staff expected to change how they work find out what is happening when it is already happening.</p>
+
+
+
+<p class="wp-block-paragraph">Adoption suffers when that happens, and so does the return the investment was supposed to generate. AI in real estate operations is mostly justified on productivity, and productivity gains require people to use the tools willingly and well. A platform that sits unused, or gets worked around, produces none of it. <a href="https://www.jll.com/en-us/guides/integrating-ai-into-tech-stack?utm_source=propmodo&amp;utm_medium=display&amp;utm_campaign=gl-occ-techadv-tech-advisory-0126" target="_blank" rel="noreferrer noopener">Thoughtfully integrating AI in a real estate company’s current tech stack</a> is the key to maximizing the ROI of AI investment.</p>
+
+
+<div class="plf-slot" data-plf-slot data-mode="primary" data-context="shortcode"><template data-plf-candidate data-form-id="182021" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="182021" aria-labelledby="plf-182021-1-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free guide</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="268" height="120" src="https://propmodo.com/wp-content/uploads/2024/08/JLL_logo_color.webp" class="plf-logo" alt="JLL" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2024/08/JLL_logo_color.webp 400w, https://propmodo.com/wp-content/uploads/2024/08/JLL_logo_color-300x134.webp 300w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+					<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/11/Data-Platforms-Demystified-JLL-pdf-212x300.jpg" class="plf-cover plf-cover--card" alt="" loading="lazy" decoding="async" sizes="auto, 160px" /><p class="plf-box__title" id="plf-182021-1-title" role="heading" aria-level="2">Is your real estate data AI-ready?</p>				</div>
+				<p class="plf-box__desc">Get the roadmap for consolidating systems, improving data governance and transforming fragmented real estate data into actionable insights.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Turn scattered data into business intelligence</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-182021-1-first_name">First name</label>
+			<input id="plf-182021-1-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-182021-1-last_name">Last name</label>
+			<input id="plf-182021-1-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-182021-1-email">Work email</label>
+			<input id="plf-182021-1-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-182021-1-job_title">Job title</label>
+			<input id="plf-182021-1-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-182021-1-company">Company</label>
+			<input id="plf-182021-1-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Download the Guide</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-182021-1-website">Leave this field empty</label>
+			<input id="plf-182021-1-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this guide, you agree that Propmodo may share your information with JLL to fulfill your request. JLL may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+			<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/11/Data-Platforms-Demystified-JLL-pdf-212x300.jpg" class="plf-cover plf-cover--success" alt="" loading="lazy" decoding="async" sizes="auto, 160px" />			<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-182021-1-done">
+					Your guide is ready				</p>
+				<p class="plf-success__headline">Is your real estate data AI-ready?</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the guide					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="182010" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="182010" aria-labelledby="plf-182010-2-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free report</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+							<div class="plf-cover plf-cover--auto plf-cover--card plf-cover--medium" aria-hidden="true">
+			<span class="plf-cover__kicker">Free report</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Master Commercial Property Tax Automation with Cotality<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />				</span>
+					</div>
+		<p class="plf-box__title" id="plf-182010-2-title" role="heading" aria-level="2">Master Commercial Property Tax Automation with Cotality<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>				</div>
+				<p class="plf-box__desc">See Cotality’s Commercial Tax Portal dynamic dashboard, which features near real-time refund status, automated calls to action, and streamlined user management.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Introducing the All-New Commercial Tax Portal<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-182010-2-first_name">First name</label>
+			<input id="plf-182010-2-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-182010-2-last_name">Last name</label>
+			<input id="plf-182010-2-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-182010-2-email">Work email</label>
+			<input id="plf-182010-2-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-182010-2-job_title">Job title</label>
+			<input id="plf-182010-2-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-182010-2-company">Company</label>
+			<input id="plf-182010-2-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Learn More</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-182010-2-website">Leave this field empty</label>
+			<input id="plf-182010-2-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this report, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+					<div class="plf-cover plf-cover--auto plf-cover--success plf-cover--medium" aria-hidden="true">
+			<span class="plf-cover__kicker">Free report</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Master Commercial Property Tax Automation with Cotality<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />				</span>
+					</div>
+					<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-182010-2-done">
+					Your report is ready				</p>
+				<p class="plf-success__headline">Master Commercial Property Tax Automation with Cotality<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the report					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="181829" data-expires="0"><section class="plf-box plf-box--banner plf-scheme--dark" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="181829" aria-labelledby="plf-181829-3-title">
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free guide</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="400" height="110" src="https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo.png 400w, https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo-300x83.png 300w" />		</div>
+				</header>
+		<p class="plf-box__title" id="plf-181829-3-title" role="heading" aria-level="2">Grow your parking revenue with EV charging</p><p class="plf-box__desc">Learn how to use EV charging to attract new drivers, earn recurring revenue, and see a real return on your investment.</p>		<form class="plf-form" data-plf-form data-mode="two_step" novalidate>
+			<div class="plf-fields plf-fields--email plf-step" data-step="1">		<div class="plf-field plf-field--email">
+			<label for="plf-181829-3-email">Work email</label>
+			<input id="plf-181829-3-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+		<div class="plf-actions"><button type="button" class="plf-btn" data-plf-next>Continue</button></div></div><div class="plf-step" data-step="2" hidden>		<p class="plf-sentto">
+			Sending to <strong data-plf-email-echo></strong> · <button type="button" class="plf-link" data-plf-back>Change</button>
+		</p>
+		<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-181829-3-first_name">First name</label>
+			<input id="plf-181829-3-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-181829-3-last_name">Last name</label>
+			<input id="plf-181829-3-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-181829-3-job_title">Job title</label>
+			<input id="plf-181829-3-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-181829-3-company">Company</label>
+			<input id="plf-181829-3-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Get the guide</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-181829-3-website">Leave this field empty</label>
+			<input id="plf-181829-3-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+							<p class="plf-consent">
+			By requesting this guide, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+					<p class="plf-error" role="alert" hidden></p>
+		</form>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+					<div class="plf-cover plf-cover--auto plf-cover--success plf-cover--medium" aria-hidden="true">
+			<span class="plf-cover__kicker">Free guide</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Grow your parking revenue with EV charging</span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="400" height="110" src="https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo-black.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo-black.png 400w, https://propmodo.com/wp-content/uploads/2024/06/SWTCH-logo-black-300x83.png 300w" />				</span>
+					</div>
+					<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-181829-3-done">
+					Your guide is ready				</p>
+				<p class="plf-success__headline">Grow your parking revenue with EV charging</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the guide					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="181629" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="181629" aria-labelledby="plf-181629-4-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free guide</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="369" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black.png 800w, https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black-300x98.png 300w, https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black-768x250.png 768w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+					<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026-pdf-212x300.jpg" class="plf-cover plf-cover--card" alt="" loading="lazy" decoding="async" sizes="auto, 160px" /><p class="plf-box__title" id="plf-181629-4-title" role="heading" aria-level="2">Level Up: The State of AI in Commercial Property Management</p>				</div>
+				<p class="plf-box__desc">A candid look at what&#039;s moving the dial, with a 12-to-18-month roadmap to move from pilot to embedded and reliable.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Get the free guide</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-181629-4-first_name">First name</label>
+			<input id="plf-181629-4-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-181629-4-last_name">Last name</label>
+			<input id="plf-181629-4-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-181629-4-email">Work email</label>
+			<input id="plf-181629-4-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-181629-4-job_title">Job title</label>
+			<input id="plf-181629-4-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-181629-4-company">Company</label>
+			<input id="plf-181629-4-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Download the guide</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-181629-4-website">Leave this field empty</label>
+			<input id="plf-181629-4-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this guide, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+			<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026-pdf-212x300.jpg" class="plf-cover plf-cover--success" alt="" loading="lazy" decoding="async" sizes="auto, 160px" />			<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-181629-4-done">
+					Your guide is ready				</p>
+				<p class="plf-success__headline">Level Up: The State of AI in Commercial Property Management</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the guide					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="181624" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="181624" aria-labelledby="plf-181624-5-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free guide</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="369" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black.png 800w, https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black-300x98.png 300w, https://propmodo.com/wp-content/uploads/2026/08/REL_logo_off-black-768x250.png 768w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+					<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026-pdf-212x300.jpg" class="plf-cover plf-cover--card" alt="" loading="lazy" decoding="async" sizes="auto, 160px" /><p class="plf-box__title" id="plf-181624-5-title" role="heading" aria-level="2">Level Up: The State of AI in Commercial Property Management</p>				</div>
+				<p class="plf-box__desc">A candid look at what&#039;s moving the dial, with a 12-to-18-month roadmap to move from pilot to embedded and reliable.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Get the free guide</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-181624-5-first_name">First name</label>
+			<input id="plf-181624-5-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-181624-5-last_name">Last name</label>
+			<input id="plf-181624-5-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-181624-5-email">Work email</label>
+			<input id="plf-181624-5-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-181624-5-job_title">Job title</label>
+			<input id="plf-181624-5-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-181624-5-company">Company</label>
+			<input id="plf-181624-5-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Download the guide</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-181624-5-website">Leave this field empty</label>
+			<input id="plf-181624-5-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this guide, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+			<img loading="lazy" width="212" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Re-Leased_State_of_AI_in_CRE_Whitepaper_2026-pdf-212x300.jpg" class="plf-cover plf-cover--success" alt="" loading="lazy" decoding="async" sizes="auto, 160px" />			<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-181624-5-done">
+					Your guide is ready				</p>
+				<p class="plf-success__headline">Level Up: The State of AI in Commercial Property Management</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the guide					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="181557" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="181557" aria-labelledby="plf-181557-6-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free use case</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="327" height="85" src="https://propmodo.com/wp-content/uploads/2026/09/0_green.street.logo_PRIMARY-Color.svg" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+					<img loading="lazy" width="232" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Green-Street-MCP-Server-AVM-Use-Case-pdf-232x300.jpg" class="plf-cover plf-cover--card" alt="" loading="lazy" decoding="async" sizes="auto, 160px" /><p class="plf-box__title" id="plf-181557-6-title" role="heading" aria-level="2">Value Beyond the Comps, Backed by Real Research</p>				</div>
+				<p class="plf-box__desc">Download the use case to see how AI pairs AVM data with 150K+ articles and 25K+ research reports for a valuation that holds up.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">No Exports, No Analyst Hours, No Delay</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-181557-6-first_name">First name</label>
+			<input id="plf-181557-6-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-181557-6-last_name">Last name</label>
+			<input id="plf-181557-6-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-181557-6-email">Work email</label>
+			<input id="plf-181557-6-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-181557-6-job_title">Job title</label>
+			<input id="plf-181557-6-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-181557-6-company">Company</label>
+			<input id="plf-181557-6-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Get Use Case</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-181557-6-website">Leave this field empty</label>
+			<input id="plf-181557-6-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this use case, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+			<img loading="lazy" width="232" height="300" src="https://propmodo.com/wp-content/uploads/2026/09/Green-Street-MCP-Server-AVM-Use-Case-pdf-232x300.jpg" class="plf-cover plf-cover--success" alt="" loading="lazy" decoding="async" sizes="auto, 160px" />			<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-181557-6-done">
+					Your use case is ready				</p>
+				<p class="plf-success__headline">Value Beyond the Comps, Backed by Real Research</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the use case					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="181089" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="181089" aria-labelledby="plf-181089-7-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free report</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+							<div class="plf-cover plf-cover--auto plf-cover--card plf-cover--medium" aria-hidden="true">
+			<span class="plf-cover__kicker">Free report</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Master Commercial Property Tax Automation with Cotality</span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />				</span>
+					</div>
+		<p class="plf-box__title" id="plf-181089-7-title" role="heading" aria-level="2">Master Commercial Property Tax Automation with Cotality</p>				</div>
+				<p class="plf-box__desc">See Cotality’s Commercial Tax Portal dynamic dashboard, which features near real-time refund status, automated calls to action, and streamlined user management.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Introducing the All-New Commercial Tax Portal</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-181089-7-first_name">First name</label>
+			<input id="plf-181089-7-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-181089-7-last_name">Last name</label>
+			<input id="plf-181089-7-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-181089-7-email">Work email</label>
+			<input id="plf-181089-7-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-181089-7-job_title">Job title</label>
+			<input id="plf-181089-7-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-181089-7-company">Company</label>
+			<input id="plf-181089-7-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">Watch Now</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-181089-7-website">Leave this field empty</label>
+			<input id="plf-181089-7-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this report, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+					<div class="plf-cover plf-cover--auto plf-cover--success plf-cover--medium" aria-hidden="true">
+			<span class="plf-cover__kicker">Free report</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Master Commercial Property Tax Automation with Cotality</span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="393" height="120" src="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2026/08/cotality_logo.png 800w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-300x92.png 300w, https://propmodo.com/wp-content/uploads/2026/08/cotality_logo-768x234.png 768w" />				</span>
+					</div>
+					<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-181089-7-done">
+					Your report is ready				</p>
+				<p class="plf-success__headline">Master Commercial Property Tax Automation with Cotality</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the report					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template><template data-plf-candidate data-form-id="179925" data-expires="0"><section class="plf-box plf-box--card plf-scheme--light" style="--plf-accent:#4372b8;--plf-on-accent:#ffffff;" data-plf-box data-form-id="179925" aria-labelledby="plf-179925-8-title">
+							<div class="plf-box__bar" aria-hidden="true"></div>
+						<div class="plf-box__main">
+						<header class="plf-box__head">
+			<div class="plf-box__eyebrow">
+				<span class="plf-box__kicker">Partner offer</span>
+				<span class="plf-box__pill">Free guide</span>
+			</div>
+					<div class="plf-box__sponsor">
+			<span class="plf-box__presented">Presented by</span>
+			<img loading="lazy" width="417" height="120" src="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png" class="plf-logo" alt="" loading="lazy" decoding="async" sizes="auto, 140px" srcset="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png 500w, https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo-300x86.png 300w" />		</div>
+				</header>
+				<div class="plf-card">
+			<div class="plf-card__content">
+				<div class="plf-card__lead">
+							<div class="plf-cover plf-cover--auto plf-cover--card plf-cover--short" aria-hidden="true">
+			<span class="plf-cover__kicker">Free guide</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Tenant Retention &amp; Indoor Air Quality</span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="417" height="120" src="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png 500w, https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo-300x86.png 300w" />				</span>
+					</div>
+		<p class="plf-box__title" id="plf-179925-8-title" role="heading" aria-level="2">Tenant Retention &amp; Indoor Air Quality</p>				</div>
+				<p class="plf-box__desc">The Tenant Retention Guide to Indoor Air Quality provides action steps to improve IAQ, reduce tenant complaints, and share your results with current and prospective tenants.</p>							</div>
+			<form class="plf-form" data-plf-form data-mode="standard" novalidate>
+				<p class="plf-form__heading">Download the guide now</p>
+				<div class="plf-fields">		<div class="plf-field plf-field--first-name">
+			<label for="plf-179925-8-first_name">First name</label>
+			<input id="plf-179925-8-first_name" name="first_name" type="text" autocomplete="given-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--last-name">
+			<label for="plf-179925-8-last_name">Last name</label>
+			<input id="plf-179925-8-last_name" name="last_name" type="text" autocomplete="family-name" maxlength="100" required>
+		</div>
+				<div class="plf-field plf-field--email plf-field--wide">
+			<label for="plf-179925-8-email">Work email</label>
+			<input id="plf-179925-8-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@company.com" inputmode="email" spellcheck="false">
+		</div>
+				<div class="plf-field plf-field--job-title plf-field--wide">
+			<label for="plf-179925-8-job_title">Job title</label>
+			<input id="plf-179925-8-job_title" name="job_title" type="text" autocomplete="organization-title" maxlength="150" required>
+		</div>
+				<div class="plf-field plf-field--company plf-field--wide">
+			<label for="plf-179925-8-company">Company</label>
+			<input id="plf-179925-8-company" name="company" type="text" autocomplete="organization" maxlength="150" required>
+		</div>
+		<div class="plf-actions">		<button type="submit" class="plf-btn"><span class="plf-btn__label">DOWNLOAD</span><svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="M13 6l6 6-6 6"/></svg></button>
+		</div></div>		<div class="plf-hp" aria-hidden="true">
+			<label for="plf-179925-8-website">Leave this field empty</label>
+			<input id="plf-179925-8-website" name="plf_website" type="text" tabindex="-1" autocomplete="off">
+		</div>
+								<p class="plf-consent">
+			By requesting this guide, you agree that Propmodo may share your information with the sponsor to fulfill your request. The sponsor may contact you, and you can opt out at any time.							<a href="https://propmodo.com/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>
+					</p>
+						<p class="plf-error" role="alert" hidden></p>
+			</form>
+		</div>
+					</div>
+					<div class="plf-success" data-plf-success hidden tabindex="-1" aria-live="polite">
+					<div class="plf-cover plf-cover--auto plf-cover--success plf-cover--short" aria-hidden="true">
+			<span class="plf-cover__kicker">Free guide</span>
+			<span class="plf-cover__rule"></span>
+			<span class="plf-cover__title">Tenant Retention &amp; Indoor Air Quality</span>
+							<span class="plf-cover__brand">
+					<img loading="lazy" width="417" height="120" src="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png" class="plf-cover__logo" alt="" loading="lazy" decoding="async" sizes="auto, 100px" srcset="https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo.png 500w, https://propmodo.com/wp-content/uploads/2024/06/partner-esi-logo-300x86.png 300w" />				</span>
+					</div>
+					<div class="plf-success__body">
+				<p class="plf-success__status">
+					<svg width="24" height="24" viewBox="0 0 28 28" aria-hidden="true" focusable="false"><circle cx="14" cy="14" r="14" fill="currentColor"/><path d="M8.5 14.3l3.6 3.6L19.5 10.5" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+					<span data-plf-greeting>You&#039;re all set</span>
+				</p>
+				<p class="plf-success__title" id="plf-179925-8-done">
+					Your guide is ready				</p>
+				<p class="plf-success__headline">Tenant Retention &amp; Indoor Air Quality</p>
+				<a class="plf-btn" data-plf-download href="#" target="_blank" rel="noopener">
+					<span class="plf-btn__label">
+						Open the guide					</span>
+					<svg class="plf-btn__icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 20h14"/></svg>
+				</a>
+				<p class="plf-success__note">
+					Next time you see one of our partner offers, your details will already be filled in on this device.					<button type="button" class="plf-link" data-plf-forget>Not you? Clear my details</button>
+				</p>
+			</div>
+		</div>
+				</section></template></div>
+
+
+
+<p class="wp-block-paragraph">JLL has a longstanding framework for thinking about where cost sits in an organization, and Reeves Davis, President of Technology Services at JLL, applies it to this problem. The 3-30-300 rule holds that a company spends roughly $3 per square foot annually on utilities, $30 on rent, and $300 on payroll. Because payroll is an order of magnitude larger than rent, a 10 percent productivity gain returns about $30 per square foot, which covers the entire rent line on its own.</p>
+
+
+
+<p class="wp-block-paragraph">That same arithmetic governs AI investment, and capturing the productivity piece depends on how people experience the change. “You have to make sure people feel safe and supported,” Davis said. “If I can get even slightly better productivity, it could save the company way more than any other improvement that tech can bring on its own.”</p>
+
+
+
+<p class="wp-block-paragraph">A well-received rollout delivers more than the productivity gain. “We think about introducing productivity improvements as a way to copy the best employees in a systematized way,” Davis said. “Now the onboarding process is much faster and you are enabling people with a very standardized toolset.” Encoding a process into a tool makes it available to everyone rather than to whoever learned it from the person who knew it best.</p>
+
+
+
+<p class="wp-block-paragraph">Deployment is also not the end of the work. Usage data tells an organization whether the tools are being used at all, and Davis sees a second benefit in tracking it. “Tracking the usage of tools is critical, it shows people that you care enough to track it and take the way they interact with a product into consideration,” he said. “People want to think they are working for a company that is trying to make their job better.”</p>
+
+
+
+<p class="wp-block-paragraph">What comes back from that monitoring feeds the next round of decisions. The number of plausible AI projects always exceeds the capacity to pursue them, and Davis describes choosing among them as a capability organizations have to develop rather than something they can plan for in advance. “There will never be enough time and money to attack every idea up front so companies have to build the muscle of assessing which tech to work on,” he said.</p>
+
+
+
+<p class="wp-block-paragraph">This work is going to continue for years rather than quarters. The tools will keep changing, the workflows built around them will keep getting rebuilt, and organizations will be making these decisions repeatedly rather than once. Each round of that cycle depends on whether the last one left people more willing to engage or less.</p>
+
+
+
+<p class="wp-block-paragraph">That makes the early rollouts worth getting right for reasons beyond their individual returns. A deployment that staff experienced as something done to them makes the next one harder, because people arrive skeptical and participate minimally. One that visibly improved their work produces the opposite, and the organization gets better feedback, faster adoption, and a clearer sense of what to build next. The productivity gains that justify AI investment in the first place come from people choosing to use these tools rather than tolerating them, which is a different thing to design for than a deployment timeline.</p>
+<p>The post <a href="https://propmodo.com/how-to-get-real-estate-teams-behind-an-ai-rollout/">How to Get Real Estate Teams Behind an AI Rollout</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/05/real-estate-team-conference.jpg" />	</item>
+		<item>
+		<title>Namdar Realty Takes Control of New York&#8217;s Largest Mall Debt After Pyramid&#8217;s Failed Bid</title>
+		<link>https://propmodo.com/namdar-realty-takes-control-of-new-yorks-largest-mall-debt-after-pyramids-failed-bid/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 23:11:35 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182197</guid>
+
+					<description><![CDATA[<p>Namdar Realty acquired $430 million in debt on Destiny USA after Pyramid Management failed to close its own discounted bid on the Syracuse mall.</p>
+<p>The post <a href="https://propmodo.com/namdar-realty-takes-control-of-new-yorks-largest-mall-debt-after-pyramids-failed-bid/">Namdar Realty Takes Control of New York&#8217;s Largest Mall Debt After Pyramid&#8217;s Failed Bid</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Namdar Realty Group acquired the $430 million debt on Destiny USA, New York&#8217;s largest shopping center, after developer Pyramid Management Group failed to close its own bid to buy the troubled loan for less than 20 cents on the dollar. Bond filings now list Namdar as the new lender of record. Pyramid&#8217;s bid, which would have wiped out most bondholders, was set to be financed by The Ardent Companies but never closed.</p>
+
+
+
+<p class="wp-block-paragraph">Namdar, founded by billionaire Igal Namdar, owns 384 properties across 37 states totaling more than 85 million square feet. The firm built its portfolio starting in 2012 by acquiring Class B and C shopping centers at steep discounts, then filling vacancies with low rents. Destiny USA spans 2.4 million square feet in Syracuse, New York and includes entertainment amenities like an indoor ropes course and 19-screen theater.</p>
+
+
+
+<p class="wp-block-paragraph">Appraisals on Destiny fell to $133 million in 2023, down 81% from 2014 when the $430 million CMBS was sold to investors including Lord, Abbett &amp; Co. The mall&#8217;s highest-rated debt now trades around 17 cents on the dollar. A complicating factor: about $235 million in PILOT municipal bonds issued by a Syracuse agency in 2007 have priority over the CMBS, despite carrying lower ratings when the commercial mortgage bonds were marketed.</p>
+
+
+
+<p class="wp-block-paragraph">Syracuse has faced declining population and shifting consumer habits toward e-commerce, while Canadian shoppers avoided cross-border trips following tariffs and political tensions. Higher borrowing costs made refinancing impossible for Pyramid. Namdar&#8217;s control of the debt positions the firm to either restructure the mall or acquire it outright, following its established playbook of buying distressed retail at a fraction of original valuations.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">NY’s Largest Mall Debt Now Controlled by Billionaire Namdar</a></div></div>
+<p>The post <a href="https://propmodo.com/namdar-realty-takes-control-of-new-yorks-largest-mall-debt-after-pyramids-failed-bid/">Namdar Realty Takes Control of New York&#8217;s Largest Mall Debt After Pyramid&#8217;s Failed Bid</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
+		<item>
+		<title>Beyond Initial HVAC Costs: Why Variable Refrigerant Flow Pays Off Over Time</title>
+		<link>https://propmodo.com/beyond-initial-hvac-costs-why-variable-refrigerant-flow-pays-off-over-time/</link>
+		
+		<dc:creator><![CDATA[John Brantley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 22:14:07 +0000</pubDate>
+				<category><![CDATA[Perspectives]]></category>
+		<category><![CDATA[Carrier]]></category>
+		<category><![CDATA[Honeywell]]></category>
+		<category><![CDATA[HVAC]]></category>
+		<category><![CDATA[Johnson Controls]]></category>
+		<category><![CDATA[Mitsubish]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Trane]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182191</guid>
+
+					<description><![CDATA[<p>Discover how VRF HVAC systems lower lifecycle costs, improve energy efficiency and comfort, and deliver lasting value for multi-tenant buildings.</p>
+<p>The post <a href="https://propmodo.com/beyond-initial-hvac-costs-why-variable-refrigerant-flow-pays-off-over-time/">Beyond Initial HVAC Costs: Why Variable Refrigerant Flow Pays Off Over Time</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">With so many HVAC options available, facility owners need a clearer way to identify which systems deliver sustained value over time. That’s especially true as performance expectations continue to shift for multi-tenant buildings. Building owners who are not only responsible for the initial cost, but who will also handle the utility and maintenance bills for the life of the building, such as higher education dorms, are keenly aware that a holistic review of the cost of ownership is necessary when choosing mechanical systems.</p>
+
+
+
+<p class="wp-block-paragraph">Today, performance is measured in outcomes like energy use, tenant satisfaction, and long-term operating costs. First cost still matters, but it no longer decides the investment for the owner who is responsible for the electrical and maintenance costs for the life of the system.</p>
+
+
+
+<p class="wp-block-paragraph">For many institutional owners managing multi-tenant environments, that shift is forcing a closer look at variable refrigerant flow (VRF) systems, an all-electric HVAC technology that uses refrigerant to deliver precise, zone-by-zone heating and cooling. Although new to some owners, VRF is not a new technology. Introduced in the early 1980s, VRF indoor units are operational worldwide in 2026. The United States is one of the top four markets in the world for VRF adoption, with hundreds of thousands of tons installed across all vertical markets. VRF is a proven technology that continues to gain momentum in the U.S. The key is evaluating VRF through lifecycle performance rather than upfront cost alone.</p>
+
+
+
+<h2 id="h-first-cost-vs-real-cost" class="wp-block-heading"><strong>First cost vs. real cost</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Too many HVAC decisions still begin and end with the bid sheet. Initial pricing is easy to compare, but long-term performance requires more discipline to evaluate. That’s where VRF can shift the conversation from first cost to full lifecycle cost.</p>
+
+
+
+<p class="wp-block-paragraph">While VRF can sometimes carry a higher upfront price than more traditional systems like packaged terminal air conditioners (PTAC), VRF is designed for sustained performance across a building’s lifespan. To see the true value of VRF, owners need to look closely at the technology’s lower energy demand attributed to inverter-driven compressors that only use the amount of energy needed to operate. They also need to examine the sophisticated zoning and individualized control capabilities that enhance user comfort, minimal routine maintenance, and other strengths that can change the economics in ways first-cost comparisons miss.</p>
+
+
+
+<p class="wp-block-paragraph">For owners managing large portfolios, this type of lifecycle modeling provides the clearest view of long-term value. It brings capital expense, operating expense, maintenance requirements, and replacement timing into one financial view. Viewed through that lens, VRF is easier to evaluate as a long-term investment instead of just a premium equipment choice.</p>
+
+
+
+<p class="wp-block-paragraph">Let’s look closer at the types of metrics owners should examine to learn how VRF systems deliver savings over time.</p>
+
+
+
+<h2 id="h-measurable-energy" class="wp-block-heading"><strong>Measurable energy</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Energy demand is usually the first metric owners look at for a potential HVAC system because it has a direct line to operating expense. The challenge is making that number meaningful.</p>
+
+
+
+<p class="wp-block-paragraph">That is where standards such as <a href="https://www.ashrae.org/technical-resources/bookstore/standard-90-1" target="_blank" rel="noreferrer noopener">ANSI/ASHRAE/IES Standard 90.1</a> are useful. Widely used across the U.S. and globally, ASHRAE 90.1 establishes minimum energy-efficiency requirements for commercial buildings and provides criteria for compliance. For facilities teams, it offers a practical reference point for evaluating how systems perform against established efficiency baselines. This includes technologies like VRF, which  manufacturers usually design to exceed minimum efficiency thresholds in many applications.</p>
+
+
+
+<p class="wp-block-paragraph">In that context, VRF systems stand out for their ability to deliver efficiency in buildings that require individualized control. By adjusting refrigerant flow based on real-time demand, VRF systems can reduce unnecessary energy use while maintaining performance and comfort across multiple zones.&nbsp;</p>
+
+
+
+<h2 id="h-comfort-isn-t-an-intangible" class="wp-block-heading"><strong>Comfort isn’t an intangible</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Energy savings often dominate HVAC investment discussions, but they’re only part of the equation. In competitive rental environments such as student housing, hospitality, senior living, and multifamily properties, comfort directly affects operation and is a key metric to ensure high occupancy rates. VRF systems provide a more precise way to manage that experience across individual spaces.</p>
+
+
+
+<p class="wp-block-paragraph">With zone-by-zone control, VRF adjusts conditions based on the needs of each space rather than treating the building as a single load. That level of control can reduce occupant complaints and service demands and support higher tenant retention and more consistent leasing performance. The implication is clear: comfort and individual control are drivers of long-term savings rather than soft benefits.</p>
+
+
+
+<p class="wp-block-paragraph">That’s one of the reasons VRF is widely used in dense, multi-tenant buildings globally, where consistent performance across many occupants is critical. When comfort can be delivered at scale, its impact becomes measurable across the entire portfolio.&nbsp;</p>
+
+
+
+<h2 id="h-expertise-pays-dividends" class="wp-block-heading"><strong>Expertise pays dividends</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Strong VRF performance depends as much on execution as it does on system selection. Design quality and installation discipline shape long-term results, and even efficient equipment can underperform when proper installation or startup procedures are not followed closely. That makes contractor expertise a critical part of the equation for any HVAC system.</p>
+
+
+
+<p class="wp-block-paragraph">Owners should look for contractors with VRF-specific experience, a clear understanding of manufacturer startup requirements, and the discipline to follow detailed installation guidance from the beginning. Selecting contractors with the proper training and a rigorous commissioning process help support reliable operation over the long term, turning the business case into measurable results.</p>
+
+
+
+<p class="wp-block-paragraph">Additionally, owners should identify contractors who can help them understand how to use, schedule, and monitor their building controls systems properly. Modern VRF system controls give facilities teams access to operating information that was difficult for older systems to capture, from energy use and runtime to pressures and equipment behavior. When those data points are compared with initial models, owners gain a clearer view of whether the system is performing as expected and fine tune the system to make sure no energy savings are left on the table.</p>
+
+
+
+<p class="wp-block-paragraph">Lastly, using VRF systems can result in lower HVAC maintenance costs. With fewer complex components when compared to water source heat pumps and 4-pipe water systems, VRF can reduce labor-intensive service and shift more maintenance work toward simpler, routine upkeep, such as filter changes.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Modern connected controls also help contractors diagnose and fix some issues remotely or prepare more effectively for on-site repairs. With better visibility into the problem, they can arrive with the right tools and parts, shortening repair times. More efficient fixes add up for owners over time.</p>
+
+
+
+<p class="wp-block-paragraph">HVAC value is no longer defined by first cost alone. For institutional owners (owners responsible for providing optimal comfort while paying energy costs), the stronger measure is how a system performs across its full lifecycle—reducing energy use, lowering operating costs, improving comfort, and providing data to verify results.</p>
+
+
+
+<p class="wp-block-paragraph">VRF systems fit that model because their impact can be measured in real-world operations, from utility savings to occupant satisfaction. As facilities teams face rising performance expectations, the question should not be which system costs less on day one, but which one delivers lasting value over time. For U.S. institutional owners, it’s time to look beyond the bid sheet.</p>
+<p>The post <a href="https://propmodo.com/beyond-initial-hvac-costs-why-variable-refrigerant-flow-pays-off-over-time/">Beyond Initial HVAC Costs: Why Variable Refrigerant Flow Pays Off Over Time</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/01/hvac.jpg" />	</item>
+		<item>
+		<title>New York Rent Regulation Guidance Reopens Legal Defense for Concessions</title>
+		<link>https://propmodo.com/new-york-rent-regulation-guidance-reopens-legal-defense-for-concessions/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 22:08:45 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182193</guid>
+
+					<description><![CDATA[<p>New York regulators clarified that rent concessions can differ from preferential rents, potentially reshaping lawsuits targeting landlords over $1 billion in 421a properties.</p>
+<p>The post <a href="https://propmodo.com/new-york-rent-regulation-guidance-reopens-legal-defense-for-concessions/">New York Rent Regulation Guidance Reopens Legal Defense for Concessions</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">New York&#8217;s Division of Housing and Community Renewal updated Fact Sheet 40 this month to clarify that rent concessions can be legally distinct from preferential rents in rent-regulated units. The revision addresses confusion stemming from a 2019 modification that removed language distinguishing the two, which—combined with the Housing Stability and Tenant Protection Act—led to at least 21 lawsuits targeting landlords who offered concessions during the pandemic and after. Those suits involve more than 24 properties, 12,000 units, and $1 billion in 421a tax credits, with defendants including Two Trees, Black Spruce Management, and Blackstone. The agency now states that its 2019 change &#8220;was not intended to indicate&#8221; that all concessions are preferential rents.</p>
+
+
+
+<p class="wp-block-paragraph">Landlords facing suits had offered concessions to fill buildings faster, offset construction noise, or attract tenants when the market slowed during the pandemic, particularly in 421a buildings where even market-rate units can fall under rent regulation during the abatement period. Under HSTPA, landlords cannot raise preferential rents to the legal maximum until a tenant vacates, limiting increases to the annual Rent Guidelines Board percentage. Plaintiffs argued that concessions functioned as preferential rents, making subsequent increases based on non-discounted rent illegal overcharges. Attorney Roger Sachar of Newman Ferrara filed nearly all of the suits, including one claiming AvalonBay overcharged Downtown Brooklyn tenants by at least $40 million.</p>
+
+
+
+<p class="wp-block-paragraph">Landlord attorneys called the update a significant development but noted that courts will still need to determine how to apply the guidance to individual cases. Matthew Brett of Belkin Burden Goldman said the fact sheet now makes clear that &#8220;whether a concession is a preferential rent depends on the specific facts and circumstances when the lease was signed,&#8221; including building conditions and occupancy rates. Nativ Winiarsky of Kucker Marino Winiarsky &amp; Bittens said the change gives landlords &#8220;much better leverage&#8221; to defend against claims that assumed &#8220;every post-HSTPA concession is automatically a preferential rent.&#8221; The agency emphasized that each case is fact-specific and that it will not pre-judge whether any particular concession is lawful.</p>
+
+
+
+<p class="wp-block-paragraph">The clarification comes as New York&#8217;s multifamily sector continues to adjust to the 2019 regulatory tightening, which also capped rent increases and limited vacancy decontrol. The 421a abatement expired in 2022, but thousands of units built under the program remain subject to rent regulation during their abatement periods, creating ongoing exposure for owners who offered concessions. Brett noted that many recent suits contain &#8220;no specific allegations about the circumstances of the concessions,&#8221; which could weaken their viability following the update. The legal uncertainty had already begun affecting underwriting and investment decisions in rent-regulated properties.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=therealdeal.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Real Deal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://therealdeal.com/new-york/2026/11/18/landlords-receive-second-change-after-dhcr-rule-40-change/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Rule Change Could Save NYC Landlords Hundreds of Millions</a></div></div>
+<p>The post <a href="https://propmodo.com/new-york-rent-regulation-guidance-reopens-legal-defense-for-concessions/">New York Rent Regulation Guidance Reopens Legal Defense for Concessions</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
+		<item>
 		<title>Medicare Advantage&#8217;s Audit Crackdown Could Reach the Strip Center</title>
 		<link>https://propmodo.com/medicare-advantage-audit-crackdown-could-reach-the-strip-center/</link>
 		
@@ -351,156 +1203,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/officespace.jpg" />	</item>
-		<item>
-		<title>Builder&#8217;s Remedy Provision Faces Court Test in Menlo Park High-Rise Fight</title>
-		<link>https://propmodo.com/builders-remedy-provision-faces-court-test-in-menlo-park-high-rise-fight/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 02:03:21 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182157</guid>
-
-					<description><![CDATA[<p>A lawsuit over a 39-story Menlo Park tower could determine whether California cities must approve Builder's Remedy projects that exceed local zoning.</p>
-<p>The post <a href="https://propmodo.com/builders-remedy-provision-faces-court-test-in-menlo-park-high-rise-fight/">Builder&#8217;s Remedy Provision Faces Court Test in Menlo Park High-Rise Fight</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">A developer is using California&#8217;s Builder&#8217;s Remedy provision to push a 665-unit mixed-use project through Menlo Park over local objections. N17 Development filed suit in October seeking $6.65 million in fines against the city for refusing to approve Willow Park, a complex that would include a 39-story residential tower, offices, a hotel, and retail on a nearly seven-acre parcel. California Attorney General Rob Bonta warned the city in July to approve the project or face penalties under state housing law. Menlo Park became subject to the Builder&#8217;s Remedy after missing a January 2023 deadline to submit a compliant housing plan, which the city blames on administrative delays in Sacramento.</p>
-
-
-
-<p class="wp-block-paragraph">Developer Oisin Heneghan argues the project addresses Silicon Valley&#8217;s housing shortage and would set aside 15 percent of units as affordable, with two-bedroom units renting for $2,556 monthly in an area near Meta&#8217;s headquarters and Stanford University. Menlo Park officials say they want environmental reviews before approving construction, particularly regarding impacts on a creek that hosts steelhead and the California red-legged frog. Local opponents also cite the property owner: an entity controlled by Vitaly Yusufov, son of a former Russian energy minister, though his attorney says he is a real estate developer with European projects and no Kremlin connections. U.S. Rep. Sam Liccardo asked the Treasury Department in September to review the project on national-security grounds.</p>
-
-
-
-<p class="wp-block-paragraph">Neighboring Palo Alto plans to file a brief supporting Menlo Park, with one city councilman saying an adverse ruling would force cities to approve Builder&#8217;s Remedy projects. Pro-housing advocates counter that aggressive enforcement is necessary given California&#8217;s housing crisis. The case could define how much control cities retain over development when they fall out of compliance with state housing mandates, particularly regarding local height limits that the Builder&#8217;s Remedy allows developers to bypass.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.wsj.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Wall Street Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.wsj.com/real-estate/the-silicon-valley-brawl-over-a-39-story-tower-in-a-leafy-suburban-neighborhood-7009b1d4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood</a></div></div>
-<p>The post <a href="https://propmodo.com/builders-remedy-provision-faces-court-test-in-menlo-park-high-rise-fight/">Builder&#8217;s Remedy Provision Faces Court Test in Menlo Park High-Rise Fight</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
-		<item>
-		<title>Leaseback Structures Now Back Nearly Half of US Data Center Construction</title>
-		<link>https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 01:20:42 +0000</pubDate>
-				<category><![CDATA[Editor's Picks]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Blackstone]]></category>
-		<category><![CDATA[Data Center]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182134</guid>
-
-					<description><![CDATA[<p>Hyperscalers are becoming tenants in their own data centers</p>
-<p>The post <a href="https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/">Leaseback Structures Now Back Nearly Half of US Data Center Construction</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="live-card-outer wp-block-foxiz-elements-live"><div class="live-datetime meta-text"><span class="live-datetime-dot"></span><strong class="live-hdate meta-bold" data-timestamp= 1794878440>2 days 24 hr ago</strong><span class="live-fdate">Nov. 16, 2026 5:20 pm</span></div><div class="live-card gb-wrap rb-text yes-shadow" style="--border-width: 0 0 0 0;--desktop-padding: 30px 30px 30px 30px ;--tablet-padding: 25px 25px 25px 25px ;--mobile-padding: 20px 20px 20px 20px ;">
-
-<p class="wp-block-paragraph">Ownership of the AI buildout is quietly separating from the companies doing the building. Blackstone Digital Infrastructure Trust agreed last week to <a href="https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519" target="_blank" rel="noreferrer noopener">acquire a majority stake in a data center portfolio from Amazon in a deal valued around $5 billion</a>, taking 75.1 percent of two joint ventures holding 13 newly built powered shells across campuses in Indiana and Mississippi. Amazon Web Services keeps 24.9 percent, worth about $600 million, and leases back the entire portfolio on an initial 12-year term extending to 32 years if fully exercised. The portfolio carries 647 megawatts and priced at a 7 percent initial capitalization rate. BXDC funded it with roughly $1.9 billion of proceeds from the public offering it completed earlier this year plus about $2.5 billion in new non-recourse mortgage debt.</p>
-
-
-
-<p class="wp-block-paragraph">Amazon’s reason for selling buildings it intends to keep using is visible in its own disclosures. The company raised 2026 cash capital expenditure guidance to roughly $220 billion in July, up from $200 billion, which Andy Jassy attributed largely to higher memory costs, and held that figure steady at third-quarter earnings. Trailing twelve-month free cash flow swung to an outflow of $42.4 billion by the end of the third quarter, against a $14.8 billion inflow a year earlier, as trailing capital expenditure reached roughly $211 billion versus $168.3 billion of operating cash flow. Cash capital expenditures in the quarter alone were $75.9 billion.</p>
-
-
-
-<p class="wp-block-paragraph">Jassy has been direct about the timing problem underneath those numbers, noting that data center capital goes out roughly two years before the servers inside produce revenue and that free cash flow headwinds continue until the sites are monetized. AWS carries a backlog around $496 billion and grew 39 percent in the quarter, so the constraint is not demand. It is the lag between writing the check and collecting the rent, and a sale-leaseback shortens that considerably by converting a finished building into cash while keeping the capacity.</p>
-
-
-
-<p class="wp-block-paragraph">Meta has run the same play at larger scale and pioneered the template. Its Hyperion campus in Richland Parish, Louisiana, sits inside a special purpose vehicle managed by Blue Owl Capital that raised roughly $27 billion in external debt, with Meta holding 20 percent as minority partner and tenant and providing residual value guarantees near $28 billion. Meta announced a similar venture with BlackRock in El Paso at roughly $14 billion for a one-gigawatt campus, again taking 20 percent alongside the land and about $2.3 billion of construction. A third Texas venture followed at comparable size, returning $1.04 billion in cash to Meta.</p>
-
-
-
-<p class="wp-block-paragraph">The aggregate obligation created by all of this is now large enough that ratings agencies have started tracking it separately. Moody’s calculated that the five largest US hyperscalers held $969 billion in undiscounted future data center lease commitments at the end of 2025, with $662 billion sitting off balance sheet because the leases had not yet commenced. Later tallies put the uncommenced figure above $1 trillion, with Microsoft carrying the largest disclosed pipeline. The Bank for International Settlements described the mechanics in its March Quarterly Review as substituting upfront capital expenditure for multi-year operating expenses financed through dedicated vehicles backed by private credit.</p>
-
-
-
-<p class="wp-block-paragraph">Sizing the leaseback share against total development requires some estimation, since nobody publishes a clean tally. The Census Bureau put private US data center construction at a seasonally adjusted annual rate of about $85 billion in August, up 73 percent year over year, against $49.7 billion for all of 2025. The announced joint venture and leaseback structures over roughly the past eighteen months, counting Hyperion, El Paso, the second Texas venture, and now the AWS portfolio, total somewhere near $60 billion. Measured against perhaps $125 billion of US data center construction put in place over the same window, that suggests close to half the capital behind the largest projects is now arriving through structures where the operator is a tenant rather than an owner. The figure is imprecise and heavily weighted toward Meta, but the direction is not ambiguous.</p>
-
-
-
-<p class="wp-block-paragraph">Development economics change when the end buyer is identified before the slab is poured. A hyperscaler building for its own account underwrites against internal cost of capital and holds whatever it builds. A hyperscaler building for contribution to a venture underwrites against what a Blackstone or a Blue Owl will pay, which means cap rates, lease terms, and residual value assumptions start shaping design decisions the way they already do in industrial and net lease. The 7 percent cap rate on the AWS portfolio is a real number that other developers can price against, and the 12-year initial term with a 32-year extension is a real duration that lenders can underwrite.</p>
-
-
-
-<p class="wp-block-paragraph">What remains unresolved is who holds the risk when a 12-year lease expires on a building designed for hardware that turns over every four or five years. Powered shells age better than the equipment inside them, which is most of the argument for this asset class, but the residual value guarantees Meta attached to its ventures suggest the capital partners wanted something more than that argument. We would expect more of these transactions in 2027 given how much construction is still in the pipeline and how thin free cash flow has become across the group, and we would watch the guarantee terms more closely than the headline prices.</p>
-
-</div></div><p>The post <a href="https://propmodo.com/leaseback-structures-now-back-nearly-half-of-us-data-center-construction/">Leaseback Structures Now Back Nearly Half of US Data Center Construction</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/data-center-construction.jpg" />	</item>
-		<item>
-		<title>Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</title>
-		<link>https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 22:34:32 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182136</guid>
-
-					<description><![CDATA[<p>Bedrock Energy raised $24 million to expand geothermal drilling for commercial buildings and data centers seeking grid capacity relief.</p>
-<p>The post <a href="https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/">Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Bedrock Energy closed a $24 million funding round to expand its AI-directed geothermal drilling operation for commercial buildings. The startup uses directional drilling techniques adapted from oil and gas extraction to install geothermal heat pump systems up to 1,000 feet deep. Bedrock claims its rigs cut drilling time by up to 80% compared to conventional water-well-style equipment, reducing installation costs for systems that use the earth as a year-round heat source and sink. The company currently operates in Texas, Utah, Colorado, New York, and Alberta.</p>
-
-
-
-<p class="wp-block-paragraph">Clean Energy Ventures and Clearvision Ventures led the round, joined by GVP Climate, Susquehanna Sustainable Investments, Catalytic Capital for Climate and Health by Temasek Trust, and several other investors. Bedrock raised $12 million in its Series A last year and $8.5 million in a 2023 seed round. The new capital will fund rig purchases and expansion into New England, New Jersey, the upper Midwest, and additional Western states. The company has drilled nine sites to date and secured commitments from customers planning installations over the next two years.</p>
-
-
-
-<p class="wp-block-paragraph">Data center developers have emerged as a customer segment alongside office and commercial properties. Some operators want geothermal cooling for server racks, but others see the technology as a way to free up grid capacity by deploying it on adjacent parcels. CEO Joselyn Lai said one Michigan prospect estimated that freeing a few megawatts could accelerate data center operations by months or a full year. Geothermal heat pumps require minimal maintenance once installed, making them attractive for long-term infrastructure projects where upfront costs can be amortized over decades of service.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=techcrunch.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Tech Crunch</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Bedrock Energy Raises $24M to Build More AI-enabled Geothermal Drill Rigs for Enterprise Buildings</a></div></div>
-<p>The post <a href="https://propmodo.com/geothermal-drilling-gains-traction-as-data-centers-hunt-grid-capacity/">Geothermal Drilling Gains Traction as Data Centers Hunt Grid Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-energy-infrastructure.jpg" />	</item>
-		<item>
-		<title>Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</title>
-		<link>https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Mon, 16 Nov 2026 20:17:24 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182132</guid>
-
-					<description><![CDATA[<p>U-Haul consolidates 2,000 employees in a Phoenix tower bought from foreclosure, stabilizing a distressed midtown asset as the office market recovers selectively.</p>
-<p>The post <a href="https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/">Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">U-Haul has moved 2,000 employees into a 25-story office tower at 20 East Thomas Road in Phoenix, completing its acquisition and renovation of the former CenturyLink building. The company paid $23.7 million for the 548,938-square-foot property in December 2024, two years after the building entered foreclosure through lender Second Step Asset Management, a Bank of America affiliate. The building was 84% vacant at acquisition. Only one tenant remains: HDR Engineering, which occupies 20,000 square feet and is negotiating to double its footprint.</p>
-
-
-
-<p class="wp-block-paragraph">U-Haul expanded from roughly 300,000 square feet in its previous Central Avenue headquarters to 500,000 square feet in the new building. CEO Joe Shoen said the company needed room to grow after filling all 22 floors of its original two-tower complex, where it had operated since relocating from Portland in 1967. The company retained ownership of its former headquarters and surrounding parcels between Central Avenue and 3rd Street, including a conference center and fitness facility that opened in 2021. Shoen said the old towers may be repurposed for self-storage or nonprofit office space, though no final plans have been set.</p>
-
-
-
-<p class="wp-block-paragraph">U-Haul employs nearly 4,000 people in Arizona and maintains a market capitalization above $10.6 billion. The company reported $137 million in earnings for its second fiscal quarter of 2027, up from $106 million the prior year, driven by self-storage and its U-Box portable container service, which together account for 25% of revenue. Self-storage revenue has grown 71% since the second quarter of fiscal 2022.</p>
-
-
-
-<p class="wp-block-paragraph">Phoenix office vacancy stood at 22% in the third quarter of 2026, down from 24% the prior year, but midtown Phoenix posted a 26.7% vacancy rate that has trended higher even as the broader market recovered. Midtown asking rents average 15% below market, with Class A buildings in top submarkets commanding nearly double midtown rates. CoStar analysts said the submarket is positioned to attract tenants seeking quality towers at discounted pricing, a profile U-Haul&#8217;s occupancy validates.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Phoenix Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/phoenix/news/2026/11/13/u-haul-headquarters-phoenix.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">2,000 Employees Move Into U-Haul&#039;s New Headquarters</a></div></div>
-<p>The post <a href="https://propmodo.com/phoenix-midtown-gets-corporate-anchor-as-u-haul-fills-distressed-tower/">Phoenix Midtown Gets Corporate Anchor as U-Haul Fills Distressed Tower</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
 	</channel>
 </rss>

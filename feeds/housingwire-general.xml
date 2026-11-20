@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 18 Nov 2026 22:16:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2026 21:43:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,223 +28,227 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Fix-and-flip margins tighten in Q3 as prices dip and costs rise</title>
-		<link>https://www.housingwire.com/articles/fix-and-flip-margins-q3/</link>
-					<comments>https://www.housingwire.com/articles/fix-and-flip-margins-q3/#respond</comments>
+		<title>Rate&#8217;s Jesse Allen: Reverse mortgage lenders should plan for the &#8216;down case,&#8217; not FHA relief</title>
+		<link>https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/</link>
+					<comments>https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 22:16:09 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Fix and Flip]]></category>
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 21:43:54 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[Federal Housing Administration]]></category>
+		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[Home Equity]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[John Burns Research & Consulting]]></category>
-		<category><![CDATA[Kiavi]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611809</guid>
+		<category><![CDATA[Rate]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611937</guid>
 
-					<description><![CDATA[<p>Only 23% of investors expect good sales in the next six months, while 40% report lower prices than a year ago</p>]]></description>
+					<description><![CDATA[<p>NRMLA board member and Rate leader says proprietary products, reverse for purchase financing and responsible equity release are where growth lies heading into 2027</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/fix-and-flip-margins-q3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/allen-reverse-mortgage-expand-products/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611809</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611937</post-id>	</item>
 		<item>
-		<title>Why housing construction is sliding back toward COVID-era lows</title>
-		<link>https://www.housingwire.com/articles/housing-permits-covid-lows/</link>
-					<comments>https://www.housingwire.com/articles/housing-permits-covid-lows/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 21:54:31 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611808</guid>
-
-					<description><![CDATA[<p>October permits fell to a 1,295,000 annual rate, down 7.4% from September and 8.7% from 2025.</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/housing-permits-covid-lows/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611808</post-id>	</item>
-		<item>
-		<title>Single-family permits telegraph a weakened 2027 building pipeline</title>
-		<link>https://www.housingwire.com/articles/single-family-permits-construction-pipeline/</link>
-					<comments>https://www.housingwire.com/articles/single-family-permits-construction-pipeline/#respond</comments>
+		<title>New CEO at Villa eyes manufactured housing, ADU opportunity</title>
+		<link>https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/</link>
+					<comments>https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/#respond</comments>
 		
 		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 21:28:56 +0000</pubDate>
+		<pubDate>Thu, 19 Nov 2026 21:38:30 +0000</pubDate>
 				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Leadership]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Housing Starts]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611752</guid>
-
-					<description><![CDATA[<p>Single-family permits fell 8.7% to an annualized rate of 772,000 in October, the lowest level since January 2023</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/single-family-permits-construction-pipeline/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611752</post-id>	</item>
-		<item>
-		<title>Newrez settles Washington state servicing case with $3 million payout</title>
-		<link>https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/</link>
-					<comments>https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 21:23:01 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NewRez]]></category>
-		<category><![CDATA[Washington]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611797</guid>
-
-					<description><![CDATA[<p>Newrez does not admit or deny any wrongdoing under the agreement</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611797</post-id>	</item>
-		<item>
-		<title>Why 2027 may turn into a land negotiation year for homebuilders</title>
-		<link>https://www.housingwire.com/articles/2027-land-negotiations-builders/</link>
-					<comments>https://www.housingwire.com/articles/2027-land-negotiations-builders/#respond</comments>
-		
-		<dc:creator><![CDATA[Scott Cox]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 19:52:49 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[California]]></category>
+		<category><![CDATA[Construction]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611753</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611922</guid>
 
-					<description><![CDATA[<p>Scott Cox expects re-trades, softer takedowns, and more price discovery as incentives shift for land bankers and sellers</p>]]></description>
+					<description><![CDATA[<p>David Messenger will steer Villa into larger manufactured home communities, tapping finished, entitled land to limit entitlement risk
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/2027-land-negotiations-builders/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/villas-new-ceo-growth-strategy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611753</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611922</post-id>	</item>
 		<item>
-		<title>Guild&#8217;s Nora Guerra on helping baby boomers buy and rehab homes with reverse mortgages</title>
-		<link>https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/</link>
-					<comments>https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/#respond</comments>
-		
-		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 19:46:16 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Reverse]]></category>
-		<category><![CDATA[Baby Boomer]]></category>
-		<category><![CDATA[Guild Mortgage]]></category>
-		<category><![CDATA[Home Equity]]></category>
-		<category><![CDATA[Homeownership]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[NRMLA]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611711</guid>
-
-					<description><![CDATA[<p>At NRMLA Annual, Guerra targeted the factors causing lenders to miss boomers in today’s mortgage market</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/baby-boomers-reverse-mortgages/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611711</post-id>	</item>
-		<item>
-		<title>Real REMAX Group confirms additional layoffs after merger</title>
-		<link>https://www.housingwire.com/articles/real-remax-group-layoffs/</link>
-					<comments>https://www.housingwire.com/articles/real-remax-group-layoffs/#respond</comments>
+		<title>Why some regional brokerages are avoiding ancillary services</title>
+		<link>https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/</link>
+					<comments>https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 19:19:00 +0000</pubDate>
+		<pubDate>Thu, 19 Nov 2026 21:30:46 +0000</pubDate>
 				<category><![CDATA[Brokerage]]></category>
 		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Brown Harris Stevens]]></category>
+		<category><![CDATA[First Team]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Mortgage and Housing Layoffs]]></category>
-		<category><![CDATA[REMAX]]></category>
-		<category><![CDATA[The Real Brokerage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611744</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611957</guid>
 
-					<description><![CDATA[<p>Executives previously cited 14% headcount cuts and more than $40 million in annualized cost savings</p>]]></description>
+					<description><![CDATA[<p>Regional firms cite agent choice, compliance risk, and marketing partnerships over joint ventures</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/real-remax-group-layoffs/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/brokerages-ancillary-services-strategy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611744</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611957</post-id>	</item>
 		<item>
-		<title>How far can brokerages go when clawing back commissions from departing agents?</title>
-		<link>https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/</link>
-					<comments>https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/#respond</comments>
+		<title>Housing groups urge FHFA to delay condo reserve rule until 2028</title>
+		<link>https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/</link>
+					<comments>https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/#respond</comments>
 		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 18:33:10 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Lamacchia Realty]]></category>
-		<category><![CDATA[Massachusetts]]></category>
-		<category><![CDATA[real estate agent retention]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611701</guid>
-
-					<description><![CDATA[<p>Plaintiff agents cite over $350,000 paid in 75%-85% referral fees paid to former brokerage</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/q2-2026-agent-moves-chinatti/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611701</post-id>	</item>
-		<item>
-		<title>The mortgage industry was built to help Americans buy homes. An aging America needs more from it.</title>
-		<link>https://www.housingwire.com/articles/mortgage-industry-aging-in-place/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-industry-aging-in-place/#respond</comments>
-		
-		<dc:creator><![CDATA[Christopher Mayer]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 18:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 20:40:03 +0000</pubDate>
 				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Sponsored]]></category>
-		<category><![CDATA[Homeownership]]></category>
-		<category><![CDATA[Housing Market Data]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Community Home Lenders of America]]></category>
+		<category><![CDATA[FHFA]]></category>
+		<category><![CDATA[Housing Policy Council]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Longbridge Financial]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<category><![CDATA[Retirement]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611661</guid>
+		<category><![CDATA[NAMB]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611945</guid>
 
-					<description><![CDATA[<p>Survey of 2,000 homeowners 55 plus shows 88% prioritize staying home and 90% prioritize independence</p>]]></description>
+					<description><![CDATA[<p>Coalition wants Fannie and Freddie rule shift to be pushed to 2028 as reserves rise from 10% to 15%</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-industry-aging-in-place/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/fhfa-condo-reserve-rule-delay/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611661</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611945</post-id>	</item>
 		<item>
-		<title>Another record low for pending home sales, NAR index drops to 63</title>
-		<link>https://www.housingwire.com/articles/pending-home-sales-record-low-2/</link>
-					<comments>https://www.housingwire.com/articles/pending-home-sales-record-low-2/#respond</comments>
+		<title>Senate committee advances Matt Jones’ nomination as FHA commissioner</title>
+		<link>https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/</link>
+					<comments>https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 18:47:29 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Federal Housing Administration]]></category>
+		<category><![CDATA[HUD]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Trump Administration]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611908</guid>
+
+					<description><![CDATA[<p>His nomination advanced to the full Senate on a 13-11 vote split along party lines</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/matt-jones-fha-commissioner-nomination/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611908</post-id>	</item>
+		<item>
+		<title>Broker Action Coalition pushes for QM change on compensation cap</title>
+		<link>https://www.housingwire.com/articles/bac-qm-broker-compensation/</link>
+					<comments>https://www.housingwire.com/articles/bac-qm-broker-compensation/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 18:23:04 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[CFPB]]></category>
+		<category><![CDATA[Congress]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Broker]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611880</guid>
+
+					<description><![CDATA[<p>White paper argues lender-paid broker pay should match retail LO treatment under the 3% points and fees cap</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/bac-qm-broker-compensation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611880</post-id>	</item>
+		<item>
+		<title>Why Compass wants the MLS antitrust dispute out of New York</title>
+		<link>https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/</link>
+					<comments>https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/#respond</comments>
 		
 		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 17:09:51 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
+		<pubDate>Thu, 19 Nov 2026 17:36:28 +0000</pubDate>
+				<category><![CDATA[Legal]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[National Association of Realtors]]></category>
-		<category><![CDATA[Pending Home Sales]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611716</guid>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611885</guid>
 
-					<description><![CDATA[<p>Index fell 4.7% month over month and 16.7% year over year, West down 20.3% annually</p>]]></description>
+					<description><![CDATA[<p>Plaintiffs argue a single ruling on listing submission rules could bind Compass and reduce inconsistent outcomes across 11 districts</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/pending-home-sales-record-low-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/compass-mls-antitrust-venue-fight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611716</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611885</post-id>	</item>
+		<item>
+		<title>Mortgage delinquencies rise to 4.42% in Q3 2026</title>
+		<link>https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/</link>
+					<comments>https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 17:14:06 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Delinquencies]]></category>
+		<category><![CDATA[Foreclosure]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Mortgage Bankers Association]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611855</guid>
+
+					<description><![CDATA[<p>Foreclosure starts rose to 0.21%, while loans in foreclosure increased to 0.71%</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-delinquencies-q3-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611855</post-id>	</item>
+		<item>
+		<title>Zoning reform is remaking parking lots into a housing paradise</title>
+		<link>https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/</link>
+					<comments>https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/#respond</comments>
+		
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 17:03:54 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
+		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611769</guid>
+
+					<description><![CDATA[<p>Commercial parking makes up a 26% median share of downtown land in large U.S. cities, creating infill capacity</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/parking-lot-redevelopment-zoning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611769</post-id>	</item>
+		<item>
+		<title>Exclusive: ICE Mortgage Technology appoints AI strategy, product leaders</title>
+		<link>https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/</link>
+					<comments>https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/#respond</comments>
+		
+		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 16:54:11 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[ICE Mortgage Technology]]></category>
+		<category><![CDATA[Mortgage Servicing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611867</guid>
+
+					<description><![CDATA[<p>Kiran Sahota and Leslie Peeler are joining the company </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ice-mortgage-technology-vice-presidents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">611867</post-id>	</item>
 	</channel>
 </rss>
