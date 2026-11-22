@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Fri, 20 Nov 2026 23:45:40 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Nov 2026 23:59:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
+		<title>Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?</title>
+		<link>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/</link>
+					<comments>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/#respond</comments>
+		
+		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
+		<pubDate>Sat, 21 Nov 2026 23:59:48 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Mortgage Rates]]></category>
+		<category><![CDATA[Housing Market Tracker]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612143</guid>
+
+					<description><![CDATA[<p>All we need is the 10-year yield below 4.85% and 2% mortgage spreads to make this work 
+</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612143</post-id>	</item>
+		<item>
 		<title>Why aren’t mortgage rates lower after massive stock sell-off?</title>
 		<link>https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/</link>
 					<comments>https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/#respond</comments>
@@ -220,27 +241,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">612024</post-id>	</item>
-		<item>
-		<title>My Home Communities maps Southeast growth beyond Georgia</title>
-		<link>https://www.housingwire.com/articles/my-home-communities-expands/</link>
-					<comments>https://www.housingwire.com/articles/my-home-communities-expands/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 18:46:08 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Georgia]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612011</guid>
-
-					<description><![CDATA[<p>The Georgia-based builder is building communities in Gaffney, SC, Summerdale, AL and Milton, FL</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/my-home-communities-expands/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612011</post-id>	</item>
 	</channel>
 </rss>
