@@ -13,7 +13,7 @@
 	<atom:link href="https://propmodo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://propmodo.com/</link>
 	<description>Decoding Real Estate</description>
-	<lastBuildDate>Fri, 20 Nov 2026 00:44:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Nov 2026 22:38:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,141 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Curtailment Events Are Pushing Properties Toward Smarter Microgrids</title>
+		<link>https://propmodo.com/curtailment-events-are-pushing-properties-toward-smarter-microgrids/</link>
+		
+		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2026 22:38:02 +0000</pubDate>
+				<category><![CDATA[Energy & Sustainability]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[energy policy]]></category>
+		<category><![CDATA[Honeywell]]></category>
+		<category><![CDATA[Johnson Controls]]></category>
+		<category><![CDATA[Siemens]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182205</guid>
+
+					<description><![CDATA[<p>As PJM demand and capacity costs surge, commercial buildings are using microgrids, demand response, and smart load controls to boost grid resilience.</p>
+<p>The post <a href="https://propmodo.com/curtailment-events-are-pushing-properties-toward-smarter-microgrids/">Curtailment Events Are Pushing Properties Toward Smarter Microgrids</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">A record heat wave hit the Mid-Atlantic in July, and PJM Interconnection, the grid operator responsible for electricity across 13 states from Illinois to New Jersey and roughly 67 million people, watched regional demand climb to 168,158 megawatts, past a record that had stood for two decades. Grid operators needed capacity from wherever they could find it.</p>
+
+
+
+<p class="wp-block-paragraph">One source was a federal research campus in suburban Maryland. The General Services Administration’s White Oak campus, which hosts an FDA research facility, disconnected from the grid, kept its operations running on its own generation, and sent the surplus back. Across three days it exported more than 58,000 kilowatt-hours, enough to power 600 homes, and at peak supplied 2.5 megawatts, roughly ten times what it normally contributes.</p>
+
+
+
+<p class="wp-block-paragraph">Those three days were unusual in scale rather than in kind. By early September the campus had entered island mode 48 times during 2026, running independently for a combined 54 hours.</p>
+
+
+
+<p class="wp-block-paragraph">Greg Turner, Chief Solutions Engineering Officer at Honeywell Technologies, was among the people who designed that system, and he is direct that White Oak was built for a specific set of circumstances rather than as a general template. The campus sits at the end of a utility feeder, and the research happening inside it cannot tolerate an interruption. “Everyone has a different reason for creating a microgrid, it’s important to know yours up front,” he said. “This project was at the far end of an electrical grid so they knew they were at risk of disruption and that they needed to be able to island their property in case of a power outage.”</p>
+
+
+
+<p class="wp-block-paragraph">Turner also acknowledges that a conventional demand response setup would have been considerably simpler to build. Islanding a campus means synchronizing generation, managing critical loads during the transition, and maintaining power quality without the grid as a reference. Most properties do not need that and should not pay for it.</p>
+
+
+
+<p class="wp-block-paragraph">What is changing is the calculation for everyone else. Curtailment calls have become more frequent and more consequential as capacity markets tighten, and the financial stakes attached to responding well have grown considerably. PJM’s 2026/2027 capacity auction cleared at the FERC-approved ceiling of $329.17 per megawatt-day, the highest in the market’s history and a 22 percent increase over a prior year that had itself jumped more than 800 percent. Total emergency demand response revenue in PJM rose 464 percent in the first quarter of 2026 compared to the same period a year earlier.</p>
+
+
+
+<p class="wp-block-paragraph">Those costs land on commercial ratepayers whether they participate or not, adding roughly two to four cents per kilowatt-hour to all-in electricity costs across the PJM footprint starting in June. Properties that enroll and fail to perform face a different problem, since emergency programs can impose clawbacks that exceed the capacity payments a facility received, and some interruptible tariffs carry penalties running several times the firm demand rate.</p>
+
+
+
+<p class="wp-block-paragraph">The upside has grown along with the risk, and it compares favorably to the other way buildings have tried to monetize on-site generation. Net metering compensation has been cut repeatedly as states have moved toward avoided-cost rates, which has made exporting solar to the grid a much weaker proposition than it was a decade ago. Turner sees curtailment programs as the better market. “Net metering is not a very attractive proposition,” he said. “Selling it back under a curtailment program is much more attractive, the utility is looking to buy at really high prices and so they are much more willing to pay a market rate.” Enrolled facilities in PJM can earn somewhere around $120,000 per megawatt annually in capacity payments before any energy revenue.</p>
+
+
+
+<p class="wp-block-paragraph">Most properties cannot generate their way to that position, which is where the engineering problem starts. “Most people are not able to build a microgrid big enough to power the entire campus,” Turner said. “So the challenge is to figure out how to get your load down to a place where onsite generation can help enough to make a difference.” A building with 400 kilowatts of generation and a two megawatt load has to shed well over a megawatt before the generation matters, and it has to do that without shutting down the business inside.</p>
+
+
+
+<p class="wp-block-paragraph">Doing it well requires the power management system and the building management system to coordinate on a rotation, shedding and restoring loads in a sequence that keeps the total under target while spreading the disruption. That is a harder control problem than it sounds, and it runs on software that most buildings do not have, operated by engineers who understand both the electrical side and the mechanical side.</p>
+
+
+
+<p class="wp-block-paragraph">It also requires hardware in places nobody thought to put it. “Some buildings will need to put in control inputs for things they never thought they needed to turn off,” Turner said. “Commercial refrigeration, even though it can never get turned off, might need to get adjusted to change the temperature a bit to reduce the use of the chilling systems.” Work through the Department of Energy’s Better Buildings program has shown that accepting a two-degree drift in commercial refrigeration across a four-hour event can shed 450 kilowatts at a single facility, which is meaningful capacity from equipment that stays running the entire time.</p>
+
+
+
+<p class="wp-block-paragraph">Rising rates are pulling more properties toward this. Capacity costs are flowing into bills across most major markets, data center load growth is tightening reserve margins faster than new generation can be built, and the spread between a managed peak and an unmanaged one keeps widening. Some industrial parks have started marketing energy price stability as an amenity, pitching tenants on predictability rather than on rate alone.</p>
+
+
+
+<p class="wp-block-paragraph">White Oak is a more elaborate installation than most properties will ever justify, built for a campus with unusual requirements and financed through a federal contracting mechanism that commercial owners cannot access. What it demonstrates is narrower and more portable than the full system, which is that a property able to control its own load and generation has options during a grid event that a property without those capabilities does not.</p>
+<p>The post <a href="https://propmodo.com/curtailment-events-are-pushing-properties-toward-smarter-microgrids/">Curtailment Events Are Pushing Properties Toward Smarter Microgrids</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/electric-grid-substation.jpg" />	</item>
+		<item>
+		<title>UK Looks to Abolish Leasehold System That Kept Landlords as Building Owners</title>
+		<link>https://propmodo.com/uk-looks-to-abolish-leasehold-system-that-kept-landlords-as-building-owners/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2026 16:49:07 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182211</guid>
+
+					<description><![CDATA[<p>Britain's new legislation bans leasehold flats by 2031, caps ground rents, and shifts ownership to commonhold—ending centuries of tenant control by landlords.</p>
+<p>The post <a href="https://propmodo.com/uk-looks-to-abolish-leasehold-system-that-kept-landlords-as-building-owners/">UK Looks to Abolish Leasehold System That Kept Landlords as Building Owners</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Britain&#8217;s Labour government introduced legislation on November 19 to dismantle the centuries-old leasehold property system, which currently allows buyers of apartments to purchase only the right to occupy a unit for a fixed term—not the land beneath it. The Commonhold and Leasehold Reform Bill would ban the sale of most new leasehold flats by 2031 and make &#8220;commonhold&#8221; the default ownership structure, allowing residents to own their apartments outright and collectively manage communal areas. For existing leases, the bill caps ground rents at £250 annually for 40 years before reducing them to nominal amounts. The changes take effect in 2029, with the ground rent cap arriving in 2028 after Royal Assent.</p>
+
+
+
+<p class="wp-block-paragraph">Leasehold ownership, which dates to the Norman invasion and spread widely after the 1950s as apartment construction accelerated, has long drawn criticism for giving freeholders control over building alterations, maintenance charges, and ground rents. Property developers in recent years have extracted higher ground rents, and leaseholders have faced uncapped fees for repairs and upgrades—especially in newer apartment blocks. The 2017 Grenfell Tower fire, which killed 72 residents and exposed substandard cladding, left many leaseholders unable to sell their homes or liable for expensive safety upgrades. The Labour government faces pressure to improve conditions for homeowners squeezed by rising interest rates since the pandemic.</p>
+
+
+
+<p class="wp-block-paragraph">Nearly 80% of real estate agents report that leasehold properties with escalating ground rents are difficult to sell, according to a Propertymark survey, and increased awareness of leasehold issues has led buyers to negotiate harder on price. The ground rent cap is expected to raise leasehold property values and lower freehold prices where leaseholders currently pay significant annual sums. Campaigners have welcomed the bill but raised concerns about existing buildings, which are not required to convert to commonhold—potentially making older leasehold flats less attractive. Liam Spender of the Leaseholder Action campaign group said the cap &#8220;sounds the death knell for leasehold in England and Wales&#8221; by making freehold purchases cheaper for existing leaseholders.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Bloomberg</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bloomberg.com/news/articles/2026-11-20/leasehold-reform-why-uk-s-property-laws-and-ground-rents-are-changing" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Why England’s Centuries-Old Leasehold Property System Is Ending</a></div></div>
+<p>The post <a href="https://propmodo.com/uk-looks-to-abolish-leasehold-system-that-kept-landlords-as-building-owners/">UK Looks to Abolish Leasehold System That Kept Landlords as Building Owners</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-policy-regulation.jpg" />	</item>
+		<item>
+		<title>Downtown Churches Enter the Development Game as Property Values Surge</title>
+		<link>https://propmodo.com/downtown-churches-enter-the-development-game-as-property-values-surge/</link>
+		
+		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2026 16:29:35 +0000</pubDate>
+				<category><![CDATA[Fast Take]]></category>
+		<guid isPermaLink="false">https://propmodo.com/?p=182207</guid>
+
+					<description><![CDATA[<p>Nashville churches with property worth tens of millions explore sales as congregations weigh mission priorities against booming real estate values.</p>
+<p>The post <a href="https://propmodo.com/downtown-churches-enter-the-development-game-as-property-values-surge/">Downtown Churches Enter the Development Game as Property Values Surge</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">First Evangelical Lutheran Church and Watson Grove Baptist Church in Nashville have hired Foundry Commercial&#8217;s Mission Property Group to market their properties after years of internal deliberation. First Lutheran&#8217;s two downtown parking lots, purchased for $2.2 million between 2000 and 2012, now carry an appraised value exceeding $28 million. Watson Grove&#8217;s 1.51-acre Edgehill site, acquired for $2,000 in 1955, is now valued at $14.5 million. Both congregations must vote to approve any transaction, and both require that deals align with their mission objectives beyond financial returns.</p>
+
+
+
+<p class="wp-block-paragraph">Religious organizations own property worth $4.5 billion across Davidson County, Tennessee—roughly 4,250 acres or 1.5 percent of the county&#8217;s parceled land. First Lutheran is requiring any buyer to include 100 parking spaces reserved for church use in development plans. Watson Grove, which grew from 300 to 3,000 members between 2012 and 2020, explored building a $120 million mixed-use project before turning to a potential sale or ground lease. Pastor John Faison said any deal must enable the church to fulfill its mission, or the congregation will reject it.</p>
+
+
+
+<p class="wp-block-paragraph">Commercial developers and homebuilders have replaced other churches as the primary buyers of religious properties, particularly in markets where developable land has grown scarce. Foundry&#8217;s Mission Property Group has facilitated sales of more than 3,000 churches nationwide. The firm&#8217;s Matt Messier said congregational approval processes often stretch three to five years due to emotional attachment to buildings that have hosted generations of family events. Pastor Travis Meier said the scale of interest in First Lutheran&#8217;s lots—from local investors to global hotel conglomerates—far exceeded expectations for a property that once served simply as income-generating parking.</p>
+
+
+<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=www.bizjournals.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">Nashville Business Journal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://www.bizjournals.com/nashville/news/2026/11/19/church-real-estate-downtown-nashville-edgehill.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">As Neighborhoods Transform, Church Congregations Face Weighty and Lucrative Real Estate Choices</a></div></div>
+<p>The post <a href="https://propmodo.com/downtown-churches-enter-the-development-game-as-property-values-surge/">Downtown Churches Enter the Development Game as Property Values Surge</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-capital-investment.jpg" />	</item>
+		<item>
 		<title>How to Get Real Estate Teams Behind an AI Rollout</title>
 		<link>https://propmodo.com/how-to-get-real-estate-teams-behind-an-ai-rollout/</link>
 		
@@ -1045,163 +1180,5 @@
 		
 		
 		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-office-workplace.jpg" />	</item>
-		<item>
-		<title>Machine Learning Is Finding More Signal in the Sensors Buildings Already Have</title>
-		<link>https://propmodo.com/machine-learning-is-finding-more-signal-in-the-sensors-buildings-already-have/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 16:42:17 +0000</pubDate>
-				<category><![CDATA[Data & Analytics]]></category>
-		<category><![CDATA[Smart Buildings]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[Kastle]]></category>
-		<category><![CDATA[Occupancy]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182169</guid>
-
-					<description><![CDATA[<p>Machine learning turns existing motion sensors and booking data into privacy-friendly occupancy insights for smarter, more efficient buildings.</p>
-<p>The post <a href="https://propmodo.com/machine-learning-is-finding-more-signal-in-the-sensors-buildings-already-have/">Machine Learning Is Finding More Signal in the Sensors Buildings Already Have</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Most buildings generate a steady stream of occupancy information without producing much understanding. A badge swipe records that someone entered. A door contact records that it opened. A motion sensor records that something moved. Each of those is a binary event with a timestamp attached, and the picture they assemble is thin. A space either registered activity or it did not.</p>
-
-
-
-<p class="wp-block-paragraph">Operators who want more than that have generally been told to buy more hardware, usually cameras with computer vision or dense arrays of specialized sensors. Both work. Both are expensive, and cameras bring privacy objections that many tenants and employees are not willing to accept regardless of how the footage gets handled.</p>
-
-
-
-<p class="wp-block-paragraph"><a href="https://www.sciencedirect.com/science/article/pii/S2542660525002914" target="_blank" rel="noreferrer noopener">Research published last November</a> suggests a third option that uses equipment buildings already have. A team from Malmö University’s Sustainable Digitalisation Research Centre worked with data from seven meeting rooms outfitted with two inexpensive passive infrared motion sensors apiece, one positioned at the door and one covering the room interior. Neither sensor counts anything. Each one reports only whether it detected movement during a short interval.</p>
-
-
-
-<p class="wp-block-paragraph">What the researchers added was the room booking calendar and a set of machine learning models trained to find patterns in how those binary signals arrive. Rather than treating each sensor trigger as an isolated event, the models looked at the relationships between them, including how much time passed between door events, how many interior motion events occurred during that window, the average interval between those motions, the longest quiet stretch, and how many door events happened before and after. Room dimensions, seating capacity, day of week, and time of day all went in as well.</p>
-
-
-
-<p class="wp-block-paragraph">The resulting estimates were considerably better than what a motion sensor on its own can produce. The best-performing model landed within one person of the true headcount 68.5 percent of the time during occupied periods and within two people 81.6 percent of the time. Adding the booking calendar improved accuracy by about four percentage points. Exact headcounts remained difficult, with accuracy around 39 percent, which the authors attribute to treating each sensor activation in isolation rather than as part of a sequence.</p>
-
-
-
-<p class="wp-block-paragraph">Knowing whether four or five people are in a twelve-seat room is enough to drive HVAC zoning, room recommendations, and space planning. It is not enough for headcount during an evacuation, and the authors are clear that they are not proposing it for that.</p>
-
-
-
-<p class="wp-block-paragraph">Some of the more interesting findings had nothing to do with counting. Across the data set, rooms sat unoccupied 87.6 percent of recorded time, and during standard office hours only about a third were in use. Nearly a third of booked time involved rooms that nobody occupied, while almost 30 percent of actual occupancy happened in rooms that were never booked. Meetings started late roughly a third of the time and ended early slightly more often than that. Eighty-eight percent of bookings were made by groups smaller than the room’s seating capacity, and the most common difference between estimated occupancy and available seats ran between four and ten empty chairs.</p>
-
-
-
-<p class="wp-block-paragraph">Any office manager would recognize those behaviors. Very few have been able to quantify them, and quantifying them is what turns an observation into a budget argument.</p>
-
-
-
-<p class="wp-block-paragraph">The appeal of working with existing infrastructure extends past the hardware savings. Passive infrared sensors are already installed throughout most commercial buildings for lighting control and HVAC, which means the marginal cost of this approach is software rather than installation. A sensor that detects motion and reports nothing about who produced it also sidesteps the privacy conversation entirely, which matters for anyone who has tried to introduce camera-based analytics into an occupied floor.</p>
-
-
-
-<p class="wp-block-paragraph">For building engineers, estimated headcounts rather than binary presence changes what mechanical systems can respond to. Conditioning a twelve-person conference room for twelve people when three are present wastes energy on a schedule that repeats daily across a portfolio. Office managers get a picture of which rooms get booked but not used, which sizes actually get filled, and which teams consistently reserve more space than they need. Designers working on a repositioning have evidence about how a floor plate performs rather than assumptions carried over from the last project.</p>
-
-
-
-<p class="wp-block-paragraph">There is also a design question running the other direction, which is how to configure space so these inferences get easier. Rooms with a single clear entry point produce cleaner passage data than those with multiple doors. Sensor placement that avoids counting people who linger in a doorway without entering reduces false triggers. Furniture arrangements that keep occupants within a motion sensor’s field of view prevent the system from reading a seated meeting as an empty room. Booking systems that require a check-in produce calendar data that actually corresponds to reality, which is where the Malmö researchers found the weakest link in their own inputs.</p>
-
-
-
-<p class="wp-block-paragraph">The researchers point toward sequence-aware models as the next step, since architectures built to recognize patterns across time would likely handle exact counting better than the approach they tested. Whether that closes the distance to camera-level accuracy is unresolved. What the current results suggest is that buildings have been generating more usable information than anyone was extracting from it, and the equipment to capture it was installed years ago.</p>
-<p>The post <a href="https://propmodo.com/machine-learning-is-finding-more-signal-in-the-sensors-buildings-already-have/">Machine Learning Is Finding More Signal in the Sensors Buildings Already Have</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/office-desks.jpg" />	</item>
-		<item>
-		<title>Section 8 Suspension Lists Fail to Catch Chicago Landlords Before Collapse</title>
-		<link>https://propmodo.com/section-8-suspension-lists-fail-to-catch-chicago-landlords-before-collapse/</link>
-		
-		<dc:creator><![CDATA[Propmodo Team]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 02:16:53 +0000</pubDate>
-				<category><![CDATA[Fast Take]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182163</guid>
-
-					<description><![CDATA[<p>Chicago Housing Authority's voucher suspension list often flags distressed landlords only after foreclosures hit, while single-asset LLCs let investors sidestep bans.</p>
-<p>The post <a href="https://propmodo.com/section-8-suspension-lists-fail-to-catch-chicago-landlords-before-collapse/">Section 8 Suspension Lists Fail to Catch Chicago Landlords Before Collapse</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Chicago Housing Authority maintains a suspension list barring landlords from new Housing Choice Voucher contracts when they fail inspections, collect payments on empty units, or violate building codes. Since 2018, the agency has issued 433 suspensions against 402 landlord companies and individuals, with 246 still active as of October. Four out-of-state investors—Yissocher Rotenberg, Chaim Bialostozky, Mark Nussbaum and Eliazer Tauber—accounted for roughly 30 percent of large multifamily foreclosure filings in Chicago in 2025, with lenders seeking at least $87 million. Three of the four appear on CHA&#8217;s suspension roster, but often only after their properties deteriorated.</p>
-
-
-
-<p class="wp-block-paragraph">CHA suspends individual LLCs rather than the people controlling them, allowing the same investor to draw voucher subsidies at one building while barred at another. Chaim Bialostozky faced foreclosure suits from Fannie Mae and Walker &amp; Dunlop totaling more than $44 million before CHA suspended two of his entities in August and September 2026. Straightline Management, run by Jacob Tauber and managing buildings bought by his father Eliazer Tauber and Mark Nussbaum, was suspended in May 2024 for contract violations; the ban remained in effect more than two years later. CHA can extend suspensions across an entire portfolio when it discovers landlords using multiple vendor IDs to avoid sanctions, but enforcement varies case by case.</p>
-
-
-
-<p class="wp-block-paragraph">The suspension list includes 241 contract violations since 2019, most for failed inspections or skipped training, and 19 for collecting payments on vacant units. Stuart Handler&#8217;s TLC Management saw 1,009 units affected before its suspension lifted in July 2025, while some operators report suspensions resolved within weeks. CHA cross-references the city&#8217;s problem landlord and building code scofflaw lists quarterly. Investors targeting voucher holders as tenants created a reliable revenue stream, but the structure of single-asset LLCs and inconsistent enforcement means suspensions often trail foreclosures and tenant safety risks rather than prevent them.</p>
-
-
-<div class="external-article-link" style="margin-top: 32px; margin-bottom: 20px;"><div style="font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #000; display: flex; align-items: center;"><img decoding="async" src="https://www.google.com/s2/favicons?domain=therealdeal.com&#038;sz=32" alt="Favicon" style="width: 16px; height: 16px; margin-right: 5px;">The Real Deal</div><div style="font-family: Verdana, Arial, sans-serif; font-size: 18px; color: #4271b8; font-weight: bold; margin-top: 5px;"><a href="https://therealdeal.com/chicago/2026/11/17/heres-all-the-landlords-cha-has-banned-from-rental-assistance/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #4271b8; font-weight: bold;">Chicago Has an Early Alarm System for Multifamily Distress. Why Didn’t the Bell Ring?</a></div></div>
-<p>The post <a href="https://propmodo.com/section-8-suspension-lists-fail-to-catch-chicago-landlords-before-collapse/">Section 8 Suspension Lists Fail to Catch Chicago Landlords Before Collapse</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/03/fast-take-debt-distress.jpg" />	</item>
-		<item>
-		<title>Office Trends Are Pointing Toward Faster Reconfiguration and Peak Day Capacity</title>
-		<link>https://propmodo.com/office-trends-are-pointing-toward-faster-reconfiguration-and-peak-day-capacity/</link>
-		
-		<dc:creator><![CDATA[Franco Faraudo]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 02:14:05 +0000</pubDate>
-				<category><![CDATA[Office]]></category>
-		<category><![CDATA[JLL]]></category>
-		<category><![CDATA[Kastle]]></category>
-		<category><![CDATA[ROOM]]></category>
-		<guid isPermaLink="false">https://propmodo.com/?p=182155</guid>
-
-					<description><![CDATA[<p>Office leasing trends for 2027 show tenants choosing fewer, higher-quality spaces, flexible layouts, smarter data and peak-day performance.</p>
-<p>The post <a href="https://propmodo.com/office-trends-are-pointing-toward-faster-reconfiguration-and-peak-day-capacity/">Office Trends Are Pointing Toward Faster Reconfiguration and Peak Day Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Office leasing decisions used to follow a fairly predictable formula, with headcount driving square footage and long leases locking in the result. That formula has loosened considerably. Hybrid schedules have settled into patterns that vary by company and by team, AI is changing which work happens in person, and business plans are being revised more often than most leases allow.</p>
-
-
-
-<p class="wp-block-paragraph">Those shifts came up repeatedly during a recent <a href="https://propmodo.com/office-market-trends-and-portfolio-strategies-heading-into-2027/" target="_blank" rel="noreferrer noopener">Propmodo webinar on office market trends and portfolio strategies heading into 2027</a>. Panelists described occupiers who are being more deliberate about where they invest and more demanding about how their space performs.</p>
-
-
-
-<p class="wp-block-paragraph">Peter Miscovich, Executive Managing Director and Global Future of Work Leader at JLL, said many of his corporate clients are concentrating their real estate budgets into fewer locations and spending more on each one, with the goal of supporting innovation and attracting talent. “There’s more selectivity and prioritization. Most of my clients are looking at fewer sites with greater investments per square foot,” he said. “They want better outcomes for those fewer sites, especially for things like innovation and talent attraction. The good old days of increasing your portfolio size with your headcount, that is being decoupled.”</p>
-
-
-
-<p class="wp-block-paragraph">Bringing more people into fewer offices raises the stakes on the busiest days of the week. Thierry Ondet, Managing Director at ROOM, said the measure of a good office is how it holds up at peak attendance, and many customers still run into problems there. “I would say that what defines quality today is whether or not I use the space on a busy Tuesday,” he said. “I still hear from customers telling us that they struggle to find a space where they can make a private phone call or book a meeting room on the busiest days.”</p>
-
-
-
-<p class="wp-block-paragraph">At Kastle Systems, Chief Product Officer Todd Burner has watched clients move away from blanket attendance requirements toward policies focused on which employees are in the office together. Law firms, in particular, want junior associates present when senior associates are there to teach them. “The law firms that we work with are very focused on who are the people in the office, because the junior associate needs to learn from the experience of the senior associates,” he said. “I think we’re seeing a lot more focus on making sure that the right people are in at the right times, and not just saying we want four days for four days’ sake.”</p>
-
-
-
-<p class="wp-block-paragraph">Miscovich said corporate real estate guidelines have become more flexible to support that kind of calibration, giving local offices room to adjust and allowing those adjustments to happen quickly. “The guidelines are becoming more flexible and give each office a lot of room to change for what the local office environment calls for,” he said. “These localized changes are happening faster and faster, sometimes as quickly as three months or even every 30 days.”</p>
-
-
-
-<p class="wp-block-paragraph">ROOM’s customers are asking for their floors to change on a similar timeline, according to Ondet, who said a traditional build-out is too slow for many of them. “A lot of our customers want to have the ability to really reconfigure the space very quickly,” he said. “And very quickly, it’s not in a matter of six months or a year and doing a build-out, but it’s really within sometimes a matter of weeks to reorganize the space.”</p>
-
-
-
-<p class="wp-block-paragraph">Making impactful changes depends on understanding how the space is being used. AI is helping empower office managers and designers to know much more context about how space is being used without accidentally stepping into privacy concerns. “I think we’re going to find a way to better understand what people are doing in the office in a way that doesn’t compromise individual privacy,” he said. “Once we do that we will be able to tell occupiers how their office is performing at a segment level or at a group level that really helps them and their building managers understand how they are consuming space.”</p>
-
-
-
-<p class="wp-block-paragraph">Across the discussion, panelists described occupiers that are committing to fewer locations, measuring space by how it holds up on peak days, adjusting workplace policies every few months and expecting floors that can be reconfigured in weeks. They also pointed to a growing need for usage data that helps tenants and building managers understand how space is consumed without tracking individuals.</p>
-
-
-
-<p class="wp-block-paragraph">Those expectations are taking shape in a market where demand is recovering while supply keeps shrinking. The U.S. office market recorded its fifth consecutive quarter of positive net absorption in Q3, with 6.0 million square feet of occupancy gains and 21 million square feet year to date, according to JLL. Only 3.5 million square feet of new office space was completed during the quarter, while 9.6 million square feet was removed from inventory, and total inventory has fallen by more than 45 million square feet since late 2023, JLL reports. Peak days are already testing the best buildings, with Class A+ properties reaching 94.8% occupancy on Tuesday, October 27, according to Kastle. With demand rising and few new options coming online, we may see buildings that can handle those busy days, adapt quickly and give tenants useful data on how their space performs capture a larger share of the leasing activity ahead.</p>
-<p>The post <a href="https://propmodo.com/office-trends-are-pointing-toward-faster-reconfiguration-and-peak-day-capacity/">Office Trends Are Pointing Toward Faster Reconfiguration and Peak Day Capacity</a> appeared first on <a href="https://propmodo.com">Propmodo</a>.</p>
-]]></content:encoded>
-					
-		
-		
-		<media:thumbnail url="https://propmodo.com/wp-content/uploads/2026/11/officespace.jpg" />	</item>
 	</channel>
 </rss>
