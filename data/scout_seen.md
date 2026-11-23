@@ -29,6 +29,9 @@ Match by SUBJECT (brand + project, person, place, event), not by article headlin
 2026-11-19 | sent | Miami Beach, La Gorce Island, $170M estate, Zuckerberg record
 2026-11-19 | sent | San Francisco, AI billionaires, luxury condo boom
 2026-11-19 | sent | Ken Griffin, Park Avenue duplex, Woody Johnson, $58M
+2026-11-23 | sent | Mandarin Oriental Riviera Maya branded residences launch
+2026-11-23 | sent | Guo Wengui Sherry-Netherland record loss sale, Peltz son
+2026-11-23 | sent | Mets Residence Athens Block722
 
 ## Marked skip by the owner
 2026-11-18 | skip | Waldorf Astoria Residences (the UAE projects in Ras Al Khaimah and Abu Dhabi are sold out, nothing to offer or link to for now; revisit only if resales or a new UAE launch appear)
