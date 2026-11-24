@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Sun, 22 Nov 2026 02:21:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Nov 2026 21:39:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,218 +28,227 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Will the AI stock sell-off give us sub-7% mortgage rates before the holidays?</title>
-		<link>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/</link>
-					<comments>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/#respond</comments>
+		<title>Georgia builders give affordable housing an essential new identity</title>
+		<link>https://www.housingwire.com/articles/georgia-essential-homes-rebrand/</link>
+					<comments>https://www.housingwire.com/articles/georgia-essential-homes-rebrand/#respond</comments>
 		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Sat, 21 Nov 2026 23:59:48 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[Housing Market Tracker]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612143</guid>
-
-					<description><![CDATA[<p>All we need is the 10-year yield below 4.85% and 2% mortgage spreads to make this work 
-</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/sub-7-mortgage-rates-yield-spreads/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612143</post-id>	</item>
-		<item>
-		<title>Why aren’t mortgage rates lower after massive stock sell-off?</title>
-		<link>https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/</link>
-					<comments>https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 23:45:39 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612137</guid>
-
-					<description><![CDATA[<p>The Fed is still staying very hawkish, even with lower energy prices </p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/10-year-yield-mortgage-rates-fed/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612137</post-id>	</item>
-		<item>
-		<title>Homebuilders&#8217; $30B buying spree has cooled; now it&#8217;s all execution</title>
-		<link>https://www.housingwire.com/articles/homebuilding-consolidation-integration/</link>
-					<comments>https://www.housingwire.com/articles/homebuilding-consolidation-integration/#respond</comments>
-		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 21:49:39 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[homebuilder]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612125</guid>
-
-					<description><![CDATA[<p>Mega buyers face weaker demand, higher incentives, and tougher choices on centralization versus local autonomy</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/homebuilding-consolidation-integration/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612125</post-id>	</item>
-		<item>
-		<title>Howard Hanna sued over $395 real estate transaction fee</title>
-		<link>https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/</link>
-					<comments>https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 21:48:02 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Legal]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[First-Time Homebuyers]]></category>
-		<category><![CDATA[Howard Hanna Real Estate Services]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Pennsylvania]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612126</guid>
-
-					<description><![CDATA[<p>Pennsylvania buyer alleges the fee was added at closing in 2021 and the case seeks class action status and an injunction</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/howard-hanna-transaction-fee-lawsuit/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612126</post-id>	</item>
-		<item>
-		<title>Stakeholder relations director Meredith Wimbrow departs FHFA</title>
-		<link>https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/</link>
-					<comments>https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 21:30:11 +0000</pubDate>
-				<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Regulatory]]></category>
-		<category><![CDATA[Federal Housing Finance Agency]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612098</guid>
-
-					<description><![CDATA[<p>Wimbrow, a Pulte aide, will become VP at Federal Hall</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/stakeholder-director-meredith-wimbrow-to-depart-fhfa/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612098</post-id>	</item>
-		<item>
-		<title>Bronx real estate broker indicted for allegedly hiding felony convictions on license renewal</title>
-		<link>https://www.housingwire.com/articles/ny-broker-renewal-charges/</link>
-					<comments>https://www.housingwire.com/articles/ny-broker-renewal-charges/#respond</comments>
-		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 21:19:02 +0000</pubDate>
-				<category><![CDATA[Agent]]></category>
-		<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York]]></category>
-		<category><![CDATA[Regulatory Compliance]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611996</guid>
-
-					<description><![CDATA[<p>DOS suspended Marcia Campbell’s license after prosecutors say she omitted felony pleas and pending charges</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/ny-broker-renewal-charges/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">611996</post-id>	</item>
-		<item>
-		<title>Lock-in effect likely to keep HELOCs, second lien activity up through 2027</title>
-		<link>https://www.housingwire.com/articles/lock-in-effect-second-liens/</link>
-					<comments>https://www.housingwire.com/articles/lock-in-effect-second-liens/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 21:09:30 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[closed-end second liens]]></category>
-		<category><![CDATA[HELOCs]]></category>
-		<category><![CDATA[Home Equity]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612049</guid>
-
-					<description><![CDATA[<p>Lenders report renovations, debt consolidation, and bridge down payments as top home equity uses</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/lock-in-effect-second-liens/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612049</post-id>	</item>
-		<item>
-		<title>Housing groups cheer Senate passage of milestone permitting bill</title>
-		<link>https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/</link>
-					<comments>https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 20:47:54 +0000</pubDate>
+		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 21:39:47 +0000</pubDate>
 				<category><![CDATA[Housing Market]]></category>
 		<category><![CDATA[Policy]]></category>
 		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Housing Policy]]></category>
+		<category><![CDATA[Affordable Housing]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612031</guid>
+		<category><![CDATA[Zoning]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612252</guid>
 
-					<description><![CDATA[<p>The BAAJA measure, which cleared the Senate 62-33, would streamline environmental reviews and permitting for federally backed projects</p>]]></description>
+					<description><![CDATA[<p>Builders cite permit delays, infrastructure rules, and final plat holdups as price drivers</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/senate-passes-baaja-permitting-bill/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/georgia-essential-homes-rebrand/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612031</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612252</post-id>	</item>
 		<item>
-		<title>West Capital Lending hit with 1099 independent contractor suit</title>
-		<link>https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/</link>
-					<comments>https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/#respond</comments>
+		<title>Raleigh&#8217;s housing reforms helped ease rents, Pew study finds</title>
+		<link>https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/</link>
+					<comments>https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/#respond</comments>
+		
+		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 21:18:48 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Homebuilders]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612251</guid>
+
+					<description><![CDATA[<p>Pew estimates Raleigh's inflation adjusted rents fell 15% from 2022 to 2025 amid a building boom</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/raleigh-zoning-reforms-rents/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612251</post-id>	</item>
+		<item>
+		<title>Cost cutting is not cost reduction; builders and trades face a test</title>
+		<link>https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/</link>
+					<comments>https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/#respond</comments>
+		
+		<dc:creator><![CDATA[John McManus]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 20:29:09 +0000</pubDate>
+				<category><![CDATA[Housing Market]]></category>
+		<category><![CDATA[Products]]></category>
+		<category><![CDATA[The Builder's Daily]]></category>
+		<category><![CDATA[construction costs]]></category>
+		<category><![CDATA[homebuilder]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612239</guid>
+
+					<description><![CDATA[<p>Strategem models $12,919 in tariff costs per new home, as input cost indexes rose 10.4% year over year</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/homebuilder-cost-cuts-trade-partners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612239</post-id>	</item>
+		<item>
+		<title>Beyond commission splits: How wellness benefits give brokerages a recruiting edge</title>
+		<link>https://www.housingwire.com/articles/brokerages-agent-health-benefits/</link>
+					<comments>https://www.housingwire.com/articles/brokerages-agent-health-benefits/#respond</comments>
+		
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 20:12:23 +0000</pubDate>
+				<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Compass International Holdings]]></category>
+		<category><![CDATA[ENRG Realty]]></category>
+		<category><![CDATA[Equity Union Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612241</guid>
+
+					<description><![CDATA[<p>Programs span group-style health plans and individualized coaching tied to retention and recruiting</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/brokerages-agent-health-benefits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612241</post-id>	</item>
+		<item>
+		<title>FHA’s reverse mortgage book faces headwinds from home prices, fewer payoffs</title>
+		<link>https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/</link>
+					<comments>https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Pierson]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 18:55:36 +0000</pubDate>
+				<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Reverse]]></category>
+		<category><![CDATA[FHA]]></category>
+		<category><![CDATA[HECM]]></category>
+		<category><![CDATA[HMBS]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612188</guid>
+
+					<description><![CDATA[<p>HECM endorsements dropped 14% to roughly 24,000 loans with $12.81 billion in maximum claim amounts in FY 2026</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/fha-2026-annual-report-hecm-hmbs-capital-risks/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612188</post-id>	</item>
+		<item>
+		<title>Mortgage headlines aren’t as big a concern as your cost per closing</title>
+		<link>https://www.housingwire.com/articles/ate-fears-cost-closing/</link>
+					<comments>https://www.housingwire.com/articles/ate-fears-cost-closing/#respond</comments>
+		
+		<dc:creator><![CDATA[Robyn Thompson DeSantos]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 18:46:31 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612198</guid>
+
+					<description><![CDATA[<p>At current rates, the same payment covers about $357,000 vs. $400,000 in February, cutting buyer power about 11%</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ate-fears-cost-closing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612198</post-id>	</item>
+		<item>
+		<title>Human review remains paramount for AI mortgage underwriting</title>
+		<link>https://www.housingwire.com/articles/ai-underwriting-review/</link>
+					<comments>https://www.housingwire.com/articles/ai-underwriting-review/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 18:08:12 +0000</pubDate>
+				<category><![CDATA[LendingLife]]></category>
+		<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[quality control]]></category>
+		<category><![CDATA[Underwriting]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612218</guid>
+
+					<description><![CDATA[<p>Executives said lenders should deploy AI in stages and compare results to human reviews</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/ai-underwriting-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612218</post-id>	</item>
+		<item>
+		<title>Washington state regulator issues temporary stop on new business for Directors Mortgage</title>
+		<link>https://www.housingwire.com/articles/washington-dfi-directors-mortgage/</link>
+					<comments>https://www.housingwire.com/articles/washington-dfi-directors-mortgage/#respond</comments>
 		
 		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 19:39:12 +0000</pubDate>
-				<category><![CDATA[Legal]]></category>
-		<category><![CDATA[LendingLife]]></category>
-		<category><![CDATA[Mortgage]]></category>
+		<pubDate>Mon, 23 Nov 2026 17:27:10 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Regulatory]]></category>
+		<category><![CDATA[Compliance]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=611950</guid>
+		<category><![CDATA[Lenders]]></category>
+		<category><![CDATA[Washington]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612210</guid>
 
-					<description><![CDATA[<p>Case renews scrutiny of LO hiring and pay models</p>]]></description>
+					<description><![CDATA[<p>Directors Mortgage must pause new originations in Washington amid records dispute, payment issues</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/wcl-contractor-1099-suit-lo-pay-models/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/washington-dfi-directors-mortgage/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">611950</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612210</post-id>	</item>
 		<item>
-		<title>Pulley raises $64 million to speed permitting and development</title>
-		<link>https://www.housingwire.com/articles/pulley-raises-64-million-permitting/</link>
-					<comments>https://www.housingwire.com/articles/pulley-raises-64-million-permitting/#respond</comments>
+		<title>New York Governor signs new rules for private listings into law, Compass praises it</title>
+		<link>https://www.housingwire.com/articles/new-york-private-listing-law/</link>
+					<comments>https://www.housingwire.com/articles/new-york-private-listing-law/#respond</comments>
 		
-		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 18:52:01 +0000</pubDate>
-				<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[Housing Policy]]></category>
+		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 16:51:44 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Legislation]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Brown Harris Stevens]]></category>
+		<category><![CDATA[Clear Cooperation]]></category>
+		<category><![CDATA[Co]]></category>
+		<category><![CDATA[Compass]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612024</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612203</guid>
 
-					<description><![CDATA[<p> Pulley will use the capital to expand its permitting services and launch tools for site selection and AI-driven drawing review</p>]]></description>
+					<description><![CDATA[<p>Listings must be publicly marketed unless sellers sign an opt-out disclosure, with enforcement up to $5,000 fines</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/pulley-raises-64-million-permitting/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/new-york-private-listing-law/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612024</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612203</post-id>	</item>
+		<item>
+		<title>Non-QM lending grows as buyers change financing strategies</title>
+		<link>https://www.housingwire.com/articles/non-qm-lending-grows-as-buyers-change-financing-strategies/</link>
+					<comments>https://www.housingwire.com/articles/non-qm-lending-grows-as-buyers-change-financing-strategies/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 16:35:24 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Cotality]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[NEXA Lending]]></category>
+		<category><![CDATA[Non-QM]]></category>
+		<category><![CDATA[Real Estate Investing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612189</guid>
+
+					<description><![CDATA[<p>Cotality found 69% cut lifestyle spending, and 65% later changed financing to keep homeownership in reach</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/non-qm-lending-grows-as-buyers-change-financing-strategies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612189</post-id>	</item>
 	</channel>
 </rss>
