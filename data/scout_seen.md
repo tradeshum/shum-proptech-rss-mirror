@@ -32,6 +32,10 @@ Match by SUBJECT (brand + project, person, place, event), not by article headlin
 2026-11-23 | sent | Mandarin Oriental Riviera Maya branded residences launch
 2026-11-23 | sent | Guo Wengui Sherry-Netherland record loss sale, Peltz son
 2026-11-23 | sent | Mets Residence Athens Block722
+2026-11-26 | sent | Dubai branded residences keep launching despite hotel downturn (Emaar, Accor; Skift)
+2026-11-26 | sent | Native Land, Belgravia project finance, London (Kilmuir House, 62 South Eaton Place, Grosvenor, Barclays)
+2026-11-26 | sent | Fisher Island, Miami, $85M penthouse listing (Palazzo Della Luna)
+2026-11-26 | sent | Rosewood Beverly Hills penthouse sale, billionaire tax vote
 
 ## Marked skip by the owner
 2026-11-18 | skip | Waldorf Astoria Residences (the UAE projects in Ras Al Khaimah and Abu Dhabi are sold out, nothing to offer or link to for now; revisit only if resales or a new UAE launch appear)
