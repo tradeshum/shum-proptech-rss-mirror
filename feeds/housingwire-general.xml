@@ -12,7 +12,7 @@
 	<atom:link href="https://www.housingwire.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.housingwire.com/</link>
 	<description>HousingWire is the nation&#039;s most influential source of news and information on housing and mortgage lending.</description>
-	<lastBuildDate>Wed, 25 Nov 2026 22:52:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Nov 2026 21:46:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,223 +28,214 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">165477913</site>	<item>
-		<title>Court upholds NYC rent freeze backed by Mayor Mamdani</title>
-		<link>https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/</link>
-					<comments>https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/#respond</comments>
+		<title>Will the Anthropic IPO supercharge San Francisco’s already-hot housing market?</title>
+		<link>https://www.housingwire.com/articles/anthropic-ipo-sf-housing/</link>
+					<comments>https://www.housingwire.com/articles/anthropic-ipo-sf-housing/#respond</comments>
 		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 22:52:43 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Simonsen]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 21:46:48 +0000</pubDate>
 				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
+		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New York City]]></category>
-		<category><![CDATA[Rent Prices]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612619</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612633</guid>
 
-					<description><![CDATA[<p>Judge Lantry dismissed claims that the mayor predetermined the outcome, and cited the board’s 42-page explanatory statement</p>]]></description>
+					<description><![CDATA[<p>The median single-family price rose 29% to $2.39M in October, and 86% sold above asking.</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/court-upholds-nyc-rent-freeze/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/anthropic-ipo-sf-housing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612619</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612633</post-id>	</item>
 		<item>
-		<title>New home sales surge in October, but demand signals remain soft</title>
-		<link>https://www.housingwire.com/articles/new-home-sales-october-2026/</link>
-					<comments>https://www.housingwire.com/articles/new-home-sales-october-2026/#respond</comments>
-		
-		<dc:creator><![CDATA[Tyler Williams]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 18:43:49 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Leadership]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Homebuilders]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[New Home Sales]]></category>
-		<category><![CDATA[U.S. Census Bureau]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612576</guid>
-
-					<description><![CDATA[<p>Subject to revision, sales rose to 701,000 annual pace, while the median sales price fell 3.2% year over year to $391,000</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/new-home-sales-october-2026/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612576</post-id>	</item>
-		<item>
-		<title>Housing data shocks to the upside: Will we get sub-7% rates for Christmas?</title>
-		<link>https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/</link>
-					<comments>https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/#respond</comments>
-		
-		<dc:creator><![CDATA[Logan Mohtashami]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 18:28:04 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Mortgage Rates]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612600</guid>
-
-					<description><![CDATA[<p>We're getting surprisingly positive data right before Thanksgiving</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/10-year-yield-482-holiday-rates/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612600</post-id>	</item>
-		<item>
-		<title>Colorado first responders can now get state home mortgage help</title>
-		<link>https://www.housingwire.com/articles/colorado-chfa-mortgage-help/</link>
-					<comments>https://www.housingwire.com/articles/colorado-chfa-mortgage-help/#respond</comments>
-		
-		<dc:creator><![CDATA[Richard Lawson]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 17:06:16 +0000</pubDate>
-				<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[Policy]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
-		<category><![CDATA[Affordability]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612489</guid>
-
-					<description><![CDATA[<p>The new CHFA option follows years of state efforts to expand housing access</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/colorado-chfa-mortgage-help/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612489</post-id>	</item>
-		<item>
-		<title>Better signs agreement with mortgage servicer to grow HELOC volume</title>
-		<link>https://www.housingwire.com/articles/better-mortgage-servicer-heloc/</link>
-					<comments>https://www.housingwire.com/articles/better-mortgage-servicer-heloc/#respond</comments>
-		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 17:06:10 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Better]]></category>
-		<category><![CDATA[HELOCs]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Servicing]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612567</guid>
-
-					<description><![CDATA[<p>The company's Week 7 scorecard cites $38.97M in corporate savings — more than halfway to its $64.2M target</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/better-mortgage-servicer-heloc/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612567</post-id>	</item>
-		<item>
-		<title>Luminate Bank buys Real Genius mortgage unit</title>
-		<link>https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/</link>
-					<comments>https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/#respond</comments>
-		
-		<dc:creator><![CDATA[Flávia Furlan Nunes]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 17:05:00 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[Origination]]></category>
-		<category><![CDATA[Banking]]></category>
-		<category><![CDATA[Consumer Direct]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mergers and Acquisitions]]></category>
-		<category><![CDATA[Minneapolis]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612537</guid>
-
-					<description><![CDATA[<p>Deal expands Minneapolis bank’s reach in the consumer-direct channel
-
-</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/luminate-bank-acquires-real-genius/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612537</post-id>	</item>
-		<item>
-		<title>How real estate agents handle proof of funds and disclosures</title>
-		<link>https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/</link>
-					<comments>https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/#respond</comments>
+		<title>Who should referee a national MLS, brokers or a neutral body?</title>
+		<link>https://www.housingwire.com/articles/open-real-estate-national-mls/</link>
+					<comments>https://www.housingwire.com/articles/open-real-estate-national-mls/#respond</comments>
 		
 		<dc:creator><![CDATA[Darryl Davis]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 16:58:04 +0000</pubDate>
+		<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Brokerage]]></category>
+		<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[MLS/Associations]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[MLS]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612174</guid>
+
+					<description><![CDATA[<p>The column compares a neutral MLS operator to Visa, and warns against competitors writing the market rulebook</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/open-real-estate-national-mls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612174</post-id>	</item>
+		<item>
+		<title>The referral source real estate agents overlook is sitting in the next office</title>
+		<link>https://www.housingwire.com/articles/build-agent-referral-network/</link>
+					<comments>https://www.housingwire.com/articles/build-agent-referral-network/#respond</comments>
+		
+		<dc:creator><![CDATA[Rainy Hake Austin]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 15:00:00 +0000</pubDate>
 				<category><![CDATA[Agent]]></category>
 		<category><![CDATA[Contributors]]></category>
 		<category><![CDATA[Real Estate]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[mortgage]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612176</guid>
+		<category><![CDATA[Lead Generation]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612184</guid>
 
-					<description><![CDATA[<p>Why agents should request documents after the buyer appointment, then limit sharing with a signed authorization</p>]]></description>
+					<description><![CDATA[<p>Consistent outreach to 3 to 5 agents monthly can create two-way deal flow across markets over time</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/proof-funds-disclosure-best-practices/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/build-agent-referral-network/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612176</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612184</post-id>	</item>
 		<item>
-		<title>BOXABL financial filing shows cash burn and scaling risk</title>
-		<link>https://www.housingwire.com/articles/boxabl-cash-burn-backlog/</link>
-					<comments>https://www.housingwire.com/articles/boxabl-cash-burn-backlog/#respond</comments>
+		<title>Mortgage hires: Genworth names CEO, FHLB New York elects chair</title>
+		<link>https://www.housingwire.com/articles/genworth-ceo-fhlb-chair-hires/</link>
+					<comments>https://www.housingwire.com/articles/genworth-ceo-fhlb-chair-hires/#respond</comments>
 		
-		<dc:creator><![CDATA[John McManus]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 16:53:50 +0000</pubDate>
-				<category><![CDATA[Capital]]></category>
-		<category><![CDATA[Housing Market]]></category>
-		<category><![CDATA[The Builder's Daily]]></category>
+		<dc:creator><![CDATA[HousingWire Automation]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[People Movers]]></category>
+		<category><![CDATA[Fannie Mae]]></category>
+		<category><![CDATA[Federal Home Loan Banks]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Team Leaders]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612552</guid>
+
+					<description><![CDATA[<p>Genworth named a new CEO, while Fannie Mae appointed a director and approved executive retention awards</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/genworth-ceo-fhlb-chair-hires/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612552</post-id>	</item>
+		<item>
+		<title>Chase launches Cyber Monday rate sale for purchase, refi loans</title>
+		<link>https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/</link>
+					<comments>https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/#respond</comments>
+		
+		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
+				<category><![CDATA[Mortgage]]></category>
+		<category><![CDATA[Origination]]></category>
+		<category><![CDATA[Chase]]></category>
+		<category><![CDATA[HWmember]]></category>
+		<category><![CDATA[Purchase Market]]></category>
+		<category><![CDATA[Refinancing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612545</guid>
+
+					<description><![CDATA[<p>The limited-time offer runs Nov. 30 through Dec. 13 for purchase and refinance loans locked during the window</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/chase-rate-sale-cyber-monday/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612545</post-id>	</item>
+		<item>
+		<title>Why biodiversity belongs in the master plan</title>
+		<link>https://www.housingwire.com/articles/biodiversity-master-planned-communities/</link>
+					<comments>https://www.housingwire.com/articles/biodiversity-master-planned-communities/#respond</comments>
+		
+		<dc:creator><![CDATA[Kyle Harris]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[Contributors]]></category>
+		<category><![CDATA[Opinion]]></category>
 		<category><![CDATA[Construction]]></category>
 		<category><![CDATA[homebuilder]]></category>
 		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612498</guid>
-
-					<description><![CDATA[<p>Unrestricted cash fell to $14 million, inventory hit $17.6 million, and the 10-Q cites going concern doubt</p>]]></description>
-		
-					<wfw:commentRss>https://www.housingwire.com/articles/boxabl-cash-burn-backlog/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">612498</post-id>	</item>
-		<item>
-		<title>Epique’s ‘Power Agent’ trademark fight could put its branding at risk</title>
-		<link>https://www.housingwire.com/articles/power-agent-lawsuit-epique/</link>
-					<comments>https://www.housingwire.com/articles/power-agent-lawsuit-epique/#respond</comments>
-		
-		<dc:creator><![CDATA[Brooklee Han]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 16:52:33 +0000</pubDate>
-				<category><![CDATA[Brokerage]]></category>
-		<category><![CDATA[Legal]]></category>
 		<category><![CDATA[Real Estate]]></category>
-		<category><![CDATA[Epique Realty]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612568</guid>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=611436</guid>
 
-					<description><![CDATA[<p>SDNY will hear Darryl Davis’s preliminary injunction bid in the first week of December</p>]]></description>
+					<description><![CDATA[<p>Research links more diverse landscapes to better stormwater outcomes and stronger resilience under environmental stress 
+</p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/power-agent-lawsuit-epique/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.housingwire.com/articles/biodiversity-master-planned-communities/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612568</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">611436</post-id>	</item>
 		<item>
-		<title>Mortgage applications rise 6.1% even as 30-year hits 7.38%</title>
-		<link>https://www.housingwire.com/articles/mortgage-applications-rise-61/</link>
-					<comments>https://www.housingwire.com/articles/mortgage-applications-rise-61/#respond</comments>
+		<title>8 best Florida real estate schools for 2026</title>
+		<link>https://www.housingwire.com/articles/8-best-florida-real-estate-schools-for-2026/</link>
+					<comments>https://www.housingwire.com/articles/8-best-florida-real-estate-schools-for-2026/#comments</comments>
 		
-		<dc:creator><![CDATA[Sarah Wolak]]></dc:creator>
-		<pubDate>Wed, 25 Nov 2026 15:03:53 +0000</pubDate>
-				<category><![CDATA[Mortgage]]></category>
-		<category><![CDATA[HWmember]]></category>
-		<category><![CDATA[Mortgage Applications]]></category>
-		<category><![CDATA[Mortgage Bankers Association]]></category>
-		<category><![CDATA[Xactus]]></category>
-		<guid isPermaLink="false">https://www.housingwire.com/?p=612520</guid>
+		<dc:creator><![CDATA[Sara Stover, Gina Baker]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Real Estate Education]]></category>
+		<category><![CDATA[Vetted by HousingWire]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612384</guid>
 
-					<description><![CDATA[<p>Purchase index rose 10% week over week, ARM share climbed to 11.5%, the highest in over a year</p>]]></description>
+					<description><![CDATA[<p>We rigorously reviewed the best online real estate schools in Florida to help you launch a new career with ease and confidence. </p>]]></description>
 		
-					<wfw:commentRss>https://www.housingwire.com/articles/mortgage-applications-rise-61/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>https://www.housingwire.com/articles/8-best-florida-real-estate-schools-for-2026/feed/</wfw:commentRss>
+			<slash:comments>410586</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">612520</post-id>	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">612384</post-id>	</item>
+		<item>
+		<title>The 4 best online real estate schools for 2026</title>
+		<link>https://www.housingwire.com/articles/the-4-best-online-real-estate-schools-for-2026/</link>
+					<comments>https://www.housingwire.com/articles/the-4-best-online-real-estate-schools-for-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[Sara Stover, Gina Baker]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Agent]]></category>
+		<category><![CDATA[Real Estate]]></category>
+		<category><![CDATA[Real Estate Education]]></category>
+		<category><![CDATA[Vetted by HousingWire]]></category>
+		<category><![CDATA[Buyer Guide]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612421</guid>
+
+					<description><![CDATA[<p>Find the best online real estate school to lay the groundwork for a new career in real estate, complete your continuing education hours or advance your career</p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/the-4-best-online-real-estate-schools-for-2026/feed/</wfw:commentRss>
+			<slash:comments>445187</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612421</post-id>	</item>
+		<item>
+		<title>7 best online real estate schools in California for 2026</title>
+		<link>https://www.housingwire.com/articles/7-best-online-real-estate-schools-in-california-for-2026/</link>
+					<comments>https://www.housingwire.com/articles/7-best-online-real-estate-schools-in-california-for-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[Natalia Oliver, Gina Baker]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Real Estate Education]]></category>
+		<category><![CDATA[Vetted by HousingWire]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612423</guid>
+
+					<description><![CDATA[<p>Looking to launch a real estate career in 2025? We've pinpointed the best online real estate schools in California for every budget and schedule — with podcast-style, mobile phone app and audio courses for every type of learner. </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/7-best-online-real-estate-schools-in-california-for-2026/feed/</wfw:commentRss>
+			<slash:comments>407134</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612423</post-id>	</item>
+		<item>
+		<title>6 best online real estate courses in New York for 2026</title>
+		<link>https://www.housingwire.com/articles/6-best-online-real-estate-courses-in-new-york-for-2026/</link>
+					<comments>https://www.housingwire.com/articles/6-best-online-real-estate-courses-in-new-york-for-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[Sara Stover, Gina Baker]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Real Estate Education]]></category>
+		<category><![CDATA[Vetted by HousingWire]]></category>
+		<category><![CDATA[Real Estate Licensing]]></category>
+		<guid isPermaLink="false">https://www.housingwire.com/?p=612430</guid>
+
+					<description><![CDATA[<p>Looking to become a real estate agent in New York State? We've researched the best online real estate courses in New York to help you ace the state exam and set you up for success. </p>]]></description>
+		
+					<wfw:commentRss>https://www.housingwire.com/articles/6-best-online-real-estate-courses-in-new-york-for-2026/feed/</wfw:commentRss>
+			<slash:comments>409284</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612430</post-id>	</item>
 	</channel>
 </rss>
